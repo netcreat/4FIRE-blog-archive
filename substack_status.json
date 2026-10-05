@@ -13,8 +13,8 @@
   },
   "summary": {
     "total": 725,
-    "published": 47,
-    "missing": 678,
+    "published": 48,
+    "missing": 677,
     "skip": 0,
     "check": 0
   },
@@ -23,8 +23,8 @@
     "start": "2026-07-06",
     "end": "2026-10-04",
     "total": 138,
-    "published": 37,
-    "missing": 101,
+    "published": 38,
+    "missing": 100,
     "skip": 0,
     "check": 0
   },
@@ -214,10 +214,18 @@
         "url": "https://blog.naver.com/4-fire/224427575765?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-09-30-224427575765.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "NATO Releases Its Quantum Roadmap",
+          "url": "https://netcreat.substack.com/p/nato-releases-its-quantum-roadmap",
+          "published_date": "2026-10-05",
+          "part": null,
+          "public_state": "public"
+        }
+      ],
       "reason": null
     },
     {
