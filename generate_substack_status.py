@@ -498,7 +498,7 @@ def extract_naver_log_no(text: str) -> str | None:
     patterns = [
         r"blog\.naver\.com/(?:4-fire/)?(\d{9,})",
         r"[?&]logNo=(\d{9,})",
-        r"\blogNo[=: ]+[\\"']?(\d{9,})",
+        r"""\\blogNo[=: ]+["\']?(\\d{9,})""",
     ]
 
     for pattern in patterns:
