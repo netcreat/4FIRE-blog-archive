@@ -10,8 +10,8 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 725 | 47 | 678 | 0 | 0 |
-| Recent 90 days (2026-07-06 → 2026-10-04) | 138 | 37 | 101 | 0 | 0 |
+| All | 725 | 48 | 677 | 0 | 0 |
+| Recent 90 days (2026-07-06 → 2026-10-04) | 138 | 38 | 100 | 0 | 0 |
 
 ## Recent 90 days
 
@@ -25,7 +25,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-10-02 | [HBM 디스펙 이후, NVIDIA가 바꾸려는 것은 무엇인가?](posts/2026/2026-10-01-224428808831.md) | ✅ Published | [What Is NVIDIA Really Trying to Change After HBM De-Specification?](https://netcreat.substack.com/p/what-is-nvidia-really-trying-to-change) | `224428808831` |
 | 2026-10-01 | [논리 큐비트 800개를 향한 코드 설계: Walking Cat과 신규 qLDPC 연구를 함께 읽기](posts/2026/2026-10-01-224428509000.md) | ✅ Published | [Designing Codes for 800 Logical Qubits: Reading Walking Cat Alongside New qLDPC Research](https://netcreat.substack.com/p/designing-codes-for-800-logical-qubits) | `224428509000` |
 | 2026-10-01 | [Understanding Quantum Technologies 2026 Part 2](posts/2026/2026-10-01-224428141474.md) | ✅ Published | [Understanding Quantum Technologies 2026 — Part 2](https://netcreat.substack.com/p/understanding-quantum-technologies-248) | `224428141474` |
-| 2026-09-30 | [NATO 양자 로드맵 공개, 그런데 양자컴퓨팅 RFP는 이미 끝났다](posts/2026/2026-09-30-224427575765.md) | ❌ Missing | — | `224427575765` |
+| 2026-09-30 | [NATO 양자 로드맵 공개, 그런데 양자컴퓨팅 RFP는 이미 끝났다](posts/2026/2026-09-30-224427575765.md) | ✅ Published | [NATO Releases Its Quantum Roadmap](https://netcreat.substack.com/p/nato-releases-its-quantum-roadmap) | `224427575765` |
 | 2026-09-30 | [Understanding Quantum Technologies 2026 Part 1](posts/2026/2026-09-30-224427057259.md) | ✅ Published | [Understanding Quantum Technologies 2026 — Part 1](https://netcreat.substack.com/p/understanding-quantum-technologies) | `224427057259` |
 | 2026-09-30 | [LITE·COHR·GLW·LPTH·MRVL·AVGO·AAOI](posts/2026/2026-09-30-224426825573.md) | ✅ Published | [LITE, COHR, GLW, LPTH, MRVL, AVGO, and AAOI](https://netcreat.substack.com/p/lite-cohr-glw-lpth-mrvl-avgo-and) | `224426825573` |
 | 2026-09-29 | [중국의 양자 추격, 이제 QPU가 아니라 생태계를 봐야 한다](posts/2026/2026-09-29-224426013000.md) | ✅ Published | [China’s Quantum Catch-Up: It’s Time to Look Beyond the QPU and Focus on the Ecosystem](https://netcreat.substack.com/p/chinas-quantum-catch-up-its-time) | `224426013000` |
