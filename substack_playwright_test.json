@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-10-05T10:50:23.618410+00:00",
+  "runner": "github-actions / ubuntu-latest / playwright chromium",
+  "results": [
+    {
+      "requested_url": "https://netcreat.substack.com/",
+      "status": 403,
+      "final_url": "https://netcreat.substack.com/?__cf_chl_rt_tk=JIBTnbFbz8UorVDMpq3dIYMwokhU.ervl1jt3pIeOJ8-1791197411-1.0.1.1-QjOKw2uc2P.uOu6_076WcZl7XSi4xjS0Z7G_GITV680",
+      "title": "Just a moment...",
+      "post_links": [],
+      "body_preview": "netcreat.substack.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a45bdd2b2c662cbd\nPerformance and Security by Cloudflare\nPrivacy",
+      "error": null
+    },
+    {
+      "requested_url": "https://netcreat.substack.com/archive?sort=new",
+      "status": 403,
+      "final_url": "https://netcreat.substack.com/archive?sort=new&__cf_chl_rt_tk=p76XvyyJVYNah1lXAhl2WjbxIbZ3FW.a2TiAos5gDS0-1791197414-1.0.1.1-qu2Yamjxez1TWqzz7LRbnxQ9vZxwGstQB_b0huyq8qE",
+      "title": "Just a moment...",
+      "post_links": [],
+      "body_preview": "netcreat.substack.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a45bdd3edddd2be4\nPerformance and Security by Cloudflare\nPrivacy",
+      "error": null
+    },
+    {
+      "requested_url": "https://netcreat.substack.com/feed",
+      "status": 403,
+      "final_url": "https://netcreat.substack.com/feed?__cf_chl_rt_tk=9jpUFBZxA6pvijshRogVZ38InwDD77SOhI8KevYSs3g-1791197417-1.0.1.1-F.hHMd1yWpM0jUUv4hT55dE6aE9iY0S3Ul4RVhZhkdI",
+      "title": "Just a moment...",
+      "post_links": [],
+      "body_preview": "netcreat.substack.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a45bdd5278c72be4\nPerformance and Security by Cloudflare\nPrivacy",
+      "error": null
+    },
+    {
+      "requested_url": "https://netcreat.substack.com/sitemap.xml",
+      "status": 403,
+      "final_url": "https://netcreat.substack.com/sitemap.xml?__cf_chl_rt_tk=O_.mzPCIqjJe0Ay5AKnaXhskjhWLFok_Xb3cPDEwitc-1791197420-1.0.1.1-TkRSB_Es7LVADSYHefSotB4DIcxMVwETNCCM6PtavGg",
+      "title": "Just a moment...",
+      "post_links": [],
+      "body_preview": "netcreat.substack.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a45bdd6609f92be4\nPerformance and Security by Cloudflare\nPrivacy",
+      "error": null
+    }
+  ]
+}
