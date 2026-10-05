@@ -266,12 +266,22 @@ for entry in feed.entries:
         unique_id = hashlib.sha256(
             link.encode("utf-8")
         ).hexdigest()[:12]
-
+    year = (
+        date_string[:4]
+        if date_string != "unknown-date"
+        else "unknown"
+    )
+    
+    year_dir = posts_dir / year
+    year_dir.mkdir(
+        parents=True,
+        exist_ok=True
+    )
         filename = (
             f"{date_string}-{unique_id}.md"
         )
 
-    filepath = posts_dir / filename
+    filepath = year_dir / filename
 
     # --------------------------------------------------
     # 이전 버전의 hash 파일이 있으면 제거
@@ -315,7 +325,17 @@ for entry in feed.entries:
 
         except Exception:
             pass
-
+        def find_existing_post(log_no):
+            matches = list(
+                posts_dir.rglob(
+                    f"*-{log_no}.md"
+                )
+            )
+        
+            if matches:
+                return matches[0]
+        
+            return None
     content_source = "naver_post"
 
     # --------------------------------------------------
@@ -456,7 +476,7 @@ Original Naver post: {link}
         "title": title,
         "logNo": log_no,
         "source": link,
-        "archive": f"posts/{filename}",
+        "archive": f"posts/{year}/{filename}",
         "content_source": content_source,
         "characters": len(text_content)
     }
