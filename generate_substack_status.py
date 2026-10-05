@@ -144,24 +144,20 @@ def get_html(url: str) -> str:
 
 def discover_substack_posts(base_url: str) -> tuple[dict, dict]:
     """
-    Returns:
-      public_posts:
-        canonical_url -> {
-            "title": "...",
-            "url": "...",
-            "sitemap_year": "2026"
-        }
+    Discover PUBLIC Substack posts.
 
-      fetch_info:
-        metadata about whether the sitemap fetch succeeded.
+    Preferred source:
+      /sitemap and /sitemap/YYYY
 
-    Substack exposes:
-      /sitemap
-      /sitemap/YYYY
+    Fallbacks:
+      direct current/previous-year sitemap pages
+      /feed for recent posts
 
-    This allows us to detect all PUBLIC posts without logging in.
+    A partial discovery is still useful for finding newly published posts.
     Drafts and scheduled/unpublished posts are intentionally invisible.
     """
+
+    import xml.etree.ElementTree as ET
 
     base_url = canonical_url(base_url)
 
@@ -169,16 +165,32 @@ def discover_substack_posts(base_url: str) -> tuple[dict, dict]:
         "ok": False,
         "root_url": f"{base_url}/sitemap",
         "year_pages": [],
+        "sources_used": [],
+        "errors": [],
         "error": None,
     }
 
+    public_posts = {}
+    year_pages = []
+
+    # ------------------------------------------------------
+    # 1. Try root sitemap
+    # ------------------------------------------------------
+
     try:
-        root_html = get_html(f"{base_url}/sitemap")
-        root_soup = BeautifulSoup(root_html, "html.parser")
+        root_html = get_html(
+            f"{base_url}/sitemap"
+        )
 
-        year_pages = []
+        root_soup = BeautifulSoup(
+            root_html,
+            "html.parser",
+        )
 
-        for anchor in root_soup.find_all("a", href=True):
+        for anchor in root_soup.find_all(
+            "a",
+            href=True,
+        ):
             href = canonical_url(
                 urljoin(
                     f"{base_url}/sitemap",
@@ -187,35 +199,88 @@ def discover_substack_posts(base_url: str) -> tuple[dict, dict]:
             )
 
             if re.fullmatch(
-                re.escape(base_url) + r"/sitemap/\d{4}",
+                re.escape(base_url)
+                + r"/sitemap/\d{4}",
                 href,
             ):
                 year_pages.append(href)
 
-        year_pages = sorted(set(year_pages), reverse=True)
+        fetch_info["sources_used"].append(
+            f"{base_url}/sitemap"
+        )
 
-        # Fallback in case Substack changes the root sitemap HTML.
-        if not year_pages:
-            current_year = datetime.now(timezone.utc).year
-            year_pages = [
-                f"{base_url}/sitemap/{current_year}"
-            ]
+    except Exception as exc:
+        fetch_info["errors"].append(
+            f"root sitemap: {exc}"
+        )
 
-        public_posts = {}
+    # ------------------------------------------------------
+    # 2. Direct year-page fallback
+    #
+    # Even if /sitemap is blocked from a GitHub runner,
+    # /sitemap/YYYY may still work.
+    # ------------------------------------------------------
 
-        for year_url in year_pages:
+    current_year = datetime.now(
+        timezone.utc
+    ).year
+
+    for year in range(
+        current_year,
+        current_year - 3,
+        -1,
+    ):
+        candidate = (
+            f"{base_url}/sitemap/{year}"
+        )
+
+        if candidate not in year_pages:
+            year_pages.append(candidate)
+
+    year_pages = list(
+        dict.fromkeys(
+            year_pages
+        )
+    )
+
+    successful_year_pages = []
+
+    for year_url in year_pages:
+        try:
             html = get_html(year_url)
-            soup = BeautifulSoup(html, "html.parser")
 
-            year_match = re.search(r"/sitemap/(\d{4})$", year_url)
-            sitemap_year = year_match.group(1) if year_match else None
+            soup = BeautifulSoup(
+                html,
+                "html.parser",
+            )
 
-            for anchor in soup.find_all("a", href=True):
+            year_match = re.search(
+                r"/sitemap/(\d{4})$",
+                year_url,
+            )
+
+            sitemap_year = (
+                year_match.group(1)
+                if year_match
+                else None
+            )
+
+            found_on_page = 0
+
+            for anchor in soup.find_all(
+                "a",
+                href=True,
+            ):
                 href = canonical_url(
-                    urljoin(year_url, anchor["href"])
+                    urljoin(
+                        year_url,
+                        anchor["href"],
+                    )
                 )
 
-                if not href.startswith(f"{base_url}/p/"):
+                if not href.startswith(
+                    f"{base_url}/p/"
+                ):
                     continue
 
                 title = anchor.get_text(
@@ -224,19 +289,125 @@ def discover_substack_posts(base_url: str) -> tuple[dict, dict]:
                 )
 
                 public_posts[href] = {
-                    "title": title or None,
-                    "url": href,
-                    "sitemap_year": sitemap_year,
+                    "title":
+                        title or None,
+
+                    "url":
+                        href,
+
+                    "sitemap_year":
+                        sitemap_year,
                 }
 
-        fetch_info["ok"] = True
-        fetch_info["year_pages"] = year_pages
+                found_on_page += 1
 
-        return public_posts, fetch_info
+            if found_on_page:
+                successful_year_pages.append(
+                    year_url
+                )
+
+                fetch_info[
+                    "sources_used"
+                ].append(
+                    year_url
+                )
+
+        except Exception as exc:
+            fetch_info["errors"].append(
+                f"{year_url}: {exc}"
+            )
+
+    fetch_info["year_pages"] = (
+        successful_year_pages
+    )
+
+    # ------------------------------------------------------
+    # 3. RSS fallback for recent posts
+    #
+    # This is especially useful for future automatic matching:
+    # even if sitemap pages are temporarily blocked, a freshly
+    # published article can still be discovered from /feed.
+    # ------------------------------------------------------
+
+    try:
+        feed_url = f"{base_url}/feed"
+        feed_text = get_html(feed_url)
+
+        root = ET.fromstring(
+            feed_text
+        )
+
+        channel = root.find(
+            "channel"
+        )
+
+        if channel is not None:
+            for item in channel.findall(
+                "item"
+            ):
+                link = (
+                    item.findtext("link")
+                    or ""
+                ).strip()
+
+                title = (
+                    item.findtext("title")
+                    or ""
+                ).strip()
+
+                href = canonical_url(
+                    link
+                )
+
+                if not href.startswith(
+                    f"{base_url}/p/"
+                ):
+                    continue
+
+                existing = (
+                    public_posts.get(
+                        href,
+                        {}
+                    )
+                )
+
+                public_posts[href] = {
+                    "title":
+                        title
+                        or existing.get(
+                            "title"
+                        ),
+
+                    "url":
+                        href,
+
+                    "sitemap_year":
+                        existing.get(
+                            "sitemap_year"
+                        ),
+                }
+
+            fetch_info[
+                "sources_used"
+            ].append(
+                feed_url
+            )
 
     except Exception as exc:
-        fetch_info["error"] = str(exc)
-        return {}, fetch_info
+        fetch_info["errors"].append(
+            f"feed: {exc}"
+        )
+
+    fetch_info["ok"] = bool(
+        public_posts
+    )
+
+    if not fetch_info["ok"]:
+        fetch_info["error"] = "; ".join(
+            fetch_info["errors"]
+        )
+
+    return public_posts, fetch_info
 
 
 # ==========================================================
