@@ -41,6 +41,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
 
+      - name: Validate Python syntax
+        run: |
+          python -m py_compile generate_substack_status.py
+
       - name: Generate Substack status
         run: |
           python generate_substack_status.py
