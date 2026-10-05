@@ -14,8 +14,10 @@
       "Public Substack posts only; drafts and scheduled/unpublished posts are not visible in the public archive.",
       "IonQ’s Million-Qubit Scaling Strategy Parts 1 and 2 both map to the same long-form Naver post (logNo 224418682921).",
       "Some Substack publication dates differ from the original Naver publication dates because posts were translated/republished later.",
-      "Two Substack posts are clear republications of substantially older Naver originals: 'IonQ Acquires Time, and Sells Time' and 'What Is the Killer App in Quantum Networking?'."
-    ]
+      "Two Substack posts are clear republications of substantially older Naver originals: 'IonQ Acquires Time, and Sells Time' and 'What Is the Killer App in Quantum Networking?'.",
+      "Pending Substack entries are kept in pending_posts until a public Substack URL is available."
+    ],
+    "pending_substack_posts": 1
   },
   "posts": [
     {
@@ -882,6 +884,27 @@
       },
       "relationship": "one_to_one",
       "date_difference_days_substack_minus_naver": 1,
+      "match_confidence": "high"
+    }
+  ],
+  "pending_posts": [
+    {
+      "substack": {
+        "prepared_date": "2026-10-05",
+        "title": "NATO Releases Its Quantum Roadmap — But the Quantum Computing RFP Has Already Closed",
+        "url": null,
+        "slug": null,
+        "status": "prepared_pending_publication"
+      },
+      "naver": {
+        "published_date": "2026-09-30",
+        "title": "NATO 양자 로드맵 공개, 그런데 양자컴퓨팅 RFP는 이미 끝났다",
+        "logNo": "224427575765",
+        "url": "https://blog.naver.com/4-fire/224427575765",
+        "github_archive": "posts/2026/2026-09-30-224427575765.md"
+      },
+      "relationship": "one_to_one_pending_substack_publication",
+      "date_difference_days_substack_minus_naver": 5,
       "match_confidence": "high"
     }
   ]
