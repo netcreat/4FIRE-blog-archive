@@ -159,7 +159,10 @@ def discover_substack_posts(base_url: str) -> tuple[dict, dict]:
 
     import xml.etree.ElementTree as ET
 
-    base_url = canonical_url(base_url)
+    # canonical_url() preserves "/" for a site root.
+    # Strip it here so endpoint construction never produces
+    # "https://host//sitemap" or "https://host//feed".
+    base_url = canonical_url(base_url).rstrip("/")
 
     fetch_info = {
         "ok": False,
