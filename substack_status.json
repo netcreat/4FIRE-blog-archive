@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T07:55:30+00:00",
+  "generated_at": "2026-10-05T09:34:14+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -8,7 +8,15 @@
       "ok": false,
       "root_url": "https://netcreat.substack.com//sitemap",
       "year_pages": [],
-      "error": "Could not fetch https://netcreat.substack.com//sitemap: 403 Client Error: Forbidden for url: https://netcreat.substack.com//sitemap"
+      "sources_used": [],
+      "errors": [
+        "root sitemap: Could not fetch https://netcreat.substack.com//sitemap: 403 Client Error: Forbidden for url: https://netcreat.substack.com//sitemap",
+        "https://netcreat.substack.com//sitemap/2026: Could not fetch https://netcreat.substack.com//sitemap/2026: 403 Client Error: Forbidden for url: https://netcreat.substack.com//sitemap/2026",
+        "https://netcreat.substack.com//sitemap/2025: Could not fetch https://netcreat.substack.com//sitemap/2025: 403 Client Error: Forbidden for url: https://netcreat.substack.com//sitemap/2025",
+        "https://netcreat.substack.com//sitemap/2024: Could not fetch https://netcreat.substack.com//sitemap/2024: 403 Client Error: Forbidden for url: https://netcreat.substack.com//sitemap/2024",
+        "feed: Could not fetch https://netcreat.substack.com//feed: 403 Client Error: Forbidden for url: https://netcreat.substack.com//feed"
+      ],
+      "error": "root sitemap: Could not fetch https://netcreat.substack.com//sitemap: 403 Client Error: Forbidden for url: https://netcreat.substack.com//sitemap; https://netcreat.substack.com//sitemap/2026: Could not fetch https://netcreat.substack.com//sitemap/2026: 403 Client Error: Forbidden for url: https://netcreat.substack.com//sitemap/2026; https://netcreat.substack.com//sitemap/2025: Could not fetch https://netcreat.substack.com//sitemap/2025: 403 Client Error: Forbidden for url: https://netcreat.substack.com//sitemap/2025; https://netcreat.substack.com//sitemap/2024: Could not fetch https://netcreat.substack.com//sitemap/2024: 403 Client Error: Forbidden for url: https://netcreat.substack.com//sitemap/2024; feed: Could not fetch https://netcreat.substack.com//feed: 403 Client Error: Forbidden for url: https://netcreat.substack.com//feed"
     }
   },
   "summary": {
@@ -28,6 +36,7 @@
     "skip": 0,
     "check": 0
   },
+  "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
     {
@@ -223,7 +232,7 @@
           "url": "https://netcreat.substack.com/p/nato-releases-its-quantum-roadmap",
           "published_date": "2026-10-05",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
