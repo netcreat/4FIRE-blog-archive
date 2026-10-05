@@ -204,7 +204,86 @@ def discover_substack_posts(base_url: str) -> tuple[dict, dict]:
     year_pages = []
 
     # ------------------------------------------------------
-    # 0. Prefer Substack's public JSON posts endpoint.
+    # 0. Try the machine-readable XML sitemap first.
+    #
+    # This is the canonical source when a Substack publication
+    # exposes one. Some publications do not expose sitemap.xml,
+    # so failure here is non-fatal and we fall back below.
+    # ------------------------------------------------------
+
+    try:
+        xml_url = f"{base_url}/sitemap.xml"
+        xml_text = get_html(xml_url)
+
+        root = ET.fromstring(xml_text)
+
+        # Handle either:
+        #   <urlset><url><loc>...</loc></url>...</urlset>
+        # or:
+        #   <sitemapindex><sitemap><loc>...</loc></sitemap>...</sitemapindex>
+        root_name = root.tag.rsplit("}", 1)[-1].lower()
+
+        xml_pages = []
+
+        if root_name == "sitemapindex":
+            for node in root.iter():
+                if node.tag.rsplit("}", 1)[-1].lower() == "loc" and node.text:
+                    child = canonical_url(node.text.strip())
+                    if child:
+                        xml_pages.append(child)
+
+        elif root_name == "urlset":
+            xml_pages = [xml_url]
+
+        def parse_urlset(xml_body: str):
+            parsed = ET.fromstring(xml_body)
+
+            for url_node in parsed.iter():
+                if url_node.tag.rsplit("}", 1)[-1].lower() != "url":
+                    continue
+
+                loc = None
+                lastmod = None
+
+                for child in list(url_node):
+                    name = child.tag.rsplit("}", 1)[-1].lower()
+
+                    if name == "loc" and child.text:
+                        loc = canonical_url(child.text.strip())
+
+                    elif name == "lastmod" and child.text:
+                        lastmod = child.text.strip()
+
+                if not loc or not loc.startswith(f"{base_url}/p/"):
+                    continue
+
+                public_posts[loc] = {
+                    "title": public_posts.get(loc, {}).get("title"),
+                    "url": loc,
+                    "sitemap_year": (
+                        str(lastmod)[:4]
+                        if lastmod
+                        else None
+                    ),
+                    "published_date": (
+                        str(lastmod)[:10]
+                        if lastmod
+                        else None
+                    ),
+                }
+
+        for page_url in xml_pages:
+            body = xml_text if page_url == xml_url else get_html(page_url)
+            parse_urlset(body)
+            fetch_info["sources_used"].append(page_url)
+
+    except Exception as exc:
+        fetch_info["errors"].append(
+            f"sitemap.xml: {exc}"
+        )
+
+    # ------------------------------------------------------
+    # 1. Prefer Substack's public JSON posts endpoint.
     #
     # The HTML sitemap/feed can return 403 to GitHub-hosted
     # runners even when they are publicly readable in a
@@ -311,7 +390,7 @@ def discover_substack_posts(base_url: str) -> tuple[dict, dict]:
         )
 
     # ------------------------------------------------------
-    # 1. Try root sitemap
+    # 2. Try root sitemap
     # ------------------------------------------------------
 
     try:
@@ -352,7 +431,7 @@ def discover_substack_posts(base_url: str) -> tuple[dict, dict]:
         )
 
     # ------------------------------------------------------
-    # 2. Direct year-page fallback
+    # 3. Direct year-page fallback
     #
     # Even if /sitemap is blocked from a GitHub runner,
     # /sitemap/YYYY may still work.
@@ -459,7 +538,7 @@ def discover_substack_posts(base_url: str) -> tuple[dict, dict]:
     )
 
     # ------------------------------------------------------
-    # 3. RSS fallback for recent posts
+    # 4. RSS fallback for recent posts
     #
     # This is especially useful for future automatic matching:
     # even if sitemap pages are temporarily blocked, a freshly
