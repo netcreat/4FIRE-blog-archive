@@ -240,6 +240,508 @@ def discover_substack_posts(base_url: str) -> tuple[dict, dict]:
 
 
 # ==========================================================
+# AUTO-MATCH NEW PUBLIC SUBSTACK POSTS
+# ==========================================================
+
+IGNORED_FINGERPRINT_HOSTS = (
+    "naver.com",
+    "pstatic.net",
+    "substack.com",
+    "substackcdn.com",
+    "github.com",
+    "githubusercontent.com",
+)
+
+IGNORED_URL_SUFFIXES = (
+    ".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg",
+    ".ico", ".mp4", ".mov", ".webm",
+)
+
+
+def fingerprint_urls(text: str) -> set[str]:
+    """
+    Extract stable external source URLs from Markdown/HTML-like text.
+
+    These source links survive Korean -> English translation much more
+    reliably than titles do, so they are useful as a language-independent
+    fingerprint.
+    """
+    found = set()
+
+    for raw in re.findall(r"https?://[^\s<>\"'\]\)]+", text or ""):
+        raw = raw.rstrip(".,;:!?")
+        url = canonical_url(raw)
+
+        if not url:
+            continue
+
+        parts = urlsplit(url)
+        host = parts.netloc.lower()
+
+        if any(
+            host == ignored
+            or host.endswith("." + ignored)
+            for ignored in IGNORED_FINGERPRINT_HOSTS
+        ):
+            continue
+
+        if parts.path.lower().endswith(IGNORED_URL_SUFFIXES):
+            continue
+
+        found.add(url)
+
+    return found
+
+
+def fingerprint_ids(text: str) -> set[str]:
+    """
+    Extract distinctive uppercase identifiers such as:
+      FAASQ, QZBP, RFP-ACT-SACT-26-81, NVAQC, QED-C
+
+    Very generic tokens are ignored.
+    """
+    ignored = {
+        "THE", "AND", "FOR", "WITH", "FROM",
+        "HTTP", "HTTPS", "WWW",
+        "USD", "EUR",
+    }
+
+    result = set()
+
+    for token in re.findall(
+        r"\b[A-Z][A-Z0-9-]{2,}\b",
+        text or "",
+    ):
+        if token in ignored:
+            continue
+
+        if re.fullmatch(r"20\d{2}", token):
+            continue
+
+        result.add(token)
+
+    return result
+
+
+def extract_naver_log_no(text: str) -> str | None:
+    patterns = [
+        r"blog\.naver\.com/(?:4-fire/)?(\d{9,})",
+        r"[?&]logNo=(\d{9,})",
+        r"\blogNo[=: ]+[\\"']?(\d{9,})",
+    ]
+
+    for pattern in patterns:
+        match = re.search(
+            pattern,
+            text or "",
+            flags=re.IGNORECASE,
+        )
+
+        if match:
+            return match.group(1)
+
+    return None
+
+
+def read_naver_fingerprint(post: dict) -> dict:
+    archive = post.get("archive")
+    text = ""
+
+    if archive:
+        path = Path(archive)
+
+        if path.exists():
+            try:
+                text = path.read_text(
+                    encoding="utf-8"
+                )
+            except Exception:
+                text = ""
+
+    # Include metadata/title even if the Markdown file is missing.
+    text = (
+        str(post.get("title") or "")
+        + "\n"
+        + str(post.get("source") or "")
+        + "\n"
+        + text
+    )
+
+    return {
+        "urls": fingerprint_urls(text),
+        "ids": fingerprint_ids(text),
+    }
+
+
+def fetch_substack_fingerprint(url: str) -> dict:
+    html = get_html(url)
+    soup = BeautifulSoup(
+        html,
+        "html.parser",
+    )
+
+    links = []
+
+    for anchor in soup.find_all(
+        "a",
+        href=True,
+    ):
+        links.append(
+            urljoin(
+                url,
+                anchor.get("href"),
+            )
+        )
+
+    visible_text = soup.get_text(
+        " ",
+        strip=True,
+    )
+
+    combined = (
+        html
+        + "\n"
+        + visible_text
+        + "\n"
+        + "\n".join(links)
+    )
+
+    published_date = None
+
+    selectors = [
+        ('meta', {'property': 'article:published_time'}),
+        ('meta', {'name': 'article:published_time'}),
+        ('meta', {'property': 'og:published_time'}),
+    ]
+
+    for tag_name, attrs in selectors:
+        tag = soup.find(
+            tag_name,
+            attrs=attrs,
+        )
+
+        if tag and tag.get("content"):
+            published_date = str(
+                tag.get("content")
+            )[:10]
+            break
+
+    if not published_date:
+        time_tag = soup.find(
+            "time",
+            attrs={"datetime": True},
+        )
+
+        if time_tag:
+            published_date = str(
+                time_tag.get("datetime")
+            )[:10]
+
+    return {
+        "urls": fingerprint_urls(
+            combined
+        ),
+        "ids": fingerprint_ids(
+            combined
+        ),
+        "naver_log_no":
+            extract_naver_log_no(
+                combined
+            ),
+        "published_date":
+            published_date,
+    }
+
+
+def auto_match_unmapped_substack(
+    naver_index: dict,
+    manifest: dict,
+    public_posts: dict,
+) -> list[dict]:
+    """
+    Automatically map newly discovered PUBLIC Substack posts.
+
+    High-confidence rules:
+      1. Direct Naver logNo appears in the Substack article -> exact match.
+      2. At least 2 identical external source URLs.
+      3. 1 identical external source URL + at least 2 identical
+         distinctive identifiers.
+
+    If confidence is not high enough, the post is left unmatched for
+    human/ChatGPT review. We deliberately prefer a missed automatic match
+    over a wrong automatic match.
+    """
+
+    mappings = get_manifest_mapping(
+        manifest
+    )
+
+    referenced_urls = set()
+
+    for mapping in mappings.values():
+        for entry in mapping.get(
+            "substack",
+            [],
+        ):
+            url = canonical_url(
+                entry.get("url")
+            )
+
+            if url:
+                referenced_urls.add(url)
+
+    unmatched_public = [
+        (url, item)
+        for url, item in public_posts.items()
+        if url not in referenced_urls
+    ]
+
+    if not unmatched_public:
+        return []
+
+    naver_posts = {
+        str(post.get("logNo")): post
+        for post in naver_index.get(
+            "posts",
+            [],
+        )
+        if post.get("logNo")
+    }
+
+    candidate_posts = {
+        log_no: post
+        for log_no, post in naver_posts.items()
+        if log_no not in mappings
+    }
+
+    fingerprints = {
+        log_no:
+            read_naver_fingerprint(
+                post
+            )
+        for log_no, post
+        in candidate_posts.items()
+    }
+
+    changes = []
+
+    for substack_url, public_item in unmatched_public:
+
+        print(
+            f"Trying auto-match: "
+            f"{public_item.get('title') or substack_url}"
+        )
+
+        try:
+            sub_fp = (
+                fetch_substack_fingerprint(
+                    substack_url
+                )
+            )
+        except Exception as exc:
+            print(
+                f"  Could not inspect "
+                f"Substack article: {exc}"
+            )
+            continue
+
+        direct_log_no = (
+            sub_fp.get(
+                "naver_log_no"
+            )
+        )
+
+        if (
+            direct_log_no
+            and direct_log_no
+            in candidate_posts
+        ):
+            chosen = direct_log_no
+            reason = "direct_naver_logNo"
+            score = 10000
+            shared_urls = set()
+            shared_ids = set()
+
+        else:
+            scored = []
+
+            for log_no, fp in fingerprints.items():
+
+                shared_urls = (
+                    sub_fp["urls"]
+                    & fp["urls"]
+                )
+
+                shared_ids = (
+                    sub_fp["ids"]
+                    & fp["ids"]
+                )
+
+                score = (
+                    len(shared_urls) * 100
+                    + len(shared_ids) * 10
+                )
+
+                high_confidence = (
+                    len(shared_urls) >= 2
+                    or (
+                        len(shared_urls) >= 1
+                        and len(shared_ids) >= 2
+                    )
+                )
+
+                if high_confidence:
+                    scored.append(
+                        (
+                            score,
+                            log_no,
+                            shared_urls,
+                            shared_ids,
+                        )
+                    )
+
+            scored.sort(
+                reverse=True,
+                key=lambda item: item[0],
+            )
+
+            if not scored:
+                print(
+                    "  No high-confidence "
+                    "Naver match."
+                )
+                continue
+
+            best = scored[0]
+
+            # Do not auto-match a tie.
+            if (
+                len(scored) > 1
+                and scored[1][0]
+                == best[0]
+            ):
+                print(
+                    "  Ambiguous top score; "
+                    "leaving unmatched."
+                )
+                continue
+
+            (
+                score,
+                chosen,
+                shared_urls,
+                shared_ids,
+            ) = best
+
+            reason = (
+                "shared_sources_and_identifiers"
+            )
+
+        post = candidate_posts[
+            chosen
+        ]
+
+        substack_entry = {
+            "title":
+                public_item.get(
+                    "title"
+                ),
+
+            "url":
+                substack_url,
+
+            "published_date":
+                sub_fp.get(
+                    "published_date"
+                ),
+        }
+
+        mappings[chosen] = {
+            "status":
+                "published",
+
+            "relationship":
+                "one_to_one",
+
+            "substack": [
+                substack_entry
+            ],
+
+            "auto_match": {
+                "method":
+                    reason,
+
+                "score":
+                    score,
+
+                "matched_at":
+                    datetime.now(
+                        timezone.utc
+                    ).replace(
+                        microsecond=0
+                    ).isoformat(),
+
+                "shared_urls":
+                    sorted(
+                        shared_urls
+                    ),
+
+                "shared_identifiers":
+                    sorted(
+                        shared_ids
+                    ),
+            },
+        }
+
+        changes.append({
+            "logNo":
+                chosen,
+
+            "naver_title":
+                post.get(
+                    "title"
+                ),
+
+            "substack_title":
+                public_item.get(
+                    "title"
+                ),
+
+            "substack_url":
+                substack_url,
+
+            "method":
+                reason,
+
+            "score":
+                score,
+        })
+
+        # Prevent a second unmatched Substack post in this same run
+        # from attaching to the same Naver post.
+        candidate_posts.pop(
+            chosen,
+            None,
+        )
+
+        fingerprints.pop(
+            chosen,
+            None,
+        )
+
+        print(
+            f"  AUTO-MATCHED -> "
+            f"{chosen}: "
+            f"{post.get('title')}"
+        )
+
+    if changes:
+        manifest["mappings"] = mappings
+
+    return changes
+
+
+# ==========================================================
 # MANIFEST
 # ==========================================================
 
@@ -989,6 +1491,32 @@ def main() -> int:
             )
         )
 
+    auto_matches = []
+
+    if sitemap_info.get("ok"):
+        auto_matches = (
+            auto_match_unmapped_substack(
+                naver_index,
+                manifest,
+                public_posts,
+            )
+        )
+
+        if auto_matches:
+            atomic_write(
+                MANIFEST_PATH,
+                json.dumps(
+                    manifest,
+                    ensure_ascii=False,
+                    indent=2,
+                ),
+            )
+
+            print(
+                f"Manifest auto-matched: "
+                f"{len(auto_matches)}"
+            )
+
     rows, unmatched_substack = (
         build_status(
             naver_index,
@@ -1052,6 +1580,9 @@ def main() -> int:
 
             **recent_summary,
         },
+
+        "auto_matches":
+            auto_matches,
 
         "unmatched_substack_posts":
             unmatched_substack,
@@ -1117,6 +1648,13 @@ def main() -> int:
         f"Check       : "
         f"{summary['check']}"
     )
+
+    if auto_matches:
+
+        print(
+            f"Auto-matched : "
+            f"{len(auto_matches)}"
+        )
 
     if sitemap_info.get("ok"):
 
