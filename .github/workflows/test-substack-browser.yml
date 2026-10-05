@@ -1,0 +1,142 @@
+name: Test Substack Browser Access
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/test-substack-browser.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Playwright
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Test Substack with real Chromium
+        run: |
+          python - <<'PY'
+          import json
+          from datetime import datetime, timezone
+          from urllib.parse import urljoin, urlsplit, urlunsplit
+          from playwright.sync_api import sync_playwright
+
+          targets = [
+              "https://netcreat.substack.com/",
+              "https://netcreat.substack.com/archive?sort=new",
+              "https://netcreat.substack.com/feed",
+              "https://netcreat.substack.com/sitemap.xml",
+          ]
+
+          def clean_url(url):
+              p = urlsplit(url)
+              return urlunsplit((p.scheme, p.netloc, p.path, "", ""))
+
+          results = []
+
+          with sync_playwright() as p:
+              browser = p.chromium.launch(
+                  headless=True,
+                  args=[
+                      "--no-sandbox",
+                      "--disable-dev-shm-usage",
+                  ],
+              )
+
+              context = browser.new_context(
+                  user_agent=(
+                      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                      "AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/153.0.0.0 Safari/537.36"
+                  ),
+                  locale="en-US",
+                  viewport={"width": 1440, "height": 1200},
+              )
+
+              for url in targets:
+                  page = context.new_page()
+                  item = {
+                      "requested_url": url,
+                      "status": None,
+                      "final_url": None,
+                      "title": None,
+                      "post_links": [],
+                      "body_preview": None,
+                      "error": None,
+                  }
+
+                  try:
+                      response = page.goto(
+                          url,
+                          wait_until="domcontentloaded",
+                          timeout=60000,
+                      )
+
+                      item["status"] = response.status if response else None
+                      item["final_url"] = page.url
+                      item["title"] = page.title()
+
+                      # Give client-side rendering a short chance to populate.
+                      page.wait_for_timeout(3000)
+
+                      body_text = page.locator("body").inner_text(timeout=10000)
+                      item["body_preview"] = body_text[:600]
+
+                      if "/archive" in url or url.rstrip("/") == "https://netcreat.substack.com":
+                          hrefs = page.locator('a[href*="/p/"]').evaluate_all(
+                              "(els) => els.map(e => e.href)"
+                          )
+                          seen = []
+                          for href in hrefs:
+                              href = clean_url(href)
+                              if href.startswith("https://netcreat.substack.com/p/") and href not in seen:
+                                  seen.append(href)
+                          item["post_links"] = seen
+
+                  except Exception as exc:
+                      item["error"] = repr(exc)
+
+                  print(json.dumps(item, ensure_ascii=False, indent=2))
+                  results.append(item)
+                  page.close()
+
+              browser.close()
+
+          output = {
+              "generated_at": datetime.now(timezone.utc).isoformat(),
+              "runner": "github-actions / ubuntu-latest / playwright chromium",
+              "results": results,
+          }
+
+          with open("substack_playwright_test.json", "w", encoding="utf-8") as f:
+              json.dump(output, f, ensure_ascii=False, indent=2)
+          PY
+
+      - name: Commit test result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add substack_playwright_test.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Record Substack Playwright access test"
+            git push
+          fi
