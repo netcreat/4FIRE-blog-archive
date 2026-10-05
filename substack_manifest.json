@@ -528,6 +528,22 @@
           "published_date": "2026-07-27"
         }
       ]
+    },
+    "224427575765": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "NATO Releases Its Quantum Roadmap",
+          "url": "https://netcreat.substack.com/p/nato-releases-its-quantum-roadmap",
+          "published_date": "2026-10-05"
+        }
+      ],
+      "auto_match": {
+        "method": "manual_verified",
+        "matched_at": "2026-10-05",
+        "note": "Verified against the public Substack article and Naver archive."
+      }
     }
   }
 }
