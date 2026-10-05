@@ -165,6 +165,45 @@ def get_json(url: str):
     raise RuntimeError(f"Could not fetch JSON {url}: {last_error}")
 
 
+def get_rss(url: str) -> str:
+    """
+    Fetch RSS/XML with feed-reader-oriented headers.
+    This is intentionally separate from normal HTML requests because
+    some CDNs/WAFs classify RSS requests differently.
+    """
+    last_error = None
+
+    headers = {
+        "User-Agent": "Mozilla/5.0 (compatible; 4FIRE-Substack-RSS/1.0; +https://github.com/netcreat/4FIRE-blog-archive)",
+        "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.1",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cache-Control": "no-cache",
+        "Pragma": "no-cache",
+        "Connection": "close",
+    }
+
+    for attempt in range(REQUEST_RETRIES):
+        try:
+            response = requests.get(
+                url,
+                headers=headers,
+                timeout=REQUEST_TIMEOUT,
+                allow_redirects=True,
+            )
+            response.raise_for_status()
+            return response.text
+
+        except Exception as exc:
+            last_error = exc
+
+            if attempt < REQUEST_RETRIES - 1:
+                wait = 2 ** attempt
+                print(f"Retrying RSS {url} in {wait}s: {exc}")
+                time.sleep(wait)
+
+    raise RuntimeError(f"Could not fetch RSS {url}: {last_error}")
+
+
 # ==========================================================
 # SUBSTACK PUBLIC DISCOVERY
 # ==========================================================
@@ -636,7 +675,7 @@ def discover_substack_posts(base_url: str) -> tuple[dict, dict]:
 
     try:
         feed_url = f"{base_url}/feed"
-        feed_text = get_html(feed_url)
+        feed_text = get_rss(feed_url)
 
         root = ET.fromstring(
             feed_text
