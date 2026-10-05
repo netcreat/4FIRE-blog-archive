@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-05T10:45:35+00:00_
+_Automatically generated: 2026-10-05T10:54:09+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,8 +10,8 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 725 | 48 | 677 | 0 | 0 |
-| Recent 90 days (2026-07-06 → 2026-10-04) | 138 | 38 | 100 | 0 | 0 |
+| All | 725 | 49 | 676 | 0 | 0 |
+| Recent 90 days (2026-07-06 → 2026-10-04) | 138 | 39 | 99 | 0 | 0 |
 
 ## Recent 90 days
 
@@ -30,7 +30,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-09-30 | [LITE·COHR·GLW·LPTH·MRVL·AVGO·AAOI](posts/2026/2026-09-30-224426825573.md) | ✅ Published | [LITE, COHR, GLW, LPTH, MRVL, AVGO, and AAOI](https://netcreat.substack.com/p/lite-cohr-glw-lpth-mrvl-avgo-and) | `224426825573` |
 | 2026-09-29 | [중국의 양자 추격, 이제 QPU가 아니라 생태계를 봐야 한다](posts/2026/2026-09-29-224426013000.md) | ✅ Published | [China’s Quantum Catch-Up: It’s Time to Look Beyond the QPU and Focus on the Ecosystem](https://netcreat.substack.com/p/chinas-quantum-catch-up-its-time) | `224426013000` |
 | 2026-09-28 | [Nexus Photonics의 100GHz가 의미하는 것 — Broadcom과 1.6T에서 보이는 새로운 퍼즐](posts/2026/2026-09-28-224425266846.md) | ✅ Published | [What Does Nexus Photonics’ 100 GHz Really Mean?](https://netcreat.substack.com/p/what-does-nexus-photonics-100-ghz) | `224425266846` |
-| 2026-09-27 | [QEC의 논리큐비트와 거리(distance)](posts/2026/2026-09-27-224423875670.md) | ❌ Missing | — | `224423875670` |
+| 2026-09-27 | [QEC의 논리큐비트와 거리(distance)](posts/2026/2026-09-27-224423875670.md) | ✅ Published | [Logical Qubits and Distance in QEC](https://netcreat.substack.com/p/logical-qubits-and-distance-in-qec) | `224423875670` |
 | 2026-09-26 | [30개의 논리 큐비트는 정말 30개의 논리 큐비트일까? — Infleqtion과 Scalable Logical Qubit](posts/2026/2026-09-26-224423086406.md) | ✅ Published | [Are 30 Logical Qubits Really 30 Logical Qubits?](https://netcreat.substack.com/p/are-30-logical-qubits-really-30-logical) | `224423086406` |
 | 2026-09-25 | [IonQ의 또 다른 큰 그림 — Nexus Photonics는 양자산업의 새로운 Pick & Shovel이 될 수 있을까?](posts/2026/2026-09-25-224422396636.md) | ✅ Published | [IonQ’s Bigger Picture](https://netcreat.substack.com/p/ionqs-bigger-picture) | `224422396636` |
 | 2026-09-24 | [IonQ Superion 256, FIU에 판매. 양자 네트워킹에서 컴퓨팅까지 이어지는 새로운 사업 구조](posts/2026/2026-09-24-224422062043.md) | ❌ Missing | — | `224422062043` |
@@ -158,11 +158,10 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **677**
+Total missing: **676**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-09-27 | [QEC의 논리큐비트와 거리(distance)](posts/2026/2026-09-27-224423875670.md) | ❌ Missing | — | `224423875670` |
 | 2026-09-24 | [IonQ Superion 256, FIU에 판매. 양자 네트워킹에서 컴퓨팅까지 이어지는 새로운 사업 구조](posts/2026/2026-09-24-224422062043.md) | ❌ Missing | — | `224422062043` |
 | 2026-09-24 | [IonQ 소프트 디코딩 논문 완전 해설: 580배 오류 억제부터 논리 큐비트 수명 13.66초까지](posts/2026/2026-09-24-224422011850.md) | ❌ Missing | — | `224422011850` |
 | 2026-09-23 | [IonQ의 바이오 산업 진출: 단백질 접힘에서 신약개발·제조·IP 확보까지](posts/2026/2026-09-23-224421068841.md) | ❌ Missing | — | `224421068841` |
@@ -864,7 +863,7 @@ _Not calculated because the public sitemap fetch failed._
 | 2026-09-30 | [LITE·COHR·GLW·LPTH·MRVL·AVGO·AAOI](posts/2026/2026-09-30-224426825573.md) | ✅ Published | [LITE, COHR, GLW, LPTH, MRVL, AVGO, and AAOI](https://netcreat.substack.com/p/lite-cohr-glw-lpth-mrvl-avgo-and) | `224426825573` |
 | 2026-09-29 | [중국의 양자 추격, 이제 QPU가 아니라 생태계를 봐야 한다](posts/2026/2026-09-29-224426013000.md) | ✅ Published | [China’s Quantum Catch-Up: It’s Time to Look Beyond the QPU and Focus on the Ecosystem](https://netcreat.substack.com/p/chinas-quantum-catch-up-its-time) | `224426013000` |
 | 2026-09-28 | [Nexus Photonics의 100GHz가 의미하는 것 — Broadcom과 1.6T에서 보이는 새로운 퍼즐](posts/2026/2026-09-28-224425266846.md) | ✅ Published | [What Does Nexus Photonics’ 100 GHz Really Mean?](https://netcreat.substack.com/p/what-does-nexus-photonics-100-ghz) | `224425266846` |
-| 2026-09-27 | [QEC의 논리큐비트와 거리(distance)](posts/2026/2026-09-27-224423875670.md) | ❌ Missing | — | `224423875670` |
+| 2026-09-27 | [QEC의 논리큐비트와 거리(distance)](posts/2026/2026-09-27-224423875670.md) | ✅ Published | [Logical Qubits and Distance in QEC](https://netcreat.substack.com/p/logical-qubits-and-distance-in-qec) | `224423875670` |
 | 2026-09-26 | [30개의 논리 큐비트는 정말 30개의 논리 큐비트일까? — Infleqtion과 Scalable Logical Qubit](posts/2026/2026-09-26-224423086406.md) | ✅ Published | [Are 30 Logical Qubits Really 30 Logical Qubits?](https://netcreat.substack.com/p/are-30-logical-qubits-really-30-logical) | `224423086406` |
 | 2026-09-25 | [IonQ의 또 다른 큰 그림 — Nexus Photonics는 양자산업의 새로운 Pick & Shovel이 될 수 있을까?](posts/2026/2026-09-25-224422396636.md) | ✅ Published | [IonQ’s Bigger Picture](https://netcreat.substack.com/p/ionqs-bigger-picture) | `224422396636` |
 | 2026-09-24 | [IonQ Superion 256, FIU에 판매. 양자 네트워킹에서 컴퓨팅까지 이어지는 새로운 사업 구조](posts/2026/2026-09-24-224422062043.md) | ❌ Missing | — | `224422062043` |
