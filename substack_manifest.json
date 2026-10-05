@@ -544,6 +544,22 @@
         "matched_at": "2026-10-05",
         "note": "Verified against the public Substack article and Naver archive."
       }
+    },
+    "224423875670": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Logical Qubits and Distance in QEC",
+          "url": "https://netcreat.substack.com/p/logical-qubits-and-distance-in-qec",
+          "published_date": "2026-10-05"
+        }
+      ],
+      "auto_match": {
+        "method": "manual_verified",
+        "matched_at": "2026-10-05",
+        "note": "Verified from the Substack publication email, which links the post to the original Naver article."
+      }
     }
   }
 }
