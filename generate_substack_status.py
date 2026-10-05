@@ -138,8 +138,35 @@ def get_html(url: str) -> str:
     raise RuntimeError(f"Could not fetch {url}: {last_error}")
 
 
+def get_json(url: str):
+    last_error = None
+
+    headers = dict(HEADERS)
+    headers["Accept"] = "application/json,text/plain,*/*"
+
+    for attempt in range(REQUEST_RETRIES):
+        try:
+            response = requests.get(
+                url,
+                headers=headers,
+                timeout=REQUEST_TIMEOUT,
+            )
+            response.raise_for_status()
+            return response.json()
+
+        except Exception as exc:
+            last_error = exc
+
+            if attempt < REQUEST_RETRIES - 1:
+                wait = 2 ** attempt
+                print(f"Retrying JSON {url} in {wait}s: {exc}")
+                time.sleep(wait)
+
+    raise RuntimeError(f"Could not fetch JSON {url}: {last_error}")
+
+
 # ==========================================================
-# SUBSTACK PUBLIC SITEMAP
+# SUBSTACK PUBLIC DISCOVERY
 # ==========================================================
 
 def discover_substack_posts(base_url: str) -> tuple[dict, dict]:
@@ -175,6 +202,113 @@ def discover_substack_posts(base_url: str) -> tuple[dict, dict]:
 
     public_posts = {}
     year_pages = []
+
+    # ------------------------------------------------------
+    # 0. Prefer Substack's public JSON posts endpoint.
+    #
+    # The HTML sitemap/feed can return 403 to GitHub-hosted
+    # runners even when they are publicly readable in a
+    # normal browser. The publication-scoped JSON listing is
+    # a better discovery source for automation.
+    # ------------------------------------------------------
+
+    try:
+        offset = 0
+        limit = 100
+
+        while True:
+            api_url = (
+                f"{base_url}/api/v1/posts"
+                f"?limit={limit}&offset={offset}"
+            )
+
+            payload = get_json(api_url)
+
+            if isinstance(payload, list):
+                items = payload
+            elif isinstance(payload, dict):
+                items = (
+                    payload.get("posts")
+                    or payload.get("items")
+                    or []
+                )
+            else:
+                items = []
+
+            if not items:
+                break
+
+            for post in items:
+                if not isinstance(post, dict):
+                    continue
+
+                raw_url = (
+                    post.get("canonical_url")
+                    or post.get("canonicalUrl")
+                    or post.get("url")
+                )
+
+                slug = post.get("slug")
+
+                if not raw_url and slug:
+                    raw_url = f"{base_url}/p/{slug}"
+
+                href = canonical_url(
+                    raw_url or ""
+                )
+
+                if not href.startswith(
+                    f"{base_url}/p/"
+                ):
+                    continue
+
+                post_date = (
+                    post.get("post_date")
+                    or post.get("postDate")
+                    or post.get("published_at")
+                    or post.get("publishedAt")
+                )
+
+                public_posts[href] = {
+                    "title":
+                        post.get("title"),
+
+                    "url":
+                        href,
+
+                    "sitemap_year":
+                        str(post_date)[:4]
+                        if post_date
+                        else None,
+
+                    "published_date":
+                        str(post_date)[:10]
+                        if post_date
+                        else None,
+
+                    "slug":
+                        slug,
+                }
+
+            fetch_info["sources_used"].append(
+                api_url
+            )
+
+            if len(items) < limit:
+                break
+
+            offset += limit
+
+            # Defensive ceiling. This publication is far below
+            # this size, and it prevents accidental endless loops
+            # if Substack changes pagination semantics.
+            if offset >= 5000:
+                break
+
+    except Exception as exc:
+        fetch_info["errors"].append(
+            f"posts API: {exc}"
+        )
 
     # ------------------------------------------------------
     # 1. Try root sitemap
@@ -548,68 +682,145 @@ def read_naver_fingerprint(post: dict) -> dict:
 
 
 def fetch_substack_fingerprint(url: str) -> dict:
-    html = get_html(url)
-    soup = BeautifulSoup(
-        html,
-        "html.parser",
+    """
+    Build a fingerprint for a public Substack post.
+
+    Prefer the publication-scoped JSON post endpoint because
+    GitHub-hosted runners can receive 403 responses for normal
+    HTML article pages. Fall back to the HTML page if needed.
+    """
+
+    url = canonical_url(url)
+    parts = urlsplit(url)
+
+    slug_match = re.match(
+        r"^/p/([^/?#]+)",
+        parts.path or "",
     )
 
-    links = []
-
-    for anchor in soup.find_all(
-        "a",
-        href=True,
-    ):
-        links.append(
-            urljoin(
-                url,
-                anchor.get("href"),
-            )
-        )
-
-    visible_text = soup.get_text(
-        " ",
-        strip=True,
+    slug = (
+        slug_match.group(1)
+        if slug_match
+        else None
     )
 
-    combined = (
-        html
-        + "\n"
-        + visible_text
-        + "\n"
-        + "\n".join(links)
-    )
-
+    combined = ""
     published_date = None
 
-    selectors = [
-        ('meta', {'property': 'article:published_time'}),
-        ('meta', {'name': 'article:published_time'}),
-        ('meta', {'property': 'og:published_time'}),
-    ]
-
-    for tag_name, attrs in selectors:
-        tag = soup.find(
-            tag_name,
-            attrs=attrs,
+    if slug:
+        api_url = (
+            f"{parts.scheme}://{parts.netloc}"
+            f"/api/v1/posts/{slug}"
         )
 
-        if tag and tag.get("content"):
-            published_date = str(
-                tag.get("content")
-            )[:10]
-            break
+        try:
+            payload = get_json(api_url)
 
-    if not published_date:
-        time_tag = soup.find(
-            "time",
-            attrs={"datetime": True},
+            if isinstance(payload, dict):
+                post = (
+                    payload.get("post")
+                    if isinstance(
+                        payload.get("post"),
+                        dict,
+                    )
+                    else payload
+                )
+
+                text_parts = [
+                    str(post.get("title") or ""),
+                    str(post.get("subtitle") or ""),
+                    str(post.get("description") or ""),
+                    str(post.get("truncated_body_text") or ""),
+                    str(post.get("body_html") or ""),
+                    json.dumps(
+                        post,
+                        ensure_ascii=False,
+                    ),
+                ]
+
+                combined = "\n".join(
+                    text_parts
+                )
+
+                post_date = (
+                    post.get("post_date")
+                    or post.get("postDate")
+                    or post.get("published_at")
+                    or post.get("publishedAt")
+                )
+
+                if post_date:
+                    published_date = str(
+                        post_date
+                    )[:10]
+
+        except Exception as exc:
+            print(
+                f"  JSON post endpoint failed: {exc}"
+            )
+
+    # Fallback to the normal public article page.
+    if not combined:
+        html = get_html(url)
+        soup = BeautifulSoup(
+            html,
+            "html.parser",
         )
 
-        if time_tag:
-            published_date = str(
-                time_tag.get("datetime")
-            )[:10]
+        links = []
+
+        for anchor in soup.find_all(
+            "a",
+            href=True,
+        ):
+            links.append(
+                urljoin(
+                    url,
+                    anchor.get("href"),
+                )
+            )
+
+        visible_text = soup.get_text(
+            " ",
+            strip=True,
+        )
+
+        combined = (
+            html
+            + "\n"
+            + visible_text
+            + "\n"
+            + "\n".join(links)
+        )
+
+        selectors = [
+            ('meta', {'property': 'article:published_time'}),
+            ('meta', {'name': 'article:published_time'}),
+            ('meta', {'property': 'og:published_time'}),
+        ]
+
+        for tag_name, attrs in selectors:
+            tag = soup.find(
+                tag_name,
+                attrs=attrs,
+            )
+
+            if tag and tag.get("content"):
+                published_date = str(
+                    tag.get("content")
+                )[:10]
+                break
+
+        if not published_date:
+            time_tag = soup.find(
+                "time",
+                attrs={"datetime": True},
+            )
+
+            if time_tag:
+                published_date = str(
+                    time_tag.get("datetime")
+                )[:10]
 
     return {
         "urls": fingerprint_urls(
