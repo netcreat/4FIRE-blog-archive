@@ -1,0 +1,888 @@
+{
+  "publication": "4FIRE",
+  "generated_date": "2026-10-05",
+  "substack_archive": "https://netcreat.substack.com/archive?sort=new",
+  "substack_sitemap": "https://netcreat.substack.com/sitemap/2026",
+  "github_repository": "netcreat/4FIRE-blog-archive",
+  "summary": {
+    "public_substack_posts": 48,
+    "matched_substack_posts": 48,
+    "unmatched_substack_posts": 0,
+    "unique_matched_naver_posts": 47,
+    "split_relationships": 2,
+    "notes": [
+      "Public Substack posts only; drafts and scheduled/unpublished posts are not visible in the public archive.",
+      "IonQ’s Million-Qubit Scaling Strategy Parts 1 and 2 both map to the same long-form Naver post (logNo 224418682921).",
+      "Some Substack publication dates differ from the original Naver publication dates because posts were translated/republished later.",
+      "Two Substack posts are clear republications of substantially older Naver originals: 'IonQ Acquires Time, and Sells Time' and 'What Is the Killer App in Quantum Networking?'."
+    ]
+  },
+  "posts": [
+    {
+      "substack": {
+        "published_date": "2026-10-04",
+        "title": "NSA’s National Security Systems Transition and the New Investment Opportunities It Could Create",
+        "url": "https://netcreat.substack.com/p/nsas-national-security-systems-transition",
+        "slug": "nsas-national-security-systems-transition"
+      },
+      "naver": {
+        "published_date": "2026-10-04",
+        "title": "NSA의 국가안보시스템 전환과 새로운 투자 기회",
+        "logNo": "224431017441",
+        "url": "https://blog.naver.com/4-fire/224431017441",
+        "github_archive": "posts/2026/2026-10-04-224431017441.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-10-04",
+        "title": "Why Does IonQ Use BB5, BB7, and GB8 Together?",
+        "url": "https://netcreat.substack.com/p/why-does-ionq-use-bb5-bb7-and-gb8",
+        "slug": "why-does-ionq-use-bb5-bb7-and-gb8"
+      },
+      "naver": {
+        "published_date": "2026-10-03",
+        "title": "IonQ는 왜 BB5·BB7·GB8을 함께 사용하는가?",
+        "logNo": "224430550598",
+        "url": "https://blog.naver.com/4-fire/224430550598",
+        "github_archive": "posts/2026/2026-10-03-224430550598.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 1,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-10-03",
+        "title": "Understanding Quantum Technologies 2026 — 5",
+        "url": "https://netcreat.substack.com/p/understanding-quantum-technologies-5fb",
+        "slug": "understanding-quantum-technologies-5fb"
+      },
+      "naver": {
+        "published_date": "2026-10-03",
+        "title": "Understanding Quantum Technologies 2026 Part 5",
+        "logNo": "224430148490",
+        "url": "https://blog.naver.com/4-fire/224430148490",
+        "github_archive": "posts/2026/2026-10-03-224430148490.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-10-03",
+        "title": "Understanding Quantum Technologies 2026 — 4",
+        "url": "https://netcreat.substack.com/p/understanding-quantum-technologies-e71",
+        "slug": "understanding-quantum-technologies-e71"
+      },
+      "naver": {
+        "published_date": "2026-10-02",
+        "title": "Understanding Quantum Technologies 2026 Part 4",
+        "logNo": "224429425295",
+        "url": "https://blog.naver.com/4-fire/224429425295",
+        "github_archive": "posts/2026/2026-10-02-224429425295.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 1,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-10-03",
+        "title": "Understanding Quantum Technologies 2026 — 3",
+        "url": "https://netcreat.substack.com/p/understanding-quantum-technologies-445",
+        "slug": "understanding-quantum-technologies-445"
+      },
+      "naver": {
+        "published_date": "2026-10-02",
+        "title": "Understanding Quantum Technologies 2026 Part 3",
+        "logNo": "224429090037",
+        "url": "https://blog.naver.com/4-fire/224429090037",
+        "github_archive": "posts/2026/2026-10-02-224429090037.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 1,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-10-02",
+        "title": "What Is NVIDIA Really Trying to Change After HBM De-Specification?",
+        "url": "https://netcreat.substack.com/p/what-is-nvidia-really-trying-to-change",
+        "slug": "what-is-nvidia-really-trying-to-change"
+      },
+      "naver": {
+        "published_date": "2026-10-02",
+        "title": "HBM 디스펙 이후, NVIDIA가 바꾸려는 것은 무엇인가?",
+        "logNo": "224428808831",
+        "url": "https://blog.naver.com/4-fire/224428808831",
+        "github_archive": "posts/2026/2026-10-01-224428808831.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-10-02",
+        "title": "Understanding Quantum Technologies 2026 — Part 2",
+        "url": "https://netcreat.substack.com/p/understanding-quantum-technologies-248",
+        "slug": "understanding-quantum-technologies-248"
+      },
+      "naver": {
+        "published_date": "2026-10-01",
+        "title": "Understanding Quantum Technologies 2026 Part 2",
+        "logNo": "224428141474",
+        "url": "https://blog.naver.com/4-fire/224428141474",
+        "github_archive": "posts/2026/2026-10-01-224428141474.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 1,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-10-01",
+        "title": "Designing Codes for 800 Logical Qubits: Reading Walking Cat Alongside New qLDPC Research",
+        "url": "https://netcreat.substack.com/p/designing-codes-for-800-logical-qubits",
+        "slug": "designing-codes-for-800-logical-qubits"
+      },
+      "naver": {
+        "published_date": "2026-10-01",
+        "title": "논리 큐비트 800개를 향한 코드 설계: Walking Cat과 신규 qLDPC 연구를 함께 읽기",
+        "logNo": "224428509000",
+        "url": "https://blog.naver.com/4-fire/224428509000",
+        "github_archive": "posts/2026/2026-10-01-224428509000.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-09-30",
+        "title": "Understanding Quantum Technologies 2026 — Part 1",
+        "url": "https://netcreat.substack.com/p/understanding-quantum-technologies",
+        "slug": "understanding-quantum-technologies"
+      },
+      "naver": {
+        "published_date": "2026-09-30",
+        "title": "Understanding Quantum Technologies 2026 Part 1",
+        "logNo": "224427057259",
+        "url": "https://blog.naver.com/4-fire/224427057259",
+        "github_archive": "posts/2026/2026-09-30-224427057259.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-09-30",
+        "title": "LITE, COHR, GLW, LPTH, MRVL, AVGO, and AAOI",
+        "url": "https://netcreat.substack.com/p/lite-cohr-glw-lpth-mrvl-avgo-and",
+        "slug": "lite-cohr-glw-lpth-mrvl-avgo-and"
+      },
+      "naver": {
+        "published_date": "2026-09-30",
+        "title": "LITE·COHR·GLW·LPTH·MRVL·AVGO·AAOI",
+        "logNo": "224426825573",
+        "url": "https://blog.naver.com/4-fire/224426825573",
+        "github_archive": "posts/2026/2026-09-30-224426825573.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-09-29",
+        "title": "China’s Quantum Catch-Up: It’s Time to Look Beyond the QPU and Focus on the Ecosystem",
+        "url": "https://netcreat.substack.com/p/chinas-quantum-catch-up-its-time",
+        "slug": "chinas-quantum-catch-up-its-time"
+      },
+      "naver": {
+        "published_date": "2026-09-29",
+        "title": "중국의 양자 추격, 이제 QPU가 아니라 생태계를 봐야 한다",
+        "logNo": "224426013000",
+        "url": "https://blog.naver.com/4-fire/224426013000",
+        "github_archive": "posts/2026/2026-09-29-224426013000.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-09-28",
+        "title": "What Does Nexus Photonics’ 100 GHz Really Mean?",
+        "url": "https://netcreat.substack.com/p/what-does-nexus-photonics-100-ghz",
+        "slug": "what-does-nexus-photonics-100-ghz"
+      },
+      "naver": {
+        "published_date": "2026-09-28",
+        "title": "Nexus Photonics의 100GHz가 의미하는 것 — Broadcom과 1.6T에서 보이는 새로운 퍼즐",
+        "logNo": "224425266846",
+        "url": "https://blog.naver.com/4-fire/224425266846",
+        "github_archive": "posts/2026/2026-09-28-224425266846.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-09-26",
+        "title": "Are 30 Logical Qubits Really 30 Logical Qubits?",
+        "url": "https://netcreat.substack.com/p/are-30-logical-qubits-really-30-logical",
+        "slug": "are-30-logical-qubits-really-30-logical"
+      },
+      "naver": {
+        "published_date": "2026-09-26",
+        "title": "30개의 논리 큐비트는 정말 30개의 논리 큐비트일까? — Infleqtion과 Scalable Logical Qubit",
+        "logNo": "224423086406",
+        "url": "https://blog.naver.com/4-fire/224423086406",
+        "github_archive": "posts/2026/2026-09-26-224423086406.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-09-25",
+        "title": "IonQ’s Bigger Picture",
+        "url": "https://netcreat.substack.com/p/ionqs-bigger-picture",
+        "slug": "ionqs-bigger-picture"
+      },
+      "naver": {
+        "published_date": "2026-09-25",
+        "title": "IonQ의 또 다른 큰 그림 — Nexus Photonics는 양자산업의 새로운 Pick & Shovel이 될 수 있을까?",
+        "logNo": "224422396636",
+        "url": "https://blog.naver.com/4-fire/224422396636",
+        "github_archive": "posts/2026/2026-09-25-224422396636.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-09-23",
+        "title": "IonQ, NVIDIA, ORNL, and EPB",
+        "url": "https://netcreat.substack.com/p/ionq-nvidia-ornl-and-epb",
+        "slug": "ionq-nvidia-ornl-and-epb"
+      },
+      "naver": {
+        "published_date": "2026-09-24",
+        "title": "IonQ·NVIDIA·ORNL·EPB — 양자 슈퍼컴퓨팅의 퍼즐이 맞춰지기 시작했다",
+        "logNo": "224421379356",
+        "url": "https://blog.naver.com/4-fire/224421379356",
+        "github_archive": "posts/2026/2026-09-23-224421379356.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": -1,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-09-23",
+        "title": "Learn Deeply. Share Freely. — A New Chapter for 4FIRE",
+        "url": "https://netcreat.substack.com/p/learn-deeply-share-freely-a-new-chapter",
+        "slug": "learn-deeply-share-freely-a-new-chapter"
+      },
+      "naver": {
+        "published_date": "2026-09-23",
+        "title": "열심히 배워서 남주자 — 커피 한잔 후원 오픈",
+        "logNo": "224421146774",
+        "url": "https://blog.naver.com/4-fire/224421146774",
+        "github_archive": "posts/2026/2026-09-23-224421146774.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-09-22",
+        "title": "IonQ and SDT’s Strategic Partnership",
+        "url": "https://netcreat.substack.com/p/ionq-and-sdts-strategic-partnership",
+        "slug": "ionq-and-sdts-strategic-partnership"
+      },
+      "naver": {
+        "published_date": "2026-09-22",
+        "title": "IonQ와 SDT의 전략적 협력 — 한국의 양자컴퓨터 제조거점과 암센터 프로젝트가 연결되는 이유",
+        "logNo": "224419854098",
+        "url": "https://blog.naver.com/4-fire/224419854098",
+        "github_archive": "posts/2026/2026-09-22-224419854098.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-09-21",
+        "title": "IonQ’s Million-Qubit Scaling Strategy - Part 2",
+        "url": "https://netcreat.substack.com/p/ionqs-million-qubit-scaling-strategy-c08",
+        "slug": "ionqs-million-qubit-scaling-strategy-c08"
+      },
+      "naver": {
+        "published_date": "2026-09-21",
+        "title": "IonQ의 100만 큐비트 확장 전략 — SkyWater, 양자산업의 반도체 제조 플랫폼이 될 수 있을까?",
+        "logNo": "224418682921",
+        "url": "https://blog.naver.com/4-fire/224418682921",
+        "github_archive": "posts/2026/2026-09-21-224418682921.md"
+      },
+      "relationship": "split_from_single_naver_post",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high",
+      "substack_part": 2
+    },
+    {
+      "substack": {
+        "published_date": "2026-09-21",
+        "title": "IonQ’s Million-Qubit Scaling Strategy - Part 1",
+        "url": "https://netcreat.substack.com/p/ionqs-million-qubit-scaling-strategy",
+        "slug": "ionqs-million-qubit-scaling-strategy"
+      },
+      "naver": {
+        "published_date": "2026-09-21",
+        "title": "IonQ의 100만 큐비트 확장 전략 — SkyWater, 양자산업의 반도체 제조 플랫폼이 될 수 있을까?",
+        "logNo": "224418682921",
+        "url": "https://blog.naver.com/4-fire/224418682921",
+        "github_archive": "posts/2026/2026-09-21-224418682921.md"
+      },
+      "relationship": "split_from_single_naver_post",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high",
+      "substack_part": 1
+    },
+    {
+      "substack": {
+        "published_date": "2026-09-20",
+        "title": "IonQ Superion 10K — Could a New QEC Code Be the Secret Behind 800 Logical Qubits?",
+        "url": "https://netcreat.substack.com/p/ionq-superion-10k-could-a-new-qec",
+        "slug": "ionq-superion-10k-could-a-new-qec"
+      },
+      "naver": {
+        "published_date": "2026-09-20",
+        "title": "IonQ Superion 10K — 800 Logical Qubits의 비밀은 새로운 QEC 코드에 있을까?",
+        "logNo": "224417992062",
+        "url": "https://blog.naver.com/4-fire/224417992062",
+        "github_archive": "posts/2026/2026-09-20-224417992062.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-09-17",
+        "title": "What Happens If We Put Walking Cat Into 256 Qubits?",
+        "url": "https://netcreat.substack.com/p/what-happens-if-we-put-walking-cat",
+        "slug": "what-happens-if-we-put-walking-cat"
+      },
+      "naver": {
+        "published_date": "2026-09-17",
+        "title": "Walking Cat을 256Qubit에 넣으면 어떻게 되는가?",
+        "logNo": "224415285596",
+        "url": "https://blog.naver.com/4-fire/224415285596",
+        "github_archive": "posts/2026/2026-09-17-224415285596.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-09-09",
+        "title": "The Ground-Air-Space Quantum Network IonQ and AFRL Are Building in Rome",
+        "url": "https://netcreat.substack.com/p/the-ground-air-space-quantum-network",
+        "slug": "the-ground-air-space-quantum-network"
+      },
+      "naver": {
+        "published_date": "2026-09-05",
+        "title": "AFRL과 IonQ가 Rome에서 만들고 있는 Ground–Air–Space Quantum Network",
+        "logNo": "224401766164",
+        "url": "https://blog.naver.com/4-fire/224401766164",
+        "github_archive": "posts/2026/2026-09-05-224401766164.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 4,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-09-09",
+        "title": "How Many Quantum Computers Has IonQ Actually Delivered to AFRL?",
+        "url": "https://netcreat.substack.com/p/how-many-quantum-computers-has-ionq",
+        "slug": "how-many-quantum-computers-has-ionq"
+      },
+      "naver": {
+        "published_date": "2026-09-05",
+        "title": "IonQ는 AFRL에 도대체 몇 대의 양자컴퓨터를 납품한 것일까?",
+        "logNo": "224401409839",
+        "url": "https://blog.naver.com/4-fire/224401409839",
+        "github_archive": "posts/2026/2026-09-05-224401409839.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 4,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-09-08",
+        "title": "IonQ’s Real 256 Strategy - Part 2",
+        "url": "https://netcreat.substack.com/p/ionqs-real-256-strategy-part-2",
+        "slug": "ionqs-real-256-strategy-part-2"
+      },
+      "naver": {
+        "published_date": "2026-09-08",
+        "title": "IonQ의 Upgrade는 어떻게 이루어질까? — Tempo에서 256, 그리고 10K까지",
+        "logNo": "224404206456",
+        "url": "https://blog.naver.com/4-fire/224404206456",
+        "github_archive": "posts/2026/2026-09-08-224404206456.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-09-08",
+        "title": "IonQ’s Real 256 Strategy - Part 1",
+        "url": "https://netcreat.substack.com/p/ionqs-real-256-strategy-part-1",
+        "slug": "ionqs-real-256-strategy-part-1"
+      },
+      "naver": {
+        "published_date": "2026-09-08",
+        "title": "IonQ 256의 진짜 전략 — 추가 구매가 최선, 업그레이드는 생태계 확장의 차선책",
+        "logNo": "224404169457",
+        "url": "https://blog.naver.com/4-fire/224404169457",
+        "github_archive": "posts/2026/2026-09-07-224404169457.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-09-07",
+        "title": "Cheap Attack, Expensive Defense — Who Can Fix the Broken Offense-Defense Balance?",
+        "url": "https://netcreat.substack.com/p/cheap-attack-expensive-defense-who",
+        "slug": "cheap-attack-expensive-defense-who"
+      },
+      "naver": {
+        "published_date": "2026-09-06",
+        "title": "값싼 공격, 비싼 방어 — 무너진 공수 균형을 누가 바꿀 것인가",
+        "logNo": "224402591109",
+        "url": "https://blog.naver.com/4-fire/224402591109",
+        "github_archive": "posts/2026/2026-09-06-224402591109.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 1,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-09-03",
+        "title": "The Challenges of 400 Million km Communications and the Companies Around MTN - Part 3",
+        "url": "https://netcreat.substack.com/p/the-challenges-of-400-million-km-92f",
+        "slug": "the-challenges-of-400-million-km-92f"
+      },
+      "naver": {
+        "published_date": "2026-09-03",
+        "title": "4억 km 통신의 난제와 MTN을 둘러싼 기업들(3)",
+        "logNo": "224400136409",
+        "url": "https://blog.naver.com/4-fire/224400136409",
+        "github_archive": "posts/2026/2026-09-03-224400136409.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-09-03",
+        "title": "The Challenges of 400 Million km Communications and the Companies Around MTN - Part 2",
+        "url": "https://netcreat.substack.com/p/the-challenges-of-400-million-km-6e6",
+        "slug": "the-challenges-of-400-million-km-6e6"
+      },
+      "naver": {
+        "published_date": "2026-09-03",
+        "title": "4억 km 통신의 난제와 MTN을 둘러싼 기업들(2)",
+        "logNo": "224399717640",
+        "url": "https://blog.naver.com/4-fire/224399717640",
+        "github_archive": "posts/2026/2026-09-03-224399717640.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-09-02",
+        "title": "The Challenges of 400 Million km Communications and the Companies Around MTN - Part 1",
+        "url": "https://netcreat.substack.com/p/the-challenges-of-400-million-km",
+        "slug": "the-challenges-of-400-million-km"
+      },
+      "naver": {
+        "published_date": "2026-09-02",
+        "title": "4억 km 통신의 난제와 MTN을 둘러싼 기업들 (1)",
+        "logNo": "224399032507",
+        "url": "https://blog.naver.com/4-fire/224399032507",
+        "github_archive": "posts/2026/2026-09-02-224399032507.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-08-30",
+        "title": "Understanding Real-Time Decoding in Ion-Trap FTQC",
+        "url": "https://netcreat.substack.com/p/understanding-real-time-decoding",
+        "slug": "understanding-real-time-decoding"
+      },
+      "naver": {
+        "published_date": "2026-08-30",
+        "title": "이온트랩 FTQC의 실시간 디코딩 이해하기 - T gate, Magic State, CM, Outcome Decoder까지",
+        "logNo": "224395258684",
+        "url": "https://blog.naver.com/4-fire/224395258684",
+        "github_archive": "posts/2026/2026-08-30-224395258684.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-08-30",
+        "title": "Q54, Q70, Q102 — Why Did IonQ Create Three Quantum Error-Correction Codes Instead of One?",
+        "url": "https://netcreat.substack.com/p/q54-q70-q102-why-did-ionq-create",
+        "slug": "q54-q70-q102-why-did-ionq-create"
+      },
+      "naver": {
+        "published_date": "2026-08-30",
+        "title": "Q54, Q70, Q102 — IonQ는 왜 하나의 양자 오류정정 코드 대신 세 개를 만들었을까?",
+        "logNo": "224394947524",
+        "url": "https://blog.naver.com/4-fire/224394947524",
+        "github_archive": "posts/2026/2026-08-30-224394947524.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-08-23",
+        "title": "Why Is IonQ Suddenly Focusing on “Many-Body”?",
+        "url": "https://netcreat.substack.com/p/why-is-ionq-suddenly-focusing-on",
+        "slug": "why-is-ionq-suddenly-focusing-on"
+      },
+      "naver": {
+        "published_date": "2026-08-23",
+        "title": "왜 IonQ는 지금 ‘Many-Body’에 집중하는가?",
+        "logNo": "224387439036",
+        "url": "https://blog.naver.com/4-fire/224387439036",
+        "github_archive": "posts/2026/2026-08-23-224387439036.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-08-06",
+        "title": "What Does Nexus Photonics, Acquired by IonQ, Actually Build?",
+        "url": "https://netcreat.substack.com/p/what-does-nexus-photonics-acquired",
+        "slug": "what-does-nexus-photonics-acquired"
+      },
+      "naver": {
+        "published_date": "2026-08-06",
+        "title": "IonQ가 인수한 Nexus Photonics는 무엇을 만드는가 — 양자컴퓨터의 광학계를 칩으로 바꾸는 회사",
+        "logNo": "224370343979",
+        "url": "https://blog.naver.com/4-fire/224370343979",
+        "github_archive": "posts/2026/2026-08-06-224370343979.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-07-30",
+        "title": "QED-C’s Quantum Networking Roadmap",
+        "url": "https://netcreat.substack.com/p/qed-cs-quantum-networking-roadmap",
+        "slug": "qed-cs-quantum-networking-roadmap"
+      },
+      "naver": {
+        "published_date": "2026-07-31",
+        "title": "QED-C의 양자 네트워킹 로드맵",
+        "logNo": "224363465601",
+        "url": "https://blog.naver.com/4-fire/224363465601",
+        "github_archive": "posts/2026/2026-07-31-224363465601.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": -1,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-07-30",
+        "title": "IonQ Acquires Time, and Sells Time",
+        "url": "https://netcreat.substack.com/p/ionq-acquires-time-and-sells-time",
+        "slug": "ionq-acquires-time-and-sells-time"
+      },
+      "naver": {
+        "published_date": "2026-02-05",
+        "title": "IonQ, 시간을 인수하여, 시간을 판매한다.",
+        "logNo": "224173001371",
+        "url": "https://blog.naver.com/4-fire/224173001371",
+        "github_archive": "posts/2026/2026-02-05-224173001371.md"
+      },
+      "relationship": "republished_older_naver_post",
+      "date_difference_days_substack_minus_naver": 175,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-07-27",
+        "title": "What Is the Killer App in Quantum Networking?",
+        "url": "https://netcreat.substack.com/p/what-is-the-killer-app-in-quantum",
+        "slug": "what-is-the-killer-app-in-quantum"
+      },
+      "naver": {
+        "published_date": "2025-10-24",
+        "title": "양자 네트워크에서의 킬러앱은?",
+        "logNo": "224052807617",
+        "url": "https://blog.naver.com/4-fire/224052807617",
+        "github_archive": "posts/2025/2025-10-24-224052807617.md"
+      },
+      "relationship": "republished_older_naver_post",
+      "date_difference_days_substack_minus_naver": 276,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-07-16",
+        "title": "DC-QNet: The City-Scale Quantum Network Testbed the U.S. Is Building",
+        "url": "https://netcreat.substack.com/p/dc-qnet-the-city-scale-quantum-network",
+        "slug": "dc-qnet-the-city-scale-quantum-network"
+      },
+      "naver": {
+        "published_date": "2026-07-16",
+        "title": "DC-QNet: 미국이 구축 중인 도시 규모 양자 네트워크 테스트베드",
+        "logNo": "224347939720",
+        "url": "https://blog.naver.com/4-fire/224347939720",
+        "github_archive": "posts/2026/2026-07-16-224347939720.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-07-12",
+        "title": "From Lightsynq to Skyloom–Capella Space: IonQ Is Assembling the Quantum Network Puzzle",
+        "url": "https://netcreat.substack.com/p/from-lightsynq-to-skyloomcapella",
+        "slug": "from-lightsynq-to-skyloomcapella"
+      },
+      "naver": {
+        "published_date": "2026-07-12",
+        "title": "Lightsynq에서 Skyloom·Capella Space까지, IonQ가 모으는 양자네트워크의 퍼즐",
+        "logNo": "224344213340",
+        "url": "https://blog.naver.com/4-fire/224344213340",
+        "github_archive": "posts/2026/2026-07-12-224344213340.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-07-11",
+        "title": "The First Two NSF X-Labs Solicitations Are Open",
+        "url": "https://netcreat.substack.com/p/the-first-two-nsf-x-labs-solicitations",
+        "slug": "the-first-two-nsf-x-labs-solicitations"
+      },
+      "naver": {
+        "published_date": "2026-07-11",
+        "title": "NSF X-Labs의 초기 2가지 공모 오픈",
+        "logNo": "224343617948",
+        "url": "https://blog.naver.com/4-fire/224343617948",
+        "github_archive": "posts/2026/2026-07-11-224343617948.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-07-11",
+        "title": "The Real Meaning of NSF Project Triad",
+        "url": "https://netcreat.substack.com/p/the-real-meaning-of-nsf-project-triad",
+        "slug": "the-real-meaning-of-nsf-project-triad"
+      },
+      "naver": {
+        "published_date": "2026-07-11",
+        "title": "NSF Project Triad의 진정한 의미",
+        "logNo": "224343478781",
+        "url": "https://blog.naver.com/4-fire/224343478781",
+        "github_archive": "posts/2026/2026-07-11-224343478781.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-07-03",
+        "title": "The Structure of the Officina Stellare and Skyloom Partnership, and What It Means for IonQ Investors",
+        "url": "https://netcreat.substack.com/p/the-structure-of-the-officina-stellare",
+        "slug": "the-structure-of-the-officina-stellare"
+      },
+      "naver": {
+        "published_date": "2026-07-03",
+        "title": "Officina Stellare와 Skyloom 협력의 구조, 그리고 IonQ 투자자에게 주는 의미",
+        "logNo": "224335092888",
+        "url": "https://blog.naver.com/4-fire/224335092888",
+        "github_archive": "posts/2026/2026-07-03-224335092888.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-07-02",
+        "title": "How OCT Is Changing the Space Internet",
+        "url": "https://netcreat.substack.com/p/how-oct-is-changing-the-space-internet",
+        "slug": "how-oct-is-changing-the-space-internet"
+      },
+      "naver": {
+        "published_date": "2026-07-02",
+        "title": "OCT가 바꾸는 우주 인터넷: 진짜 병목은 속도가 아니라 “서로를 찾는 시간”이다",
+        "logNo": "224334316305",
+        "url": "https://blog.naver.com/4-fire/224334316305",
+        "github_archive": "posts/2026/2026-07-02-224334316305.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-07-02",
+        "title": "Aalyria In-Depth Investment Research Report",
+        "url": "https://netcreat.substack.com/p/aalyria-in-depth-investment-research",
+        "slug": "aalyria-in-depth-investment-research"
+      },
+      "naver": {
+        "published_date": "2026-07-02",
+        "title": "Aalyria 투자심층리서치 보고서- 우주 네트워크의 컨트롤 플레인을 노리는 기업",
+        "logNo": "224333838201",
+        "url": "https://blog.naver.com/4-fire/224333838201",
+        "github_archive": "posts/2026/2026-07-02-224333838201.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-07-01",
+        "title": "The Real Question After the Starlink Mini Laser",
+        "url": "https://netcreat.substack.com/p/the-real-question-after-the-starlink",
+        "slug": "the-real-question-after-the-starlink"
+      },
+      "naver": {
+        "published_date": "2026-07-01",
+        "title": "Starlink Mini Laser 이후의 진짜 질문",
+        "logNo": "224333303480",
+        "url": "https://blog.naver.com/4-fire/224333303480",
+        "github_archive": "posts/2026/2026-07-01-224333303480.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-07-01",
+        "title": "Rocket Lab’s Iridium Acquisition and the Race to Build a Starlink-Style Space Backbone",
+        "url": "https://netcreat.substack.com/p/rocket-labs-iridium-acquisition-and",
+        "slug": "rocket-labs-iridium-acquisition-and"
+      },
+      "naver": {
+        "published_date": "2026-06-30",
+        "title": "로켓랩의 이리듐 인수와 스타링크형 우주 백본 경쟁",
+        "logNo": "224331503477",
+        "url": "https://blog.naver.com/4-fire/224331503477",
+        "github_archive": "posts/2026/2026-06-30-224331503477.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 1,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-07-01",
+        "title": "Archer Materials and IonQ",
+        "url": "https://netcreat.substack.com/p/archer-materials-and-ionq",
+        "slug": "archer-materials-and-ionq"
+      },
+      "naver": {
+        "published_date": "2026-07-01",
+        "title": "Archer Materials와 IonQ의 전략적 계약",
+        "logNo": "224332800385",
+        "url": "https://blog.naver.com/4-fire/224332800385",
+        "github_archive": "posts/2026/2026-07-01-224332800385.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 0,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-07-01",
+        "title": "The FY2027 Department of War Budget, Golden Dome, and the Companies Positioned to Benefit",
+        "url": "https://netcreat.substack.com/p/the-fy2027-department-of-war-budget",
+        "slug": "the-fy2027-department-of-war-budget"
+      },
+      "naver": {
+        "published_date": "2026-06-29",
+        "title": "DoW 2027년 예산 편성내역과 골든돔",
+        "logNo": "224330776557",
+        "url": "https://blog.naver.com/4-fire/224330776557",
+        "github_archive": "posts/2026/2026-06-29-224330776557.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 2,
+      "match_confidence": "high"
+    },
+    {
+      "substack": {
+        "published_date": "2026-06-30",
+        "title": "What It Means When Third-Party Satellites Connect to the Space Backbone Through Starlink Mini Laser",
+        "url": "https://netcreat.substack.com/p/what-it-means-when-third-party-satellites",
+        "slug": "what-it-means-when-third-party-satellites"
+      },
+      "naver": {
+        "published_date": "2026-06-29",
+        "title": "서드파티 위성이 Starlink Mini Laser를 통해 우주 백본에 연결되는 의미",
+        "logNo": "224331049999",
+        "url": "https://blog.naver.com/4-fire/224331049999",
+        "github_archive": "posts/2026/2026-06-29-224331049999.md"
+      },
+      "relationship": "one_to_one",
+      "date_difference_days_substack_minus_naver": 1,
+      "match_confidence": "high"
+    }
+  ]
+}
