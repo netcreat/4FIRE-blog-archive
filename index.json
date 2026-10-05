@@ -1,0 +1,406 @@
+{
+  "blog": "4FIRE",
+  "rss": "https://rss.blog.naver.com/4-fire.xml",
+  "posts": [
+    {
+      "date": "2026-10-04",
+      "published": "2026-10-04T14:54:14+11:00",
+      "title": "NSA의 국가안보시스템 전환과 새로운 투자 기회",
+      "source": "https://blog.naver.com/4-fire/224431017441?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-10-04-b0cf42211556.md",
+      "characters": 438
+    },
+    {
+      "date": "2026-10-03",
+      "published": "2026-10-03T22:04:01+10:00",
+      "title": "IonQ는 왜 BB5·BB7·GB8을 함께 사용하는가?",
+      "source": "https://blog.naver.com/4-fire/224430550598?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-10-03-1134731f799f.md",
+      "characters": 399
+    },
+    {
+      "date": "2026-10-03",
+      "published": "2026-10-03T11:39:45+10:00",
+      "title": "Understanding Quantum Technologies 2026 Part 5",
+      "source": "https://blog.naver.com/4-fire/224430148490?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-10-03-370493818cdf.md",
+      "characters": 405
+    },
+    {
+      "date": "2026-10-02",
+      "published": "2026-10-02T15:56:56+10:00",
+      "title": "Understanding Quantum Technologies 2026 Part 4",
+      "source": "https://blog.naver.com/4-fire/224429425295?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-10-02-9983844d1683.md",
+      "characters": 405
+    },
+    {
+      "date": "2026-10-02",
+      "published": "2026-10-02T10:32:53+10:00",
+      "title": "Understanding Quantum Technologies 2026 Part 3",
+      "source": "https://blog.naver.com/4-fire/224429090037?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-10-02-cbefeab85d19.md",
+      "characters": 405
+    },
+    {
+      "date": "2026-10-02",
+      "published": "2026-10-02T00:48:55+10:00",
+      "title": "HBM 디스펙 이후, NVIDIA가 바꾸려는 것은 무엇인가?",
+      "source": "https://blog.naver.com/4-fire/224428808831?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-10-02-dc6cdad938c8.md",
+      "characters": 404
+    },
+    {
+      "date": "2026-10-01",
+      "published": "2026-10-01T19:02:32+10:00",
+      "title": "논리 큐비트 800개를 향한 코드 설계: Walking Cat과 신규 qLDPC 연구를 함께 읽기",
+      "source": "https://blog.naver.com/4-fire/224428509000?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-10-01-ecaf8a837165.md",
+      "characters": 387
+    },
+    {
+      "date": "2026-10-01",
+      "published": "2026-10-01T13:47:14+10:00",
+      "title": "Understanding Quantum Technologies 2026 Part 2",
+      "source": "https://blog.naver.com/4-fire/224428141474?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-10-01-045739da3526.md",
+      "characters": 405
+    },
+    {
+      "date": "2026-09-30",
+      "published": "2026-09-30T23:47:26+10:00",
+      "title": "NATO 양자 로드맵 공개, 그런데 양자컴퓨팅 RFP는 이미 끝났다",
+      "source": "https://blog.naver.com/4-fire/224427575765?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-30-b977fc68d8b6.md",
+      "characters": 493
+    },
+    {
+      "date": "2026-09-30",
+      "published": "2026-09-30T15:14:32+10:00",
+      "title": "Understanding Quantum Technologies 2026 Part 1",
+      "source": "https://blog.naver.com/4-fire/224427057259?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-30-ae0fe5fd4073.md",
+      "characters": 405
+    },
+    {
+      "date": "2026-09-30",
+      "published": "2026-09-30T11:49:47+10:00",
+      "title": "LITE·COHR·GLW·LPTH·MRVL·AVGO·AAOI",
+      "source": "https://blog.naver.com/4-fire/224426825573?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-30-b79e18f930ec.md",
+      "characters": 409
+    },
+    {
+      "date": "2026-09-29",
+      "published": "2026-09-29T16:36:32+10:00",
+      "title": "중국의 양자 추격, 이제 QPU가 아니라 생태계를 봐야 한다",
+      "source": "https://blog.naver.com/4-fire/224426013000?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-29-2a819b2ed174.md",
+      "characters": 373
+    },
+    {
+      "date": "2026-09-28",
+      "published": "2026-09-28T23:29:26+10:00",
+      "title": "Nexus Photonics의 100GHz가 의미하는 것 — Broadcom과 1.6T에서 보이는 새로운 퍼즐",
+      "source": "https://blog.naver.com/4-fire/224425266846?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-28-0641115831b1.md",
+      "characters": 398
+    },
+    {
+      "date": "2026-09-27",
+      "published": "2026-09-27T16:46:06+10:00",
+      "title": "QEC의 논리큐비트와 거리(distance)",
+      "source": "https://blog.naver.com/4-fire/224423875670?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-27-d702998ec7fc.md",
+      "characters": 0
+    },
+    {
+      "date": "2026-09-26",
+      "published": "2026-09-26T14:59:17+10:00",
+      "title": "30개의 논리 큐비트는 정말 30개의 논리 큐비트일까? — Infleqtion과 Scalable Logical Qubit",
+      "source": "https://blog.naver.com/4-fire/224423086406?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-26-10f994280c70.md",
+      "characters": 460
+    },
+    {
+      "date": "2026-09-25",
+      "published": "2026-09-25T13:49:19+10:00",
+      "title": "IonQ의 또 다른 큰 그림 — Nexus Photonics는 양자산업의 새로운 Pick & Shovel이 될 수 있을까?",
+      "source": "https://blog.naver.com/4-fire/224422396636?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-25-bfdb09837661.md",
+      "characters": 425
+    },
+    {
+      "date": "2026-09-24",
+      "published": "2026-09-24T23:54:41+10:00",
+      "title": "IonQ Superion 256, FIU에 판매. 양자 네트워킹에서 컴퓨팅까지 이어지는 새로운 사업 구조",
+      "source": "https://blog.naver.com/4-fire/224422062043?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-24-d2d2f4787684.md",
+      "characters": 396
+    },
+    {
+      "date": "2026-09-24",
+      "published": "2026-09-24T22:34:44+10:00",
+      "title": "IonQ 소프트 디코딩 논문 완전 해설: 580배 오류 억제부터 논리 큐비트 수명 13.66초까지",
+      "source": "https://blog.naver.com/4-fire/224422011850?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-24-6fa1763e24bf.md",
+      "characters": 420
+    },
+    {
+      "date": "2026-09-24",
+      "published": "2026-09-24T00:53:49+10:00",
+      "title": "IonQ·NVIDIA·ORNL·EPB — 양자 슈퍼컴퓨팅의 퍼즐이 맞춰지기 시작했다",
+      "source": "https://blog.naver.com/4-fire/224421379356?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-24-0f88f5382b2b.md",
+      "characters": 393
+    },
+    {
+      "date": "2026-09-23",
+      "published": "2026-09-23T19:14:48+10:00",
+      "title": "열심히 배워서 남주자 — 커피 한잔 후원 오픈",
+      "source": "https://blog.naver.com/4-fire/224421146774?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-23-922ce7ba9f89.md",
+      "characters": 369
+    },
+    {
+      "date": "2026-09-23",
+      "published": "2026-09-23T17:46:46+10:00",
+      "title": "IonQ의 바이오 산업 진출: 단백질 접힘에서 신약개발·제조·IP 확보까지",
+      "source": "https://blog.naver.com/4-fire/224421068841?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-23-09c5ce907fd4.md",
+      "characters": 455
+    },
+    {
+      "date": "2026-09-23",
+      "published": "2026-09-23T09:47:39+10:00",
+      "title": "주식 투자는 절대평가가 아닌 상대평가다",
+      "source": "https://blog.naver.com/4-fire/224420579441?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-23-911958fe708a.md",
+      "characters": 354
+    },
+    {
+      "date": "2026-09-22",
+      "published": "2026-09-22T23:29:21+10:00",
+      "title": "인텔 CEO 립부 탄의 양자컴퓨팅 투자 전략",
+      "source": "https://blog.naver.com/4-fire/224420297839?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-22-c71a7ba21f48.md",
+      "characters": 379
+    },
+    {
+      "date": "2026-09-22",
+      "published": "2026-09-22T20:17:39+10:00",
+      "title": "크리스 먼로의 광학 집게 연구, IonQ는 왜 EQC 이후의 기술까지 연구하는가?",
+      "source": "https://blog.naver.com/4-fire/224420150495?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-22-18ffb680c2cf.md",
+      "characters": 394
+    },
+    {
+      "date": "2026-09-22",
+      "published": "2026-09-22T18:53:35+10:00",
+      "title": "미국이 그린란드에서 얻는 것 — 북극 안보 재편과 투자자가 봐야 할 기업들",
+      "source": "https://blog.naver.com/4-fire/224420079308?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-22-cac20f5d238f.md",
+      "characters": 357
+    },
+    {
+      "date": "2026-09-22",
+      "published": "2026-09-22T15:51:38+10:00",
+      "title": "IonQ와 SDT의 전략적 협력 — 한국의 양자컴퓨터 제조거점과 암센터 프로젝트가 연결되는 이유",
+      "source": "https://blog.naver.com/4-fire/224419854098?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-22-747f3c842da1.md",
+      "characters": 373
+    },
+    {
+      "date": "2026-09-21",
+      "published": "2026-09-21T21:09:24+10:00",
+      "title": "IonQ의 네 가지 양자 응용 연구 — AI, 산업용 HPC, 단백질 접힘을 관통하는 하나의 전략",
+      "source": "https://blog.naver.com/4-fire/224419051220?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-21-8f27d095636e.md",
+      "characters": 361
+    },
+    {
+      "date": "2026-09-21",
+      "published": "2026-09-21T15:16:12+10:00",
+      "title": "IonQ의 100만 큐비트 확장 전략 — SkyWater, 양자산업의 반도체 제조 플랫폼이 될 수 있을까?",
+      "source": "https://blog.naver.com/4-fire/224418682921?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-21-72dbfd9ffd50.md",
+      "characters": 414
+    },
+    {
+      "date": "2026-09-20",
+      "published": "2026-09-20T22:13:20+10:00",
+      "title": "IonQ Superion 10K — 800 Logical Qubits의 비밀은 새로운 QEC 코드에 있을까?",
+      "source": "https://blog.naver.com/4-fire/224417992062?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-20-982f2a7ffbd6.md",
+      "characters": 434
+    },
+    {
+      "date": "2026-09-20",
+      "published": "2026-09-20T13:31:06+10:00",
+      "title": "BWX Technologies(BWXT) 투자 분석 업데이트 — 실적은 성장하는데 주가는 왜 계속 하락할까?",
+      "source": "https://blog.naver.com/4-fire/224417645768?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-20-f077a2eacca6.md",
+      "characters": 374
+    },
+    {
+      "date": "2026-09-20",
+      "published": "2026-09-20T10:19:12+10:00",
+      "title": "IonQ Superion 256 vs 10K — 능동 CMOS가 바꾸는 양자컴퓨터의 제어 방식",
+      "source": "https://blog.naver.com/4-fire/224417528589?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-20-c15055508cce.md",
+      "characters": 416
+    },
+    {
+      "date": "2026-09-19",
+      "published": "2026-09-19T21:06:04+10:00",
+      "title": "미국 과학의 황금시대, 이제 각 기관이 움직이기 시작했다 — DOE·NSF·NIST·NASA·DOW의 실행계획과 양자기술 전략",
+      "source": "https://blog.naver.com/4-fire/224417175293?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-19-9feaa03a2386.md",
+      "characters": 418
+    },
+    {
+      "date": "2026-09-19",
+      "published": "2026-09-19T07:59:06+10:00",
+      "title": "DOE·NSF·NIST가 동시에 움직인 이유 — ‘Science: A New Golden Age’의 숨은 타임라인",
+      "source": "https://blog.naver.com/4-fire/224416696918?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-19-7886d5674edb.md",
+      "characters": 446
+    },
+    {
+      "date": "2026-09-18",
+      "published": "2026-09-18T17:43:44+10:00",
+      "title": "2028 양자 시계가 시작됐다 — DOE가 정한 진짜 FTQC의 기준과 업체별 현재 위치",
+      "source": "https://blog.naver.com/4-fire/224416205363?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-18-fe2d1247a636.md",
+      "characters": 464
+    },
+    {
+      "date": "2026-09-17",
+      "published": "2026-09-17T21:38:45+10:00",
+      "title": "Walking Cat을 256Qubit에 넣으면 어떻게 되는가?",
+      "source": "https://blog.naver.com/4-fire/224415285596?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-17-cf6044e63445.md",
+      "characters": 467
+    },
+    {
+      "date": "2026-09-14",
+      "published": "2026-09-14T03:59:05+10:00",
+      "title": "IonQ Investor Day 2026 (4) - Tiling이란?",
+      "source": "https://blog.naver.com/4-fire/224410686481?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-14-1a4689f64c4d.md",
+      "characters": 416
+    },
+    {
+      "date": "2026-09-13",
+      "published": "2026-09-13T02:31:17+10:00",
+      "title": "IonQ Investor Day 2026 (3) - 256-bit ECC를 깨는 ‘설계도’를 공개",
+      "source": "https://blog.naver.com/4-fire/224409778136?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-13-3d09ee58de53.md",
+      "characters": 491
+    },
+    {
+      "date": "2026-09-12",
+      "published": "2026-09-12T11:40:20+10:00",
+      "title": "IonQ Investor Day 2026 (2) - Superion의 실체",
+      "source": "https://blog.naver.com/4-fire/224409158640?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-12-17e1b7dbad13.md",
+      "characters": 412
+    },
+    {
+      "date": "2026-09-11",
+      "published": "2026-09-11T14:50:11+10:00",
+      "title": "IonQ Investor Day 2026 (1) - 애널리스트 Q&A",
+      "source": "https://blog.naver.com/4-fire/224408261414?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-11-d780170de68c.md",
+      "characters": 403
+    },
+    {
+      "date": "2026-09-10",
+      "published": "2026-09-10T15:26:30+10:00",
+      "title": "IonQ Investor Day 2026, 왜 주가는 오르지 않았나",
+      "source": "https://blog.naver.com/4-fire/224407142729?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-10-c54228c5a706.md",
+      "characters": 429
+    },
+    {
+      "date": "2026-09-10",
+      "published": "2026-09-10T00:51:58+10:00",
+      "title": "1kHz를 넘은 Quantum Interconnect와 Quantum Foundry - IonQ Investor Day 2026",
+      "source": "https://blog.naver.com/4-fire/224406536001?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-10-236b7e51f29f.md",
+      "characters": 477
+    },
+    {
+      "date": "2026-09-08",
+      "published": "2026-09-08T01:01:07+10:00",
+      "title": "IonQ의 Upgrade는 어떻게 이루어질까? — Tempo에서 256, 그리고 10K까지",
+      "source": "https://blog.naver.com/4-fire/224404206456?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-08-2c0ceb2b6c3b.md",
+      "characters": 391
+    },
+    {
+      "date": "2026-09-08",
+      "published": "2026-09-08T00:16:36+10:00",
+      "title": "IonQ 256의 진짜 전략 — 추가 구매가 최선, 업그레이드는 생태계 확장의 차선책",
+      "source": "https://blog.naver.com/4-fire/224404169457?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-08-79c8e463d4b0.md",
+      "characters": 460
+    },
+    {
+      "date": "2026-09-07",
+      "published": "2026-09-07T19:46:34+10:00",
+      "title": "✈️ 태평양 상공에서 13.5Mbps — Hawaiian A330-200의 Starlink는 어떻게 작동할까",
+      "source": "https://blog.naver.com/4-fire/224403933916?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-07-2e79925d4c36.md",
+      "characters": 419
+    },
+    {
+      "date": "2026-09-07",
+      "published": "2026-09-07T03:05:17+10:00",
+      "title": "유럽에는 이미 Ariane과 Vega가 있었다 — 그런데 왜 Isar Aerospace의 성공이 중요한가",
+      "source": "https://blog.naver.com/4-fire/224403108870?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-07-e96ef9ccccaa.md",
+      "characters": 407
+    },
+    {
+      "date": "2026-09-06",
+      "published": "2026-09-06T14:59:24+10:00",
+      "title": "값싼 공격, 비싼 방어 — 무너진 공수 균형을 누가 바꿀 것인가",
+      "source": "https://blog.naver.com/4-fire/224402591109?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-06-497b1df9e4a1.md",
+      "characters": 439
+    },
+    {
+      "date": "2026-09-05",
+      "published": "2026-09-05T14:06:21+10:00",
+      "title": "AFRL과 IonQ가 Rome에서 만들고 있는 Ground–Air–Space Quantum Network",
+      "source": "https://blog.naver.com/4-fire/224401766164?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-05-3594d6f129d6.md",
+      "characters": 390
+    },
+    {
+      "date": "2026-09-05",
+      "published": "2026-09-05T01:17:49+10:00",
+      "title": "IonQ는 AFRL에 도대체 몇 대의 양자컴퓨터를 납품한 것일까?",
+      "source": "https://blog.naver.com/4-fire/224401409839?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-05-067f95e65f91.md",
+      "characters": 399
+    },
+    {
+      "date": "2026-09-04",
+      "published": "2026-09-04T21:56:42+10:00",
+      "title": "Planet Labs FY2027 Q2 실적 — 숫자는 거의 완벽하다. 이제 봐야 할 것은 Backlog의 전환 속도다",
+      "source": "https://blog.naver.com/4-fire/224401260268?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-04-2fc1d85c226e.md",
+      "characters": 396
+    },
+    {
+      "date": "2026-09-04",
+      "published": "2026-09-04T10:47:36+10:00",
+      "title": "FBI까지 움직이기 시작했다 — 미국의 양자정책은 이제 ‘연구 지원’ 단계를 넘어섰다",
+      "source": "https://blog.naver.com/4-fire/224400548336?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026-09-04-bd9e6735122a.md",
+      "characters": 429
+    }
+  ]
+}

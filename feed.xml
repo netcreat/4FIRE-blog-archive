@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:activity="http://activitystrea.ms/spec/1.0/"
+     version="2.0">
+
+    
+    
+    
+    
+    
+    
+    <channel>
+        
+            <title><![CDATA[4FIRE - 열심히 배워서 남주자]]></title>
+            <link><![CDATA[https://blog.naver.com/4-fire?fromRss=true&trackingCode=rss]]></link>
+            <image>
+                <url><![CDATA[http://blogpfthumb.phinf.naver.net/MjAyNTA2MjFfMjgx/MDAxNzUwNDk1ODk4MTQ2.BSHs4fNWYzTwdSp27RHU2jD3XhODJ12ughDbVR_1Hhgg.2Jb2b_MmK5lDej0Ogm36B_VViBoDHhBiXM2kciaTTVsg.PNG/ChatGPT_Image_2025%EB%85%84_6%EC%9B%94_21%EC%9D%BC_%EC%98%A4%ED%9B%84_06_50_51.png/ChatGPT%2BImage%2B2025%25EB%2585%2584%2B6%25EC%259B%2594%2B21%25EC%259D%25BC%2B%25EC%2598%25A4%25ED%259B%2584%2B06_50_51.png?type=m2]]></url>
+                <title><![CDATA[4FIRE - 열심히 배워서 남주자]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire?fromRss=true&trackingCode=rss]]></link>
+            </image>
+            <description><![CDATA[배워서 남주나?]]></description>
+            <language>ko</language>
+            <generator>Naver Blog</generator>
+            <pubDate>Mon, 05 Oct 2026 11:49:31 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[News]]></category>
+                <title><![CDATA[NSA의 국가안보시스템 전환과 새로운 투자 기회]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224431017441?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224431017441</guid>
+                
+                <description><![CDATA[✅ 양자컴퓨터가 등장하기 전에 보안망부터 바꾼다 2026년 10월 1일, 미국 국가안보국(NSA)이 양자컴퓨터의 위협으로부터 국가안보시스템(NSS)을 보호하기 위한 새로운 발표를 내놓았다. https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4615285/nsa-announces-post-quantum-cryptography-measures-to-safeguard-national-security/ 발표의 핵심은 2027년부터 도입되는 신규 상용 국가안보시스템에 양자내성암호(PQC) 지원을 요구하고, 이를 지원하지 못하는 기존 시스템은 2030년까지 단계적으로 퇴출한다는 내용이다. 하지만 이를 새로운 정책이라고 보기는 어렵다. 미국 정부는 이미 2022년부터 NSS의....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDRfMTUy/MDAxNzkxMDgxNDM2Mjg5.ceaZK0CZ0z--Igy-ev-HHL4yYE3nYu5RjV7oxWuaZtkg.b978-07auE4xpMd5vfsHrLTaAoqTzMdqvBRw9nSkILYg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sun, 04 Oct 2026 12:54:14 +0900</pubDate>
+                <tag><![CDATA[NSA,NSS,PQC,IonQ,CNSA]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[QEC]]></category>
+                <title><![CDATA[IonQ는 왜 BB5·BB7·GB8을 함께 사용하는가?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224430550598?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224430550598</guid>
+                
+                <description><![CDATA[✅ 오류정정 코드의 구조와 Walking Cat 아키텍처 분석 IonQ의 양자 오류정정 기술을 이해하려면 단순히 물리 큐비트가 몇 개인지보다 어떤 오류정정 코드를 사용하고, 그 코드를 실제 하드웨어에서 어떻게 실행하는지 살펴봐야 한다. IonQ의 2025년 연구에서는 기존 BB6 코드를 개선한 BB5 코드가 등장했다. 그리고 2026년 10월 1일에는 BB5와 신드롬 추출 최적화 기술을 포함한 미국 특허출원이 공개됐다. 이에 대한 자세한 내용은 이미 다룬 바 있다. 2026년 4월 공개된 Walking Cat Architecture에서는 BB7 기반 Q70, GB8 기반 Q54와 Q102라는 세 가지 주요 코드가 제시됐다. 여기서 몇 가지 중요한 질문이 생긴다. 안정자 Weight가 낮으면 오....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDNfMTk5/MDAxNzkxMDIzMjIwMjEx.IQ8J5LZXFX7jRn2ANp3p4cGYWP6k5-SeyLBMpjjLCAgg.vD9xRVKH7pwuvbUIa4TzdPzu6h-tMRNia_y_NA4a43Yg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sat, 03 Oct 2026 21:04:01 +0900</pubDate>
+                <tag><![CDATA[BB,GB,Walking,Cat,IonQ]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Series]]></category>
+                <title><![CDATA[Understanding Quantum Technologies 2026 Part 5]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224430148490?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224430148490</guid>
+                
+                <description><![CDATA[✅ 서론 — 1,822페이지짜리 양자기술 보고서를 5편으로 나눠 읽어본다 양자컴퓨팅을 보다 보면 어느 순간부터 개별 기술이나 기업만 따라가서는 전체 그림이 잘 보이지 않는다. 물리 큐비트 수가 많다고 좋은 양자컴퓨터가 되는 것도 아니고, 논리 큐비트를 만들었다고 곧바로 FTQC가 되는 것도 아니다. 좋은 하드웨어가 있어도 실제로 의미 있는 알고리즘이 없으면 소용이 없고, 알고리즘이 있어도 classical computer보다 실제로 우위가 있는지 따져봐야 한다. 더 나아가 QPU를 서로 연결하는 기술, quantum communication과 sensing, 이를 뒷받침하는 photonics·cryogenics·semiconductor·control electronics, 그리고 국가 정책·자본·인재·공....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDNfMTQ1/MDAxNzkwOTg3NTE4Mzc3.7T5Z8IUPgGnK-7rP4IcYkinPvi86_dN9qhyDSIO5RvQg.0GUP0Wy1a9XGJqWhcNGYX4l6t5ku9PipaUICWKvoiWEg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sat, 03 Oct 2026 10:39:45 +0900</pubDate>
+                <tag><![CDATA[Olivier,Ezratty,Understanding,Quantum,Technologies,2026]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Series]]></category>
+                <title><![CDATA[Understanding Quantum Technologies 2026 Part 4]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224429425295?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224429425295</guid>
+                
+                <description><![CDATA[✅ 서론 — 1,822페이지짜리 양자기술 보고서를 5편으로 나눠 읽어본다 양자컴퓨팅을 보다 보면 어느 순간부터 개별 기술이나 기업만 따라가서는 전체 그림이 잘 보이지 않는다. 물리 큐비트 수가 많다고 좋은 양자컴퓨터가 되는 것도 아니고, 논리 큐비트를 만들었다고 곧바로 FTQC가 되는 것도 아니다. 좋은 하드웨어가 있어도 실제로 의미 있는 알고리즘이 없으면 소용이 없고, 알고리즘이 있어도 classical computer보다 실제로 우위가 있는지 따져봐야 한다. 더 나아가 QPU를 서로 연결하는 기술, quantum communication과 sensing, 이를 뒷받침하는 photonics·cryogenics·semiconductor·control electronics, 그리고 국가 정책·자본·인재·공....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDJfMjA5/MDAxNzkwOTE3NDg3Mjcy.-M3shKKRWRnfQh2BZ-dLORR32Le89-bgIry-bZIFmf4g.nTfrpGKfdJvpF_S4ZqoSsq1kb1vJrxj2gBI2U5UxiTMg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Fri, 02 Oct 2026 14:56:56 +0900</pubDate>
+                <tag><![CDATA[Olivier,Ezratty,Understanding,Quantum,Technologies,2026]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Series]]></category>
+                <title><![CDATA[Understanding Quantum Technologies 2026 Part 3]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224429090037?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224429090037</guid>
+                
+                <description><![CDATA[✅ 서론 — 1,822페이지짜리 양자기술 보고서를 5편으로 나눠 읽어본다 양자컴퓨팅을 보다 보면 어느 순간부터 개별 기술이나 기업만 따라가서는 전체 그림이 잘 보이지 않는다. 물리 큐비트 수가 많다고 좋은 양자컴퓨터가 되는 것도 아니고, 논리 큐비트를 만들었다고 곧바로 FTQC가 되는 것도 아니다. 좋은 하드웨어가 있어도 실제로 의미 있는 알고리즘이 없으면 소용이 없고, 알고리즘이 있어도 classical computer보다 실제로 우위가 있는지 따져봐야 한다. 더 나아가 QPU를 서로 연결하는 기술, quantum communication과 sensing, 이를 뒷받침하는 photonics·cryogenics·semiconductor·control electronics, 그리고 국가 정책·자본·인재·공....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDJfMjM0/MDAxNzkwODk2OTQ2MTAw.szj4wUJNYYvAGocKHII9fvjYUrN-CnsQiJZvnHPCceYg.bBJPMARKpBkcB0ab8xEm8U7KUko36-D7ntVlNMBMQpYg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Fri, 02 Oct 2026 09:32:53 +0900</pubDate>
+                <tag><![CDATA[Olivier,Ezratty,Understanding,Quantum,Technologies,2026]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[NVIDIA]]></category>
+                <title><![CDATA[HBM 디스펙 이후, NVIDIA가 바꾸려는 것은 무엇인가?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224428808831?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224428808831</guid>
+                
+                <description><![CDATA[✅ 1. HBM 디스펙 논란, 정말 수요가 줄어드는 것일까? 2026년 9월 30일 Micron의 회계연도 4분기 실적 발표에서 흥미로운 질문이 등장했다. TD Cowen의 Krish Sankar는 Micron CEO인 Sanjay Mehrotra에게 한 대형 고객이 HBM 사양을 낮추고 있다는 소문을 어떻게 생각하는지 질문했다. HBM의 생산에 많은 DRAM 웨이퍼가 투입되는 만큼, 사양을 낮추고 남은 생산능력을 일반 DDR 생산으로 전환하면 공급에 어떤 변화가 생길지도 물었다. 해당 고객의 이름이 공개적으로 확인된 것은 아니지만, 시장에서는 NVIDIA의 차세대 Rubin Ultra를 중심으로 이 문제를 논의하고 있다. 사실 이번 논란은 갑자기 등장한 이야기가 아니다. TrendForce는 이미 8....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDFfMjEx/MDAxNzkwODY1ODUzNDA0.EBmBGFSHGTM_jH0LdZ9Qysdt-uJfQeN-VgCtAb2vuncg.BD_xJCrKlGjnYUZepFI4aHEG-Kf1B6YihX9cT99Efpcg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Thu, 01 Oct 2026 23:48:55 +0900</pubDate>
+                <tag><![CDATA[HBM,NVIDIA,NVDA,NVHBM,디스태킹,Marvell,PFMM,PNM]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[QEC]]></category>
+                <title><![CDATA[논리 큐비트 800개를 향한 코드 설계: Walking Cat과 신규 qLDPC 연구를 함께 읽기]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224428509000?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224428509000</guid>
+                
+                <description><![CDATA[✅ 1. 실시간 디코더 논쟁에서 시작된 질문 최근 Michaela Eichinger와 IonQ의 QEC 연구 책임자 Nicolas Delfosse가 주고받은 의견은 양자 오류 정정 성과를 어떻게 읽어야 하는지 보여준다. Michaela의 문제 제기는 다음과 같다. 실제 양자 하드웨어와 디코더를 연결한 실시간 QEC는 이미 선행 연구가 있다. IonQ의 이번 연구는 시뮬레이션으로 생성한 데이터를 실제 CPU에서 디코딩한 성과다. 따라서 독자가 발표를 보고 “IonQ가 수백 개 논리큐비트를 실제로 구동하며 실시간 오류정정을 했다”고 이해하면, 연구가 입증한 범위를 넘어선다. 연구 자체는 훌륭하지만, ‘최초’와 ‘종단 간’이라는 표현은 범위를 분명히 해야 한다. Michaela....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDFfMSAg/MDAxNzkwODM1ODIxOTM1._7ldbh2H01_RMfDoUwrhH1FMjt86XEt-rhQcLz1ZM84g.UX19JCkWS6WMl5-8kH68Wa1T_xgo3JN5MF7n45wCk3Yg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Thu, 01 Oct 2026 18:02:32 +0900</pubDate>
+                <tag><![CDATA[800,논리큐비트,Walking,Cat]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Series]]></category>
+                <title><![CDATA[Understanding Quantum Technologies 2026 Part 2]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224428141474?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224428141474</guid>
+                
+                <description><![CDATA[✅ 서론 — 1,822페이지짜리 양자기술 보고서를 5편으로 나눠 읽어본다 양자컴퓨팅을 보다 보면 어느 순간부터 개별 기술이나 기업만 따라가서는 전체 그림이 잘 보이지 않는다. 물리 큐비트 수가 많다고 좋은 양자컴퓨터가 되는 것도 아니고, 논리 큐비트를 만들었다고 곧바로 FTQC가 되는 것도 아니다. 좋은 하드웨어가 있어도 실제로 의미 있는 알고리즘이 없으면 소용이 없고, 알고리즘이 있어도 classical computer보다 실제로 우위가 있는지 따져봐야 한다. 더 나아가 QPU를 서로 연결하는 기술, quantum communication과 sensing, 이를 뒷받침하는 photonics·cryogenics·semiconductor·control electronics, 그리고 국가 정책·자본·인재·공....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDFfMjI0/MDAxNzkwODE2MTg3MzM2.Pa8Jwr3cXcFtNccB9PuxqlgkZPCDRdY6yV94_NQXyyMg.0_jIEeUpczO1UuPyWBJSrETp8xK6NMXImuChIbTLFkUg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Thu, 01 Oct 2026 12:47:14 +0900</pubDate>
+                <tag><![CDATA[Olivier,Ezratty,Understanding,Quantum,Technologies,2026]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[News]]></category>
+                <title><![CDATA[NATO 양자 로드맵 공개, 그런데 양자컴퓨팅 RFP는 이미 끝났다]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224427575765?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224427575765</guid>
+                
+                <description><![CDATA[✅ NATO 양자 로드맵 공개 — 그런데 양자컴퓨팅 RFP는 이미 마감됐다 NATO가 9월 29일 Quantum Technology Roadmap을 공개했다. https://www.nato.int/en/news-and-events/articles/news/2026/09/29/nato-releases-quantum-technology-roadmap https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2026/09/29/quantum-technology-roadmap 언뜻 보면 이제 NATO가 양자기술 사업을 시작하려는 것처럼 보이지만, 실제 흐름을 따라가 보면 조금 다르다. 이번 로드맵은 하나의 새로운 양자 프로젝트를 발표한 문서가 아니라 Quantum Computing·Quantum Communication·Quantum Sensing을 모두 포괄하는 NATO 전체 양자전략....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MzBfMyAg/MDAxNzkwNzc1OTQzNjE1.FD5nkjhKQkV-568BtGWL6RNq_uJq9VfBSgjE1eQM1vEg.9fuNW09hEEUFxaJ_vtgG7htIiK6nRKjx8vD9OrdvLksg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Wed, 30 Sep 2026 22:47:26 +0900</pubDate>
+                <tag><![CDATA[NATO,FAASQ,QZBP]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Series]]></category>
+                <title><![CDATA[Understanding Quantum Technologies 2026 Part 1]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224427057259?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224427057259</guid>
+                
+                <description><![CDATA[✅ 서론 — 1,822페이지짜리 양자기술 보고서를 5편으로 나눠 읽어본다 양자컴퓨팅을 보다 보면 어느 순간부터 개별 기술이나 기업만 따라가서는 전체 그림이 잘 보이지 않는다. 물리 큐비트 수가 많다고 좋은 양자컴퓨터가 되는 것도 아니고, 논리 큐비트를 만들었다고 곧바로 FTQC가 되는 것도 아니다. 좋은 하드웨어가 있어도 실제로 의미 있는 알고리즘이 없으면 소용이 없고, 알고리즘이 있어도 classical computer보다 실제로 우위가 있는지 따져봐야 한다. 더 나아가 QPU를 서로 연결하는 기술, quantum communication과 sensing, 이를 뒷받침하는 photonics·cryogenics·semiconductor·control electronics, 그리고 국가 정책·자본·인재·공....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MzBfMTEy/MDAxNzkwNzQ0NTU3MTYz.tSkms_4BWEXK43PrSciYMmJNr7rXzAOYJGzr3oveLZYg.378xBIlh761Y5pQLXbQywJQQlQ0XDgOV-I3dUaqjvC4g.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Wed, 30 Sep 2026 14:14:32 +0900</pubDate>
+                <tag><![CDATA[Olivier,Ezratty,Understanding,Quantum,Technologies,2026]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Computing]]></category>
+                <title><![CDATA[LITE·COHR·GLW·LPTH·MRVL·AVGO·AAOI]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224426825573?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224426825573</guid>
+                
+                <description><![CDATA[✅ 기술 경쟁력·시장 크기·미래 TAM·밸류에이션을 하나로 합친 포토닉스/AI 인프라 종합 리포트 기준 시점: 2026년 9월 말 이 7개 기업을 단순히 ‘광학주’, ‘포토닉스주’, 심지어 ‘양자 관련주’라는 하나의 카테고리로 묶으면 산업 구조를 거의 이해할 수 없다. Lumentum(LITE)과 Coherent(COHR)는 실제로 빛을 만들고 변조하고 증폭하고 스위칭하는 active photonics가 핵심이다. Corning(GLW)은 빛이 이동하는 광섬유와 유리·케이블·커넥티비티라는 물리 인프라에 강하다. LightPath Technologies(LPTH)는 통신 광학보다 IR 소재·렌즈·열화상·방산 시스템에 가깝다. 반면 Marvell(MRVL)과 Broadcom(AVGO)은 광자를 직접 만드는 회사라기....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MzBfMTUg/MDAxNzkwNzMxNjc5MDg4.NmnROCcmtvd7OGGa3ZQsG53_HTrfcNBAajSnCzfTWSUg.TL_Q49DJ59eQmHJpIw-WWANgK0nqaSjiMoGtE4Hpqgkg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Wed, 30 Sep 2026 10:49:47 +0900</pubDate>
+                <tag><![CDATA[COHR,LITE,GLW,LPTH,MRVL,AVGO,AAOI]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Computing]]></category>
+                <title><![CDATA[중국의 양자 추격, 이제 QPU가 아니라 생태계를 봐야 한다]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224426013000?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224426013000</guid>
+                <description><![CDATA[✅ 8월에는 중국이 무엇을 따라오고 있는지를 봤다 지난 8월 초 「미국에서 중국으로 돌아간 양자 연구자들」이라는 포스트를 작성하면서 중국의 양자기술 추격을 꽤 긴 호흡으로 살펴본 적이 있다. 당시 관심의 출발점은 왕예(Ye Wang)를 비롯해 미국 주요 양자 연구기관에서 경험을 쌓은 연구자들이 중국으로 돌아가면서 어떤 기술들이 중국 연구생태계 안에서 다시 결합되고 있는가였다. Duke의 이온트랩 게이트와 오류제어, NIST의 QCCD와 이온 수송, JQI의 네트워크 기술, Yale과 UCSB의 초전도 기술, Stanford와 MIT의 양자통신 기술이 서로 다른 연구자들을 통해 중국으로 흘러들어갔다. 중요한 것은 한 연구자가 기술 하나를 가지고 돌아.......]]></description>
+                
+                <pubDate>Tue, 29 Sep 2026 15:36:32 +0900</pubDate>
+                <tag><![CDATA[중국,양자추격]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[Nexus Photonics의 100GHz가 의미하는 것 — Broadcom과 1.6T에서 보이는 새로운 퍼즐]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224425266846?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224425266846</guid>
+                <description><![CDATA[✅ 지난번 Broadcom·AMD·ARM 분석에서 시작된 의문 지난번 QWC에서 공개된 슬라이드를 보면서 한 가지 흥미로운 부분을 살펴봤다. IonQ의 생태계 그림에 단순한 양자컴퓨팅 업체들만 등장한 것이 아니라 Broadcom, AMD, ARM 같은 고전 컴퓨팅 핵심 업체들이 함께 등장했다는 점이었다. 당시 나는 이를 단순한 파트너 로고 모음이라기보다, 장기적으로는 양자컴퓨터가 기존 CPU·GPU·네트워크 인프라와 연결되는 구조를 염두에 둔 것일 가능성을 생각해봤다. 특히 Nexus Photonics를 공부하면서 다음과 같은 가설을 제시했다. NVIDIA가 NVQLink를 통해 GPU와 여러 종류의 QPU를 연결하는 인터페이스를 선점하려 한다면, IonQ는 Nexus Photonics를 통.......]]></description>
+                
+                <pubDate>Mon, 28 Sep 2026 22:29:26 +0900</pubDate>
+                <tag><![CDATA[Nexus,Broadcom,100GHz,NRZ,PAM4,16QAM]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[QEC]]></category>
+                <title><![CDATA[QEC의 논리큐비트와 거리(distance)]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224423875670?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224423875670</guid>
+                
+                <description><![CDATA[ <img src="https://blogthumb.pstatic.net/MjAyNjA5MjdfMTM3/MDAxNzkwNDkxNDk2MTg5.L5ZYdb8p-HvDCOMrqpATuNTNw1z3Ks9kJilseg3bV38g.jt4221uXucCDcxRky3_gGnfDJguTBtNdAlUa8fLe17gg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sun, 27 Sep 2026 15:46:06 +0900</pubDate>
+                <tag><![CDATA[QEC]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[News]]></category>
+                <title><![CDATA[30개의 논리 큐비트는 정말 30개의 논리 큐비트일까? — Infleqtion과 Scalable Logical Qubit]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224423086406?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224423086406</guid>
+                
+                <description><![CDATA[✅ 30개의 논리 큐비트가 정말 30개의 ‘논리 큐비트’인가? 며칠 전 Infleqtion이 Quantum World Congress 2026에서 상당히 눈길을 끄는 발표를 했다. https://infleqtion.com/infleqtion-achieves-30-entangled-logical-qubits-on-its-sqale-quantum-computer/ 80개의 물리 큐비트만을 이용해 30개의 entangled logical qubits를 구현했다는 내용이었다. Infleqtion은 이를 자사의 2026년 로드맵 목표 달성으로 발표했고, 중성원자 기반 상용 시스템에서 30개의 논리 큐비트를 구현했다고 설명했다. 숫자만 보면 놀랍다. Physical Qubit: 80 Logical Qubit: 30 Physical : Logical : = 8 : 3 : 3 일반적으로 오류정정을 이야기할 때는 하....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjZfMTM1/MDAxNzkwMzk0NDkwNjg5.MeybTaTsuMb_aEa0aeDVO-aIdRrHtzIzu9oJB2lx8QIg.CJxU-AarqR5aG8m6LGWSviUGVmM9ZKwF6PEQaHcdSoMg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sat, 26 Sep 2026 13:59:17 +0900</pubDate>
+                <tag><![CDATA[Infleqtion,Microsoft,Qolab,FTQC,Scale,Capability,Reliability,Performance]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ의 또 다른 큰 그림 — Nexus Photonics는 양자산업의 새로운 Pick & Shovel이 될 수 있을까?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224422396636?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224422396636</guid>
+                
+                <description><![CDATA[✅ 서론 — QWC에서 발견한 흥미로운 슬라이드 2026년 9월 23~25일 개최된 Quantum World Congress(QWC)에서 IonQ가 공개한 슬라이드 한 장이 눈에 들어왔다. 제목은 A Trusted Quantum Ecosystem for All, 즉 모두를 위한 신뢰할 수 있는 양자 생태계다. 지금까지 IonQ의 기술 로드맵을 살펴보면서 개별 기업들의 인수합병과 기술적 연결에 주목해 왔는데, 이번 슬라이드는 그동안 별개로 생각했던 사업들이 하나의 구조로 연결될 수 있다는 새로운 관점을 제공한다. 특히 Hybrid Classical Integration 계층에 등장하는 AMD, Arm, Broadcom이라는 세 기업과 그 주변에 배치된 Nexus Photonics 및 Vector Atomic이 눈길을 끌었다. 더 흥미로운 부....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjVfMTYy/MDAxNzkwMzA0NTk5NTk2.S20Ki90Ng2JOHJi8A2rOKNTDmKr2bhJUPq7AFu3Qa78g.MlgP4-ZTDmJPRsR6Hc6f2oH_bBc41zO_r5WP7fzWorIg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Fri, 25 Sep 2026 12:49:19 +0900</pubDate>
+                <tag><![CDATA[IonQ,QWC,Nexus,Photonics,ARM,BROADCOM,AMD]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ Superion 256, FIU에 판매. 양자 네트워킹에서 컴퓨팅까지 이어지는 새로운 사업 구조]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224422062043?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224422062043</guid>
+                
+                <description><![CDATA[✅ 1. 플로리다 국제대학교, Superion 256 구매 계약 체결 10시간전 트위터에 FIU 관계자와 사진찍는 모습이 올라와서 의아해 했던 기억이 난다. 그 후 IonQ가 9월 24일 플로리다 국제대학교(Florida International University, FIU)와 Superion 256 공급 계약을 체결했다고 발표했다. 이번 계약은 FIU가 클라우드를 통해 양자컴퓨터를 이용하는 수준이 아니라, 캠퍼스 내에 실제 양자컴퓨터를 설치하고 자체 연구·교육 인프라로 활용하는 계약이다. FIU는 플로리다주 내 IonQ의 핵심 학술 파트너로 자리매김하며, 지역 대학과 연구기관, 산업 파트너들이 참여하는 양자 연구·교육 허브를 구축할 계획이다.  주요 계약 내용 FIU는 약 56,000명....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjRfMzAw/MDAxNzkwMjU3MjQ5MjA4.7tIO-gZL4EPvqG1f0owYKTMyp1KhM-EVr8rvCWqUKgIg.kAUmK3ejSuwH3wpsHf1eHg92zSzG85q8tQNjGgyjkjog.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Thu, 24 Sep 2026 22:54:41 +0900</pubDate>
+                <tag><![CDATA[IonQ,FIU,SuperIon]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[QEC]]></category>
+                <title><![CDATA[IonQ 소프트 디코딩 논문 완전 해설: 580배 오류 억제부터 논리 큐비트 수명 13.66초까지]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224422011850?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224422011850</guid>
+                
+                <description><![CDATA[✅ IonQ, 새로운 디코더 기능을 추가하다. 논문: Soft decoding for quantum LDPC codes with experimental validation 발표일: 2026년 9월 22일 연구진: Arda Aydin, Edwin Tham, Min Ye, Nicolas Delfosse 소속: IonQ 및 메릴랜드대학교 ✅ 1. 논문은 세 가지 다른 실험을 하나의 성과로 소개하고 있다 이번 논문을 처음 읽었을 때 가장 혼란스러운 부분은 580배, 210배, 13.66초라는 세 가지 숫자가 서로 어떤 관계에 있는지 명확하지 않다는 점이다. 그런데 논문을 자세히 살펴보면 연구진은 세 가지 독립적인 실험을 통해 하나의 기술을 검증하고 있다. 논문의 논리적 흐름 자체에 문제가 있다기보다는, 서로 다른 대상과 평가 기준을 사용....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjRfMTA2/MDAxNzkwMjUxMTU2NzAw.3H5ACGJm9nhhl6BqmVsiWvcnOM9uftuSX3IVn9aHGdwg.daResgrQyfmwSPcJ0f6nKYawSqpMoEJh7cWTnOcNmlwg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Thu, 24 Sep 2026 21:34:44 +0900</pubDate>
+                <tag><![CDATA[IonQ,Soft,Decoding]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ·NVIDIA·ORNL·EPB — 양자 슈퍼컴퓨팅의 퍼즐이 맞춰지기 시작했다]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224421379356?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224421379356</guid>
+                
+                <description><![CDATA[✅ 들어가며 — 하루 간격으로 나온 발표, 그리고 그 뒤에 있는 연구 2026년 9월 23일, IonQ는 NVIDIA의 가속 양자 연구센터(NVAQC)에 Superion 256을 공급한다고 발표했다. 이 시스템은 NVAQC에 설치될 최초의 온프레미스 양자컴퓨터다. 바로 전날인 9월 22일, IonQ는 일반 CPU만으로도 대규모 양자 오류 정정의 실시간 디코딩을 처리할 수 있다는 연구 성과를 발표했다. 비슷한 시기에 테네시주 채터누가에서는 EPB의 IonQ Forte Enterprise가 시운전을 완료하면서, 실제 양자컴퓨터를 활용한 지역 연구 인프라가 가동 단계에 들어섰다. 개인적으로 포스트를 준비하고 있었는데, 이 뉴스가 보다 큰 까닭에 뒤로 밀렸다. 흥미롭게도 NVIDIA의 NV....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjNfMTM0/MDAxNzkwMTcxMzU5MDc0.yq7RBXzjiNJ62oug6A7hyJBj0X4mfHJkY7MWOXCiKJAg.DFhMpG71YP__ltzb9utf1rHk1pIiZf_0EcGze6KpFBcg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Wed, 23 Sep 2026 23:53:49 +0900</pubDate>
+                <tag><![CDATA[IonQ,NVIDIA,Superion256,GB200,NVL72,EPB,ORNL,NVAQC,최초,온프레미스,양자컴퓨터]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Usual Life]]></category>
+                <title><![CDATA[열심히 배워서 남주자 — 커피 한잔 후원 오픈]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224421146774?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224421146774</guid>
+                
+                <description><![CDATA[https://netcreat.substack.com/subscribe ✅ 열심히 배워서 남주자 제가 이 블로그를 운영하면서 오랫동안 지켜온 모토가 하나 있습니다. 배워서 남주냐? "네, 열심히 배워서 남도 줄겁니다." 새로운 기술을 공부하고, 논문을 읽고, 기업들의 발표 자료를 분석하다 보면 혼자 알고 있기에는 아까운 내용들을 발견할 때가 많습니다. 누군가에게는 이미 알고 있는 내용이겠지만, 또 다른 누군가에게는 새로운 세상을 이해하는 계기가 될 수도 있습니다. 제가 공부하면서 얻은 지식과 새로운 발견을 다른 분들과 나누고, 그 과정에서 저 역시 더 많은 것을 배울 수 있다는 것이 이 블로그를 운영해 온 가장 큰 즐거움입니다. 지금까지 많....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjNfNjUg/MDAxNzkwMTU0NTgxNzk3.DdRqb9gs20VPk-tRnK9rNvPRorn4Kagfwq8obHLe97Qg.qn64Jw5jkWSTtFECiJA6VkfUqrP2Gb-HJXi-PZ5ZX2cg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Wed, 23 Sep 2026 18:14:48 +0900</pubDate>
+                <tag><![CDATA[사파이어,커피후원]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ의 바이오 산업 진출: 단백질 접힘에서 신약개발·제조·IP 확보까지]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224421068841?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224421068841</guid>
+                
+                <description><![CDATA[✅ DeepTech Bio Lab IonQ Global Strategy VP이자, IonQ Canada의 MD인 Lisa Lambert가 지난주 IEEE Quantum에 대해 언급하면서 DeepTech Bio Lab을 언급했다. 실제로 CCRM과 IonQ는 이번 행사에서 바이오 치료제에 대한 양자컴퓨팅 활용을 주제로 공동 워크숍을 진행했다. Quantum Computing in Practice for Advanced Biotherapeutics 첨단 바이오 치료제 개발에서 양자컴퓨팅을 실제 업무에 적용하는 방법 참여 기관 및 발표자 CCRM — Jessica Tate IonQ — Evgeny Epifanovsky Moderna — Alexey Galda 이번 행사는 지난해 12월 발표된 IonQ와 CCRM의 전략적 파트너십이 실제 연구 협력으로 이어지고 있음을 보여주는 사례다. 당시 발표 내....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjNfMTgy/MDAxNzkwMTQ2NjE1MzU3.2vybclHdTyN05ztfahYAFPOj2XdA3lGumDTk083WLWog.0a9LNIAlubv1fGaHGmApoWpaiujPoD1hEkhOfU56NEgg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Wed, 23 Sep 2026 16:46:46 +0900</pubDate>
+                <tag><![CDATA[IonQ,CCRM,DeepTechBioLab,Lisa,Lambert]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Strategy]]></category>
+                <title><![CDATA[주식 투자는 절대평가가 아닌 상대평가다]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224420579441?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224420579441</guid>
+                
+                <description><![CDATA[✅ 또다른 의미의 타이밍 시장에서 중요한 것은 무엇을 알고 있느냐뿐만 아니라, 남들보다 언제 알아차렸느냐는 것이다. 당신의 정보가 시장보다 느리다면 투자에서 불리해질 가능성이 커진다. 반대로 시장보다 한발 앞서 있다면 선택지가 많아지고, 충분히 비교하고 판단할 수 있는 시간적 여유도 생긴다. 좋은 소식이 있는데도 주가가 오르지 않는다고 짜증 낼 필요는 없다. 그 소식의 가치를 대중보다 먼저 알아차린 것이라면, 오히려 흐뭇해할 일이다. 다만 시장이 아직 알아차리지 못한 것인지, 이미 주가에 반영된 것인지, 아니면 내가 그 가치를 잘못 판단한 것인지는 구분해야 한다. 주식시장은 집단지성으로 움직이지만, 그 집단 안에서....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjNfOTAg/MDAxNzkwMTIwNjkyMDM1.Nk10F99AsbeIIuLlTv2k4mS8EW0NUAvWq4rItF12w3Eg.Y5d9UVNVlK6G16_vWRmymZrKbonHItcnZifegjhOjSog.GIF/seo-minjung-fall.gif?type=s3" />]]></description>
+                <pubDate>Wed, 23 Sep 2026 08:47:39 +0900</pubDate>
+                <tag><![CDATA[상대평가,누구보다빠르게,남들보단다르게,눈치게임]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Strategy]]></category>
+                <title><![CDATA[인텔 CEO 립부 탄의 양자컴퓨팅 투자 전략]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224420297839?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224420297839</guid>
+                <description><![CDATA[✅ 아이온큐에서 PsiQuantum까지, 그가 주목하는 진짜 상용화의 조건 인텔 CEO 립부 탄(Lip-Bu Tan)이 Quantum Jane과의 인터뷰에서 자신의 양자컴퓨팅 투자 경험과 산업의 미래에 대한 견해를 밝혔다. 그는 아이온큐(IonQ)의 초기 투자자이며, PsiQuantum과 Classiq에도 투자하고 있다. 동시에 인텔에서는 실리콘 스핀 큐비트 연구를 추진하고 있다. 이번 인터뷰에서 눈여겨볼 부분은 그가 어떤 양자컴퓨팅 기업에 투자했느냐는 사실만이 아니다. 반도체와 AI에 일찍 투자했던 그가 양자컴퓨팅의 기술적 가능성을 넘어, 대량생산과 실제 상용화 가능성을 어떤 기준으로 판단하고 있는지가 중요하다. 특히 아이온큐의 초기 투자 지분 절반을 매각.......]]></description>
+                
+                <pubDate>Tue, 22 Sep 2026 22:29:21 +0900</pubDate>
+                <tag><![CDATA[LipButan,Intel,CEO,IonQ,PsiQuantum,Classiq]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[크리스 먼로의 광학 집게 연구, IonQ는 왜 EQC 이후의 기술까지 연구하는가?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224420150495?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224420150495</guid>
+                
+                <description><![CDATA[✅ 서론 — 현재의 제품 로드맵과 미래의 연구 방향은 다르다 IonQ는 Oxford Ionics의 전자식 큐비트 제어 기술(EQC)과 SkyWater의 반도체 제조 역량을 결합해, 이온트랩 양자컴퓨터를 대규모로 생산할 수 있는 반도체 기반 플랫폼으로 발전시키고 있다. 그런데 IonQ의 Chief Science Advisor인 크리스 먼로(Christopher Monroe) 교수는 최근 중성원자 분야에서 활용해 온 광학 집게(Optical Tweezer)를 이온트랩에 도입하는 새로운 아키텍처를 공동 연구했다. 이미 레이저 기반 게이트 제어의 복잡성을 줄이기 위해 EQC를 도입했는데, 다시 레이저로 이온을 포획하고 이동시키는 기술을 연구한다는 점은 언뜻 모순처럼 보일 수 있다. 하지만 이....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjJfMTU0/MDAxNzkwMDcwODU0ODY1.FJbGW8b-vWnAQk30tCRitya29fHZ33TRKQGgBKKe3Rkg.kvg1sjiyH0S2Yr2va3-f3ZQt6RAltap-Au9_UBqoyL0g.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Tue, 22 Sep 2026 19:17:39 +0900</pubDate>
+                <tag><![CDATA[Chris,Monroe,Optical,Tweezer]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[News]]></category>
+                <title><![CDATA[미국이 그린란드에서 얻는 것 — 북극 안보 재편과 투자자가 봐야 할 기업들]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224420079308?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224420079308</guid>
+                
+                <description><![CDATA[✅ 서론 미국은 왜 그린란드에 집착하는가. 덴마크와 그린란드는 무엇을 내주고 무엇을 지키려 하는가. 그리고 투자자는 어느 기업을 봐야 하는가. 이번 협상을 관통하는 핵심은 미국이 그린란드의 전략적 위치를 장기간 활용하면서, 경쟁국의 진입과 미래의 정치적 이탈 가능성을 제한하려 한다는 것이다. 실제 안보 필요와 강대국의 세력권 확대가 동시에 작동한다. 미국의 압박이 먹혔다는 설명도 맞지만, 그것만으로는 왜 이 지역에 집착하는지 충분히 설명되지 않는다. 작성 기준은 2026년 9월 22일이다. 확인된 공식 발표는 서명 예정 단계이며, 협정 전문은 공개되지 않았다. 서명 이후에도 필요한 의회 절차가 남는다. 따라서 영토 편입....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjJfMTIz/MDAxNzkwMDYyNTE1NDgy.cdWouvHnhyeizNB-o0MCb-LPmNIeRQfVpkuuNG9TlCog.lMBStICVWgqlCBtt62I4fFBTPGlS2NLNtWbnMVliNfkg.PNG/a58bd100-1c5d-48d7-be35-39d7a0569d26.png?type=s3" />]]></description>
+                <pubDate>Tue, 22 Sep 2026 17:53:35 +0900</pubDate>
+                <tag><![CDATA[Greenland]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ와 SDT의 전략적 협력 — 한국의 양자컴퓨터 제조거점과 암센터 프로젝트가 연결되는 이유]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224419854098?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224419854098</guid>
+                
+                <description><![CDATA[2026년 9월 21일, IonQ는 한국의 양자기술 기업 SDT와 새로운 전략적 파트너십을 발표했다. 이번 발표는 단순한 양자컴퓨터 판매 계약이 아니다. Superion 256의 국내 도입부터 양자 메모리 제조, 구미의 양자컴퓨터 생산거점, 아시아·태평양 지역 공급망, 그리고 국내 암센터와의 공동 프로젝트까지 포함하고 있다. 특히 관심을 끄는 것은 IonQ가 국내 암센터 프로젝트를 별도로 언급했다는 점이다. SDT는 어떤 기업이기에 IonQ와 이러한 협력을 추진하게 되었으며, 양자컴퓨터 제조와 암 연구라는 서로 다른 분야에서 어떤 역할을 맡게 되는 것일까? 이번 발표를 이해하기 위해 SDT의 과거 행보부터 양자바이오 사업, 구미 제조거점의 의미까지....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjJfMTkw/MDAxNzkwMDUyNjA1MDIx.ab48YkG_JQV4OMlnzIJTQimy9etICnRD-D3Mt6EesDsg.jHTpDm6gT0kPrfw2bR3zlvtLWgoZIxop2Dy22u1w6DQg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Tue, 22 Sep 2026 14:51:38 +0900</pubDate>
+                <tag><![CDATA[IonQ,SDT,SuperIon,256,SiV]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ의 네 가지 양자 응용 연구 — AI, 산업용 HPC, 단백질 접힘을 관통하는 하나의 전략]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224419051220?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224419051220</guid>
+                
+                <description><![CDATA[✅ 서론 양자컴퓨터의 발전을 이야기할 때 가장 먼저 등장하는 것은 물리 큐비트와 논리 큐비트의 개수, 게이트 충실도, 오류 정정 성능이다. 하지만 큐비트 수가 증가한다고 해서 양자컴퓨터가 실제 산업 현장에서 곧바로 활용되는 것은 아니다. 하드웨어의 성능을 실질적인 계산 결과로 연결할 수 있는 알고리즘과 소프트웨어도 함께 발전해야 한다. 이번에 IonQ가 IEEE에서 수상한 네 편의 연구는 이러한 관점에서 주목할 만하다. 생성형 AI를 이용한 양자 최적화, 기존 AI 모델의 양자 기반 미세조정, 엔지니어링 시뮬레이션 가속, 단백질 접힘이라는 서로 다른 문제를 다루고 있기 때문이다. 겉으로 보기에는 독립적인 연구처럼 보이지만, 네....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjFfMTAy/MDAxNzg5OTg2ODI0ODQw.r0oar19dA1uIDpnpuU5WR4cJ__x5xVy-TL497dRxirUg.I7HLY640wpLgQ38Ec9gBkpd-3PVFLqO_O5S9qMdAANkg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Mon, 21 Sep 2026 20:09:24 +0900</pubDate>
+                <tag><![CDATA[IonQ,IEEE,QCE26]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ의 100만 큐비트 확장 전략 — SkyWater, 양자산업의 반도체 제조 플랫폼이 될 수 있을까?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224418682921?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224418682921</guid>
+                
+                <description><![CDATA[✅ IonQ의 대규모 QPU 확장 전략 “It's not a quantum problem, it's an integration problem.” 그는 다이를 정밀하게 결합하고, 다이 사이에서 이온을 이동시키는 구조를 설계하며, 패키징 수율을 개선하는 것이 핵심 과제라고 설명했다. 또한 필요한 정렬 정밀도를 산업 표준 공정으로 달성할 수 있는지 검토했다고 밝혔다. 이 발언은 SkyWater가 IonQ의 확장 로드맵에서 어떤 역할을 맡을 수 있는지 이해하는 데 중요한 단서가 된다. ✅ 2026 Investor Day에서 공개된 두 장의 슬라이드가 의미하는 것 IonQ는 2026년 9월 8일 Investor Day에서 Superion QPU를 256개의 물리 큐비트에서 10K, 20K, 200K, 그리고 100만 개 이상으로....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjFfMjM1/MDAxNzg5OTY2NDI0ODMw.dzGyJGomhQHPR2M-QrQ4C3jVDcCjd53vS9-vP0-EmYgg.KBUS_PJDsZpAWeOsgEubrtKxkQ9y1MGdqJmBVMvMZbUg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Mon, 21 Sep 2026 14:16:12 +0900</pubDate>
+                <tag><![CDATA[IonQ,SkyWater,Tiling,DieShrink,ICPackaging]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[QEC]]></category>
+                <title><![CDATA[IonQ Superion 10K — 800 Logical Qubits의 비밀은 새로운 QEC 코드에 있을까?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224417992062?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224417992062</guid>
+                
+                <description><![CDATA[✅ 10,000개의 물리 큐비트로 800개의 논리 큐비트를 만들 수 있을까? IonQ의 공식 로드맵에 따르면 2027년 Superion 10K의 목표는 물리 큐비트 10,000개와 논리 큐비트 800개다. 동시에 논리 오류율(Logical Error Rate)은 10−7 미만을 목표로 하고 있다. 단순히 계산하면 논리 큐비트 1개당 평균 12.5개의 물리 큐비트를 사용하는 셈이다. 하지만 실제 Fault-Tolerant Quantum Computer(FTQC)에서는 논리 큐비트를 저장하는 Memory Block 외에도 Magic Factory, Cat Factory, Ancilla, Beacon, Reservoir 및 이온 운송을 위한 추가적인 물리 큐비트가 필요하다. 따라서 단순히 10,000개를 12.5개씩 나누는 것으로 실제 시스템 구성을 설명할 수....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjBfMTQx/MDAxNzg5OTAyNzQxOTY4.MagQqm19vtqgBCKiqZyfFJfpTRRrtNFeUjA6MKZ7MUYg.zgevRIeJaymVZduKer7RnYuga2DbZFMoPF6jEIUUAVIg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sun, 20 Sep 2026 21:13:20 +0900</pubDate>
+                <tag><![CDATA[IonQ,Superion,10K,800,LQ,QEC,Code]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Portfolios]]></category>
+                <title><![CDATA[BWX Technologies(BWXT) 투자 분석 업데이트 — 실적은 성장하는데 주가는 왜 계속 하락할까?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224417645768?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224417645768</guid>
+                <description><![CDATA[✅ 지난 7월 분석의 핵심은 무엇이었나?  좋은 기업과 좋은 매수가격은 다르다 지난 7월 BWXT를 분석하면서 가장 중요하게 살펴본 것은 미 해군 원자로와 핵연료 공급망에서 축적한 제조 및 인증 역량이었다. BWXT는 단순히 원자력 발전소 건설이 늘어나면 혜택을 받는 기업이 아니다. 미 해군 핵추진체계에서 축적한 원자로 설계·제조 경험을 바탕으로 다음 사업으로 확장하고 있다. 미 해군 잠수함 및 항공모함용 원자로 국가안보용 우라늄 농축 및 핵연료 TRISO·HALEU 첨단연료 군사용 마이크로 원자로 상업 원전 및 SMR 핵심 부품 우주 원자로 및 핵추진 기술 다만 당시 분석가격 $174.52에서는 2026년 예상 PER이 약 37배였으며, FCF 수.......]]></description>
+                
+                <pubDate>Sun, 20 Sep 2026 12:31:06 +0900</pubDate>
+                <tag><![CDATA[BWXT]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ Superion 256 vs 10K — 능동 CMOS가 바꾸는 양자컴퓨터의 제어 방식]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224417528589?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224417528589</guid>
+                
+                <description><![CDATA[✅ IonQ Superion 10K에는 왜 Cryo-CMOS가 필요한가? — 256에서 10K로 넘어가는 진짜 변화  256개에서 10,000개로, 단순히 큐비트 수만 늘어나는 것이 아니다 IonQ는 2026년 9월 8일 Investor Day에서 Superion 256과 차세대 Superion 10K의 개발 방향을 공개했다. 특히 주목할 부분은 10K를 위한 첫 번째 Cryo-CMOS 테스트 칩을 공개했다는 사실이다. 여기서 한 가지 의문이 생긴다. Superion 256에서도 이미 전자식 큐비트 제어 기술(EQC)을 사용하는데, 왜 10K에서는 Cryo-CMOS라는 별도의 기술이 등장하는 것일까? 핵심은 256에서 외부 제어 전자장치가 담당하던 기능의 일부를 10K에서는 QPU 칩 내부로 집적한다는 것이다. 이를 이해하....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjBfOTcg/MDAxNzg5ODYyNjkwMzE5.qSuRhNz7LJn5vWOTJv17R6vrrNW83_WvmoFh6KnwI5kg.HBtzq7-TCP-mEJa0OE6LjsgVvM5A-QLrWpf_i6D8u84g.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sun, 20 Sep 2026 09:19:12 +0900</pubDate>
+                <tag><![CDATA[IonQ,256,10K,CryoCMOS,ActiveCMOS,SkyWaters]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[News]]></category>
+                <title><![CDATA[미국 과학의 황금시대, 이제 각 기관이 움직이기 시작했다 — DOE·NSF·NIST·NASA·DOW의 실행계획과 양자기술 전략]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224417175293?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224417175293</guid>
+                
+                <description><![CDATA[✅ 1. 백악관의 명령은 어떻게 각 기관의 실행계획으로 이어졌나? 2025년 5월 23일, 미국 백악관은 Executive Order 14303, Restoring Gold Standard Science를 발표했다. 그로부터 한 달 뒤인 6월 23일, OSTP는 각 연방기관에 Gold Standard Science를 실제 연구활동과 연구비 관리에 어떻게 적용할 것인지 구체적인 지침을 내렸다. 기관들은 60일 이내에 Implementation Plan을 마련해 OSTP에 보고하고 공개하도록 요구받았다. 그렇게 2025년 8월 22일을 전후해 DOE, NSF, NIH, NASA, 국방부, 상무부 등에서 비슷한 이름의 보고서가 잇따라 등장하기 시작했다. 처음에는 서로 다른 기관에서 거의 동시에 같은 종류의 보고서를 발표한 것이 우연....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MTlfMTk5/MDAxNzg5ODEyNTAxNzAz.AtakHkWMqbXblMxKboZt_nGHzTvbZ1OtrEYYzqxCw_Ag.8hVzy_mMPSSv68QvgmwmW-I9tKbqU-cua-WSAy6BRVsg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sat, 19 Sep 2026 20:06:04 +0900</pubDate>
+                <tag><![CDATA[GSS,GoldenAge,DOE,NSF,NIST,NASA,DOW]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[News]]></category>
+                <title><![CDATA[DOE·NSF·NIST가 동시에 움직인 이유 — ‘Science: A New Golden Age’의 숨은 타임라인]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224416696918?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224416696918</guid>
+                
+                <description><![CDATA[✅ 어느 날 갑자기 등장한 ‘A New Golden Age’? 2026년 7월 21일, 백악관 OSTP Director Michael Kratsios가 대통령에게 한 보고서를 제출한다. 제목은 Science: A New Golden Age. 백악관은 이를 단순한 과학정책 보고서가 아니라, 1945년 Vannevar Bush의 「Science: The Endless Frontier」 이후 80여 년 만에 미국의 Science & Technology Enterprise 전체를 다시 생각하는 작업이라고 설명했다. 처음 이 문서만 보면 이렇게 생각하기 쉽다. “2026년 7월에 OSTP가 새로운 아이디어를 내놨구나.” 그런데 날짜를 거꾸로 추적해 보면 전혀 다른 그림이 나타난다. DOE에서는 이미 Gold Standard Science Implementation Plan이 나와 있었....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MTlfMjM2/MDAxNzg5NzY2Mzk5NDU0.6hcIYbKVoCnenBL2CYo8G78vluvpk68yf_LcKD4eoKsg._piUKaswMQsBf4NUWMPZlz_L4ng2JzCxrgpZt5laq9cg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sat, 19 Sep 2026 06:59:06 +0900</pubDate>
+                <tag><![CDATA[NewGoldenAge,DOE,NSF,OSTP]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[News]]></category>
+                <title><![CDATA[2028 양자 시계가 시작됐다 — DOE가 정한 진짜 FTQC의 기준과 업체별 현재 위치]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224416205363?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224416205363</guid>
+                
+                <description><![CDATA[✅ 6월의 선언이 9월에는 구체적인 시험문제로 바뀌었다  시작은 6월 22일 양자 행정명령이다 2026년 6월 22일 미국 행정부는 QC-ADDS(Quantum Computer for Application Development and Discovery Science)를 추진하도록 지시했다. 특히 DOE 장관에게 90일 이내에 transformative scientific applications를 수행하기 위해 필요한 QC-ADDS의 technical specifications를 정의하고 공개하도록 요구했다. 다음 날인 6월 23일 DOE는 기다렸다는 듯 Quantum Genesis를 발표했다. 당시 이미 목표 시점은 2028년, 목표 수준은 fault-tolerant + scientifically relevant, 규모는 low hundreds of logical qubits라고 명시됐다.  6월 23일 발....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MThfMTky/MDAxNzg5NzEzODc2NjE3.P_Hzih4M93VOOs8k7g9NyC-00h0sC3K0Ip_O45Itjh4g.Dcujsp90cFHCZ3CzPPpGJcGbAdwc3g5dRYTtAH1oqscg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Fri, 18 Sep 2026 16:43:44 +0900</pubDate>
+                <tag><![CDATA[DOE,Quantum,Genesis,SRQC,HardOperations]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[QEC]]></category>
+                <title><![CDATA[Walking Cat을 256Qubit에 넣으면 어떻게 되는가?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224415285596?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224415285596</guid>
+                
+                <description><![CDATA[✅ Steane, BB 계열에서 Q70,Q102, 그리고 Superion 10K까지 IonQ의 Walking Cat 페이지는 Superion 10K를 여러 256-qubit unit cell로 구성하고, 각 unit cell 안에서 Data·Ancilla·Beacon·Magic·Cat·Bell·Reservoir 이온이 어떤 역할을 하며 움직이는지 보여주는 인터랙티브 데모다. 현재 웹페이지에서 선택할 수 있는 QEC는 Steane [[7,1,3]]과 BB5 [[30,8,4]]로 표기된 두 가지다. IonQ는 Data가 자리에 남고, Ancilla가 SEC에서 오류 진단에 사용되며, Cat state가 logical measurement를 위해 이동하고, Bell pair가 두 Cat을 stitch한다고 명시한다. 다만 이 웹 데모와 2026년 4월 발표된 Walking Cat 논문의 실제 FTQC 후보 코드는 구분....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MTdfMjU3/MDAxNzg5NjE5ODM5ODEx.z6dwNhqgzI9KE9QOwDqLmkiprqUf93VAHbgfWP7zoiEg.BoFOHLB-9T3xNERhlDIEi-PImOD3dDlmbwZYNNp6SIAg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Thu, 17 Sep 2026 20:38:45 +0900</pubDate>
+                <tag><![CDATA[WalkingCat,256,Qubit,IonQ,BB5,Stean,1]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ Investor Day 2026 (4) - Tiling이란?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224410686481?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224410686481</guid>
+                
+                <description><![CDATA[✅ Disclaimer 본 포스트는 IonQ Investor Day 2026에서 공개된 내용과 Walking Cat Architecture 관련 자료를 바탕으로, 향후 Tiling 구조가 실제 시스템에서 어떻게 구현되고 동작할 수 있을지를 기술적으로 추정해 보기 위한 글이다. 공개된 자료와 알려진 기술적 사실을 최대한 근거로 사용했지만, IonQ가 Tiling의 세부 구조와 동작 방식을 모두 공식적으로 공개한 것은 아니기 때문에, 일부 내용에는 필자의 해석과 기술적 추론이 포함되어 있다. 따라서 본문에서 설명하는 die 간 ion shuttling, resource 배치, cross-die transport, QEC resource 연결 방식 등의 세부 구조는 실제 IonQ의 최종 설계와 다를 수 있다. 본 글의 목적은 확....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MTRfMjc3/MDAxNzg5MzE1OTUxMDYx.P2k5IPUFnkVvJw6PsEUmjJ-IqKATqpTawS_QFhz96skg.eBJ0TOg_Uv1CpZtl3-z-KLrsG0hdMBr_DE8cjPipMgwg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Mon, 14 Sep 2026 02:59:05 +0900</pubDate>
+                <tag><![CDATA[IonQ,Tiling,superion]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ Investor Day 2026 (3) - 256-bit ECC를 깨는 ‘설계도’를 공개]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224409778136?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224409778136</guid>
+                
+                <description><![CDATA[✅ IonQ가 256-bit ECC를 깨는 설계도를 공개했다 2026년 9월 IonQ Investor Day에서 개인적으로 가장 흥미로웠던 발표 중 하나는 Superion 자체보다도 256-bit elliptic-curve cryptography를 공격하기 위한 완전한 end-to-end blueprint였다. IonQ는 secp256k1의 Elliptic Curve Discrete Logarithm Problem(ECDLP)을 Shor 알고리즘으로 풀어 공개키에서 개인키를 복구하는 계산을 분석했고, 최종적으로 다음과 같은 자원을 제시했다. 1,457 logical qubits 19,397 physical qubits ∼39 million Toffoli gates 25.7 days per attempt Niccolò de Masi는 Investor Day에서 약 2만 개의 physical qubit을 가진 IonQ 시스템으로 256-bit elliptic....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MTJfNzIg/MDAxNzg5MjI0NTE5MTA4.0079MSodOozrauoHxXVJ5uvvh_1xKS0zJk9eg6htPPYg.ESEf80tMH73N1OKCpQHF1DnTI8bAQULICQy0akDYn-Ag.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sun, 13 Sep 2026 01:31:17 +0900</pubDate>
+                <tag><![CDATA[IonQ,InvestorDay,256bit,ECC]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ Investor Day 2026 (2) - Superion의 실체]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224409158640?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224409158640</guid>
+                
+                <description><![CDATA[✅ 서론 2026년 9월 8일 IonQ는 뉴욕증권거래소에서 열린 Investor Day에서 새로운 양자컴퓨팅 제품군 Superion을 공개했다. 첫 제품은 Superion 256이다. 256 physical qubits를 갖는 EQC 기반 trapped-ion 시스템이며, 이후 Superion 10K, 그리고 수십만~수백만 큐비트로 확장하는 로드맵의 출발점으로 소개됐다. 그런데 발표를 자세히 들여다보면 이런 의문이 생긴다. “이거 사실 예전 Oxford Ionics가 발표했던 256큐비트와 10,000큐비트 로드맵 아닌가?” 결론부터 말하면 상당 부분 맞다. Superion은 완전히 새로운 양자컴퓨팅 기술을 발표한 것이 아니다. 그럼에도 이번 발표에는 분명한 의미가 있다. Oxford Ionics가 수년간 개발해 온....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MTJfMjYg/MDAxNzg5MTc3MDE3ODUw.q6TmeqXSLKD_hrVdcDf_SxBOhtkMUhDXcg9bhmxZv0Mg.0hDlIKn6QRaYX6Aa-QiY4s4EwgXDGBVoH4_4l97Ak0gg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sat, 12 Sep 2026 10:40:20 +0900</pubDate>
+                <tag><![CDATA[IonQ,InvestorDay,SuperIon,SkyWater]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ Investor Day 2026 (1) - 애널리스트 Q&A]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224408261414?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224408261414</guid>
+                
+                <description><![CDATA[✅ IonQ Investor Day 2026 Q&A — 애널리스트들은 무엇을 확인하려 했나 IonQ Investor Day 2026의 경영진 발표가 끝난 뒤 이어진 Q&A는 발표 내용 못지않게 흥미로웠다. 경영진 발표 내용은 차차 업데이트를 할 계획이다. 발표에서는 Superion 256, SkyWater, Quantum Foundry, Photonic Interconnect 등 미래 청사진이 제시됐지만, Q&A에서는 애널리스트들이 그 청사진이 실제로 구현 가능한지를 하나씩 확인하려 했다. 질문자 대부분이 반도체·소프트웨어·인프라를 오랫동안 분석해온 베테랑들이어서 질문도 단순히 “큐비트가 얼마나 늘어나는가” 수준에 머물지 않았다. 핵심은 다음과 같았다. Photonic Interconnect가 실제로....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MTFfNCAg/MDAxNzg5MTAxMzYwODQx.IgjUsqaRuZ0sZtCuyotARV4IVXqrWyU5OUrCjLcquicg.uby4Xb2yzW4r62XoNkBvpx04Py6N_Q2Z_4ShnaaUWYAg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Fri, 11 Sep 2026 13:50:11 +0900</pubDate>
+                <tag><![CDATA[InvestorDay,2026,IonQ]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ Investor Day 2026, 왜 주가는 오르지 않았나]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224407142729?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224407142729</guid>
+                
+                <description><![CDATA[✅ 서론 2026년 9월 8일 뉴욕증권거래소에서 열린 IonQ Investor Day는 발표 내용만 놓고 보면 결코 작은 행사가 아니었다. IonQ는 새로운 6세대 양자컴퓨팅 플랫폼 Superion 256을 공개했고, SkyWater에서 최초의 fully integrated 256-qubit QPU를 제작했으며 prototype system에서 실제 ion trapping까지 진행했다고 밝혔다. Superion은 새로운 세대가 나올 때마다 완전히 별개의 시스템으로 교체하는 구조보다는 앞으로 더 큰 시스템으로 확장할 수 있도록 설계된 upgradeable platform이라는 점이 강조됐다. IonQ는 Superion 256 주문을 이미 받고 있으며 첫 고객 인도를 2027년으로 계획하고 있다. 회사는 첫 Superion 256 시스템이 2026년....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MTBfMTAz/MDAxNzg5MDA4OTY0OTU1.ZM1p5zEEFISsMvciKG7us1evfYXb3hWXPsqZsmRJE6sg.GhdPBVuwZlrMDYJ7gtOisf8UqSqiPS85q8xnswnfGMAg.PNG/output.png?type=s3" />]]></description>
+                <pubDate>Thu, 10 Sep 2026 14:26:30 +0900</pubDate>
+                <tag><![CDATA[IonQ,InvestorDay,2026]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[1kHz를 넘은 Quantum Interconnect와 Quantum Foundry - IonQ Investor Day 2026]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224406536001?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224406536001</guid>
+                
+                <description><![CDATA[✅ Mihir Bhaskar가 보여준 IonQ의 Scale-out · Scale-up 전략 이번 IonQ 2026 Investor Day에서 개인적으로 가장 관심 있게 본 발표 중 하나는 Mihir Bhaskar 박사의 Quantum Interconnect + Quantum Foundry 세션이었다. 이번 글은 다음 내용을 함께 놓고 정리한다. 2026 Investor Day Mihir Bhaskar 발표 발표 전 전시장 wafer 앞에서 Mihir와 직접 나눈 대화 발표가 끝난 뒤 quantum memory와 interconnect에 대해 다시 나눈 대화 2026 Investor Day 및 Superion 관련 공식 자료 SkyWater Quantum Solutions 발표 자료 처음에는 Quantum Interconnect와 Quantum Foundry가 서로 다른 이야기처럼 보였다. 하지만 Mihir의 발표를 끝까지 듣고 직....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDlfNTAg/MDAxNzg4OTYyODk2Nzk2.BPYCs2lYSEb0pHJZpOiFEpwtDFkJoOyvRMLk0di2sn0g.ZxbAOD84wccAIoXAS2UXrqyorw2T2AiyUEUsHebAHPkg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Wed, 09 Sep 2026 23:51:58 +0900</pubDate>
+                <tag><![CDATA[2026,IonQ,Invester,Day,Mihir,Quantum]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ의 Upgrade는 어떻게 이루어질까? — Tempo에서 256, 그리고 10K까지]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224404206456?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224404206456</guid>
+                
+                <description><![CDATA[✅ 앞선 글의 질문에서 한 단계 더 들어가 보자 앞선 글에서는 IonQ가 Forte·Tempo 고객에게 명확한 Upgrade Path를 제공해야 하는 이유를 살펴봤다. 더 좋은 시스템이 빠르게 등장하는 상황에서 upgrade 경로가 없다면 고객 입장에서는: “지금 수천만 달러를 쓰느니 다음 세대를 기다리자.”라는 선택이 합리적일 수 있기 때문이다. 하지만 여기서 다음 질문이 생긴다. 그렇다면 Tempo를 산 고객이 256으로 넘어갈 때 실제로 무엇을 바꿔야 할까? 그리고 더 중요한 질문은: 256을 사면 정말 나중에 10K QPU만 바꿔 끼울 수 있는가?이다. 공개자료를 종합하면 두 upgrade는 상당히 다른 성격을 가진 것으로 보인다. Tempo → 256 → 상당한 hard....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDdfMSAg/MDAxNzg4NzkxODkwNzAw.zdnF1owauZQMGqtS7TeRrikj6KAmZ9uucHggmDXDs0Mg.ciIMsq1BETlaJOWDlt0KKJlQGSnAiCJby6EUg18d4Z0g.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Tue, 08 Sep 2026 00:01:07 +0900</pubDate>
+                <tag><![CDATA[Tempo,Upgrade,256,10K]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ 256의 진짜 전략 — 추가 구매가 최선, 업그레이드는 생태계 확장의 차선책]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224404169457?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224404169457</guid>
+                
+                <description><![CDATA[✅ Forte·Tempo 다음의 256은 단순한 ‘신제품’이 아니다 IonQ의 현재 상용 시스템을 순서대로 보면 대략 다음과 같다. Forte Enterprise: 36 physical qubits Tempo: 최대 100 physical qubits 차세대 시스템: 256 physical qubits 이후: 10,000 → 20,000 → 200,000 → 2,000,000 physical qubits 숫자만 비교해도 256은: Forte 대비 약 7배 Tempo 대비 약 2.5배 많은 physical qubit를 갖는다. 하지만 256의 의미는 단순히 qubit 숫자가 늘어난 것보다 훨씬 크다. 양자 시스템의 상태공간은 qubit 수에 선형적으로 증가하지 않고 2n으로 증가한다. 예를 들어 64-qubit 시스템과 비교하면 256 qubits가 표현할 수 있는 Hilbert space는 2192배....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDdfMjEy/MDAxNzg4Nzg5OTM1Nzcy.SyR7n01f-42UK6pC3yUHyRHgrrGDn0BWzc38ur6koCIg.SiQ8enzTpEgi_AVcxtXrsxINkhCA1qBIJJVk71Bdmcog.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Mon, 07 Sep 2026 23:16:36 +0900</pubDate>
+                <tag><![CDATA[IonQ,256,Upgrade]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Networking]]></category>
+                <title><![CDATA[✈️ 태평양 상공에서 13.5Mbps — Hawaiian A330-200의 Starlink는 어떻게 작동할까]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224403933916?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224403933916</guid>
+                
+                <description><![CDATA[✅ 서론 하와이안항공 A330-200을 타고 태평양을 건너면서 Starlink를 직접 사용해봤다. 기내에는 승객이 상당히 많았지만 웹서핑, SNS, ChatGPT 등을 사용하는 데 거의 불편함이 없었다. 실제 Google 인터넷 속도 테스트를 해보니 다운로드 13.5Mbps, 업로드 5.51Mbps, 지연시간 156ms가 나왔다. 그런데 Starlink가 공개한 항공기용 성능은 이보다 훨씬 높다. 왜 실제 단말에서는 13.5Mbps가 나오는 것일까? Hawaiian A330-200에 설치된 Starlink 구조를 살펴봤다. ✅ Hawaiian A330-200에는 Starlink 안테나가 두 개 들어간다  기종에 따라 Starlink 설치 방식이 다르다 Starlink Aviation은 모든 항공기에 동일한 안테나 구성을 적용하지....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDdfMjM1/MDAxNzg4NzczODQwNTcz.NFQiyDJlwNbc107-ZPD-3AVNf6sTLmBjDU8ubnygm5kg.7pBoGNKc2lo2mvRG0NnZ-Psjbal3vnxkDm28Nax5WPIg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Mon, 07 Sep 2026 18:46:34 +0900</pubDate>
+                <tag><![CDATA[Starlink,Aviation,OCT,OISL]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Golden Dome]]></category>
+                <title><![CDATA[유럽에는 이미 Ariane과 Vega가 있었다 — 그런데 왜 Isar Aerospace의 성공이 중요한가]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224403108870?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224403108870</guid>
+                
+                <description><![CDATA[✅ 서론 Isar Aerospace의 Spectrum이 두 번째 비행에서 궤도 진입과 payload deployment에 성공했다. 그런데 처음 뉴스를 보면 조금 이상하다. 유럽에는 이미 수십 년간 Ariane이 있었다. 1979~2026년 : 총 270회 소형 발사체인 Vega도 있었다. 2012~2024년 : 총 22회 현재도 Ariane 6와 Vega-C가 실제 위성을 발사하고 있다. 그렇다면 왜 독일 스타트업의 1톤급 로켓 성공을 유럽 우주산업의 역사적 사건으로 평가하는 것일까? 핵심은 유럽이 처음으로 로켓을 갖게 됐다는 것이 아니다. 이번 사건의 의미는: 기존 ESA가 프로그램을 정의하고 특정 산업체가 만드는 구조 여러 기업이 자기 발사체를 개발하고 ESA와 정부가 launch service를 구매....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDZfNzEg/MDAxNzg4NzAyNTc0ODg1.GreHFDjHkqqBa0F7r5WAY6tlcgOmuZFocesdDRou4WEg.QBlordmaEQbcEB2MZ6njZSvszgv1VdJgmB5sKYN0opUg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Mon, 07 Sep 2026 02:05:17 +0900</pubDate>
+                <tag><![CDATA[Isar,Aerospace,Ariane,Vega]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Investing]]></category>
+                <title><![CDATA[값싼 공격, 비싼 방어 — 무너진 공수 균형을 누가 바꿀 것인가]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224402591109?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224402591109</guid>
+                <description><![CDATA[✅ 먼저 이 글에서 자주 등장하는 약어 몇 개만 정리하고 가자 최근 방산 관련 글을 쓰다 보면 약어가 너무 많이 등장한다. 이번 글에서도 피하기 어려워 핵심적인 것만 먼저 정리한다. UAS / UAV — Unmanned Aircraft System / Vehicle. 흔히 말하는 드론이다. C-UAS — Counter-UAS. 적 드론을 탐지·추적·무력화하는 대드론 체계다. C2 — Command and Control. 센서와 무기를 연결하고 판단·지휘하는 시스템이다. EW — Electronic Warfare. 전자전이다. Jamming이나 Spoofing 등이 포함된다. HPM — High-Power Microwave. 강력한 마이크로파로 드론의 전자장비를 무력화하는 기술이다. PNT — Positioning, Navigation and Timing. 위치·항.......]]></description>
+                
+                <pubDate>Sun, 06 Sep 2026 13:59:24 +0900</pubDate>
+                <tag><![CDATA[IonQ,UAS,HPM,EW,PNT,ISR]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[AFRL과 IonQ가 Rome에서 만들고 있는 Ground–Air–Space Quantum Network]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224401766164?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224401766164</guid>
+                
+                <description><![CDATA[✅ 서론 — 양자컴퓨터 두 대를 더 가져온다는 이야기가 전부가 아니었다 얼마 전 2026년 AFRL과 IonQ의 추가 계약 가능성을 분석한 글을 썼다. 이후 X에서 알고 지내는 R***이 AFCEA의 상당히 흥미로운 기사를 보내왔다. 처음 기사를 읽었을 때 가장 먼저 눈에 들어온 것은 2026년 말까지 Rome에 두 대의 새로운 바륨 기반 trapped-ion quantum computer를 가져온다는 내용이었다. 그래서 처음에는 이것이 새로운 AFRL 계약과 연결되는 것이 아닌가 생각했다. 하지만 기존 계약과 정부 계약자료를 다시 맞춰보니 이 두 대는 새로 주문한 시스템이 아니라 2023년 $25.5M 계약으로 주문했던 바로 그 두 대의 Ba 시스템일 가능성이 거의 확실해 보....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDVfNzIg/MDAxNzg4NTc1ODAzODkx.atHdqdk-tan8yjGDVRFjHD3zkDxolTMQXMMiQz2jouEg.Qa52X-_asHxwyGgtP7a5wKpd_UTV6i3aUYTKrjdcS4Qg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sat, 05 Sep 2026 13:06:21 +0900</pubDate>
+                <tag><![CDATA[IonQ,AFRL,IAC,SkyDome,UAS,Drone]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ는 AFRL에 도대체 몇 대의 양자컴퓨터를 납품한 것일까?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224401409839?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224401409839</guid>
+                
+                <description><![CDATA[✅ 서론 IonQ와 미국 공군연구소 AFRL의 관계를 살펴보다 보면 상당히 헷갈리는 부분이 하나 있다. 2023년 IonQ는 AFRL과 2대의 바륨 기반 양자컴퓨터 공급계약을 체결했다. 그런데 2025년에는 이미 AFRL에 trapped-ion quantum computer를 설치했다고 발표했다. 2026년 4월에는 다시 2개의 독립적인 IonQ 양자컴퓨터를 광자로 연결했다고 발표했다. 그리고 2026년 AFRL 현장 관계자의 설명을 보면 정작 2023년에 계약한 바륨 시스템 2대는 아직 워싱턴주 Bothell에서 제작되고 있으며 연말까지 Rome으로 가져올 예정이라고 한다. 그렇다면 AFRL에는 양자컴퓨터가 1대인가, 2대인가, 3대인가, 아니면 4대인가? 공개된 계약과 발표를 시간순으로 다....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDRfMjg3/MDAxNzg4NTMwMzkxNDky.OC_tegx-BR7BvdlwTkobotm0tnOTxsGnL2lofsaaYrQg.OcraLdzTDsjkGl0LEk_2p2k6Q4CHoyRi3-wi6LeoynUg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sat, 05 Sep 2026 00:17:49 +0900</pubDate>
+                <tag><![CDATA[IonQ,AFRL,Rome]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Golden Dome]]></category>
+                <title><![CDATA[Planet Labs FY2027 Q2 실적 — 숫자는 거의 완벽하다. 이제 봐야 할 것은 Backlog의 전환 속도다]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224401260268?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224401260268</guid>
+                
+                <description><![CDATA[✅ 서론 Planet Labs(PL)가 FY2027 2분기 실적을 발표했다. 이번 분기는 단순한 매출 Beat 정도가 아니라 매출 성장, 마진, EBITDA, 현금흐름이 동시에 크게 개선된 분기였다. 특히 Defense & Intelligence가 거의 두 배 성장하면서 전체 매출의 70% 가까이를 차지했고, Satellite Services가 이제 실험적인 사업이 아니라 Planet의 성장을 끌고 가는 핵심 축으로 바뀌고 있다. 다만 숫자를 조금 더 깊게 보면 한 가지 확인해야 할 부분도 있다. Backlog와 RPO가 전분기보다 감소했다. 그런데 이것도 단순히 "수주가 줄었다"고 보기에는 중요한 반전이 숨어 있다. 향후 12개월 안에 매출로 전환될 것으로 예상되는 Backlog는 오히....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDRfMTc1/MDAxNzg4NTIyNTc1MTUx.PesyqEQd9De3So2AW7hyHKtmooaT7hEhnAzpNS2bmbgg.r1n7Q37go1XjoC4dVxvLT5AyO7oDeAvSMY-JWFWnMzEg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Fri, 04 Sep 2026 20:56:42 +0900</pubDate>
+                <tag><![CDATA[PlanetLabs,PL,FY2027,Q2,실적]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[News]]></category>
+                <title><![CDATA[FBI까지 움직이기 시작했다 — 미국의 양자정책은 이제 ‘연구 지원’ 단계를 넘어섰다]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224400548336?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224400548336</guid>
+                
+                <description><![CDATA[✅ 서론 최근 FBI 홈페이지를 살펴보다가 흥미로운 페이지를 발견했다. Quantum Information Science and Technology — FBI New Executive Order Tasks FBI to Lead Efforts to Protect Quantum Information Science and Technology — FBI 처음에는 단순히 FBI가 양자컴퓨터의 보안 위협을 설명하는 페이지 정도라고 생각했다. 하지만 내용을 조금 더 깊게 들여다보면 이야기가 달라진다. 2026년 미국 정부가 추진하고 있는 양자정책을 함께 놓고 보면, DARPA가 기술을 검증하고, DOE가 실제 시스템을 도입하며, DoW가 국가안보용 응용을 준비하고, FBI가 그 기술과 인력·공급망을 보호하는 구조 가 만들어지고 있다. 양자컴퓨터가 이제 단순한....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDNfNDYg/MDAxNzg4NDQ3NTYwNjEy.MO0sByce4MdYe__dSqKmxqVAsJYN1GaKyS20RtNLRzwg.THBS4hnhrWeds02gdT8mUlLZzQkDhCZ4heABD_kc9A8g.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Fri, 04 Sep 2026 09:47:36 +0900</pubDate>
+                <tag><![CDATA[FBI,QISCPT,PQC,QCPT]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+        
+        
+    </channel>
+</rss>
