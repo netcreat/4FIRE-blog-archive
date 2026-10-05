@@ -538,7 +538,96 @@ def discover_substack_posts(base_url: str) -> tuple[dict, dict]:
     )
 
     # ------------------------------------------------------
-    # 4. RSS fallback for recent posts
+    # 4. Public archive / homepage fallback
+    #
+    # These are browser-facing pages. Some hosts may allow them
+    # even when sitemap/API/feed endpoints reject GitHub-hosted
+    # runners. We parse any /p/... links we can find.
+    # ------------------------------------------------------
+
+    for page_url in (
+        f"{base_url}/archive?sort=new",
+        base_url,
+    ):
+        try:
+            html = get_html(page_url)
+            soup = BeautifulSoup(
+                html,
+                "html.parser",
+            )
+
+            found = 0
+
+            for anchor in soup.find_all(
+                "a",
+                href=True,
+            ):
+                href = canonical_url(
+                    urljoin(
+                        page_url,
+                        anchor["href"],
+                    )
+                )
+
+                if not href.startswith(
+                    f"{base_url}/p/"
+                ):
+                    continue
+
+                title = anchor.get_text(
+                    " ",
+                    strip=True,
+                )
+
+                existing = (
+                    public_posts.get(
+                        href,
+                        {}
+                    )
+                )
+
+                public_posts[href] = {
+                    "title":
+                        title
+                        or existing.get(
+                            "title"
+                        ),
+
+                    "url":
+                        href,
+
+                    "sitemap_year":
+                        existing.get(
+                            "sitemap_year"
+                        ),
+
+                    "published_date":
+                        existing.get(
+                            "published_date"
+                        ),
+                }
+
+                found += 1
+
+            fetch_info[
+                "sources_used"
+            ].append(
+                page_url
+            )
+
+            print(
+                f"Public page probe: "
+                f"{page_url} -> "
+                f"{found} post links"
+            )
+
+        except Exception as exc:
+            fetch_info["errors"].append(
+                f"{page_url}: {exc}"
+            )
+
+    # ------------------------------------------------------
+    # 5. RSS fallback for recent posts
     #
     # This is especially useful for future automatic matching:
     # even if sitemap pages are temporarily blocked, a freshly
