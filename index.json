@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 727,
+  "totalArchivedPosts": 728,
   "posts": [
+    {
+      "date": "2026-10-06",
+      "published": "2026-10-06T23:27:08+11:00",
+      "title": "Anduril의 NGC2 계약, 그리고 IonQ — 두 달 전 MOU의 퍼즐이 맞춰지기 시작했다",
+      "logNo": "224433390072",
+      "source": "https://blog.naver.com/4-fire/224433390072?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-06-224433390072.md",
+      "content_source": "naver_post",
+      "characters": 16069
+    },
     {
       "date": "2026-10-06",
       "published": "2026-10-06T18:42:13+11:00",

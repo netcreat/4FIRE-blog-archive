@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Tue, 06 Oct 2026 19:33:52 +0900</pubDate>
+            <pubDate>Tue, 06 Oct 2026 21:32:59 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[Anduril의 NGC2 계약, 그리고 IonQ — 두 달 전 MOU의 퍼즐이 맞춰지기 시작했다]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224433390072?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224433390072</guid>
+                
+                <description><![CDATA[✅ Anduril Continues to Scale NGC2 Across the Army 지난 8월 IonQ의 실적발표에서 흥미로운 한 줄을 발견했다. IonQ와 Anduril이 국방 및 국가안보 분야의 Quantum Technologies 적용을 위한 MOU를 맺었다는 내용이었다. 당시 특히 눈에 들어왔던 것은 Mission Critical Government and Commercial Bids를 위한 Joint Proposals라는 표현이었다. 단순 공동연구가 아니라 향후 정부 사업에 두 회사가 함께 제안서를 제출할 수 있다는 의미였기 때문이다. 당시에는 구체적인 대상 사업이 공개되지 않았다. 그래서 이전 글에서는 Anduril의 Air·Sea·Land·Space 플랫폼과 Lattice, 그리고 IonQ가 확보한 PNT·Quantum Sensing·Optical/Quantum Netw....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDZfNjcg/MDAxNzkxMjg2MDA1MTAw.lgxM-QbEWhg8BWRLGT0c_1GDg31LEHHN3YNdupM0BJ0g.KaYm3Tcg2IN_bGWsTNt__-qB-JLiQwg6H65LpWhVxYQg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Tue, 06 Oct 2026 21:27:08 +0900</pubDate>
+                <tag><![CDATA[IonQ,Anduril,MOU,NGC2,NATO]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 서론 — 양자컴퓨터 두 대를 더 가져온다는 이야기가 전부가 아니었다 얼마 전 2026년 AFRL과 IonQ의 추가 계약 가능성을 분석한 글을 썼다. 이후 X에서 알고 지내는 R***이 AFCEA의 상당히 흥미로운 기사를 보내왔다. 처음 기사를 읽었을 때 가장 먼저 눈에 들어온 것은 2026년 말까지 Rome에 두 대의 새로운 바륨 기반 trapped-ion quantum computer를 가져온다는 내용이었다. 그래서 처음에는 이것이 새로운 AFRL 계약과 연결되는 것이 아닌가 생각했다. 하지만 기존 계약과 정부 계약자료를 다시 맞춰보니 이 두 대는 새로 주문한 시스템이 아니라 2023년 $25.5M 계약으로 주문했던 바로 그 두 대의 Ba 시스템일 가능성이 거의 확실해 보....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDVfNzIg/MDAxNzg4NTc1ODAzODkx.atHdqdk-tan8yjGDVRFjHD3zkDxolTMQXMMiQz2jouEg.Qa52X-_asHxwyGgtP7a5wKpd_UTV6i3aUYTKrjdcS4Qg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Sat, 05 Sep 2026 13:06:21 +0900</pubDate>
                 <tag><![CDATA[IonQ,AFRL,IAC,SkyDome,UAS,Drone]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[IonQ는 AFRL에 도대체 몇 대의 양자컴퓨터를 납품한 것일까?]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224401409839?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224401409839</guid>
-                
-                <description><![CDATA[✅ 서론 IonQ와 미국 공군연구소 AFRL의 관계를 살펴보다 보면 상당히 헷갈리는 부분이 하나 있다. 2023년 IonQ는 AFRL과 2대의 바륨 기반 양자컴퓨터 공급계약을 체결했다. 그런데 2025년에는 이미 AFRL에 trapped-ion quantum computer를 설치했다고 발표했다. 2026년 4월에는 다시 2개의 독립적인 IonQ 양자컴퓨터를 광자로 연결했다고 발표했다. 그리고 2026년 AFRL 현장 관계자의 설명을 보면 정작 2023년에 계약한 바륨 시스템 2대는 아직 워싱턴주 Bothell에서 제작되고 있으며 연말까지 Rome으로 가져올 예정이라고 한다. 그렇다면 AFRL에는 양자컴퓨터가 1대인가, 2대인가, 3대인가, 아니면 4대인가? 공개된 계약과 발표를 시간순으로 다....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDRfMjg3/MDAxNzg4NTMwMzkxNDky.OC_tegx-BR7BvdlwTkobotm0tnOTxsGnL2lofsaaYrQg.OcraLdzTDsjkGl0LEk_2p2k6Q4CHoyRi3-wi6LeoynUg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Sat, 05 Sep 2026 00:17:49 +0900</pubDate>
-                <tag><![CDATA[IonQ,AFRL,Rome]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>
