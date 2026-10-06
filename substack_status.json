@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T04:26:28+00:00",
+  "generated_at": "2026-10-06T04:35:30+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 726,
-    "published": 49,
-    "missing": 677,
+    "published": 50,
+    "missing": 676,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-08",
     "end": "2026-10-06",
     "total": 138,
-    "published": 39,
-    "missing": 99,
+    "published": 40,
+    "missing": 98,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224432740161?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-06-224432740161.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Why IonQ Uses So Many Ancilla Qubits for Quantum Error Correction",
+          "url": "https://netcreat.substack.com/p/why-ionq-uses-so-many-ancilla-qubits",
+          "published_date": "2026-10-06",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
