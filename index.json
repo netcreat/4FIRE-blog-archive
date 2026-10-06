@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 726,
+  "totalArchivedPosts": 727,
   "posts": [
+    {
+      "date": "2026-10-06",
+      "published": "2026-10-06T18:42:13+11:00",
+      "title": "GlobalFoundries는 왜 다시 봐야 하는가 — 미세공정 경쟁에서 내려온 뒤 더 큰 판을 만들고 있는 파운드리",
+      "logNo": "224433126940",
+      "source": "https://blog.naver.com/4-fire/224433126940?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-06-224433126940.md",
+      "content_source": "naver_post",
+      "characters": 37422
+    },
     {
       "date": "2026-10-06",
       "published": "2026-10-06T13:09:21+11:00",
