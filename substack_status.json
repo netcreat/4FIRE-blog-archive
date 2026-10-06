@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T11:22:05+00:00",
+  "generated_at": "2026-10-06T12:34:24+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 727,
+    "total": 728,
     "published": 51,
-    "missing": 676,
+    "missing": 677,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,29 @@
     "days": 90,
     "start": "2026-07-08",
     "end": "2026-10-06",
-    "total": 139,
+    "total": 140,
     "published": 41,
-    "missing": 98,
+    "missing": 99,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-06",
+        "title": "Anduril의 NGC2 계약, 그리고 IonQ — 두 달 전 MOU의 퍼즐이 맞춰지기 시작했다",
+        "logNo": "224433390072",
+        "url": "https://blog.naver.com/4-fire/224433390072?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-06-224433390072.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-06",
