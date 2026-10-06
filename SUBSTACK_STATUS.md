@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-06T00:42:22+00:00_
+_Automatically generated: 2026-10-06T04:26:28+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 725 | 49 | 676 | 0 | 0 |
-| Recent 90 days (2026-07-06 → 2026-10-04) | 138 | 39 | 99 | 0 | 0 |
+| All | 726 | 49 | 677 | 0 | 0 |
+| Recent 90 days (2026-07-08 → 2026-10-06) | 138 | 39 | 99 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-06 | [IonQ가 안실라 큐비트를 늘리는 이유](posts/2026/2026-10-06-224432740161.md) | ❌ Missing | — | `224432740161` |
 | 2026-10-04 | [NSA의 국가안보시스템 전환과 새로운 투자 기회](posts/2026/2026-10-04-224431017441.md) | ✅ Published | [NSA’s National Security Systems Transition and the New Investment Opportunities It Could Create](https://netcreat.substack.com/p/nsas-national-security-systems-transition) | `224431017441` |
 | 2026-10-03 | [IonQ는 왜 BB5·BB7·GB8을 함께 사용하는가?](posts/2026/2026-10-03-224430550598.md) | ✅ Published | [Why Does IonQ Use BB5, BB7, and GB8 Together?](https://netcreat.substack.com/p/why-does-ionq-use-bb5-bb7-and-gb8) | `224430550598` |
 | 2026-10-03 | [Understanding Quantum Technologies 2026 Part 5](posts/2026/2026-10-03-224430148490.md) | ✅ Published | [Understanding Quantum Technologies 2026 — 5](https://netcreat.substack.com/p/understanding-quantum-technologies-5fb) | `224430148490` |
@@ -154,14 +155,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-07-11 | [NSF X-Labs의 초기 2가지 공모 오픈](posts/2026/2026-07-11-224343617948.md) | ✅ Published | [The First Two NSF X-Labs Solicitations Are Open](https://netcreat.substack.com/p/the-first-two-nsf-x-labs-solicitations) | `224343617948` |
 | 2026-07-11 | [NSF Project Triad의 진정한 의미](posts/2026/2026-07-11-224343478781.md) | ✅ Published | [The Real Meaning of NSF Project Triad](https://netcreat.substack.com/p/the-real-meaning-of-nsf-project-triad) | `224343478781` |
 | 2026-07-09 | [White House Summit on American Quantum Innovation 참석자 명단과 행사의 의미](posts/2026/2026-07-09-224341813168.md) | ❌ Missing | — | `224341813168` |
-| 2026-07-06 | [IonQ의 양자 얽힘 특허 3부작: 얽힘 배달에서 분산 양자컴퓨팅까지](posts/2026/2026-07-06-224338086718.md) | ❌ Missing | — | `224338086718` |
 
 ## Missing from Substack
 
-Total missing: **676**
+Total missing: **677**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-06 | [IonQ가 안실라 큐비트를 늘리는 이유](posts/2026/2026-10-06-224432740161.md) | ❌ Missing | — | `224432740161` |
 | 2026-09-24 | [IonQ Superion 256, FIU에 판매. 양자 네트워킹에서 컴퓨팅까지 이어지는 새로운 사업 구조](posts/2026/2026-09-24-224422062043.md) | ❌ Missing | — | `224422062043` |
 | 2026-09-24 | [IonQ 소프트 디코딩 논문 완전 해설: 580배 오류 억제부터 논리 큐비트 수명 13.66초까지](posts/2026/2026-09-24-224422011850.md) | ❌ Missing | — | `224422011850` |
 | 2026-09-23 | [IonQ의 바이오 산업 진출: 단백질 접힘에서 신약개발·제조·IP 확보까지](posts/2026/2026-09-23-224421068841.md) | ❌ Missing | — | `224421068841` |
@@ -846,10 +847,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 725 Naver posts</summary>
+<summary>Show all 726 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-06 | [IonQ가 안실라 큐비트를 늘리는 이유](posts/2026/2026-10-06-224432740161.md) | ❌ Missing | — | `224432740161` |
 | 2026-10-04 | [NSA의 국가안보시스템 전환과 새로운 투자 기회](posts/2026/2026-10-04-224431017441.md) | ✅ Published | [NSA’s National Security Systems Transition and the New Investment Opportunities It Could Create](https://netcreat.substack.com/p/nsas-national-security-systems-transition) | `224431017441` |
 | 2026-10-03 | [IonQ는 왜 BB5·BB7·GB8을 함께 사용하는가?](posts/2026/2026-10-03-224430550598.md) | ✅ Published | [Why Does IonQ Use BB5, BB7, and GB8 Together?](https://netcreat.substack.com/p/why-does-ionq-use-bb5-bb7-and-gb8) | `224430550598` |
 | 2026-10-03 | [Understanding Quantum Technologies 2026 Part 5](posts/2026/2026-10-03-224430148490.md) | ✅ Published | [Understanding Quantum Technologies 2026 — 5](https://netcreat.substack.com/p/understanding-quantum-technologies-5fb) | `224430148490` |

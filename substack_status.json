@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T00:42:22+00:00",
+  "generated_at": "2026-10-06T04:26:28+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,16 +24,16 @@
     }
   },
   "summary": {
-    "total": 725,
+    "total": 726,
     "published": 49,
-    "missing": 676,
+    "missing": 677,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-07-06",
-    "end": "2026-10-04",
+    "start": "2026-07-08",
+    "end": "2026-10-06",
     "total": 138,
     "published": 39,
     "missing": 99,
@@ -43,6 +43,20 @@
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-06",
+        "title": "IonQ가 안실라 큐비트를 늘리는 이유",
+        "logNo": "224432740161",
+        "url": "https://blog.naver.com/4-fire/224432740161?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-06-224432740161.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-04",
