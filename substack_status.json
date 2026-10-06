@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T06:38:42+00:00",
+  "generated_at": "2026-10-06T11:22:05+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,8 +24,8 @@
     }
   },
   "summary": {
-    "total": 726,
-    "published": 50,
+    "total": 727,
+    "published": 51,
     "missing": 676,
     "skip": 0,
     "check": 0
@@ -34,8 +34,8 @@
     "days": 90,
     "start": "2026-07-08",
     "end": "2026-10-06",
-    "total": 138,
-    "published": 40,
+    "total": 139,
+    "published": 41,
     "missing": 98,
     "skip": 0,
     "check": 0
@@ -43,6 +43,20 @@
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-06",
+        "title": "GlobalFoundries는 왜 다시 봐야 하는가 — 미세공정 경쟁에서 내려온 뒤 더 큰 판을 만들고 있는 파운드리",
+        "logNo": "224433126940",
+        "url": "https://blog.naver.com/4-fire/224433126940?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-06-224433126940.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-06",
@@ -1492,10 +1506,18 @@
         "url": "https://blog.naver.com/4-fire/224380629028",
         "github_archive": "posts/2026/2026-08-16-224380629028.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "The Puzzle Behind a One-Line MOU: What Are IonQ and Anduril Trying to Build Together?",
+          "url": "https://netcreat.substack.com/p/the-puzzle-behind-a-one-line-mou",
+          "published_date": "2026-10-06",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {

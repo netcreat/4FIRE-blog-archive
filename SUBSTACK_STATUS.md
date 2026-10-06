@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-06T06:38:42+00:00_
+_Automatically generated: 2026-10-06T11:22:05+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 726 | 50 | 676 | 0 | 0 |
-| Recent 90 days (2026-07-08 → 2026-10-06) | 138 | 40 | 98 | 0 | 0 |
+| All | 727 | 51 | 676 | 0 | 0 |
+| Recent 90 days (2026-07-08 → 2026-10-06) | 139 | 41 | 98 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-06 | [GlobalFoundries는 왜 다시 봐야 하는가 — 미세공정 경쟁에서 내려온 뒤 더 큰 판을 만들고 있는 파운드리](posts/2026/2026-10-06-224433126940.md) | ❌ Missing | — | `224433126940` |
 | 2026-10-06 | [IonQ가 안실라 큐비트를 늘리는 이유](posts/2026/2026-10-06-224432740161.md) | ✅ Published | [Why IonQ Uses So Many Ancilla Qubits for Quantum Error Correction](https://netcreat.substack.com/p/why-ionq-uses-so-many-ancilla-qubits) | `224432740161` |
 | 2026-10-04 | [NSA의 국가안보시스템 전환과 새로운 투자 기회](posts/2026/2026-10-04-224431017441.md) | ✅ Published | [NSA’s National Security Systems Transition and the New Investment Opportunities It Could Create](https://netcreat.substack.com/p/nsas-national-security-systems-transition) | `224431017441` |
 | 2026-10-03 | [IonQ는 왜 BB5·BB7·GB8을 함께 사용하는가?](posts/2026/2026-10-03-224430550598.md) | ✅ Published | [Why Does IonQ Use BB5, BB7, and GB8 Together?](https://netcreat.substack.com/p/why-does-ionq-use-bb5-bb7-and-gb8) | `224430550598` |
@@ -100,7 +101,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-08-18 | [백악관이 바라보는 미래 핵심기술: AI·바이오·퀀텀과 Transformative ET](posts/2026/2026-08-18-224382475558.md) | ❌ Missing | — | `224382475558` |
 | 2026-08-18 | [NSF, $1.5B 이상의 Foundational Research Funding 발표](posts/2026/2026-08-18-224382322149.md) | ❌ Missing | — | `224382322149` |
 | 2026-08-18 | [이온트랩에서의 두 개의 강한 레이저, 왜 EQC로 대체되었나?](posts/2026/2026-08-18-224382009594.md) | ❌ Missing | — | `224382009594` |
-| 2026-08-16 | [MOU 한 줄 뒤의 퍼즐: IonQ와 Anduril은 무엇을 함께 만들려는가?](posts/2026/2026-08-16-224380629028.md) | ❌ Missing | — | `224380629028` |
+| 2026-08-16 | [MOU 한 줄 뒤의 퍼즐: IonQ와 Anduril은 무엇을 함께 만들려는가?](posts/2026/2026-08-16-224380629028.md) | ✅ Published | [The Puzzle Behind a One-Line MOU: What Are IonQ and Anduril Trying to Build Together?](https://netcreat.substack.com/p/the-puzzle-behind-a-one-line-mou) | `224380629028` |
 | 2026-08-16 | [13F로 들여다 본 IonQ에 대한 기관 투자자의 입장 26Q2](posts/2026/2026-08-16-224380236048.md) | ❌ Missing | — | `224380236048` |
 | 2026-08-15 | [SSC의 SB-AMTI와 SDN의 두 프로젝트가 시사하는 것은?](posts/2026/2026-08-15-224379707179.md) | ❌ Missing | — | `224379707179` |
 | 2026-08-15 | [EPB, NIST, DOE 그리고 IonQ가 Chattanooga에서 만드는 ‘도시 규모의 양자 실험실’](posts/2026/2026-08-15-224379600560.md) | ❌ Missing | — | `224379600560` |
@@ -162,6 +163,7 @@ Total missing: **676**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-06 | [GlobalFoundries는 왜 다시 봐야 하는가 — 미세공정 경쟁에서 내려온 뒤 더 큰 판을 만들고 있는 파운드리](posts/2026/2026-10-06-224433126940.md) | ❌ Missing | — | `224433126940` |
 | 2026-09-24 | [IonQ Superion 256, FIU에 판매. 양자 네트워킹에서 컴퓨팅까지 이어지는 새로운 사업 구조](posts/2026/2026-09-24-224422062043.md) | ❌ Missing | — | `224422062043` |
 | 2026-09-24 | [IonQ 소프트 디코딩 논문 완전 해설: 580배 오류 억제부터 논리 큐비트 수명 13.66초까지](posts/2026/2026-09-24-224422011850.md) | ❌ Missing | — | `224422011850` |
 | 2026-09-23 | [IonQ의 바이오 산업 진출: 단백질 접힘에서 신약개발·제조·IP 확보까지](posts/2026/2026-09-23-224421068841.md) | ❌ Missing | — | `224421068841` |
@@ -211,7 +213,6 @@ Total missing: **676**
 | 2026-08-18 | [백악관이 바라보는 미래 핵심기술: AI·바이오·퀀텀과 Transformative ET](posts/2026/2026-08-18-224382475558.md) | ❌ Missing | — | `224382475558` |
 | 2026-08-18 | [NSF, $1.5B 이상의 Foundational Research Funding 발표](posts/2026/2026-08-18-224382322149.md) | ❌ Missing | — | `224382322149` |
 | 2026-08-18 | [이온트랩에서의 두 개의 강한 레이저, 왜 EQC로 대체되었나?](posts/2026/2026-08-18-224382009594.md) | ❌ Missing | — | `224382009594` |
-| 2026-08-16 | [MOU 한 줄 뒤의 퍼즐: IonQ와 Anduril은 무엇을 함께 만들려는가?](posts/2026/2026-08-16-224380629028.md) | ❌ Missing | — | `224380629028` |
 | 2026-08-16 | [13F로 들여다 본 IonQ에 대한 기관 투자자의 입장 26Q2](posts/2026/2026-08-16-224380236048.md) | ❌ Missing | — | `224380236048` |
 | 2026-08-15 | [SSC의 SB-AMTI와 SDN의 두 프로젝트가 시사하는 것은?](posts/2026/2026-08-15-224379707179.md) | ❌ Missing | — | `224379707179` |
 | 2026-08-15 | [EPB, NIST, DOE 그리고 IonQ가 Chattanooga에서 만드는 ‘도시 규모의 양자 실험실’](posts/2026/2026-08-15-224379600560.md) | ❌ Missing | — | `224379600560` |
@@ -846,10 +847,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 726 Naver posts</summary>
+<summary>Show all 727 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-06 | [GlobalFoundries는 왜 다시 봐야 하는가 — 미세공정 경쟁에서 내려온 뒤 더 큰 판을 만들고 있는 파운드리](posts/2026/2026-10-06-224433126940.md) | ❌ Missing | — | `224433126940` |
 | 2026-10-06 | [IonQ가 안실라 큐비트를 늘리는 이유](posts/2026/2026-10-06-224432740161.md) | ✅ Published | [Why IonQ Uses So Many Ancilla Qubits for Quantum Error Correction](https://netcreat.substack.com/p/why-ionq-uses-so-many-ancilla-qubits) | `224432740161` |
 | 2026-10-04 | [NSA의 국가안보시스템 전환과 새로운 투자 기회](posts/2026/2026-10-04-224431017441.md) | ✅ Published | [NSA’s National Security Systems Transition and the New Investment Opportunities It Could Create](https://netcreat.substack.com/p/nsas-national-security-systems-transition) | `224431017441` |
 | 2026-10-03 | [IonQ는 왜 BB5·BB7·GB8을 함께 사용하는가?](posts/2026/2026-10-03-224430550598.md) | ✅ Published | [Why Does IonQ Use BB5, BB7, and GB8 Together?](https://netcreat.substack.com/p/why-does-ionq-use-bb5-bb7-and-gb8) | `224430550598` |
@@ -933,7 +935,7 @@ _Not calculated because the public sitemap fetch failed._
 | 2026-08-18 | [백악관이 바라보는 미래 핵심기술: AI·바이오·퀀텀과 Transformative ET](posts/2026/2026-08-18-224382475558.md) | ❌ Missing | — | `224382475558` |
 | 2026-08-18 | [NSF, $1.5B 이상의 Foundational Research Funding 발표](posts/2026/2026-08-18-224382322149.md) | ❌ Missing | — | `224382322149` |
 | 2026-08-18 | [이온트랩에서의 두 개의 강한 레이저, 왜 EQC로 대체되었나?](posts/2026/2026-08-18-224382009594.md) | ❌ Missing | — | `224382009594` |
-| 2026-08-16 | [MOU 한 줄 뒤의 퍼즐: IonQ와 Anduril은 무엇을 함께 만들려는가?](posts/2026/2026-08-16-224380629028.md) | ❌ Missing | — | `224380629028` |
+| 2026-08-16 | [MOU 한 줄 뒤의 퍼즐: IonQ와 Anduril은 무엇을 함께 만들려는가?](posts/2026/2026-08-16-224380629028.md) | ✅ Published | [The Puzzle Behind a One-Line MOU: What Are IonQ and Anduril Trying to Build Together?](https://netcreat.substack.com/p/the-puzzle-behind-a-one-line-mou) | `224380629028` |
 | 2026-08-16 | [13F로 들여다 본 IonQ에 대한 기관 투자자의 입장 26Q2](posts/2026/2026-08-16-224380236048.md) | ❌ Missing | — | `224380236048` |
 | 2026-08-15 | [SSC의 SB-AMTI와 SDN의 두 프로젝트가 시사하는 것은?](posts/2026/2026-08-15-224379707179.md) | ❌ Missing | — | `224379707179` |
 | 2026-08-15 | [EPB, NIST, DOE 그리고 IonQ가 Chattanooga에서 만드는 ‘도시 규모의 양자 실험실’](posts/2026/2026-08-15-224379600560.md) | ❌ Missing | — | `224379600560` |
