@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Tue, 06 Oct 2026 10:31:31 +0900</pubDate>
+            <pubDate>Tue, 06 Oct 2026 13:23:25 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[QEC]]></category>
+                <title><![CDATA[IonQ가 안실라 큐비트를 늘리는 이유]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224432740161?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224432740161</guid>
+                
+                <description><![CDATA[✅ 안실라는 몇 개가 필요할까? 안정자 웨이트·신드롬·병렬 계층의 관계 양자 오류정정에서 물리 큐비트를 추가로 확보하면 어디에 써야 할까? 논리 정보를 담는 데이터 큐비트를 늘릴 수도 있지만, 오류를 검사하는 안실라 큐비트에 배정할 수도 있다. 큐비트 예산이 작을 때는 소수의 안실라를 측정하고 초기화하며 여러 번 재사용한다. 필요한 검사 결과를 모두 얻을 수 있지만, 그만큼 시간이 걸린다. 더 많은 큐비트를 확보할 수 있다면 여러 안정자 검사를 동시에 진행하도록 안실라를 늘릴 수 있다. Q54·Q70·Q102에서 데이터 큐비트 수만큼 신드롬 추출용 안실라를 배치하는 설계는 이러한 선택을 보여준다. 이 글의 핵심은 안실라를 늘려....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDZfMjc2/MDAxNzkxMjUxMTQ0MzEz.UOhZe89_P666KwwTsc7m8h3wO8Z4gLKriXLRCPR3w4sg.TpQWA4Dm4cyZMcU_GaPJPh8EPoI9TADqtUZR1WRYn3kg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Tue, 06 Oct 2026 11:09:21 +0900</pubDate>
+                <tag><![CDATA[안실라,Ancilla,Q70,Q54,Q102,IonQ,Walking,Cat]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 서론 Planet Labs(PL)가 FY2027 2분기 실적을 발표했다. 이번 분기는 단순한 매출 Beat 정도가 아니라 매출 성장, 마진, EBITDA, 현금흐름이 동시에 크게 개선된 분기였다. 특히 Defense & Intelligence가 거의 두 배 성장하면서 전체 매출의 70% 가까이를 차지했고, Satellite Services가 이제 실험적인 사업이 아니라 Planet의 성장을 끌고 가는 핵심 축으로 바뀌고 있다. 다만 숫자를 조금 더 깊게 보면 한 가지 확인해야 할 부분도 있다. Backlog와 RPO가 전분기보다 감소했다. 그런데 이것도 단순히 "수주가 줄었다"고 보기에는 중요한 반전이 숨어 있다. 향후 12개월 안에 매출로 전환될 것으로 예상되는 Backlog는 오히....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDRfMTc1/MDAxNzg4NTIyNTc1MTUx.PesyqEQd9De3So2AW7hyHKtmooaT7hEhnAzpNS2bmbgg.r1n7Q37go1XjoC4dVxvLT5AyO7oDeAvSMY-JWFWnMzEg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Fri, 04 Sep 2026 20:56:42 +0900</pubDate>
                 <tag><![CDATA[PlanetLabs,PL,FY2027,Q2,실적]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[News]]></category>
-                <title><![CDATA[FBI까지 움직이기 시작했다 — 미국의 양자정책은 이제 ‘연구 지원’ 단계를 넘어섰다]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224400548336?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224400548336</guid>
-                
-                <description><![CDATA[✅ 서론 최근 FBI 홈페이지를 살펴보다가 흥미로운 페이지를 발견했다. Quantum Information Science and Technology — FBI New Executive Order Tasks FBI to Lead Efforts to Protect Quantum Information Science and Technology — FBI 처음에는 단순히 FBI가 양자컴퓨터의 보안 위협을 설명하는 페이지 정도라고 생각했다. 하지만 내용을 조금 더 깊게 들여다보면 이야기가 달라진다. 2026년 미국 정부가 추진하고 있는 양자정책을 함께 놓고 보면, DARPA가 기술을 검증하고, DOE가 실제 시스템을 도입하며, DoW가 국가안보용 응용을 준비하고, FBI가 그 기술과 인력·공급망을 보호하는 구조 가 만들어지고 있다. 양자컴퓨터가 이제 단순한....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDNfNDYg/MDAxNzg4NDQ3NTYwNjEy.MO0sByce4MdYe__dSqKmxqVAsJYN1GaKyS20RtNLRzwg.THBS4hnhrWeds02gdT8mUlLZzQkDhCZ4heABD_kc9A8g.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Fri, 04 Sep 2026 09:47:36 +0900</pubDate>
-                <tag><![CDATA[FBI,QISCPT,PQC,QCPT]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

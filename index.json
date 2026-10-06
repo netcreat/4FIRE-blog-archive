@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 725,
+  "totalArchivedPosts": 726,
   "posts": [
+    {
+      "date": "2026-10-06",
+      "published": "2026-10-06T13:09:21+11:00",
+      "title": "IonQ가 안실라 큐비트를 늘리는 이유",
+      "logNo": "224432740161",
+      "source": "https://blog.naver.com/4-fire/224432740161?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-06-224432740161.md",
+      "content_source": "naver_post",
+      "characters": 19087
+    },
     {
       "date": "2026-10-04",
       "published": "2026-10-04T14:54:14+11:00",
