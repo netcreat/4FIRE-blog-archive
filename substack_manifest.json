@@ -5,6 +5,17 @@
   "substack_base_url": "https://netcreat.substack.com",
   "description": "Curated mapping keyed by Naver logNo. A Naver post not listed here is automatically treated as missing from Substack. Use status='skip' for Naver-only posts that should not be published on Substack.",
   "mappings": {
+    "224434437418": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Ayar Labs and Marvell — The Next Battle in AI Scale-Up Is About How Deep Optics Can Move Into the System",
+          "url": "https://netcreat.substack.com/p/ayar-labs-and-marvell-the-next-battle",
+          "published_date": "2026-10-07"
+        }
+      ]
+    },
     "224434076828": {
       "status": "published",
       "relationship": "one_to_one",
