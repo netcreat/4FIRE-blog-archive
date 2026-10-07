@@ -5,6 +5,17 @@
   "substack_base_url": "https://netcreat.substack.com",
   "description": "Curated mapping keyed by Naver logNo. A Naver post not listed here is automatically treated as missing from Substack. Use status='skip' for Naver-only posts that should not be published on Substack.",
   "mappings": {
+    "224433756102": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Which Semiconductor Fabs Can America Trust?",
+          "url": "https://netcreat.substack.com/p/which-semiconductor-fabs-can-america",
+          "published_date": "2026-10-07"
+        }
+      ]
+    },
     "224432740161": {
       "status": "published",
       "relationship": "one_to_one",
