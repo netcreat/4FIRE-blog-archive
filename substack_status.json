@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T05:46:56+00:00",
+  "generated_at": "2026-10-07T06:09:53+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 730,
-    "published": 51,
-    "missing": 679,
+    "published": 52,
+    "missing": 678,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-09",
     "end": "2026-10-07",
     "total": 142,
-    "published": 41,
-    "missing": 101,
+    "published": 42,
+    "missing": 100,
     "skip": 0,
     "check": 0
   },
@@ -79,10 +79,18 @@
         "url": "https://blog.naver.com/4-fire/224433390072?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-06-224433390072.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Anduril’s NGC2 Contract and IonQ",
+          "url": "https://netcreat.substack.com/p/andurils-ngc2-contract-and-ionq",
+          "published_date": "2026-10-06",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
