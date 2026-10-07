@@ -582,6 +582,17 @@
           "published_date": "2026-10-06"
         }
       ]
+    },
+    "224433390072": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Anduril’s NGC2 Contract and IonQ",
+          "url": "https://netcreat.substack.com/p/andurils-ngc2-contract-and-ionq",
+          "published_date": "2026-10-06"
+        }
+      ]
     }
   }
 }
