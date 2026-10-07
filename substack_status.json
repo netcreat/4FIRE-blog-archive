@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T11:08:30+00:00",
+  "generated_at": "2026-10-07T12:04:00+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 730,
-    "published": 54,
-    "missing": 676,
+    "published": 55,
+    "missing": 675,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-09",
     "end": "2026-10-07",
     "total": 142,
-    "published": 44,
-    "missing": 98,
+    "published": 45,
+    "missing": 97,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224434076828?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-07-224434076828.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "GFS for Scale, SKYT for Flexibility",
+          "url": "https://netcreat.substack.com/p/gfs-for-scale-skyt-for-flexibility",
+          "published_date": "2026-10-07",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
