@@ -1,0 +1,2 @@
+Manual trigger file for the combined Naver + Substack status workflow.
+Last triggered: 2026-10-07T23:10:00+11:00
