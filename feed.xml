@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Wed, 07 Oct 2026 13:34:51 +0900</pubDate>
+            <pubDate>Wed, 07 Oct 2026 14:44:24 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Semiconductor]]></category>
+                <title><![CDATA[Scale의 GFS, Flexibility의 SKYT]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224434076828?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224434076828</guid>
+                
+                <description><![CDATA[✅ GlobalFoundries vs SkyWater 앞선 글에서 미국 DMEA Trusted Foundry 지형을 살펴보다 보면 결국 가장 깊게 비교할 가치가 있는 두 회사가 남는다. GlobalFoundries와 SkyWater다. 둘 다 미국의 Trusted semiconductor manufacturing infrastructure에서 중요한 위치를 차지하고, 둘 다 단순 CMOS foundry를 넘어 photonics·quantum·advanced packaging·신소재로 영역을 넓히고 있다. 그러나 두 회사가 선택한 길은 상당히 다르다. GlobalFoundries는 검증된 기술을 200/300mm 대규모 HVM으로 확장하는 회사에 가깝다. SkyWater는 새로운 소재와 device architecture를 기존 CMOS와 결합해 prototype에서 production으로 넘기는 회사에 가깝....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDdfMTQ4/MDAxNzkxMzQ5MDkzMzU2.mf0x-gAs9t7q-TG56NpTV2b0xEw5q4NXaNtBrm0mVCMg.MhDawS3B2lZ7H4mOUvXJSRZj0lHnnGSUP4jXqlJkCQ0g.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Wed, 07 Oct 2026 13:55:22 +0900</pubDate>
+                <tag><![CDATA[GF,GFS,SkyWaters,Scale,Flexibility]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 서론 Isar Aerospace의 Spectrum이 두 번째 비행에서 궤도 진입과 payload deployment에 성공했다. 그런데 처음 뉴스를 보면 조금 이상하다. 유럽에는 이미 수십 년간 Ariane이 있었다. 1979~2026년 : 총 270회 소형 발사체인 Vega도 있었다. 2012~2024년 : 총 22회 현재도 Ariane 6와 Vega-C가 실제 위성을 발사하고 있다. 그렇다면 왜 독일 스타트업의 1톤급 로켓 성공을 유럽 우주산업의 역사적 사건으로 평가하는 것일까? 핵심은 유럽이 처음으로 로켓을 갖게 됐다는 것이 아니다. 이번 사건의 의미는: 기존 ESA가 프로그램을 정의하고 특정 산업체가 만드는 구조 여러 기업이 자기 발사체를 개발하고 ESA와 정부가 launch service를 구매....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDZfNzEg/MDAxNzg4NzAyNTc0ODg1.GreHFDjHkqqBa0F7r5WAY6tlcgOmuZFocesdDRou4WEg.QBlordmaEQbcEB2MZ6njZSvszgv1VdJgmB5sKYN0opUg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Mon, 07 Sep 2026 02:05:17 +0900</pubDate>
                 <tag><![CDATA[Isar,Aerospace,Ariane,Vega]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Investing]]></category>
-                <title><![CDATA[값싼 공격, 비싼 방어 — 무너진 공수 균형을 누가 바꿀 것인가]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224402591109?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224402591109</guid>
-                <description><![CDATA[✅ 먼저 이 글에서 자주 등장하는 약어 몇 개만 정리하고 가자 최근 방산 관련 글을 쓰다 보면 약어가 너무 많이 등장한다. 이번 글에서도 피하기 어려워 핵심적인 것만 먼저 정리한다. UAS / UAV — Unmanned Aircraft System / Vehicle. 흔히 말하는 드론이다. C-UAS — Counter-UAS. 적 드론을 탐지·추적·무력화하는 대드론 체계다. C2 — Command and Control. 센서와 무기를 연결하고 판단·지휘하는 시스템이다. EW — Electronic Warfare. 전자전이다. Jamming이나 Spoofing 등이 포함된다. HPM — High-Power Microwave. 강력한 마이크로파로 드론의 전자장비를 무력화하는 기술이다. PNT — Positioning, Navigation and Timing. 위치·항.......]]></description>
-                
-                <pubDate>Sun, 06 Sep 2026 13:59:24 +0900</pubDate>
-                <tag><![CDATA[IonQ,UAS,HPM,EW,PNT,ISR]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

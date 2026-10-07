@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 729,
+  "totalArchivedPosts": 730,
   "posts": [
+    {
+      "date": "2026-10-07",
+      "published": "2026-10-07T15:55:22+11:00",
+      "title": "Scale의 GFS, Flexibility의 SKYT",
+      "logNo": "224434076828",
+      "source": "https://blog.naver.com/4-fire/224434076828?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-07-224434076828.md",
+      "content_source": "naver_post",
+      "characters": 33745
+    },
     {
       "date": "2026-10-07",
       "published": "2026-10-07T10:58:22+11:00",
