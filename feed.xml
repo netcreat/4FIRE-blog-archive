@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Wed, 07 Oct 2026 07:31:47 +0900</pubDate>
+            <pubDate>Wed, 07 Oct 2026 10:33:07 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Semiconductor]]></category>
+                <title><![CDATA[미국이 믿고 맡길 수 있는 반도체 공장은 어디인가 — DMEA Trusted Foundry 지형도와 진짜 경쟁력]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224433756102?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224433756102</guid>
+                
+                <description><![CDATA[✅ DMEA Trusted Foundry를 왜 따로 봐야 하는가 GlobalFoundries와 SkyWater를 비교하다가 미국 국방부 산하 DMEA의 Trusted Supplier 생태계까지 들어오게 됐다. 2026년 9월 3일 최신 DMEA 지도에는 79개의 Trusted Supplier가 올라와 있다. 하지만 79개 모두가 wafer를 직접 만드는 파운드리는 아니다. DMEA는 반도체 공급망을 설계부터 제조·패키징·테스트까지 여러 단계로 나눠 인증한다. 따라서 단순히 “DMEA 인증을 받았다”는 것만으로 생산능력이나 기술력을 판단하면 안 된다. 더구나 같은 Category 1A라도 한쪽은 연구·prototype 중심이고 다른 한쪽은 연 수십만 장의 wafer를 생산하는 상업 HVM fab일 수 있다. 결국 Trusted Foundr....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDdfMjA1/MDAxNzkxMzMwMzYwNzUx.aKcta9JL90nVMOmBxMlVHHE-2th0NCzoMWcwFI3nsLUg.0yxD8cu8LrduHtir5HSNigXoHZtO4eFrnHJjWvjfp1kg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Wed, 07 Oct 2026 08:58:22 +0900</pubDate>
+                <tag><![CDATA[DMEA,GFS,SkyWater,Foundry]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -39,7 +53,7 @@
 
             <item>
                 <author>4-fire</author>
-                <category><![CDATA[Computing]]></category>
+                <category><![CDATA[Semiconductor]]></category>
                 <title><![CDATA[GlobalFoundries는 왜 다시 봐야 하는가 — 미세공정 경쟁에서 내려온 뒤 더 큰 판을 만들고 있는 파운드리]]></title>
                 <link><![CDATA[https://blog.naver.com/4-fire/224433126940?fromRss=true&trackingCode=rss]]></link>
                 <guid>https://blog.naver.com/4-fire/224433126940</guid>
@@ -207,7 +221,7 @@
 
             <item>
                 <author>4-fire</author>
-                <category><![CDATA[Computing]]></category>
+                <category><![CDATA[Semiconductor]]></category>
                 <title><![CDATA[LITE·COHR·GLW·LPTH·MRVL·AVGO·AAOI]]></title>
                 <link><![CDATA[https://blog.naver.com/4-fire/224426825573?fromRss=true&trackingCode=rss]]></link>
                 <guid>https://blog.naver.com/4-fire/224426825573</guid>
@@ -705,20 +719,6 @@
                 
                 <pubDate>Sun, 06 Sep 2026 13:59:24 +0900</pubDate>
                 <tag><![CDATA[IonQ,UAS,HPM,EW,PNT,ISR]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[AFRL과 IonQ가 Rome에서 만들고 있는 Ground–Air–Space Quantum Network]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224401766164?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224401766164</guid>
-                
-                <description><![CDATA[✅ 서론 — 양자컴퓨터 두 대를 더 가져온다는 이야기가 전부가 아니었다 얼마 전 2026년 AFRL과 IonQ의 추가 계약 가능성을 분석한 글을 썼다. 이후 X에서 알고 지내는 R***이 AFCEA의 상당히 흥미로운 기사를 보내왔다. 처음 기사를 읽었을 때 가장 먼저 눈에 들어온 것은 2026년 말까지 Rome에 두 대의 새로운 바륨 기반 trapped-ion quantum computer를 가져온다는 내용이었다. 그래서 처음에는 이것이 새로운 AFRL 계약과 연결되는 것이 아닌가 생각했다. 하지만 기존 계약과 정부 계약자료를 다시 맞춰보니 이 두 대는 새로 주문한 시스템이 아니라 2023년 $25.5M 계약으로 주문했던 바로 그 두 대의 Ba 시스템일 가능성이 거의 확실해 보....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDVfNzIg/MDAxNzg4NTc1ODAzODkx.atHdqdk-tan8yjGDVRFjHD3zkDxolTMQXMMiQz2jouEg.Qa52X-_asHxwyGgtP7a5wKpd_UTV6i3aUYTKrjdcS4Qg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Sat, 05 Sep 2026 13:06:21 +0900</pubDate>
-                <tag><![CDATA[IonQ,AFRL,IAC,SkyDome,UAS,Drone]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

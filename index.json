@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 728,
+  "totalArchivedPosts": 729,
   "posts": [
+    {
+      "date": "2026-10-07",
+      "published": "2026-10-07T10:58:22+11:00",
+      "title": "미국이 믿고 맡길 수 있는 반도체 공장은 어디인가 — DMEA Trusted Foundry 지형도와 진짜 경쟁력",
+      "logNo": "224433756102",
+      "source": "https://blog.naver.com/4-fire/224433756102?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-07-224433756102.md",
+      "content_source": "naver_post",
+      "characters": 27864
+    },
     {
       "date": "2026-10-06",
       "published": "2026-10-06T23:27:08+11:00",
