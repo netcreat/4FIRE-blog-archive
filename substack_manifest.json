@@ -593,6 +593,17 @@
           "published_date": "2026-10-06"
         }
       ]
+    },
+    "224433126940": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Why GlobalFoundries Deserves a Second Look - The Foundry That Left the Leading-Edge Race to Build a Bigger Platform",
+          "url": "https://netcreat.substack.com/p/why-globalfoundries-deserves-a-second",
+          "published_date": "2026-10-07"
+        }
+      ]
     }
   }
 }
