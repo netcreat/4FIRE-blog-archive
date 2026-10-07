@@ -1,2 +1,3 @@
 Manual trigger file for the combined Naver + Substack status workflow.
-Last triggered: 2026-10-07T23:10:00+11:00
+Last triggered: 2026-10-07T23:20:00+11:00
+Reason: Substack update for Naver logNo 224434437418
