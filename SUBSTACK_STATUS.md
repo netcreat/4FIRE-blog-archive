@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-07T00:43:27+00:00_
+_Automatically generated: 2026-10-07T05:46:56+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,15 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 728 | 51 | 677 | 0 | 0 |
-| Recent 90 days (2026-07-08 → 2026-10-06) | 140 | 41 | 99 | 0 | 0 |
+| All | 730 | 51 | 679 | 0 | 0 |
+| Recent 90 days (2026-07-09 → 2026-10-07) | 142 | 41 | 101 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-07 | [Scale의 GFS, Flexibility의 SKYT](posts/2026/2026-10-07-224434076828.md) | ❌ Missing | — | `224434076828` |
+| 2026-10-07 | [미국이 믿고 맡길 수 있는 반도체 공장은 어디인가 — DMEA Trusted Foundry 지형도와 진짜 경쟁력](posts/2026/2026-10-07-224433756102.md) | ❌ Missing | — | `224433756102` |
 | 2026-10-06 | [Anduril의 NGC2 계약, 그리고 IonQ — 두 달 전 MOU의 퍼즐이 맞춰지기 시작했다](posts/2026/2026-10-06-224433390072.md) | ❌ Missing | — | `224433390072` |
 | 2026-10-06 | [GlobalFoundries는 왜 다시 봐야 하는가 — 미세공정 경쟁에서 내려온 뒤 더 큰 판을 만들고 있는 파운드리](posts/2026/2026-10-06-224433126940.md) | ❌ Missing | — | `224433126940` |
 | 2026-10-06 | [IonQ가 안실라 큐비트를 늘리는 이유](posts/2026/2026-10-06-224432740161.md) | ✅ Published | [Why IonQ Uses So Many Ancilla Qubits for Quantum Error Correction](https://netcreat.substack.com/p/why-ionq-uses-so-many-ancilla-qubits) | `224432740161` |
@@ -160,10 +162,12 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **677**
+Total missing: **679**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-07 | [Scale의 GFS, Flexibility의 SKYT](posts/2026/2026-10-07-224434076828.md) | ❌ Missing | — | `224434076828` |
+| 2026-10-07 | [미국이 믿고 맡길 수 있는 반도체 공장은 어디인가 — DMEA Trusted Foundry 지형도와 진짜 경쟁력](posts/2026/2026-10-07-224433756102.md) | ❌ Missing | — | `224433756102` |
 | 2026-10-06 | [Anduril의 NGC2 계약, 그리고 IonQ — 두 달 전 MOU의 퍼즐이 맞춰지기 시작했다](posts/2026/2026-10-06-224433390072.md) | ❌ Missing | — | `224433390072` |
 | 2026-10-06 | [GlobalFoundries는 왜 다시 봐야 하는가 — 미세공정 경쟁에서 내려온 뒤 더 큰 판을 만들고 있는 파운드리](posts/2026/2026-10-06-224433126940.md) | ❌ Missing | — | `224433126940` |
 | 2026-09-24 | [IonQ Superion 256, FIU에 판매. 양자 네트워킹에서 컴퓨팅까지 이어지는 새로운 사업 구조](posts/2026/2026-09-24-224422062043.md) | ❌ Missing | — | `224422062043` |
@@ -849,10 +853,12 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 728 Naver posts</summary>
+<summary>Show all 730 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-07 | [Scale의 GFS, Flexibility의 SKYT](posts/2026/2026-10-07-224434076828.md) | ❌ Missing | — | `224434076828` |
+| 2026-10-07 | [미국이 믿고 맡길 수 있는 반도체 공장은 어디인가 — DMEA Trusted Foundry 지형도와 진짜 경쟁력](posts/2026/2026-10-07-224433756102.md) | ❌ Missing | — | `224433756102` |
 | 2026-10-06 | [Anduril의 NGC2 계약, 그리고 IonQ — 두 달 전 MOU의 퍼즐이 맞춰지기 시작했다](posts/2026/2026-10-06-224433390072.md) | ❌ Missing | — | `224433390072` |
 | 2026-10-06 | [GlobalFoundries는 왜 다시 봐야 하는가 — 미세공정 경쟁에서 내려온 뒤 더 큰 판을 만들고 있는 파운드리](posts/2026/2026-10-06-224433126940.md) | ❌ Missing | — | `224433126940` |
 | 2026-10-06 | [IonQ가 안실라 큐비트를 늘리는 이유](posts/2026/2026-10-06-224432740161.md) | ✅ Published | [Why IonQ Uses So Many Ancilla Qubits for Quantum Error Correction](https://netcreat.substack.com/p/why-ionq-uses-so-many-ancilla-qubits) | `224432740161` |

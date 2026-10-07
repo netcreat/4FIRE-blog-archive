@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T00:43:27+00:00",
+  "generated_at": "2026-10-07T05:46:56+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,53 @@
     }
   },
   "summary": {
-    "total": 728,
+    "total": 730,
     "published": 51,
-    "missing": 677,
+    "missing": 679,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-07-08",
-    "end": "2026-10-06",
-    "total": 140,
+    "start": "2026-07-09",
+    "end": "2026-10-07",
+    "total": 142,
     "published": 41,
-    "missing": 99,
+    "missing": 101,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-07",
+        "title": "Scale의 GFS, Flexibility의 SKYT",
+        "logNo": "224434076828",
+        "url": "https://blog.naver.com/4-fire/224434076828?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-07-224434076828.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
+    {
+      "naver": {
+        "published_date": "2026-10-07",
+        "title": "미국이 믿고 맡길 수 있는 반도체 공장은 어디인가 — DMEA Trusted Foundry 지형도와 진짜 경쟁력",
+        "logNo": "224433756102",
+        "url": "https://blog.naver.com/4-fire/224433756102?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-07-224433756102.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-06",
