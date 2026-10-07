@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:14:31+00:00",
+  "generated_at": "2026-10-07T12:32:19+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 731,
-    "published": 55,
-    "missing": 676,
+    "published": 56,
+    "missing": 675,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-09",
     "end": "2026-10-07",
     "total": 143,
-    "published": 45,
-    "missing": 98,
+    "published": 46,
+    "missing": 97,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224434437418?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-07-224434437418.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Ayar Labs and Marvell — The Next Battle in AI Scale-Up Is About How Deep Optics Can Move Into the System",
+          "url": "https://netcreat.substack.com/p/ayar-labs-and-marvell-the-next-battle",
+          "published_date": "2026-10-07",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {

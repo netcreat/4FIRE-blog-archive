@@ -21,7 +21,7 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Wed, 07 Oct 2026 21:13:58 +0900</pubDate>
+            <pubDate>Wed, 07 Oct 2026 21:31:49 +0900</pubDate>
 
             <item>
                 <author>4-fire</author>
@@ -44,7 +44,7 @@
                 <link><![CDATA[https://blog.naver.com/4-fire/224434076828?fromRss=true&trackingCode=rss]]></link>
                 <guid>https://blog.naver.com/4-fire/224434076828</guid>
                 
-                <description><![CDATA[✅ GlobalFoundries vs SkyWater 앞선 글에서 미국 DMEA Trusted Foundry 지형을 살펴보다 보면 결국 가장 깊게 비교할 가치가 있는 두 회사가 남는다. GlobalFoundries와 SkyWater다. 둘 다 미국의 Trusted semiconductor manufacturing infrastructure에서 중요한 위치를 차지하고, 둘 다 단순 CMOS foundry를 넘어 photonics·quantum·advanced packaging·신소재로 영역을 넓히고 있다. 그러나 두 회사가 선택한 길은 상당히 다르다. GlobalFoundries는 검증된 기술을 200/300mm 대규모 HVM으로 확장하는 회사에 가깝다. SkyWater는 새로운 소재와 device architecture를 기존 CMOS와 결합해 prototype에서 production으로 넘기는 회사에 가깝....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDdfMTQ4/MDAxNzkxMzQ5MDkzMzU2.mf0x-gAs9t7q-TG56NpTV2b0xEw5q4NXaNtBrm0mVCMg.MhDawS3B2lZ7H4mOUvXJSRZj0lHnnGSUP4jXqlJkCQ0g.PNG/image.png?type=s3" />]]></description>
+                <description><![CDATA[✅ GlobalFoundries vs SkyWater 앞선 글에서 미국 DMEA Trusted Foundry 지형을 살펴보다 보면 결국 가장 깊게 비교할 가치가 있는 두 회사가 남는다. GlobalFoundries와 SkyWater다. 둘 다 미국의 Trusted semiconductor manufacturing infrastructure에서 중요한 위치를 차지하고, 둘 다 단순 CMOS foundry를 넘어 photonics·quantum·advanced packaging·신소재로 영역을 넓히고 있다. 그러나 두 회사가 선택한 길은 상당히 다르다. GlobalFoundries는 검증된 기술을 200/300mm 대규모 HVM으로 확장하는 회사에 가깝다. SkyWater는 새로운 소재와 device architecture를 기존 CMOS와 결합해 prototype에서 production으로 넘기는 회사에 가깝....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDdfMjE5/MDAxNzkxMzc2MjQ2NjU3.9BzoaRQ-9dgRTcAburh9ABAf1wDji57J_40LlRagCOog.-8_qBOGWTBBouHP-fXIVIUZrZIKLso7-5awIC3U8igAg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Wed, 07 Oct 2026 13:55:22 +0900</pubDate>
                 <tag><![CDATA[GF,GFS,SkyWaters,Scale,Flexibility]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
