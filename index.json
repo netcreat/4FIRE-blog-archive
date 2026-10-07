@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 730,
+  "totalArchivedPosts": 731,
   "posts": [
+    {
+      "date": "2026-10-07",
+      "published": "2026-10-07T21:37:07+11:00",
+      "title": "Ayar Labs와 Marvell — AI Scale-Up의 다음 전쟁은 광이 어디까지 들어가느냐에 달려 있다",
+      "logNo": "224434437418",
+      "source": "https://blog.naver.com/4-fire/224434437418?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-07-224434437418.md",
+      "content_source": "naver_post",
+      "characters": 26404
+    },
     {
       "date": "2026-10-07",
       "published": "2026-10-07T15:55:22+11:00",

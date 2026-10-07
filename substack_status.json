@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:04:00+00:00",
+  "generated_at": "2026-10-07T12:14:31+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 730,
+    "total": 731,
     "published": 55,
-    "missing": 675,
+    "missing": 676,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,29 @@
     "days": 90,
     "start": "2026-07-09",
     "end": "2026-10-07",
-    "total": 142,
+    "total": 143,
     "published": 45,
-    "missing": 97,
+    "missing": 98,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-07",
+        "title": "Ayar Labs와 Marvell — AI Scale-Up의 다음 전쟁은 광이 어디까지 들어가느냐에 달려 있다",
+        "logNo": "224434437418",
+        "url": "https://blog.naver.com/4-fire/224434437418?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-07-224434437418.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-07",

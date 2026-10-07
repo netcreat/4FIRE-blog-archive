@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Wed, 07 Oct 2026 19:34:20 +0900</pubDate>
+            <pubDate>Wed, 07 Oct 2026 21:13:58 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Semiconductor]]></category>
+                <title><![CDATA[Ayar Labs와 Marvell — AI Scale-Up의 다음 전쟁은 광이 어디까지 들어가느냐에 달려 있다]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224434437418?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224434437418</guid>
+                
+                <description><![CDATA[✅ GPU보다 더 빠르게 커지는 문제가 있다 AI 인프라를 볼 때 가장 먼저 떠오르는 것은 GPU와 HBM이다. 하지만 GPU 수가 수십 개에서 수백 개, 다시 수천 개로 늘어나면 병목은 연산 자체보다 GPU와 GPU 사이의 데이터 이동으로 옮겨간다. 특히 rack 하나를 넘어 여러 rack을 하나의 거대한 accelerator domain처럼 묶으려면 기존 copper interconnect는 거리·전력·대역폭 밀도에서 점점 불리해진다. 그래서 지금 CPO(Co-Packaged Optics), NPO(Near-Packaged Optics), Optical I/O, Photonic Fabric 같은 기술들이 동시에 부상하고 있다. 이 글에서는 그중에서도 Ayar Labs의 TeraPHY와 Celestial AI를 인수한 Marvell의 Photonic Fabric을 중심....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDdfMTgx/MDAxNzkxMzY2Nzg4MDk0.RYJsPtvtPap62wLjYyO5nOxpn-GhLzx51zRWCwD5RWog.YzREBLPVhep3LuAd2_cg_ACE4wMBA8o31td083DsM-Yg.PNG/214e2d3b-c547-46bd-b420-d58263ab7b76.png?type=s3" />]]></description>
+                <pubDate>Wed, 07 Oct 2026 19:37:07 +0900</pubDate>
+                <tag><![CDATA[AyarLabs,CelestialAI,Marvell,CPO,NPO,GFS,UCIe,CXL]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 서론 하와이안항공 A330-200을 타고 태평양을 건너면서 Starlink를 직접 사용해봤다. 기내에는 승객이 상당히 많았지만 웹서핑, SNS, ChatGPT 등을 사용하는 데 거의 불편함이 없었다. 실제 Google 인터넷 속도 테스트를 해보니 다운로드 13.5Mbps, 업로드 5.51Mbps, 지연시간 156ms가 나왔다. 그런데 Starlink가 공개한 항공기용 성능은 이보다 훨씬 높다. 왜 실제 단말에서는 13.5Mbps가 나오는 것일까? Hawaiian A330-200에 설치된 Starlink 구조를 살펴봤다. ✅ Hawaiian A330-200에는 Starlink 안테나가 두 개 들어간다  기종에 따라 Starlink 설치 방식이 다르다 Starlink Aviation은 모든 항공기에 동일한 안테나 구성을 적용하지....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDdfMjM1/MDAxNzg4NzczODQwNTcz.NFQiyDJlwNbc107-ZPD-3AVNf6sTLmBjDU8ubnygm5kg.7pBoGNKc2lo2mvRG0NnZ-Psjbal3vnxkDm28Nax5WPIg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Mon, 07 Sep 2026 18:46:34 +0900</pubDate>
                 <tag><![CDATA[Starlink,Aviation,OCT,OISL]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Golden Dome]]></category>
-                <title><![CDATA[유럽에는 이미 Ariane과 Vega가 있었다 — 그런데 왜 Isar Aerospace의 성공이 중요한가]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224403108870?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224403108870</guid>
-                
-                <description><![CDATA[✅ 서론 Isar Aerospace의 Spectrum이 두 번째 비행에서 궤도 진입과 payload deployment에 성공했다. 그런데 처음 뉴스를 보면 조금 이상하다. 유럽에는 이미 수십 년간 Ariane이 있었다. 1979~2026년 : 총 270회 소형 발사체인 Vega도 있었다. 2012~2024년 : 총 22회 현재도 Ariane 6와 Vega-C가 실제 위성을 발사하고 있다. 그렇다면 왜 독일 스타트업의 1톤급 로켓 성공을 유럽 우주산업의 역사적 사건으로 평가하는 것일까? 핵심은 유럽이 처음으로 로켓을 갖게 됐다는 것이 아니다. 이번 사건의 의미는: 기존 ESA가 프로그램을 정의하고 특정 산업체가 만드는 구조 여러 기업이 자기 발사체를 개발하고 ESA와 정부가 launch service를 구매....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDZfNzEg/MDAxNzg4NzAyNTc0ODg1.GreHFDjHkqqBa0F7r5WAY6tlcgOmuZFocesdDRou4WEg.QBlordmaEQbcEB2MZ6njZSvszgv1VdJgmB5sKYN0opUg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Mon, 07 Sep 2026 02:05:17 +0900</pubDate>
-                <tag><![CDATA[Isar,Aerospace,Ariane,Vega]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>
