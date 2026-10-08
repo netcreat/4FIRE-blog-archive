@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Thu, 08 Oct 2026 15:47:12 +0900</pubDate>
+            <pubDate>Thu, 08 Oct 2026 17:57:08 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Semiconductor]]></category>
+                <title><![CDATA[EUV 없는 반도체 혁명 — Kepler Computing의 강유전체 메모리, GlobalFoundries 그리고 머스크의 Terafab]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224435475308?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224435475308</guid>
+                
+                <description><![CDATA[✅ 1. EUV 없이 최첨단 반도체를 만들 수 있을까? 최근 일론 머스크의 Terafab이 반도체 산업에서 다시 주목받고 있다. 특히 Terafab이 기존 EUV 노광 방식의 한계를 어떻게 극복할 것인지가 관심사다. 다만 2026년 10월 7일 머스크가 Terafab에서 EUV를 전면 배제한다고 공식 발표했다는 사실은 확인되지 않는다. 최근 확인된 발표는 Tesla와 SpaceX가 Terafab을 직접 건설·운영하고 TSMC는 일부 시설을 임차할 수 있다는 내용이다. 머스크가 앞서 관심을 보인 FEL(Free-Electron Laser) 역시 EUV 자체를 없애는 것이 아니라 EUV 광원을 바꾸는 접근법이다. 그런데 여기서 더욱 흥미로운 기업이 등장한다. 바로 Kepler Computing이다. Kepler는....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDhfMjcw/MDAxNzkxNDQ5MTI0NTg3.m4VNSogg_HiRPK8gL9PP5pESd5tPddG6D20x-qSGnyIg.OpPvqa7fsr26KrdrULo5WMUMoV2VciBrnrWb4kcOPV4g.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Thu, 08 Oct 2026 17:54:33 +0900</pubDate>
+                <tag><![CDATA[Kepler,GFS,FRAM,FeRAM]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ Mihir Bhaskar가 보여준 IonQ의 Scale-out · Scale-up 전략 이번 IonQ 2026 Investor Day에서 개인적으로 가장 관심 있게 본 발표 중 하나는 Mihir Bhaskar 박사의 Quantum Interconnect + Quantum Foundry 세션이었다. 이번 글은 다음 내용을 함께 놓고 정리한다. 2026 Investor Day Mihir Bhaskar 발표 발표 전 전시장 wafer 앞에서 Mihir와 직접 나눈 대화 발표가 끝난 뒤 quantum memory와 interconnect에 대해 다시 나눈 대화 2026 Investor Day 및 Superion 관련 공식 자료 SkyWater Quantum Solutions 발표 자료 처음에는 Quantum Interconnect와 Quantum Foundry가 서로 다른 이야기처럼 보였다. 하지만 Mihir의 발표를 끝까지 듣고 직....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDlfNTAg/MDAxNzg4OTYyODk2Nzk2.BPYCs2lYSEb0pHJZpOiFEpwtDFkJoOyvRMLk0di2sn0g.ZxbAOD84wccAIoXAS2UXrqyorw2T2AiyUEUsHebAHPkg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Wed, 09 Sep 2026 23:51:58 +0900</pubDate>
                 <tag><![CDATA[2026,IonQ,Invester,Day,Mihir,Quantum]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[IonQ의 Upgrade는 어떻게 이루어질까? — Tempo에서 256, 그리고 10K까지]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224404206456?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224404206456</guid>
-                
-                <description><![CDATA[✅ 앞선 글의 질문에서 한 단계 더 들어가 보자 앞선 글에서는 IonQ가 Forte·Tempo 고객에게 명확한 Upgrade Path를 제공해야 하는 이유를 살펴봤다. 더 좋은 시스템이 빠르게 등장하는 상황에서 upgrade 경로가 없다면 고객 입장에서는: “지금 수천만 달러를 쓰느니 다음 세대를 기다리자.”라는 선택이 합리적일 수 있기 때문이다. 하지만 여기서 다음 질문이 생긴다. 그렇다면 Tempo를 산 고객이 256으로 넘어갈 때 실제로 무엇을 바꿔야 할까? 그리고 더 중요한 질문은: 256을 사면 정말 나중에 10K QPU만 바꿔 끼울 수 있는가?이다. 공개자료를 종합하면 두 upgrade는 상당히 다른 성격을 가진 것으로 보인다. Tempo → 256 → 상당한 hard....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDdfMSAg/MDAxNzg4NzkxODkwNzAw.zdnF1owauZQMGqtS7TeRrikj6KAmZ9uucHggmDXDs0Mg.ciIMsq1BETlaJOWDlt0KKJlQGSnAiCJby6EUg18d4Z0g.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Tue, 08 Sep 2026 00:01:07 +0900</pubDate>
-                <tag><![CDATA[Tempo,Upgrade,256,10K]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

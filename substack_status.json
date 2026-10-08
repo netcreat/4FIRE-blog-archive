@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T06:47:42+00:00",
+  "generated_at": "2026-10-08T08:57:40+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 733,
+    "total": 734,
     "published": 61,
-    "missing": 672,
+    "missing": 673,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,29 @@
     "days": 90,
     "start": "2026-07-10",
     "end": "2026-10-08",
-    "total": 144,
+    "total": 145,
     "published": 50,
-    "missing": 94,
+    "missing": 95,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-08",
+        "title": "EUV 없는 반도체 혁명 — Kepler Computing의 강유전체 메모리, GlobalFoundries 그리고 머스크의 Terafab",
+        "logNo": "224435475308",
+        "url": "https://blog.naver.com/4-fire/224435475308?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-08-224435475308.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-08",

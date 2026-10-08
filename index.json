@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 733,
+  "totalArchivedPosts": 734,
   "posts": [
+    {
+      "date": "2026-10-08",
+      "published": "2026-10-08T19:54:33+11:00",
+      "title": "EUV 없는 반도체 혁명 — Kepler Computing의 강유전체 메모리, GlobalFoundries 그리고 머스크의 Terafab",
+      "logNo": "224435475308",
+      "source": "https://blog.naver.com/4-fire/224435475308?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-08-224435475308.md",
+      "content_source": "naver_post",
+      "characters": 31860
+    },
     {
       "date": "2026-10-08",
       "published": "2026-10-08T16:48:59+11:00",
