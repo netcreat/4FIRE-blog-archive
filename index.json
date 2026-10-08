@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 734,
+  "totalArchivedPosts": 735,
   "posts": [
+    {
+      "date": "2026-10-08",
+      "published": "2026-10-08T22:59:04+11:00",
+      "title": "GlobalFoundries Investor Day 2026 — 광학·전력·양자·IP를 선택한 파운드리",
+      "logNo": "224435624365",
+      "source": "https://blog.naver.com/4-fire/224435624365?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-08-224435624365.md",
+      "content_source": "naver_post",
+      "characters": 23874
+    },
     {
       "date": "2026-10-08",
       "published": "2026-10-08T19:54:33+11:00",

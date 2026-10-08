@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-08T09:33:22+00:00_
+_Automatically generated: 2026-10-08T12:40:08+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 734 | 62 | 672 | 0 | 0 |
-| Recent 90 days (2026-07-10 → 2026-10-08) | 145 | 51 | 94 | 0 | 0 |
+| All | 735 | 62 | 673 | 0 | 0 |
+| Recent 90 days (2026-07-10 → 2026-10-08) | 146 | 51 | 95 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-08 | [GlobalFoundries Investor Day 2026 — 광학·전력·양자·IP를 선택한 파운드리](posts/2026/2026-10-08-224435624365.md) | ❌ Missing | — | `224435624365` |
 | 2026-10-08 | [EUV 없는 반도체 혁명 — Kepler Computing의 강유전체 메모리, GlobalFoundries 그리고 머스크의 Terafab](posts/2026/2026-10-08-224435475308.md) | ✅ Published | [A Semiconductor Revolution Without EUV — Kepler Computing, Ferroelectric Memory, GlobalFoundries, and Musk's Terafab](https://netcreat.substack.com/p/a-semiconductor-revolution-without) | `224435475308` |
 | 2026-10-08 | [Marvell Investor Day 2026](posts/2026/2026-10-08-224435257702.md) | ✅ Published | [Marvell Investor Day 2026 — From Custom ASICs to an AI Data-Movement Platform](https://netcreat.substack.com/p/marvell-investor-day-2026-from-custom) | `224435257702` |
 | 2026-10-08 | [DARPA QBI Stage C 발표 — 재수에 성공한 Atom, 다중 베팅하는 Microsoft, 그리고 Diraq의 시간표](posts/2026/2026-10-08-224434955271.md) | ✅ Published | [DARPA QBI Stage C — Atom Computing's Comeback, Microsoft's Multiple Bets, and Diraq's Timeline](https://netcreat.substack.com/p/darpa-qbi-stage-c-atom-computings) | `224434955271` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-09-24 | [IonQ 소프트 디코딩 논문 완전 해설: 580배 오류 억제부터 논리 큐비트 수명 13.66초까지](posts/2026/2026-09-24-224422011850.md) | ❌ Missing | — | `224422011850` |
 | 2026-09-24 | [IonQ·NVIDIA·ORNL·EPB — 양자 슈퍼컴퓨팅의 퍼즐이 맞춰지기 시작했다](posts/2026/2026-09-23-224421379356.md) | ✅ Published | [IonQ, NVIDIA, ORNL, and EPB](https://netcreat.substack.com/p/ionq-nvidia-ornl-and-epb) | `224421379356` |
 | 2026-09-23 | [열심히 배워서 남주자 — 커피 한잔 후원 오픈](posts/2026/2026-09-23-224421146774.md) | ✅ Published | [Learn Deeply. Share Freely. — A New Chapter for 4FIRE](https://netcreat.substack.com/p/learn-deeply-share-freely-a-new-chapter) | `224421146774` |
-| 2026-09-23 | [IonQ의 바이오 산업 진출: 단백질 접힘에서 신약개발·제조·IP 확보까지](posts/2026/2026-09-23-224421068841.md) | ❌ Missing | — | `224421068841` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

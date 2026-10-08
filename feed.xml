@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Thu, 08 Oct 2026 18:32:53 +0900</pubDate>
+            <pubDate>Thu, 08 Oct 2026 21:39:37 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Semiconductor]]></category>
+                <title><![CDATA[GlobalFoundries Investor Day 2026 — 광학·전력·양자·IP를 선택한 파운드리]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224435624365?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224435624365</guid>
+                
+                <description><![CDATA[✅ GlobalFoundries Investor Day 2026 — 미세공정 경쟁을 넘어 광학·전력·양자·IP까지, GF의 새로운 성장 전략 2026년 5월 7일, GlobalFoundries(GF)는 Investor Day를 통해 향후 2030년까지의 기술 로드맵과 사업 확장 전략, 재무 목표를 공개했다. 이번 발표 자료는 총 101페이지에 달하며, 반도체 산업이 AI를 중심으로 재편되는 과정에서 GF가 어떤 위치를 차지하려는지를 구체적으로 보여준다. 이전에 분석했던 Marvell Investor Day가 AI 데이터센터의 연결성과 데이터 이동에 초점을 맞췄다면, 이번 GF 발표는 이러한 기술을 제조하고 상용화하는 파운드리의 관점에서 접근한다. 특히 GF는 첨단 로직 공정의 미세화 경쟁에 직접 참여하....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDhfMjQ1/MDAxNzkxNDU5NzEzODQ3.IJsoirn31DY_oKWSKTGek83bsXdiAyc-WpKUmnpn7fwg.4INvsMx2d03YQBMbefrxzOhmouyGFro-9lA1dphtYTgg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Thu, 08 Oct 2026 20:59:04 +0900</pubDate>
+                <tag><![CDATA[GFS,Investor,Day]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 서론 2026년 9월 8일 뉴욕증권거래소에서 열린 IonQ Investor Day는 발표 내용만 놓고 보면 결코 작은 행사가 아니었다. IonQ는 새로운 6세대 양자컴퓨팅 플랫폼 Superion 256을 공개했고, SkyWater에서 최초의 fully integrated 256-qubit QPU를 제작했으며 prototype system에서 실제 ion trapping까지 진행했다고 밝혔다. Superion은 새로운 세대가 나올 때마다 완전히 별개의 시스템으로 교체하는 구조보다는 앞으로 더 큰 시스템으로 확장할 수 있도록 설계된 upgradeable platform이라는 점이 강조됐다. IonQ는 Superion 256 주문을 이미 받고 있으며 첫 고객 인도를 2027년으로 계획하고 있다. 회사는 첫 Superion 256 시스템이 2026년....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MTBfMTAz/MDAxNzg5MDA4OTY0OTU1.ZM1p5zEEFISsMvciKG7us1evfYXb3hWXPsqZsmRJE6sg.GhdPBVuwZlrMDYJ7gtOisf8UqSqiPS85q8xnswnfGMAg.PNG/output.png?type=s3" />]]></description>
                 <pubDate>Thu, 10 Sep 2026 14:26:30 +0900</pubDate>
                 <tag><![CDATA[IonQ,InvestorDay,2026]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[1kHz를 넘은 Quantum Interconnect와 Quantum Foundry - IonQ Investor Day 2026]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224406536001?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224406536001</guid>
-                
-                <description><![CDATA[✅ Mihir Bhaskar가 보여준 IonQ의 Scale-out · Scale-up 전략 이번 IonQ 2026 Investor Day에서 개인적으로 가장 관심 있게 본 발표 중 하나는 Mihir Bhaskar 박사의 Quantum Interconnect + Quantum Foundry 세션이었다. 이번 글은 다음 내용을 함께 놓고 정리한다. 2026 Investor Day Mihir Bhaskar 발표 발표 전 전시장 wafer 앞에서 Mihir와 직접 나눈 대화 발표가 끝난 뒤 quantum memory와 interconnect에 대해 다시 나눈 대화 2026 Investor Day 및 Superion 관련 공식 자료 SkyWater Quantum Solutions 발표 자료 처음에는 Quantum Interconnect와 Quantum Foundry가 서로 다른 이야기처럼 보였다. 하지만 Mihir의 발표를 끝까지 듣고 직....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDlfNTAg/MDAxNzg4OTYyODk2Nzk2.BPYCs2lYSEb0pHJZpOiFEpwtDFkJoOyvRMLk0di2sn0g.ZxbAOD84wccAIoXAS2UXrqyorw2T2AiyUEUsHebAHPkg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Wed, 09 Sep 2026 23:51:58 +0900</pubDate>
-                <tag><![CDATA[2026,IonQ,Invester,Day,Mihir,Quantum]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

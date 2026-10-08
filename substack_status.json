@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T09:33:22+00:00",
+  "generated_at": "2026-10-08T12:40:08+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 734,
+    "total": 735,
     "published": 62,
-    "missing": 672,
+    "missing": 673,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,29 @@
     "days": 90,
     "start": "2026-07-10",
     "end": "2026-10-08",
-    "total": 145,
+    "total": 146,
     "published": 51,
-    "missing": 94,
+    "missing": 95,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-08",
+        "title": "GlobalFoundries Investor Day 2026 — 광학·전력·양자·IP를 선택한 파운드리",
+        "logNo": "224435624365",
+        "url": "https://blog.naver.com/4-fire/224435624365?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-08-224435624365.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-08",
