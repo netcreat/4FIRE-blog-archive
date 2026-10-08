@@ -5,6 +5,17 @@
   "substack_base_url": "https://netcreat.substack.com",
   "description": "Curated mapping keyed by Naver logNo. A Naver post not listed here is automatically treated as missing from Substack. Use status='skip' for Naver-only posts that should not be published on Substack.",
   "mappings": {
+    "224435475308": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "A Semiconductor Revolution Without EUV — Kepler Computing, Ferroelectric Memory, GlobalFoundries, and Musk's Terafab",
+          "url": "https://netcreat.substack.com/p/a-semiconductor-revolution-without",
+          "published_date": "2026-10-08"
+        }
+      ]
+    },
     "224417528589": {
       "status": "published",
       "relationship": "one_to_one",
