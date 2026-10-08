@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 731,
+  "totalArchivedPosts": 732,
   "posts": [
+    {
+      "date": "2026-10-08",
+      "published": "2026-10-08T12:17:26+11:00",
+      "title": "DARPA QBI Stage C 발표 — 재수에 성공한 Atom, 다중 베팅하는 Microsoft, 그리고 Diraq의 시간표",
+      "logNo": "224434955271",
+      "source": "https://blog.naver.com/4-fire/224434955271?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-08-224434955271.md",
+      "content_source": "naver_post",
+      "characters": 13780
+    },
     {
       "date": "2026-10-07",
       "published": "2026-10-07T21:37:07+11:00",

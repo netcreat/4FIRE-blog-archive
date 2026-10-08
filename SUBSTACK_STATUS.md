@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-08T00:41:37+00:00_
+_Automatically generated: 2026-10-08T01:21:53+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 731 | 57 | 674 | 0 | 0 |
-| Recent 90 days (2026-07-09 → 2026-10-07) | 143 | 46 | 97 | 0 | 0 |
+| All | 732 | 57 | 675 | 0 | 0 |
+| Recent 90 days (2026-07-10 → 2026-10-08) | 143 | 46 | 97 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-08 | [DARPA QBI Stage C 발표 — 재수에 성공한 Atom, 다중 베팅하는 Microsoft, 그리고 Diraq의 시간표](posts/2026/2026-10-08-224434955271.md) | ❌ Missing | — | `224434955271` |
 | 2026-10-07 | [Ayar Labs와 Marvell — AI Scale-Up의 다음 전쟁은 광이 어디까지 들어가느냐에 달려 있다](posts/2026/2026-10-07-224434437418.md) | ✅ Published | [Ayar Labs and Marvell — The Next Battle in AI Scale-Up Is About How Deep Optics Can Move Into the System](https://netcreat.substack.com/p/ayar-labs-and-marvell-the-next-battle) | `224434437418` |
 | 2026-10-07 | [Scale의 GFS, Flexibility의 SKYT](posts/2026/2026-10-07-224434076828.md) | ✅ Published | [GFS for Scale, SKYT for Flexibility](https://netcreat.substack.com/p/gfs-for-scale-skyt-for-flexibility) | `224434076828` |
 | 2026-10-07 | [미국이 믿고 맡길 수 있는 반도체 공장은 어디인가 — DMEA Trusted Foundry 지형도와 진짜 경쟁력](posts/2026/2026-10-07-224433756102.md) | ✅ Published | [Which Semiconductor Fabs Can America Trust?](https://netcreat.substack.com/p/which-semiconductor-fabs-can-america) | `224433756102` |
@@ -159,14 +160,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-07-12 | [Lightsynq에서 Skyloom·Capella Space까지, IonQ가 모으는 양자네트워크의 퍼즐](posts/2026/2026-07-12-224344213340.md) | ✅ Published | [From Lightsynq to Skyloom–Capella Space: IonQ Is Assembling the Quantum Network Puzzle](https://netcreat.substack.com/p/from-lightsynq-to-skyloomcapella) | `224344213340` |
 | 2026-07-11 | [NSF X-Labs의 초기 2가지 공모 오픈](posts/2026/2026-07-11-224343617948.md) | ✅ Published | [The First Two NSF X-Labs Solicitations Are Open](https://netcreat.substack.com/p/the-first-two-nsf-x-labs-solicitations) | `224343617948` |
 | 2026-07-11 | [NSF Project Triad의 진정한 의미](posts/2026/2026-07-11-224343478781.md) | ✅ Published | [The Real Meaning of NSF Project Triad](https://netcreat.substack.com/p/the-real-meaning-of-nsf-project-triad) | `224343478781` |
-| 2026-07-09 | [White House Summit on American Quantum Innovation 참석자 명단과 행사의 의미](posts/2026/2026-07-09-224341813168.md) | ❌ Missing | — | `224341813168` |
 
 ## Missing from Substack
 
-Total missing: **674**
+Total missing: **675**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-08 | [DARPA QBI Stage C 발표 — 재수에 성공한 Atom, 다중 베팅하는 Microsoft, 그리고 Diraq의 시간표](posts/2026/2026-10-08-224434955271.md) | ❌ Missing | — | `224434955271` |
 | 2026-09-24 | [IonQ Superion 256, FIU에 판매. 양자 네트워킹에서 컴퓨팅까지 이어지는 새로운 사업 구조](posts/2026/2026-09-24-224422062043.md) | ❌ Missing | — | `224422062043` |
 | 2026-09-24 | [IonQ 소프트 디코딩 논문 완전 해설: 580배 오류 억제부터 논리 큐비트 수명 13.66초까지](posts/2026/2026-09-24-224422011850.md) | ❌ Missing | — | `224422011850` |
 | 2026-09-23 | [IonQ의 바이오 산업 진출: 단백질 접힘에서 신약개발·제조·IP 확보까지](posts/2026/2026-09-23-224421068841.md) | ❌ Missing | — | `224421068841` |
@@ -849,10 +850,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 731 Naver posts</summary>
+<summary>Show all 732 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-08 | [DARPA QBI Stage C 발표 — 재수에 성공한 Atom, 다중 베팅하는 Microsoft, 그리고 Diraq의 시간표](posts/2026/2026-10-08-224434955271.md) | ❌ Missing | — | `224434955271` |
 | 2026-10-07 | [Ayar Labs와 Marvell — AI Scale-Up의 다음 전쟁은 광이 어디까지 들어가느냐에 달려 있다](posts/2026/2026-10-07-224434437418.md) | ✅ Published | [Ayar Labs and Marvell — The Next Battle in AI Scale-Up Is About How Deep Optics Can Move Into the System](https://netcreat.substack.com/p/ayar-labs-and-marvell-the-next-battle) | `224434437418` |
 | 2026-10-07 | [Scale의 GFS, Flexibility의 SKYT](posts/2026/2026-10-07-224434076828.md) | ✅ Published | [GFS for Scale, SKYT for Flexibility](https://netcreat.substack.com/p/gfs-for-scale-skyt-for-flexibility) | `224434076828` |
 | 2026-10-07 | [미국이 믿고 맡길 수 있는 반도체 공장은 어디인가 — DMEA Trusted Foundry 지형도와 진짜 경쟁력](posts/2026/2026-10-07-224433756102.md) | ✅ Published | [Which Semiconductor Fabs Can America Trust?](https://netcreat.substack.com/p/which-semiconductor-fabs-can-america) | `224433756102` |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T00:41:37+00:00",
+  "generated_at": "2026-10-08T01:21:53+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,16 +24,16 @@
     }
   },
   "summary": {
-    "total": 731,
+    "total": 732,
     "published": 57,
-    "missing": 674,
+    "missing": 675,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-07-09",
-    "end": "2026-10-07",
+    "start": "2026-07-10",
+    "end": "2026-10-08",
     "total": 143,
     "published": 46,
     "missing": 97,
@@ -43,6 +43,20 @@
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-08",
+        "title": "DARPA QBI Stage C 발표 — 재수에 성공한 Atom, 다중 베팅하는 Microsoft, 그리고 Diraq의 시간표",
+        "logNo": "224434955271",
+        "url": "https://blog.naver.com/4-fire/224434955271?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-08-224434955271.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-07",
