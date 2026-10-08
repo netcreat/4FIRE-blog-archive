@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T03:32:29+00:00",
+  "generated_at": "2026-10-08T05:53:44+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 732,
+    "total": 733,
     "published": 59,
-    "missing": 673,
+    "missing": 674,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,29 @@
     "days": 90,
     "start": "2026-07-10",
     "end": "2026-10-08",
-    "total": 143,
+    "total": 144,
     "published": 48,
-    "missing": 95,
+    "missing": 96,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-08",
+        "title": "Marvell Investor Day 2026",
+        "logNo": "224435257702",
+        "url": "https://blog.naver.com/4-fire/224435257702?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-08-224435257702.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-08",

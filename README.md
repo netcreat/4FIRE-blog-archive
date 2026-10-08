@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-08T03:32:29+00:00_
+_Automatically generated: 2026-10-08T05:53:44+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 732 | 59 | 673 | 0 | 0 |
-| Recent 90 days (2026-07-10 → 2026-10-08) | 143 | 48 | 95 | 0 | 0 |
+| All | 733 | 59 | 674 | 0 | 0 |
+| Recent 90 days (2026-07-10 → 2026-10-08) | 144 | 48 | 96 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-08 | [Marvell Investor Day 2026](posts/2026/2026-10-08-224435257702.md) | ❌ Missing | — | `224435257702` |
 | 2026-10-08 | [DARPA QBI Stage C 발표 — 재수에 성공한 Atom, 다중 베팅하는 Microsoft, 그리고 Diraq의 시간표](posts/2026/2026-10-08-224434955271.md) | ✅ Published | [DARPA QBI Stage C — Atom Computing's Comeback, Microsoft's Multiple Bets, and Diraq's Timeline](https://netcreat.substack.com/p/darpa-qbi-stage-c-atom-computings) | `224434955271` |
 | 2026-10-07 | [Ayar Labs와 Marvell — AI Scale-Up의 다음 전쟁은 광이 어디까지 들어가느냐에 달려 있다](posts/2026/2026-10-07-224434437418.md) | ✅ Published | [Ayar Labs and Marvell — The Next Battle in AI Scale-Up Is About How Deep Optics Can Move Into the System](https://netcreat.substack.com/p/ayar-labs-and-marvell-the-next-battle) | `224434437418` |
 | 2026-10-07 | [Scale의 GFS, Flexibility의 SKYT](posts/2026/2026-10-07-224434076828.md) | ✅ Published | [GFS for Scale, SKYT for Flexibility](https://netcreat.substack.com/p/gfs-for-scale-skyt-for-flexibility) | `224434076828` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-09-23 | [열심히 배워서 남주자 — 커피 한잔 후원 오픈](posts/2026/2026-09-23-224421146774.md) | ✅ Published | [Learn Deeply. Share Freely. — A New Chapter for 4FIRE](https://netcreat.substack.com/p/learn-deeply-share-freely-a-new-chapter) | `224421146774` |
 | 2026-09-23 | [IonQ의 바이오 산업 진출: 단백질 접힘에서 신약개발·제조·IP 확보까지](posts/2026/2026-09-23-224421068841.md) | ❌ Missing | — | `224421068841` |
 | 2026-09-23 | [주식 투자는 절대평가가 아닌 상대평가다](posts/2026/2026-09-23-224420579441.md) | ❌ Missing | — | `224420579441` |
-| 2026-09-22 | [인텔 CEO 립부 탄의 양자컴퓨팅 투자 전략](posts/2026/2026-09-22-224420297839.md) | ❌ Missing | — | `224420297839` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

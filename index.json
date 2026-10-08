@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 732,
+  "totalArchivedPosts": 733,
   "posts": [
+    {
+      "date": "2026-10-08",
+      "published": "2026-10-08T16:48:59+11:00",
+      "title": "Marvell Investor Day 2026",
+      "logNo": "224435257702",
+      "source": "https://blog.naver.com/4-fire/224435257702?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-08-224435257702.md",
+      "content_source": "naver_post",
+      "characters": 16647
+    },
     {
       "date": "2026-10-08",
       "published": "2026-10-08T12:17:26+11:00",

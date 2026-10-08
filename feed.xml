@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Thu, 08 Oct 2026 12:32:00 +0900</pubDate>
+            <pubDate>Thu, 08 Oct 2026 14:53:13 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Semiconductor]]></category>
+                <title><![CDATA[Marvell Investor Day 2026]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224435257702?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224435257702</guid>
+                
+                <description><![CDATA[✅ Marvell은 더 이상 ‘Custom ASIC 회사’가 아니었다 2026년 10월 6일 열린 Marvell Investor Day에서 가장 화제가 된 숫자는 FY2031 매출 $70B~$90B였다. 하지만 발표자료를 처음부터 따라가 보면 더 중요한 변화가 하나 보인다. Marvell이 자신의 정체성을 다시 정의했다는 점이다. 과거에는 Storage semiconductor 회사였고, 이후 Networking과 Custom ASIC 회사로 영역을 넓혔다. 이제 Marvell이 스스로 그리고 있는 모습은 훨씬 크다. AI가 커질수록 발생하는 모든 Data Movement를 담당하는 Connectivity Platform 공식 Investor Day 페이지에서 발표자료와 webcast를 확인할 수 있다. https://d1io3yog0oux5.cloudfront.net/_9b549855d....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDhfMTgz/MDAxNzkxNDM3ODU0MzY0.F9n1Qt3DqM1iC4csjRDZSGDJjwph9aElEXYNRFRqmQsg.Z5aQCpf071hpNimihtB_ODS3iJvIE5PxKZPfnG3x7O4g.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Thu, 08 Oct 2026 14:48:59 +0900</pubDate>
+                <tag><![CDATA[Marvell,MRVL,Investor,Day]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 앞선 글의 질문에서 한 단계 더 들어가 보자 앞선 글에서는 IonQ가 Forte·Tempo 고객에게 명확한 Upgrade Path를 제공해야 하는 이유를 살펴봤다. 더 좋은 시스템이 빠르게 등장하는 상황에서 upgrade 경로가 없다면 고객 입장에서는: “지금 수천만 달러를 쓰느니 다음 세대를 기다리자.”라는 선택이 합리적일 수 있기 때문이다. 하지만 여기서 다음 질문이 생긴다. 그렇다면 Tempo를 산 고객이 256으로 넘어갈 때 실제로 무엇을 바꿔야 할까? 그리고 더 중요한 질문은: 256을 사면 정말 나중에 10K QPU만 바꿔 끼울 수 있는가?이다. 공개자료를 종합하면 두 upgrade는 상당히 다른 성격을 가진 것으로 보인다. Tempo → 256 → 상당한 hard....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDdfMSAg/MDAxNzg4NzkxODkwNzAw.zdnF1owauZQMGqtS7TeRrikj6KAmZ9uucHggmDXDs0Mg.ciIMsq1BETlaJOWDlt0KKJlQGSnAiCJby6EUg18d4Z0g.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Tue, 08 Sep 2026 00:01:07 +0900</pubDate>
                 <tag><![CDATA[Tempo,Upgrade,256,10K]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[IonQ 256의 진짜 전략 — 추가 구매가 최선, 업그레이드는 생태계 확장의 차선책]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224404169457?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224404169457</guid>
-                
-                <description><![CDATA[✅ Forte·Tempo 다음의 256은 단순한 ‘신제품’이 아니다 IonQ의 현재 상용 시스템을 순서대로 보면 대략 다음과 같다. Forte Enterprise: 36 physical qubits Tempo: 최대 100 physical qubits 차세대 시스템: 256 physical qubits 이후: 10,000 → 20,000 → 200,000 → 2,000,000 physical qubits 숫자만 비교해도 256은: Forte 대비 약 7배 Tempo 대비 약 2.5배 많은 physical qubit를 갖는다. 하지만 256의 의미는 단순히 qubit 숫자가 늘어난 것보다 훨씬 크다. 양자 시스템의 상태공간은 qubit 수에 선형적으로 증가하지 않고 2n으로 증가한다. 예를 들어 64-qubit 시스템과 비교하면 256 qubits가 표현할 수 있는 Hilbert space는 2192배....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MDdfMjEy/MDAxNzg4Nzg5OTM1Nzcy.SyR7n01f-42UK6pC3yUHyRHgrrGDn0BWzc38ur6koCIg.SiQ8enzTpEgi_AVcxtXrsxINkhCA1qBIJJVk71Bdmcog.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Mon, 07 Sep 2026 23:16:36 +0900</pubDate>
-                <tag><![CDATA[IonQ,256,Upgrade]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>
