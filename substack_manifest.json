@@ -5,6 +5,17 @@
   "substack_base_url": "https://netcreat.substack.com",
   "description": "Curated mapping keyed by Naver logNo. A Naver post not listed here is automatically treated as missing from Substack. Use status='skip' for Naver-only posts that should not be published on Substack.",
   "mappings": {
+    "224434955271": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "DARPA QBI Stage C — Atom Computing's Comeback, Microsoft's Multiple Bets, and Diraq's Timeline",
+          "url": "https://netcreat.substack.com/p/darpa-qbi-stage-c-atom-computings",
+          "published_date": "2026-10-08"
+        }
+      ]
+    },
     "224259267885": {
       "status": "published",
       "relationship": "one_to_one",
