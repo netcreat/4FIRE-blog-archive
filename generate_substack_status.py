@@ -22,6 +22,7 @@ MANIFEST_PATH = Path("substack_manifest.json")
 
 STATUS_JSON_PATH = Path("substack_status.json")
 STATUS_MD_PATH = Path("SUBSTACK_STATUS.md")
+README_PATH = Path("README.md")
 
 DEFAULT_SUBSTACK_BASE = "https://netcreat.substack.com"
 
@@ -2024,6 +2025,83 @@ def build_markdown(
     return "\n".join(lines)
 
 
+
+# ==========================================================
+# REPOSITORY HOMEPAGE
+# ==========================================================
+
+def build_homepage(markdown: str) -> str:
+    """Display a compact, always-current dashboard on the GitHub homepage."""
+    summary = (
+        markdown.partition("## Summary\\n")[2]
+        .partition("## Recent 90 days\\n")[0]
+        .strip()
+    )
+    recent = (
+        markdown.partition("## Recent 90 days\\n")[2]
+        .partition("## Missing from Substack\\n")[0]
+        .strip()
+    )
+
+    if not summary or not recent:
+        raise ValueError("Could not locate status sections for README")
+
+    table_lines = [
+        line for line in recent.splitlines() if line.startswith("|")
+    ][:32]  # Header + separator + latest 30 articles
+
+    if len(table_lines) < 2:
+        raise ValueError("No status table found for README")
+
+    updated = next(
+        (
+            line for line in markdown.splitlines()
+            if line.startswith("_Automatically generated:")
+        ),
+        "",
+    )
+    lines = [
+        "# 4FIRE Blog Archive",
+        "",
+        "## Naver ↔ Substack Publishing Status",
+        "",
+        updated,
+        "",
+        "Track Naver posts and their English Substack editions. "
+        "**The table below is updated automatically** "
+        "by the repository's existing sync workflow.",
+        "",
+        "[View the full status report](SUBSTACK_STATUS.md) · "
+        "[Substack publication](https://netcreat.substack.com/) · "
+        "[Naver blog](https://blog.naver.com/4-fire)",
+        "",
+    ]
+
+    if "Substack public sitemap could not be fetched" in markdown:
+        lines.extend([
+            "> ⚠️ Live public Substack link discovery was unavailable "
+            "in the latest run; confirmed manual mappings remain included.",
+            "",
+        ])
+
+    lines.extend([
+        "## Summary",
+        "",
+        summary,
+        "",
+        "## Latest 30 Naver posts",
+        "",
+        "\\n".join(table_lines),
+        "",
+        "Only the 30 latest entries are shown here. "
+        "For the complete **Recent 90 days**, **Missing from Substack**, "
+        "and **Full Naver archive** tables, "
+        "[open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).",
+        "",
+    ])
+
+    return "\\n".join(lines)
+
 # ==========================================================
 # MAIN
 # ==========================================================
@@ -2201,6 +2279,11 @@ def main() -> int:
     atomic_write(
         STATUS_MD_PATH,
         markdown,
+    )
+
+    atomic_write(
+        README_PATH,
+        build_homepage(markdown),
     )
 
     print()
