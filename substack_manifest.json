@@ -5,6 +5,17 @@
   "substack_base_url": "https://netcreat.substack.com",
   "description": "Curated mapping keyed by Naver logNo. A Naver post not listed here is automatically treated as missing from Substack. Use status='skip' for Naver-only posts that should not be published on Substack.",
   "mappings": {
+    "224353334531": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Fast Logical Operations in Quantum LDPC Codes Using Simple Resource States",
+          "url": "https://netcreat.substack.com/p/fast-logical-operations-in-quantum",
+          "published_date": "2026-10-08"
+        }
+      ]
+    },
     "224434955271": {
       "status": "published",
       "relationship": "one_to_one",
