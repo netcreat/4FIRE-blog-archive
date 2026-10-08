@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-07T21:31:27+00:00_
+_Automatically generated: 2026-10-08T00:01:04+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,7 +10,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 731 | 56 | 675 | 0 | 0 |
+| All | 731 | 57 | 674 | 0 | 0 |
 | Recent 90 days (2026-07-09 → 2026-10-07) | 143 | 46 | 97 | 0 | 0 |
 
 ## Recent 90 days
@@ -163,7 +163,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **675**
+Total missing: **674**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
@@ -383,7 +383,6 @@ Total missing: **675**
 | 2026-04-24 | [이온트랩은 배열이 아니라 움직이는 네트워크다](posts/2026/2026-04-24-224263659154.md) | ❌ Missing | — | `224263659154` |
 | 2026-04-23 | [이온트랩을 이용한 FTQC: Walking Cat 아키텍처 (1)- Part - Introduction and Overview](posts/2026/2026-04-23-224262826596.md) | ❌ Missing | — | `224262826596` |
 | 2026-04-21 | [IonQ 컴퓨트 부문 President가 말하는 양자컴퓨팅의 현실: 배선, CMOS 스케일링, 그리고 제조 경쟁의 시작](posts/2026/2026-04-21-224259707282.md) | ❌ Missing | — | `224259707282` |
-| 2026-04-20 | [영국의 양자 전략 - ProQure, 양자 네트워킹, 그리고 2030년 이후 국가 조달의 방향](posts/2026/2026-04-20-224259267885.md) | ❌ Missing | — | `224259267885` |
 | 2026-04-20 | [IonQ 컴퓨트 부문 CTO가 말하는 양자컴퓨팅의 현실: 칩, 스케일링, 그리고 산업화의 시작](posts/2026/2026-04-20-224258952760.md) | ❌ Missing | — | `224258952760` |
 | 2026-04-19 | [DARPA NGMM, ERIS Shopping Notice, 3DHI 설계 병목, 그리고 SkyWater·IonQ까지 이어지는 구조](posts/2026/2026-04-19-224258019550.md) | ❌ Missing | — | `224258019550` |
 | 2026-04-19 | [SDA GSD 계약이 IonQ에 주는 의미](posts/2026/2026-04-19-224257912225.md) | ❌ Missing | — | `224257912225` |
@@ -1124,7 +1123,7 @@ _Not calculated because the public sitemap fetch failed._
 | 2026-04-24 | [이온트랩은 배열이 아니라 움직이는 네트워크다](posts/2026/2026-04-24-224263659154.md) | ❌ Missing | — | `224263659154` |
 | 2026-04-23 | [이온트랩을 이용한 FTQC: Walking Cat 아키텍처 (1)- Part - Introduction and Overview](posts/2026/2026-04-23-224262826596.md) | ❌ Missing | — | `224262826596` |
 | 2026-04-21 | [IonQ 컴퓨트 부문 President가 말하는 양자컴퓨팅의 현실: 배선, CMOS 스케일링, 그리고 제조 경쟁의 시작](posts/2026/2026-04-21-224259707282.md) | ❌ Missing | — | `224259707282` |
-| 2026-04-20 | [영국의 양자 전략 - ProQure, 양자 네트워킹, 그리고 2030년 이후 국가 조달의 방향](posts/2026/2026-04-20-224259267885.md) | ❌ Missing | — | `224259267885` |
+| 2026-04-20 | [영국의 양자 전략 - ProQure, 양자 네트워킹, 그리고 2030년 이후 국가 조달의 방향](posts/2026/2026-04-20-224259267885.md) | ✅ Published | [The UK's Quantum Strategy — ProQure, Quantum Networking, and the Road to National Procurement Beyond 2030](https://netcreat.substack.com/p/the-uks-quantum-strategy-proqure) | `224259267885` |
 | 2026-04-20 | [IonQ 컴퓨트 부문 CTO가 말하는 양자컴퓨팅의 현실: 칩, 스케일링, 그리고 산업화의 시작](posts/2026/2026-04-20-224258952760.md) | ❌ Missing | — | `224258952760` |
 | 2026-04-19 | [DARPA NGMM, ERIS Shopping Notice, 3DHI 설계 병목, 그리고 SkyWater·IonQ까지 이어지는 구조](posts/2026/2026-04-19-224258019550.md) | ❌ Missing | — | `224258019550` |
 | 2026-04-19 | [SDA GSD 계약이 IonQ에 주는 의미](posts/2026/2026-04-19-224257912225.md) | ❌ Missing | — | `224257912225` |
