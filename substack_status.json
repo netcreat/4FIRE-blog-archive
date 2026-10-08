@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T05:53:44+00:00",
+  "generated_at": "2026-10-08T06:13:40+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 733,
-    "published": 59,
-    "missing": 674,
+    "published": 60,
+    "missing": 673,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-10",
     "end": "2026-10-08",
     "total": 144,
-    "published": 48,
-    "missing": 96,
+    "published": 49,
+    "missing": 95,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224435257702?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-08-224435257702.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Marvell Investor Day 2026 — From Custom ASICs to an AI Data-Movement Platform",
+          "url": "https://netcreat.substack.com/p/marvell-investor-day-2026-from-custom",
+          "published_date": "2026-10-08",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
