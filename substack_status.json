@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T06:39:20+00:00",
+  "generated_at": "2026-10-08T06:47:42+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 733,
-    "published": 60,
-    "missing": 673,
+    "published": 61,
+    "missing": 672,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-10",
     "end": "2026-10-08",
     "total": 144,
-    "published": 49,
-    "missing": 95,
+    "published": 50,
+    "missing": 94,
     "skip": 0,
     "check": 0
   },
@@ -822,10 +822,18 @@
         "url": "https://blog.naver.com/4-fire/224417528589?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-09-20-224417528589.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "IonQ Superion 256 vs. 10K — How Active CMOS Changes Quantum Computer Control",
+          "url": "https://netcreat.substack.com/p/ionq-superion-256-vs-10k-how-active",
+          "published_date": "2026-10-08",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {

@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-08T06:39:20+00:00_
+_Automatically generated: 2026-10-08T06:47:42+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,8 +10,8 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 733 | 60 | 673 | 0 | 0 |
-| Recent 90 days (2026-07-10 → 2026-10-08) | 144 | 49 | 95 | 0 | 0 |
+| All | 733 | 61 | 672 | 0 | 0 |
+| Recent 90 days (2026-07-10 → 2026-10-08) | 144 | 50 | 94 | 0 | 0 |
 
 ## Recent 90 days
 
@@ -55,7 +55,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-09-21 | [IonQ의 100만 큐비트 확장 전략 — SkyWater, 양자산업의 반도체 제조 플랫폼이 될 수 있을까?](posts/2026/2026-09-21-224418682921.md) | 🔵 Split / Published | [Part 1: IonQ’s Million-Qubit Scaling Strategy - Part 1](https://netcreat.substack.com/p/ionqs-million-qubit-scaling-strategy)<br>[Part 2: IonQ’s Million-Qubit Scaling Strategy - Part 2](https://netcreat.substack.com/p/ionqs-million-qubit-scaling-strategy-c08) | `224418682921` |
 | 2026-09-20 | [IonQ Superion 10K — 800 Logical Qubits의 비밀은 새로운 QEC 코드에 있을까?](posts/2026/2026-09-20-224417992062.md) | ✅ Published | [IonQ Superion 10K — Could a New QEC Code Be the Secret Behind 800 Logical Qubits?](https://netcreat.substack.com/p/ionq-superion-10k-could-a-new-qec) | `224417992062` |
 | 2026-09-20 | [BWX Technologies(BWXT) 투자 분석 업데이트 — 실적은 성장하는데 주가는 왜 계속 하락할까?](posts/2026/2026-09-20-224417645768.md) | ❌ Missing | — | `224417645768` |
-| 2026-09-20 | [IonQ Superion 256 vs 10K — 능동 CMOS가 바꾸는 양자컴퓨터의 제어 방식](posts/2026/2026-09-20-224417528589.md) | ❌ Missing | — | `224417528589` |
+| 2026-09-20 | [IonQ Superion 256 vs 10K — 능동 CMOS가 바꾸는 양자컴퓨터의 제어 방식](posts/2026/2026-09-20-224417528589.md) | ✅ Published | [IonQ Superion 256 vs. 10K — How Active CMOS Changes Quantum Computer Control](https://netcreat.substack.com/p/ionq-superion-256-vs-10k-how-active) | `224417528589` |
 | 2026-09-19 | [미국 과학의 황금시대, 이제 각 기관이 움직이기 시작했다 — DOE·NSF·NIST·NASA·DOW의 실행계획과 양자기술 전략](posts/2026/2026-09-19-224417175293.md) | ❌ Missing | — | `224417175293` |
 | 2026-09-19 | [DOE·NSF·NIST가 동시에 움직인 이유 — ‘Science: A New Golden Age’의 숨은 타임라인](posts/2026/2026-09-19-224416696918.md) | ❌ Missing | — | `224416696918` |
 | 2026-09-18 | [2028 양자 시계가 시작됐다 — DOE가 정한 진짜 FTQC의 기준과 업체별 현재 위치](posts/2026/2026-09-18-224416205363.md) | ❌ Missing | — | `224416205363` |
@@ -164,7 +164,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **673**
+Total missing: **672**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
@@ -177,7 +177,6 @@ Total missing: **673**
 | 2026-09-22 | [미국이 그린란드에서 얻는 것 — 북극 안보 재편과 투자자가 봐야 할 기업들](posts/2026/2026-09-22-224420079308.md) | ❌ Missing | — | `224420079308` |
 | 2026-09-21 | [IonQ의 네 가지 양자 응용 연구 — AI, 산업용 HPC, 단백질 접힘을 관통하는 하나의 전략](posts/2026/2026-09-21-224419051220.md) | ❌ Missing | — | `224419051220` |
 | 2026-09-20 | [BWX Technologies(BWXT) 투자 분석 업데이트 — 실적은 성장하는데 주가는 왜 계속 하락할까?](posts/2026/2026-09-20-224417645768.md) | ❌ Missing | — | `224417645768` |
-| 2026-09-20 | [IonQ Superion 256 vs 10K — 능동 CMOS가 바꾸는 양자컴퓨터의 제어 방식](posts/2026/2026-09-20-224417528589.md) | ❌ Missing | — | `224417528589` |
 | 2026-09-19 | [미국 과학의 황금시대, 이제 각 기관이 움직이기 시작했다 — DOE·NSF·NIST·NASA·DOW의 실행계획과 양자기술 전략](posts/2026/2026-09-19-224417175293.md) | ❌ Missing | — | `224417175293` |
 | 2026-09-19 | [DOE·NSF·NIST가 동시에 움직인 이유 — ‘Science: A New Golden Age’의 숨은 타임라인](posts/2026/2026-09-19-224416696918.md) | ❌ Missing | — | `224416696918` |
 | 2026-09-18 | [2028 양자 시계가 시작됐다 — DOE가 정한 진짜 FTQC의 기준과 업체별 현재 위치](posts/2026/2026-09-18-224416205363.md) | ❌ Missing | — | `224416205363` |
@@ -891,7 +890,7 @@ _Not calculated because the public sitemap fetch failed._
 | 2026-09-21 | [IonQ의 100만 큐비트 확장 전략 — SkyWater, 양자산업의 반도체 제조 플랫폼이 될 수 있을까?](posts/2026/2026-09-21-224418682921.md) | 🔵 Split / Published | [Part 1: IonQ’s Million-Qubit Scaling Strategy - Part 1](https://netcreat.substack.com/p/ionqs-million-qubit-scaling-strategy)<br>[Part 2: IonQ’s Million-Qubit Scaling Strategy - Part 2](https://netcreat.substack.com/p/ionqs-million-qubit-scaling-strategy-c08) | `224418682921` |
 | 2026-09-20 | [IonQ Superion 10K — 800 Logical Qubits의 비밀은 새로운 QEC 코드에 있을까?](posts/2026/2026-09-20-224417992062.md) | ✅ Published | [IonQ Superion 10K — Could a New QEC Code Be the Secret Behind 800 Logical Qubits?](https://netcreat.substack.com/p/ionq-superion-10k-could-a-new-qec) | `224417992062` |
 | 2026-09-20 | [BWX Technologies(BWXT) 투자 분석 업데이트 — 실적은 성장하는데 주가는 왜 계속 하락할까?](posts/2026/2026-09-20-224417645768.md) | ❌ Missing | — | `224417645768` |
-| 2026-09-20 | [IonQ Superion 256 vs 10K — 능동 CMOS가 바꾸는 양자컴퓨터의 제어 방식](posts/2026/2026-09-20-224417528589.md) | ❌ Missing | — | `224417528589` |
+| 2026-09-20 | [IonQ Superion 256 vs 10K — 능동 CMOS가 바꾸는 양자컴퓨터의 제어 방식](posts/2026/2026-09-20-224417528589.md) | ✅ Published | [IonQ Superion 256 vs. 10K — How Active CMOS Changes Quantum Computer Control](https://netcreat.substack.com/p/ionq-superion-256-vs-10k-how-active) | `224417528589` |
 | 2026-09-19 | [미국 과학의 황금시대, 이제 각 기관이 움직이기 시작했다 — DOE·NSF·NIST·NASA·DOW의 실행계획과 양자기술 전략](posts/2026/2026-09-19-224417175293.md) | ❌ Missing | — | `224417175293` |
 | 2026-09-19 | [DOE·NSF·NIST가 동시에 움직인 이유 — ‘Science: A New Golden Age’의 숨은 타임라인](posts/2026/2026-09-19-224416696918.md) | ❌ Missing | — | `224416696918` |
 | 2026-09-18 | [2028 양자 시계가 시작됐다 — DOE가 정한 진짜 FTQC의 기준과 업체별 현재 위치](posts/2026/2026-09-18-224416205363.md) | ❌ Missing | — | `224416205363` |
