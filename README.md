@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-08T01:27:17+00:00_
+_Automatically generated: 2026-10-08T02:04:27+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,14 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 732 | 57 | 675 | 0 | 0 |
-| Recent 90 days (2026-07-10 → 2026-10-08) | 143 | 46 | 97 | 0 | 0 |
+| All | 732 | 58 | 674 | 0 | 0 |
+| Recent 90 days (2026-07-10 → 2026-10-08) | 143 | 47 | 96 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-10-08 | [DARPA QBI Stage C 발표 — 재수에 성공한 Atom, 다중 베팅하는 Microsoft, 그리고 Diraq의 시간표](posts/2026/2026-10-08-224434955271.md) | ❌ Missing | — | `224434955271` |
+| 2026-10-08 | [DARPA QBI Stage C 발표 — 재수에 성공한 Atom, 다중 베팅하는 Microsoft, 그리고 Diraq의 시간표](posts/2026/2026-10-08-224434955271.md) | ✅ Published | [DARPA QBI Stage C — Atom Computing's Comeback, Microsoft's Multiple Bets, and Diraq's Timeline](https://netcreat.substack.com/p/darpa-qbi-stage-c-atom-computings) | `224434955271` |
 | 2026-10-07 | [Ayar Labs와 Marvell — AI Scale-Up의 다음 전쟁은 광이 어디까지 들어가느냐에 달려 있다](posts/2026/2026-10-07-224434437418.md) | ✅ Published | [Ayar Labs and Marvell — The Next Battle in AI Scale-Up Is About How Deep Optics Can Move Into the System](https://netcreat.substack.com/p/ayar-labs-and-marvell-the-next-battle) | `224434437418` |
 | 2026-10-07 | [Scale의 GFS, Flexibility의 SKYT](posts/2026/2026-10-07-224434076828.md) | ✅ Published | [GFS for Scale, SKYT for Flexibility](https://netcreat.substack.com/p/gfs-for-scale-skyt-for-flexibility) | `224434076828` |
 | 2026-10-07 | [미국이 믿고 맡길 수 있는 반도체 공장은 어디인가 — DMEA Trusted Foundry 지형도와 진짜 경쟁력](posts/2026/2026-10-07-224433756102.md) | ✅ Published | [Which Semiconductor Fabs Can America Trust?](https://netcreat.substack.com/p/which-semiconductor-fabs-can-america) | `224433756102` |
