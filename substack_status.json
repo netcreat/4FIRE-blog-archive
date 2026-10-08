@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T08:57:40+00:00",
+  "generated_at": "2026-10-08T09:21:12+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 734,
-    "published": 61,
-    "missing": 673,
+    "published": 62,
+    "missing": 672,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-10",
     "end": "2026-10-08",
     "total": 145,
-    "published": 50,
-    "missing": 95,
+    "published": 51,
+    "missing": 94,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224435475308?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-08-224435475308.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "A Semiconductor Revolution Without EUV — Kepler Computing, Ferroelectric Memory, GlobalFoundries, and Musk's Terafab",
+          "url": "https://netcreat.substack.com/p/a-semiconductor-revolution-without",
+          "published_date": "2026-10-08",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
