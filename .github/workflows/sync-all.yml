@@ -8,6 +8,7 @@ on:
       - main
     paths:
       - "substack_manifest.json"
+      - "generate_substack_status.py"
       - ".github/SYNC_ALL_TRIGGER.txt"
 
   schedule:
@@ -57,7 +58,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add feed.xml index.json posts/ SUBSTACK_STATUS.md substack_status.json substack_manifest.json
+          git add feed.xml index.json posts/ README.md SUBSTACK_STATUS.md substack_status.json substack_manifest.json
 
           if git diff --cached --quiet; then
             echo "No generated changes."
