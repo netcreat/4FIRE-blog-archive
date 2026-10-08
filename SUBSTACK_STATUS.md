@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-08T02:04:27+00:00_
+_Automatically generated: 2026-10-08T02:53:55+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,8 +10,8 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 732 | 58 | 674 | 0 | 0 |
-| Recent 90 days (2026-07-10 → 2026-10-08) | 143 | 47 | 96 | 0 | 0 |
+| All | 732 | 59 | 673 | 0 | 0 |
+| Recent 90 days (2026-07-10 → 2026-10-08) | 143 | 48 | 95 | 0 | 0 |
 
 ## Recent 90 days
 
@@ -152,7 +152,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-07-23 | [Science: A New Golden Age](posts/2026/2026-07-23-224355191418.md) | ❌ Missing | — | `224355191418` |
 | 2026-07-22 | [IonQ가 연결한 미국의 두 양자 허브: Elevate Quantum과 Bloch Quantum](posts/2026/2026-07-22-224354676817.md) | ❌ Missing | — | `224354676817` |
 | 2026-07-21 | [SDA 세번째  Tranche 1 위성을 궤도에.](posts/2026/2026-07-21-224353715240.md) | ❌ Missing | — | `224353715240` |
-| 2026-07-21 | [Fast logical operations in quantum LDPC codes using simple resource states](posts/2026/2026-07-21-224353334531.md) | ❌ Missing | — | `224353334531` |
+| 2026-07-21 | [Fast logical operations in quantum LDPC codes using simple resource states](posts/2026/2026-07-21-224353334531.md) | ✅ Published | [Fast Logical Operations in Quantum LDPC Codes Using Simple Resource States](https://netcreat.substack.com/p/fast-logical-operations-in-quantum) | `224353334531` |
 | 2026-07-20 | [Perrseus 프로그램 개요 요약](posts/2026/2026-07-20-224351619458.md) | ❌ Missing | — | `224351619458` |
 | 2026-07-19 | [SSC와 NSSL Phase 3: 미국이 국가안보 우주발사 체계를 어떻게 재편하고 있는가](posts/2026/2026-07-19-224351092273.md) | ❌ Missing | — | `224351092273` |
 | 2026-07-16 | [NIWC 공고가 보여주는 미국의 양자시대 방어 전략](posts/2026/2026-07-16-224348735829.md) | ❌ Missing | — | `224348735829` |
@@ -163,7 +163,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **674**
+Total missing: **673**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
@@ -259,7 +259,6 @@ Total missing: **674**
 | 2026-07-23 | [Science: A New Golden Age](posts/2026/2026-07-23-224355191418.md) | ❌ Missing | — | `224355191418` |
 | 2026-07-22 | [IonQ가 연결한 미국의 두 양자 허브: Elevate Quantum과 Bloch Quantum](posts/2026/2026-07-22-224354676817.md) | ❌ Missing | — | `224354676817` |
 | 2026-07-21 | [SDA 세번째  Tranche 1 위성을 궤도에.](posts/2026/2026-07-21-224353715240.md) | ❌ Missing | — | `224353715240` |
-| 2026-07-21 | [Fast logical operations in quantum LDPC codes using simple resource states](posts/2026/2026-07-21-224353334531.md) | ❌ Missing | — | `224353334531` |
 | 2026-07-20 | [Perrseus 프로그램 개요 요약](posts/2026/2026-07-20-224351619458.md) | ❌ Missing | — | `224351619458` |
 | 2026-07-19 | [SSC와 NSSL Phase 3: 미국이 국가안보 우주발사 체계를 어떻게 재편하고 있는가](posts/2026/2026-07-19-224351092273.md) | ❌ Missing | — | `224351092273` |
 | 2026-07-16 | [NIWC 공고가 보여주는 미국의 양자시대 방어 전략](posts/2026/2026-07-16-224348735829.md) | ❌ Missing | — | `224348735829` |
@@ -988,7 +987,7 @@ _Not calculated because the public sitemap fetch failed._
 | 2026-07-23 | [Science: A New Golden Age](posts/2026/2026-07-23-224355191418.md) | ❌ Missing | — | `224355191418` |
 | 2026-07-22 | [IonQ가 연결한 미국의 두 양자 허브: Elevate Quantum과 Bloch Quantum](posts/2026/2026-07-22-224354676817.md) | ❌ Missing | — | `224354676817` |
 | 2026-07-21 | [SDA 세번째  Tranche 1 위성을 궤도에.](posts/2026/2026-07-21-224353715240.md) | ❌ Missing | — | `224353715240` |
-| 2026-07-21 | [Fast logical operations in quantum LDPC codes using simple resource states](posts/2026/2026-07-21-224353334531.md) | ❌ Missing | — | `224353334531` |
+| 2026-07-21 | [Fast logical operations in quantum LDPC codes using simple resource states](posts/2026/2026-07-21-224353334531.md) | ✅ Published | [Fast Logical Operations in Quantum LDPC Codes Using Simple Resource States](https://netcreat.substack.com/p/fast-logical-operations-in-quantum) | `224353334531` |
 | 2026-07-20 | [Perrseus 프로그램 개요 요약](posts/2026/2026-07-20-224351619458.md) | ❌ Missing | — | `224351619458` |
 | 2026-07-19 | [SSC와 NSSL Phase 3: 미국이 국가안보 우주발사 체계를 어떻게 재편하고 있는가](posts/2026/2026-07-19-224351092273.md) | ❌ Missing | — | `224351092273` |
 | 2026-07-16 | [NIWC 공고가 보여주는 미국의 양자시대 방어 전략](posts/2026/2026-07-16-224348735829.md) | ❌ Missing | — | `224348735829` |
