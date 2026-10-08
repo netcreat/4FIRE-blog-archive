@@ -5,6 +5,17 @@
   "substack_base_url": "https://netcreat.substack.com",
   "description": "Curated mapping keyed by Naver logNo. A Naver post not listed here is automatically treated as missing from Substack. Use status='skip' for Naver-only posts that should not be published on Substack.",
   "mappings": {
+    "224417528589": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "IonQ Superion 256 vs. 10K — How Active CMOS Changes Quantum Computer Control",
+          "url": "https://netcreat.substack.com/p/ionq-superion-256-vs-10k-how-active",
+          "published_date": "2026-10-08"
+        }
+      ]
+    },
     "224435257702": {
       "status": "published",
       "relationship": "one_to_one",
