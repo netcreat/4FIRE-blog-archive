@@ -2033,13 +2033,13 @@ def build_markdown(
 def build_homepage(markdown: str) -> str:
     """Display a compact, always-current dashboard on the GitHub homepage."""
     summary = (
-        markdown.partition("## Summary\\n")[2]
-        .partition("## Recent 90 days\\n")[0]
+        markdown.partition("## Summary\n")[2]
+        .partition("## Recent 90 days\n")[0]
         .strip()
     )
     recent = (
-        markdown.partition("## Recent 90 days\\n")[2]
-        .partition("## Missing from Substack\\n")[0]
+        markdown.partition("## Recent 90 days\n")[2]
+        .partition("## Missing from Substack\n")[0]
         .strip()
     )
 
@@ -2091,7 +2091,7 @@ def build_homepage(markdown: str) -> str:
         "",
         "## Latest 30 Naver posts",
         "",
-        "\\n".join(table_lines),
+        "\n".join(table_lines),
         "",
         "Only the 30 latest entries are shown here. "
         "For the complete **Recent 90 days**, **Missing from Substack**, "
@@ -2100,7 +2100,7 @@ def build_homepage(markdown: str) -> str:
         "",
     ])
 
-    return "\\n".join(lines)
+    return "\n".join(lines)
 
 # ==========================================================
 # MAIN
