@@ -5,6 +5,17 @@
   "substack_base_url": "https://netcreat.substack.com",
   "description": "Curated mapping keyed by Naver logNo. A Naver post not listed here is automatically treated as missing from Substack. Use status='skip' for Naver-only posts that should not be published on Substack.",
   "mappings": {
+    "224436465772": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "What Is IonQ’s Next Big Hurdle?",
+          "url": "https://netcreat.substack.com/p/what-is-ionqs-next-big-hurdle",
+          "published_date": "2026-10-09"
+        }
+      ]
+    },
     "224435960562": {
       "status": "published",
       "relationship": "one_to_one",
