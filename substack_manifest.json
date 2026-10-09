@@ -5,6 +5,18 @@
   "substack_base_url": "https://netcreat.substack.com",
   "description": "Curated mapping keyed by Naver logNo. A Naver post not listed here is automatically treated as missing from Substack. Use status='skip' for Naver-only posts that should not be published on Substack.",
   "mappings": {
+    "224435960562": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "The Pentagon’s $350 Million Quantum Push — DARPA Stage C, PsiQuantum’s Loan, and a Shift in U.S. Quantum Strategy",
+          "url": "https://substack.com/home/post/p-219518246",
+          "published_date": "2026-10-09",
+          "post_id": "219518246"
+        }
+      ]
+    },
     "224435475308": {
       "status": "published",
       "relationship": "one_to_one",
