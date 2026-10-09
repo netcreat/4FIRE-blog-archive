@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:49:59+00:00",
+  "generated_at": "2026-10-09T11:31:10+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 739,
-    "published": 63,
-    "missing": 676,
+    "published": 64,
+    "missing": 675,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-11",
     "end": "2026-10-09",
     "total": 150,
-    "published": 52,
-    "missing": 98,
+    "published": 53,
+    "missing": 97,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224436465772?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-09-224436465772.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "What Is IonQ’s Next Big Hurdle?",
+          "url": "https://netcreat.substack.com/p/what-is-ionqs-next-big-hurdle",
+          "published_date": "2026-10-09",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {

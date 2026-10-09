@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-09T10:49:59+00:00_
+_Automatically generated: 2026-10-09T11:31:10+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,14 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 739 | 63 | 676 | 0 | 0 |
-| Recent 90 days (2026-07-11 → 2026-10-09) | 150 | 52 | 98 | 0 | 0 |
+| All | 739 | 64 | 675 | 0 | 0 |
+| Recent 90 days (2026-07-11 → 2026-10-09) | 150 | 53 | 97 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-10-09 | [아이온큐의 다음 빅 허들은 무엇인가?](posts/2026/2026-10-09-224436465772.md) | ❌ Missing | — | `224436465772` |
+| 2026-10-09 | [아이온큐의 다음 빅 허들은 무엇인가?](posts/2026/2026-10-09-224436465772.md) | ✅ Published | [What Is IonQ’s Next Big Hurdle?](https://netcreat.substack.com/p/what-is-ionqs-next-big-hurdle) | `224436465772` |
 | 2026-10-09 | [인터포저가 바꾸는 반도체 생태계](posts/2026/2026-10-09-224435985869.md) | ❌ Missing | — | `224435985869` |
 | 2026-10-09 | [미국 국방부, 양자컴퓨팅에 3억 5천만 달러 투입 — DARPA Stage C와 PsiQuantum 대출, 그리고 국가 양자전략의 변화](posts/2026/2026-10-09-224435960562.md) | ✅ Published | [The Pentagon’s $350 Million Quantum Push — DARPA Stage C, PsiQuantum’s Loan, and a Shift in U.S. Quantum Strategy](https://substack.com/home/post/p-219518246) | `224435960562` |
 | 2026-10-09 | [구름을 뚫지 못하는 레이저로 어떻게 우주 양자통신을 할까? — Capella, Skyloom, Starlink 그리고 IonQ의 QKD 전략](posts/2026/2026-10-09-224435941091.md) | ❌ Missing | — | `224435941091` |
