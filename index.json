@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 738,
+  "totalArchivedPosts": 739,
   "posts": [
+    {
+      "date": "2026-10-09",
+      "published": "2026-10-09T21:41:08+11:00",
+      "title": "아이온큐의 다음 빅 허들은 무엇인가?",
+      "logNo": "224436465772",
+      "source": "https://blog.naver.com/4-fire/224436465772?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-09-224436465772.md",
+      "content_source": "naver_post",
+      "characters": 22084
+    },
     {
       "date": "2026-10-09",
       "published": "2026-10-09T10:50:14+11:00",

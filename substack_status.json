@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T09:33:48+00:00",
+  "generated_at": "2026-10-09T10:49:59+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 738,
+    "total": 739,
     "published": 63,
-    "missing": 675,
+    "missing": 676,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,29 @@
     "days": 90,
     "start": "2026-07-11",
     "end": "2026-10-09",
-    "total": 149,
+    "total": 150,
     "published": 52,
-    "missing": 97,
+    "missing": 98,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-09",
+        "title": "아이온큐의 다음 빅 허들은 무엇인가?",
+        "logNo": "224436465772",
+        "url": "https://blog.naver.com/4-fire/224436465772?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-09-224436465772.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-09",
