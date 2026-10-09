@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-09T12:36:50+00:00_
+_Automatically generated: 2026-10-09T14:38:23+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,8 +10,8 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 739 | 65 | 674 | 0 | 0 |
-| Recent 90 days (2026-07-11 → 2026-10-09) | 150 | 54 | 96 | 0 | 0 |
+| All | 739 | 66 | 673 | 0 | 0 |
+| Recent 90 days (2026-07-11 → 2026-10-09) | 150 | 55 | 95 | 0 | 0 |
 
 ## Recent 90 days
 
@@ -71,7 +71,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-09-12 | [IonQ Investor Day 2026 (2) - Superion의 실체](posts/2026/2026-09-12-224409158640.md) | ❌ Missing | — | `224409158640` |
 | 2026-09-11 | [IonQ Investor Day 2026 (1) - 애널리스트 Q&A](posts/2026/2026-09-11-224408261414.md) | ❌ Missing | — | `224408261414` |
 | 2026-09-10 | [IonQ Investor Day 2026, 왜 주가는 오르지 않았나](posts/2026/2026-09-10-224407142729.md) | ❌ Missing | — | `224407142729` |
-| 2026-09-10 | [1kHz를 넘은 Quantum Interconnect와 Quantum Foundry - IonQ Investor Day 2026](posts/2026/2026-09-09-224406536001.md) | ❌ Missing | — | `224406536001` |
+| 2026-09-10 | [1kHz를 넘은 Quantum Interconnect와 Quantum Foundry - IonQ Investor Day 2026](posts/2026/2026-09-09-224406536001.md) | ✅ Published | [Quantum Interconnect Exceeds 1 kHz, and the Rise of the Quantum Foundry — IonQ Investor Day 2026](https://netcreat.substack.com/p/quantum-interconnect-exceeds-1-khz) | `224406536001` |
 | 2026-09-08 | [IonQ의 Upgrade는 어떻게 이루어질까? — Tempo에서 256, 그리고 10K까지](posts/2026/2026-09-08-224404206456.md) | ✅ Published | [IonQ’s Real 256 Strategy - Part 2](https://netcreat.substack.com/p/ionqs-real-256-strategy-part-2) | `224404206456` |
 | 2026-09-08 | [IonQ 256의 진짜 전략 — 추가 구매가 최선, 업그레이드는 생태계 확장의 차선책](posts/2026/2026-09-07-224404169457.md) | ✅ Published | [IonQ’s Real 256 Strategy - Part 1](https://netcreat.substack.com/p/ionqs-real-256-strategy-part-1) | `224404169457` |
 | 2026-09-07 | [✈️ 태평양 상공에서 13.5Mbps — Hawaiian A330-200의 Starlink는 어떻게 작동할까](posts/2026/2026-09-07-224403933916.md) | ❌ Missing | — | `224403933916` |
@@ -170,7 +170,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **674**
+Total missing: **673**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
@@ -193,7 +193,6 @@ Total missing: **674**
 | 2026-09-12 | [IonQ Investor Day 2026 (2) - Superion의 실체](posts/2026/2026-09-12-224409158640.md) | ❌ Missing | — | `224409158640` |
 | 2026-09-11 | [IonQ Investor Day 2026 (1) - 애널리스트 Q&A](posts/2026/2026-09-11-224408261414.md) | ❌ Missing | — | `224408261414` |
 | 2026-09-10 | [IonQ Investor Day 2026, 왜 주가는 오르지 않았나](posts/2026/2026-09-10-224407142729.md) | ❌ Missing | — | `224407142729` |
-| 2026-09-10 | [1kHz를 넘은 Quantum Interconnect와 Quantum Foundry - IonQ Investor Day 2026](posts/2026/2026-09-09-224406536001.md) | ❌ Missing | — | `224406536001` |
 | 2026-09-07 | [✈️ 태평양 상공에서 13.5Mbps — Hawaiian A330-200의 Starlink는 어떻게 작동할까](posts/2026/2026-09-07-224403933916.md) | ❌ Missing | — | `224403933916` |
 | 2026-09-07 | [유럽에는 이미 Ariane과 Vega가 있었다 — 그런데 왜 Isar Aerospace의 성공이 중요한가](posts/2026/2026-09-07-224403108870.md) | ❌ Missing | — | `224403108870` |
 | 2026-09-04 | [Planet Labs FY2027 Q2 실적 — 숫자는 거의 완벽하다. 이제 봐야 할 것은 Backlog의 전환 속도다](posts/2026/2026-09-04-224401260268.md) | ❌ Missing | — | `224401260268` |
@@ -914,7 +913,7 @@ _Not calculated because the public sitemap fetch failed._
 | 2026-09-12 | [IonQ Investor Day 2026 (2) - Superion의 실체](posts/2026/2026-09-12-224409158640.md) | ❌ Missing | — | `224409158640` |
 | 2026-09-11 | [IonQ Investor Day 2026 (1) - 애널리스트 Q&A](posts/2026/2026-09-11-224408261414.md) | ❌ Missing | — | `224408261414` |
 | 2026-09-10 | [IonQ Investor Day 2026, 왜 주가는 오르지 않았나](posts/2026/2026-09-10-224407142729.md) | ❌ Missing | — | `224407142729` |
-| 2026-09-10 | [1kHz를 넘은 Quantum Interconnect와 Quantum Foundry - IonQ Investor Day 2026](posts/2026/2026-09-09-224406536001.md) | ❌ Missing | — | `224406536001` |
+| 2026-09-10 | [1kHz를 넘은 Quantum Interconnect와 Quantum Foundry - IonQ Investor Day 2026](posts/2026/2026-09-09-224406536001.md) | ✅ Published | [Quantum Interconnect Exceeds 1 kHz, and the Rise of the Quantum Foundry — IonQ Investor Day 2026](https://netcreat.substack.com/p/quantum-interconnect-exceeds-1-khz) | `224406536001` |
 | 2026-09-08 | [IonQ의 Upgrade는 어떻게 이루어질까? — Tempo에서 256, 그리고 10K까지](posts/2026/2026-09-08-224404206456.md) | ✅ Published | [IonQ’s Real 256 Strategy - Part 2](https://netcreat.substack.com/p/ionqs-real-256-strategy-part-2) | `224404206456` |
 | 2026-09-08 | [IonQ 256의 진짜 전략 — 추가 구매가 최선, 업그레이드는 생태계 확장의 차선책](posts/2026/2026-09-07-224404169457.md) | ✅ Published | [IonQ’s Real 256 Strategy - Part 1](https://netcreat.substack.com/p/ionqs-real-256-strategy-part-1) | `224404169457` |
 | 2026-09-07 | [✈️ 태평양 상공에서 13.5Mbps — Hawaiian A330-200의 Starlink는 어떻게 작동할까](posts/2026/2026-09-07-224403933916.md) | ❌ Missing | — | `224403933916` |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T12:36:50+00:00",
+  "generated_at": "2026-10-09T14:38:23+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 739,
-    "published": 65,
-    "missing": 674,
+    "published": 66,
+    "missing": 673,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-11",
     "end": "2026-10-09",
     "total": 150,
-    "published": 54,
-    "missing": 96,
+    "published": 55,
+    "missing": 95,
     "skip": 0,
     "check": 0
   },
@@ -1094,10 +1094,18 @@
         "url": "https://blog.naver.com/4-fire/224406536001?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-09-09-224406536001.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Quantum Interconnect Exceeds 1 kHz, and the Rise of the Quantum Foundry — IonQ Investor Day 2026",
+          "url": "https://netcreat.substack.com/p/quantum-interconnect-exceeds-1-khz",
+          "published_date": "2026-10-10",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
