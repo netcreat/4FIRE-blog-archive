@@ -5,6 +5,17 @@
   "substack_base_url": "https://netcreat.substack.com",
   "description": "Curated mapping keyed by Naver logNo. A Naver post not listed here is automatically treated as missing from Substack. Use status='skip' for Naver-only posts that should not be published on Substack.",
   "mappings": {
+    "224406536001": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Quantum Interconnect Exceeds 1 kHz, and the Rise of the Quantum Foundry — IonQ Investor Day 2026",
+          "url": "https://netcreat.substack.com/p/quantum-interconnect-exceeds-1-khz",
+          "published_date": "2026-10-10"
+        }
+      ]
+    },
     "224435985869": {
       "status": "published",
       "relationship": "one_to_one",
