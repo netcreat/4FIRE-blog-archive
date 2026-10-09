@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-09T00:44:19+00:00_
+_Automatically generated: 2026-10-09T02:32:02+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,15 +14,15 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 738 | 62 | 676 | 0 | 0 |
-| Recent 90 days (2026-07-11 → 2026-10-09) | 149 | 51 | 98 | 0 | 0 |
+| All | 738 | 63 | 675 | 0 | 0 |
+| Recent 90 days (2026-07-11 → 2026-10-09) | 149 | 52 | 97 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
 | 2026-10-09 | [인터포저가 바꾸는 반도체 생태계](posts/2026/2026-10-09-224435985869.md) | ❌ Missing | — | `224435985869` |
-| 2026-10-09 | [미국 국방부, 양자컴퓨팅에 3억 5천만 달러 투입 — DARPA Stage C와 PsiQuantum 대출, 그리고 국가 양자전략의 변화](posts/2026/2026-10-09-224435960562.md) | ❌ Missing | — | `224435960562` |
+| 2026-10-09 | [미국 국방부, 양자컴퓨팅에 3억 5천만 달러 투입 — DARPA Stage C와 PsiQuantum 대출, 그리고 국가 양자전략의 변화](posts/2026/2026-10-09-224435960562.md) | ✅ Published | [The Pentagon’s $350 Million Quantum Push — DARPA Stage C, PsiQuantum’s Loan, and a Shift in U.S. Quantum Strategy](https://substack.com/home/post/p-219518246) | `224435960562` |
 | 2026-10-09 | [구름을 뚫지 못하는 레이저로 어떻게 우주 양자통신을 할까? — Capella, Skyloom, Starlink 그리고 IonQ의 QKD 전략](posts/2026/2026-10-09-224435941091.md) | ❌ Missing | — | `224435941091` |
 | 2026-10-08 | [GlobalFoundries Investor Day 2026 — 광학·전력·양자·IP를 선택한 파운드리](posts/2026/2026-10-08-224435624365.md) | ❌ Missing | — | `224435624365` |
 | 2026-10-08 | [EUV 없는 반도체 혁명 — Kepler Computing의 강유전체 메모리, GlobalFoundries 그리고 머스크의 Terafab](posts/2026/2026-10-08-224435475308.md) | ✅ Published | [A Semiconductor Revolution Without EUV — Kepler Computing, Ferroelectric Memory, GlobalFoundries, and Musk's Terafab](https://netcreat.substack.com/p/a-semiconductor-revolution-without) | `224435475308` |

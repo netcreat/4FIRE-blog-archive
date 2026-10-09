@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T00:44:19+00:00",
+  "generated_at": "2026-10-09T02:32:02+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 738,
-    "published": 62,
-    "missing": 676,
+    "published": 63,
+    "missing": 675,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-11",
     "end": "2026-10-09",
     "total": 149,
-    "published": 51,
-    "missing": 98,
+    "published": 52,
+    "missing": 97,
     "skip": 0,
     "check": 0
   },
@@ -65,10 +65,18 @@
         "url": "https://blog.naver.com/4-fire/224435960562?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-09-224435960562.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "The Pentagon’s $350 Million Quantum Push — DARPA Stage C, PsiQuantum’s Loan, and a Shift in U.S. Quantum Strategy",
+          "url": "https://substack.com/home/post/p-219518246",
+          "published_date": "2026-10-09",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
