@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T21:31:49+00:00",
+  "generated_at": "2026-10-09T00:44:19+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,67 @@
     }
   },
   "summary": {
-    "total": 735,
+    "total": 738,
     "published": 62,
-    "missing": 673,
+    "missing": 676,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-07-10",
-    "end": "2026-10-08",
-    "total": 146,
+    "start": "2026-07-11",
+    "end": "2026-10-09",
+    "total": 149,
     "published": 51,
-    "missing": 95,
+    "missing": 98,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-09",
+        "title": "인터포저가 바꾸는 반도체 생태계",
+        "logNo": "224435985869",
+        "url": "https://blog.naver.com/4-fire/224435985869?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-09-224435985869.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
+    {
+      "naver": {
+        "published_date": "2026-10-09",
+        "title": "미국 국방부, 양자컴퓨팅에 3억 5천만 달러 투입 — DARPA Stage C와 PsiQuantum 대출, 그리고 국가 양자전략의 변화",
+        "logNo": "224435960562",
+        "url": "https://blog.naver.com/4-fire/224435960562?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-09-224435960562.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
+    {
+      "naver": {
+        "published_date": "2026-10-09",
+        "title": "구름을 뚫지 못하는 레이저로 어떻게 우주 양자통신을 할까? — Capella, Skyloom, Starlink 그리고 IonQ의 QKD 전략",
+        "logNo": "224435941091",
+        "url": "https://blog.naver.com/4-fire/224435941091?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-09-224435941091.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-08",

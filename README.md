@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-08T21:31:49+00:00_
+_Automatically generated: 2026-10-09T00:44:19+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,16 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 735 | 62 | 673 | 0 | 0 |
-| Recent 90 days (2026-07-10 → 2026-10-08) | 146 | 51 | 95 | 0 | 0 |
+| All | 738 | 62 | 676 | 0 | 0 |
+| Recent 90 days (2026-07-11 → 2026-10-09) | 149 | 51 | 98 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-09 | [인터포저가 바꾸는 반도체 생태계](posts/2026/2026-10-09-224435985869.md) | ❌ Missing | — | `224435985869` |
+| 2026-10-09 | [미국 국방부, 양자컴퓨팅에 3억 5천만 달러 투입 — DARPA Stage C와 PsiQuantum 대출, 그리고 국가 양자전략의 변화](posts/2026/2026-10-09-224435960562.md) | ❌ Missing | — | `224435960562` |
+| 2026-10-09 | [구름을 뚫지 못하는 레이저로 어떻게 우주 양자통신을 할까? — Capella, Skyloom, Starlink 그리고 IonQ의 QKD 전략](posts/2026/2026-10-09-224435941091.md) | ❌ Missing | — | `224435941091` |
 | 2026-10-08 | [GlobalFoundries Investor Day 2026 — 광학·전력·양자·IP를 선택한 파운드리](posts/2026/2026-10-08-224435624365.md) | ❌ Missing | — | `224435624365` |
 | 2026-10-08 | [EUV 없는 반도체 혁명 — Kepler Computing의 강유전체 메모리, GlobalFoundries 그리고 머스크의 Terafab](posts/2026/2026-10-08-224435475308.md) | ✅ Published | [A Semiconductor Revolution Without EUV — Kepler Computing, Ferroelectric Memory, GlobalFoundries, and Musk's Terafab](https://netcreat.substack.com/p/a-semiconductor-revolution-without) | `224435475308` |
 | 2026-10-08 | [Marvell Investor Day 2026](posts/2026/2026-10-08-224435257702.md) | ✅ Published | [Marvell Investor Day 2026 — From Custom ASICs to an AI Data-Movement Platform](https://netcreat.substack.com/p/marvell-investor-day-2026-from-custom) | `224435257702` |
@@ -48,8 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-09-26 | [30개의 논리 큐비트는 정말 30개의 논리 큐비트일까? — Infleqtion과 Scalable Logical Qubit](posts/2026/2026-09-26-224423086406.md) | ✅ Published | [Are 30 Logical Qubits Really 30 Logical Qubits?](https://netcreat.substack.com/p/are-30-logical-qubits-really-30-logical) | `224423086406` |
 | 2026-09-25 | [IonQ의 또 다른 큰 그림 — Nexus Photonics는 양자산업의 새로운 Pick & Shovel이 될 수 있을까?](posts/2026/2026-09-25-224422396636.md) | ✅ Published | [IonQ’s Bigger Picture](https://netcreat.substack.com/p/ionqs-bigger-picture) | `224422396636` |
 | 2026-09-24 | [IonQ Superion 256, FIU에 판매. 양자 네트워킹에서 컴퓨팅까지 이어지는 새로운 사업 구조](posts/2026/2026-09-24-224422062043.md) | ❌ Missing | — | `224422062043` |
-| 2026-09-24 | [IonQ 소프트 디코딩 논문 완전 해설: 580배 오류 억제부터 논리 큐비트 수명 13.66초까지](posts/2026/2026-09-24-224422011850.md) | ❌ Missing | — | `224422011850` |
-| 2026-09-24 | [IonQ·NVIDIA·ORNL·EPB — 양자 슈퍼컴퓨팅의 퍼즐이 맞춰지기 시작했다](posts/2026/2026-09-23-224421379356.md) | ✅ Published | [IonQ, NVIDIA, ORNL, and EPB](https://netcreat.substack.com/p/ionq-nvidia-ornl-and-epb) | `224421379356` |
-| 2026-09-23 | [열심히 배워서 남주자 — 커피 한잔 후원 오픈](posts/2026/2026-09-23-224421146774.md) | ✅ Published | [Learn Deeply. Share Freely. — A New Chapter for 4FIRE](https://netcreat.substack.com/p/learn-deeply-share-freely-a-new-chapter) | `224421146774` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

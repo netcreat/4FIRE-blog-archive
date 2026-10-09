@@ -21,7 +21,49 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Fri, 09 Oct 2026 06:31:20 +0900</pubDate>
+            <pubDate>Fri, 09 Oct 2026 09:43:46 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Semiconductor]]></category>
+                <title><![CDATA[인터포저가 바꾸는 반도체 생태계]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224435985869?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224435985869</guid>
+                
+                <description><![CDATA[✅ GlobalFoundries와 TSMC의 20억 달러 계약, 그리고 POET의 광학 인터포저 2026년 10월 8일, GlobalFoundries(GF)가 TSMC와 20억 달러 규모의 실리콘 인터포저(Silicon Interposer) 제조 계약을 체결했다. https://gf.com/news-and-events/news/globalfoundries-reaches-agreement-to-establish-us-based-supply-of-silicon-interposers-for-advanced-ai-packaging/ 이 소식은 단순히 GF가 새로운 고객을 확보했다는 의미를 넘어선다. 세계 최대 첨단 반도체 파운드리인 TSMC가 경쟁사인 GF에 AI 패키징의 핵심 부품 제조를 맡긴다는 점에서 흥미롭다. 최근 GF는 Marvell, Quantinuum, Xanadu, SMART Photonics, Monolithic Power Systems 등과....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDlfMTAy/MDAxNzkxNTAyNDc2Njk0.vjF31mL07l1lkqkvG75juRq4QorAbmDpPUxy2CKOQKAg.04erTGvH35KYsWumItBmknpFrv6uEAUK-t-OktvjVKog.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Fri, 09 Oct 2026 08:50:14 +0900</pubDate>
+                <tag><![CDATA[GFS,TSM,Interposer,CoWos,Silicon,Optical,POET]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[News]]></category>
+                <title><![CDATA[미국 국방부, 양자컴퓨팅에 3억 5천만 달러 투입 — DARPA Stage C와 PsiQuantum 대출, 그리고 국가 양자전략의 변화]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224435960562?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224435960562</guid>
+                
+                <description><![CDATA[✅ 미국 국방부, $350M 규모의 양자컴퓨팅 지원 발표 2026년 10월 8일, 미국 국방부(Department of War)는 양자컴퓨팅 분야에 총 3억 5,000만 달러($350M) 규모의 신규 지원 및 프로그램 업데이트를 발표했다. https://www.war.gov/News/Releases/Release/Article/4622109/department-of-war-announces-350-million-in-quantum-computing-initiatives/ 이번 발표는 단순히 양자컴퓨터 연구개발 예산을 추가한 것이 아니다. 미국의 국가안보에 활용할 수 있는 양자컴퓨터를 확보하기 위해 기술 검증, 제조 기반 확충, 실제 군사적 활용 분야 발굴을 함께 추진한다는 내용이다. 하루 전인 10월 7일에는 DARPA가 Quantum Benchmarking Initiative(QB....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDlfMzIg/MDAxNzkxNTAwNTUxMTU4.XAbsGmzBf6D23PR9XuvI_d_5LE_DyXBJlVCnsKbmSeog.DNe74Y-i2MydcYHYzz7wzEqZQaj_rbqb_XV60HlabFMg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Fri, 09 Oct 2026 08:03:53 +0900</pubDate>
+                <tag><![CDATA[DOW,DARPA,Psiquantum]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[구름을 뚫지 못하는 레이저로 어떻게 우주 양자통신을 할까? — Capella, Skyloom, Starlink 그리고 IonQ의 QKD 전략]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224435941091?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224435941091</guid>
+                
+                <description><![CDATA[✅ 1. Capella Space의 새로운 발표 — 위성을 바꾸지 않고 더 빨라졌다 2026년 10월 8일, IonQ의 자회사 Capella Space가 흥미로운 기술 개선 성과를 공개했다. https://www.capellaspace.com/resources/optimizing-the-entire-path-from-orbit-to-delivery 이번 발표는 새로운 SAR 위성을 발사하거나 고성능 레이더를 개발했다는 이야기가 아니다. 기존 위성과 지상 인프라의 통신 설정, 데이터 처리 소프트웨어, 네트워크 운영을 최적화해 영상 전달시간을 줄인 것이 핵심이다. Capella가 최근 30일간 실제 촬영 데이터를 분석한 결과는 다음과 같다. 여기서 지연시간(Latency)은 SAR 영상이 촬영된 시점부터 고객에게 전달되는 시점까지를 의....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDlfMTQg/MDAxNzkxNDk3OTM1NTM4.JhHw7hrVnMWkbdkysWOm7YPWa7njjbVsetUPKlSpFlUg.tqnNcS7X2dd2Oked6K3xjORpByWAGRTmBHnusPOXarsg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Fri, 09 Oct 2026 07:19:42 +0900</pubDate>
+                <tag><![CDATA[IonQ,Capella,MODCOD,KSAT]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -677,48 +719,6 @@
                 <description><![CDATA[✅ IonQ가 256-bit ECC를 깨는 설계도를 공개했다 2026년 9월 IonQ Investor Day에서 개인적으로 가장 흥미로웠던 발표 중 하나는 Superion 자체보다도 256-bit elliptic-curve cryptography를 공격하기 위한 완전한 end-to-end blueprint였다. IonQ는 secp256k1의 Elliptic Curve Discrete Logarithm Problem(ECDLP)을 Shor 알고리즘으로 풀어 공개키에서 개인키를 복구하는 계산을 분석했고, 최종적으로 다음과 같은 자원을 제시했다. 1,457 logical qubits 19,397 physical qubits ∼39 million Toffoli gates 25.7 days per attempt Niccolò de Masi는 Investor Day에서 약 2만 개의 physical qubit을 가진 IonQ 시스템으로 256-bit elliptic....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MTJfNzIg/MDAxNzg5MjI0NTE5MTA4.0079MSodOozrauoHxXVJ5uvvh_1xKS0zJk9eg6htPPYg.ESEf80tMH73N1OKCpQHF1DnTI8bAQULICQy0akDYn-Ag.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Sun, 13 Sep 2026 01:31:17 +0900</pubDate>
                 <tag><![CDATA[IonQ,InvestorDay,256bit,ECC]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[IonQ Investor Day 2026 (2) - Superion의 실체]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224409158640?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224409158640</guid>
-                
-                <description><![CDATA[✅ 서론 2026년 9월 8일 IonQ는 뉴욕증권거래소에서 열린 Investor Day에서 새로운 양자컴퓨팅 제품군 Superion을 공개했다. 첫 제품은 Superion 256이다. 256 physical qubits를 갖는 EQC 기반 trapped-ion 시스템이며, 이후 Superion 10K, 그리고 수십만~수백만 큐비트로 확장하는 로드맵의 출발점으로 소개됐다. 그런데 발표를 자세히 들여다보면 이런 의문이 생긴다. “이거 사실 예전 Oxford Ionics가 발표했던 256큐비트와 10,000큐비트 로드맵 아닌가?” 결론부터 말하면 상당 부분 맞다. Superion은 완전히 새로운 양자컴퓨팅 기술을 발표한 것이 아니다. 그럼에도 이번 발표에는 분명한 의미가 있다. Oxford Ionics가 수년간 개발해 온....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MTJfMjYg/MDAxNzg5MTc3MDE3ODUw.q6TmeqXSLKD_hrVdcDf_SxBOhtkMUhDXcg9bhmxZv0Mg.0hDlIKn6QRaYX6Aa-QiY4s4EwgXDGBVoH4_4l97Ak0gg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Sat, 12 Sep 2026 10:40:20 +0900</pubDate>
-                <tag><![CDATA[IonQ,InvestorDay,SuperIon,SkyWater]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[IonQ Investor Day 2026 (1) - 애널리스트 Q&A]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224408261414?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224408261414</guid>
-                
-                <description><![CDATA[✅ IonQ Investor Day 2026 Q&A — 애널리스트들은 무엇을 확인하려 했나 IonQ Investor Day 2026의 경영진 발표가 끝난 뒤 이어진 Q&A는 발표 내용 못지않게 흥미로웠다. 경영진 발표 내용은 차차 업데이트를 할 계획이다. 발표에서는 Superion 256, SkyWater, Quantum Foundry, Photonic Interconnect 등 미래 청사진이 제시됐지만, Q&A에서는 애널리스트들이 그 청사진이 실제로 구현 가능한지를 하나씩 확인하려 했다. 질문자 대부분이 반도체·소프트웨어·인프라를 오랫동안 분석해온 베테랑들이어서 질문도 단순히 “큐비트가 얼마나 늘어나는가” 수준에 머물지 않았다. 핵심은 다음과 같았다. Photonic Interconnect가 실제로....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MTFfNCAg/MDAxNzg5MTAxMzYwODQx.IgjUsqaRuZ0sZtCuyotARV4IVXqrWyU5OUrCjLcquicg.uby4Xb2yzW4r62XoNkBvpx04Py6N_Q2Z_4ShnaaUWYAg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Fri, 11 Sep 2026 13:50:11 +0900</pubDate>
-                <tag><![CDATA[InvestorDay,2026,IonQ]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[IonQ Investor Day 2026, 왜 주가는 오르지 않았나]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224407142729?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224407142729</guid>
-                
-                <description><![CDATA[✅ 서론 2026년 9월 8일 뉴욕증권거래소에서 열린 IonQ Investor Day는 발표 내용만 놓고 보면 결코 작은 행사가 아니었다. IonQ는 새로운 6세대 양자컴퓨팅 플랫폼 Superion 256을 공개했고, SkyWater에서 최초의 fully integrated 256-qubit QPU를 제작했으며 prototype system에서 실제 ion trapping까지 진행했다고 밝혔다. Superion은 새로운 세대가 나올 때마다 완전히 별개의 시스템으로 교체하는 구조보다는 앞으로 더 큰 시스템으로 확장할 수 있도록 설계된 upgradeable platform이라는 점이 강조됐다. IonQ는 Superion 256 주문을 이미 받고 있으며 첫 고객 인도를 2027년으로 계획하고 있다. 회사는 첫 Superion 256 시스템이 2026년....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MTBfMTAz/MDAxNzg5MDA4OTY0OTU1.ZM1p5zEEFISsMvciKG7us1evfYXb3hWXPsqZsmRJE6sg.GhdPBVuwZlrMDYJ7gtOisf8UqSqiPS85q8xnswnfGMAg.PNG/output.png?type=s3" />]]></description>
-                <pubDate>Thu, 10 Sep 2026 14:26:30 +0900</pubDate>
-                <tag><![CDATA[IonQ,InvestorDay,2026]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

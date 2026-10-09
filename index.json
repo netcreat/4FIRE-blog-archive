@@ -2,8 +2,38 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 735,
+  "totalArchivedPosts": 738,
   "posts": [
+    {
+      "date": "2026-10-09",
+      "published": "2026-10-09T10:50:14+11:00",
+      "title": "인터포저가 바꾸는 반도체 생태계",
+      "logNo": "224435985869",
+      "source": "https://blog.naver.com/4-fire/224435985869?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-09-224435985869.md",
+      "content_source": "naver_post",
+      "characters": 22086
+    },
+    {
+      "date": "2026-10-09",
+      "published": "2026-10-09T10:03:53+11:00",
+      "title": "미국 국방부, 양자컴퓨팅에 3억 5천만 달러 투입 — DARPA Stage C와 PsiQuantum 대출, 그리고 국가 양자전략의 변화",
+      "logNo": "224435960562",
+      "source": "https://blog.naver.com/4-fire/224435960562?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-09-224435960562.md",
+      "content_source": "naver_post",
+      "characters": 15919
+    },
+    {
+      "date": "2026-10-09",
+      "published": "2026-10-09T09:19:42+11:00",
+      "title": "구름을 뚫지 못하는 레이저로 어떻게 우주 양자통신을 할까? — Capella, Skyloom, Starlink 그리고 IonQ의 QKD 전략",
+      "logNo": "224435941091",
+      "source": "https://blog.naver.com/4-fire/224435941091?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-09-224435941091.md",
+      "content_source": "naver_post",
+      "characters": 12112
+    },
     {
       "date": "2026-10-08",
       "published": "2026-10-08T22:59:04+11:00",
