@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T11:07:16+00:00",
+  "generated_at": "2026-10-10T12:22:03+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 740,
-    "published": 66,
-    "missing": 674,
+    "published": 67,
+    "missing": 673,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-12",
     "end": "2026-10-10",
     "total": 149,
-    "published": 53,
-    "missing": 96,
+    "published": 54,
+    "missing": 95,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224437337550?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-10-224437337550.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "The White House's $6 Billion Science Investment Announcement: How Much Is New, and Where Will It Go?",
+          "url": "https://netcreat.substack.com/p/the-white-houses-6-billion-science",
+          "published_date": "2026-10-10",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {

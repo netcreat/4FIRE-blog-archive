@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-10T11:07:16+00:00_
+_Automatically generated: 2026-10-10T12:22:03+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,14 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 740 | 66 | 674 | 0 | 0 |
-| Recent 90 days (2026-07-12 → 2026-10-10) | 149 | 53 | 96 | 0 | 0 |
+| All | 740 | 67 | 673 | 0 | 0 |
+| Recent 90 days (2026-07-12 → 2026-10-10) | 149 | 54 | 95 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-10-10 | [백악관의 $6B 과학투자 발표: 새 예산은 얼마이고, 어디로 가는가?](posts/2026/2026-10-10-224437337550.md) | ❌ Missing | — | `224437337550` |
+| 2026-10-10 | [백악관의 $6B 과학투자 발표: 새 예산은 얼마이고, 어디로 가는가?](posts/2026/2026-10-10-224437337550.md) | ✅ Published | [The White House's $6 Billion Science Investment Announcement: How Much Is New, and Where Will It Go?](https://netcreat.substack.com/p/the-white-houses-6-billion-science) | `224437337550` |
 | 2026-10-09 | [아이온큐의 다음 빅 허들은 무엇인가?](posts/2026/2026-10-09-224436465772.md) | ✅ Published | [What Is IonQ’s Next Big Hurdle?](https://netcreat.substack.com/p/what-is-ionqs-next-big-hurdle) | `224436465772` |
 | 2026-10-09 | [인터포저가 바꾸는 반도체 생태계](posts/2026/2026-10-09-224435985869.md) | ✅ Published | [How Interposers Are Reshaping the Semiconductor Ecosystem](https://netcreat.substack.com/p/how-interposers-are-reshaping-the) | `224435985869` |
 | 2026-10-09 | [미국 국방부, 양자컴퓨팅에 3억 5천만 달러 투입 — DARPA Stage C와 PsiQuantum 대출, 그리고 국가 양자전략의 변화](posts/2026/2026-10-09-224435960562.md) | ✅ Published | [The Pentagon’s $350 Million Quantum Push — DARPA Stage C, PsiQuantum’s Loan, and a Shift in U.S. Quantum Strategy](https://substack.com/home/post/p-219518246) | `224435960562` |
