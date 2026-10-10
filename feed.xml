@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Sat, 10 Oct 2026 18:29:57 +0900</pubDate>
+            <pubDate>Sat, 10 Oct 2026 20:06:44 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[News]]></category>
+                <title><![CDATA[백악관의 $6B 과학투자 발표: 새 예산은 얼마이고, 어디로 가는가?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224437337550?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224437337550</guid>
+                <description><![CDATA[✅ 이번 백악관 발표에서 무엇이 새롭고, 무엇이 기존 사업의 연장인가 백악관은 2026년 10월 8일 Science: A New Golden Age 행사에서 정부·기업·대학·기부재단을 아우르는 $6B 이상의 과학 투자 패키지를 발표했다. https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-trump-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century 양자컴퓨팅뿐 아니라 연구용 AI, 자동 실험실, 바이오 데이터, 연구조직과 인재 양성까지 포함하는 광범위한 내용이다. 발표 규모를 정확히 이해하려면 각 금액의 성격부터 구분해야 한다. 새롭게 공개된 사업과 민간 공약, 이미 진행 중인 프로그램의 후속 선정, 기존.......]]></description>
+                
+                <pubDate>Sat, 10 Oct 2026 19:40:52 +0900</pubDate>
+                <tag><![CDATA[백악관,New,Golden,Age,NSF,DOE,Science]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ Steane, BB 계열에서 Q70,Q102, 그리고 Superion 10K까지 IonQ의 Walking Cat 페이지는 Superion 10K를 여러 256-qubit unit cell로 구성하고, 각 unit cell 안에서 Data·Ancilla·Beacon·Magic·Cat·Bell·Reservoir 이온이 어떤 역할을 하며 움직이는지 보여주는 인터랙티브 데모다. 현재 웹페이지에서 선택할 수 있는 QEC는 Steane [[7,1,3]]과 BB5 [[30,8,4]]로 표기된 두 가지다. IonQ는 Data가 자리에 남고, Ancilla가 SEC에서 오류 진단에 사용되며, Cat state가 logical measurement를 위해 이동하고, Bell pair가 두 Cat을 stitch한다고 명시한다. 다만 이 웹 데모와 2026년 4월 발표된 Walking Cat 논문의 실제 FTQC 후보 코드는 구분....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MTdfMjU3/MDAxNzg5NjE5ODM5ODEx.z6dwNhqgzI9KE9QOwDqLmkiprqUf93VAHbgfWP7zoiEg.BoFOHLB-9T3xNERhlDIEi-PImOD3dDlmbwZYNNp6SIAg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Thu, 17 Sep 2026 20:38:45 +0900</pubDate>
                 <tag><![CDATA[WalkingCat,256,Qubit,IonQ,BB5,Stean,1]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[IonQ Investor Day 2026 (4) - Tiling이란?]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224410686481?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224410686481</guid>
-                
-                <description><![CDATA[✅ Disclaimer 본 포스트는 IonQ Investor Day 2026에서 공개된 내용과 Walking Cat Architecture 관련 자료를 바탕으로, 향후 Tiling 구조가 실제 시스템에서 어떻게 구현되고 동작할 수 있을지를 기술적으로 추정해 보기 위한 글이다. 공개된 자료와 알려진 기술적 사실을 최대한 근거로 사용했지만, IonQ가 Tiling의 세부 구조와 동작 방식을 모두 공식적으로 공개한 것은 아니기 때문에, 일부 내용에는 필자의 해석과 기술적 추론이 포함되어 있다. 따라서 본문에서 설명하는 die 간 ion shuttling, resource 배치, cross-die transport, QEC resource 연결 방식 등의 세부 구조는 실제 IonQ의 최종 설계와 다를 수 있다. 본 글의 목적은 확....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MTRfMjc3/MDAxNzg5MzE1OTUxMDYx.P2k5IPUFnkVvJw6PsEUmjJ-IqKATqpTawS_QFhz96skg.eBJ0TOg_Uv1CpZtl3-z-KLrsG0hdMBr_DE8cjPipMgwg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Mon, 14 Sep 2026 02:59:05 +0900</pubDate>
-                <tag><![CDATA[IonQ,Tiling,superion]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

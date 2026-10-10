@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T09:30:26+00:00",
+  "generated_at": "2026-10-10T11:07:16+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 739,
+    "total": 740,
     "published": 66,
-    "missing": 673,
+    "missing": 674,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-07-11",
-    "end": "2026-10-09",
-    "total": 150,
-    "published": 55,
-    "missing": 95,
+    "start": "2026-07-12",
+    "end": "2026-10-10",
+    "total": 149,
+    "published": 53,
+    "missing": 96,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-10",
+        "title": "백악관의 $6B 과학투자 발표: 새 예산은 얼마이고, 어디로 가는가?",
+        "logNo": "224437337550",
+        "url": "https://blog.naver.com/4-fire/224437337550?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-10-224437337550.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-09",

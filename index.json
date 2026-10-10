@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 739,
+  "totalArchivedPosts": 740,
   "posts": [
+    {
+      "date": "2026-10-10",
+      "published": "2026-10-10T21:40:52+11:00",
+      "title": "백악관의 $6B 과학투자 발표: 새 예산은 얼마이고, 어디로 가는가?",
+      "logNo": "224437337550",
+      "source": "https://blog.naver.com/4-fire/224437337550?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-10-224437337550.md",
+      "content_source": "naver_post",
+      "characters": 23596
+    },
     {
       "date": "2026-10-09",
       "published": "2026-10-09T21:41:08+11:00",
