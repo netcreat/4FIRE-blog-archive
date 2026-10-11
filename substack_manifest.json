@@ -5,6 +5,17 @@
   "substack_base_url": "https://netcreat.substack.com",
   "description": "Curated mapping keyed by Naver logNo. A Naver post not listed here is automatically treated as missing from Substack. Use status='skip' for Naver-only posts that should not be published on Substack.",
   "mappings": {
+    "224438278537": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Where Is NVIDIA Spending Its Money? — Reading Jensen Huang’s Next Strategy Through Acquisitions and Investments",
+          "url": "https://netcreat.substack.com/p/where-is-nvidia-spending-its-money",
+          "published_date": "2026-10-12"
+        }
+      ]
+    },
     "224438085225": {
       "status": "published",
       "relationship": "one_to_one",
