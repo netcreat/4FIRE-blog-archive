@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-11T09:31:19+00:00_
+_Automatically generated: 2026-10-11T12:36:36+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 741 | 68 | 673 | 0 | 0 |
-| Recent 90 days (2026-07-13 → 2026-10-11) | 149 | 54 | 95 | 0 | 0 |
+| All | 742 | 68 | 674 | 0 | 0 |
+| Recent 90 days (2026-07-13 → 2026-10-11) | 150 | 54 | 96 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-11 | [NVIDIA는 어디에 돈을 쓰고 있는가 — 인수·투자로 읽는 Jensen Huang의 다음 전략](posts/2026/2026-10-11-224438278537.md) | ❌ Missing | — | `224438278537` |
 | 2026-10-11 | [AlphaGo 개발자들이 만든 Beam, 그리고 $25B AI 기업의 가치](posts/2026/2026-10-11-224438085225.md) | ✅ Published | [Beam, Built by the Minds Behind AlphaGo — and the Value of a $25 Billion AI Company](https://netcreat.substack.com/p/beam-built-by-the-minds-behind-alphago) | `224438085225` |
 | 2026-10-10 | [백악관의 $6B 과학투자 발표: 새 예산은 얼마이고, 어디로 가는가?](posts/2026/2026-10-10-224437337550.md) | ✅ Published | [The White House's $6 Billion Science Investment Announcement: How Much Is New, and Where Will It Go?](https://netcreat.substack.com/p/the-white-houses-6-billion-science) | `224437337550` |
 | 2026-10-09 | [아이온큐의 다음 빅 허들은 무엇인가?](posts/2026/2026-10-09-224436465772.md) | ✅ Published | [What Is IonQ’s Next Big Hurdle?](https://netcreat.substack.com/p/what-is-ionqs-next-big-hurdle) | `224436465772` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-09-30 | [LITE·COHR·GLW·LPTH·MRVL·AVGO·AAOI](posts/2026/2026-09-30-224426825573.md) | ✅ Published | [LITE, COHR, GLW, LPTH, MRVL, AVGO, and AAOI](https://netcreat.substack.com/p/lite-cohr-glw-lpth-mrvl-avgo-and) | `224426825573` |
 | 2026-09-29 | [중국의 양자 추격, 이제 QPU가 아니라 생태계를 봐야 한다](posts/2026/2026-09-29-224426013000.md) | ✅ Published | [China’s Quantum Catch-Up: It’s Time to Look Beyond the QPU and Focus on the Ecosystem](https://netcreat.substack.com/p/chinas-quantum-catch-up-its-time) | `224426013000` |
 | 2026-09-28 | [Nexus Photonics의 100GHz가 의미하는 것 — Broadcom과 1.6T에서 보이는 새로운 퍼즐](posts/2026/2026-09-28-224425266846.md) | ✅ Published | [What Does Nexus Photonics’ 100 GHz Really Mean?](https://netcreat.substack.com/p/what-does-nexus-photonics-100-ghz) | `224425266846` |
-| 2026-09-27 | [QEC의 논리큐비트와 거리(distance)](posts/2026/2026-09-27-224423875670.md) | ✅ Published | [Logical Qubits and Distance in QEC](https://netcreat.substack.com/p/logical-qubits-and-distance-in-qec) | `224423875670` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

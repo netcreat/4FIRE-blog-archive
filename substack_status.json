@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T09:31:19+00:00",
+  "generated_at": "2026-10-11T12:36:36+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 741,
+    "total": 742,
     "published": 68,
-    "missing": 673,
+    "missing": 674,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,29 @@
     "days": 90,
     "start": "2026-07-13",
     "end": "2026-10-11",
-    "total": 149,
+    "total": 150,
     "published": 54,
-    "missing": 95,
+    "missing": 96,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-11",
+        "title": "NVIDIA는 어디에 돈을 쓰고 있는가 — 인수·투자로 읽는 Jensen Huang의 다음 전략",
+        "logNo": "224438278537",
+        "url": "https://blog.naver.com/4-fire/224438278537?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-11-224438278537.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-11",

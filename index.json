@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 741,
+  "totalArchivedPosts": 742,
   "posts": [
+    {
+      "date": "2026-10-11",
+      "published": "2026-10-11T23:13:44+11:00",
+      "title": "NVIDIA는 어디에 돈을 쓰고 있는가 — 인수·투자로 읽는 Jensen Huang의 다음 전략",
+      "logNo": "224438278537",
+      "source": "https://blog.naver.com/4-fire/224438278537?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-11-224438278537.md",
+      "content_source": "naver_post",
+      "characters": 20938
+    },
     {
       "date": "2026-10-11",
       "published": "2026-10-11T19:19:23+11:00",
