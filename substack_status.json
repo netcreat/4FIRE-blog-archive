@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T08:38:55+00:00",
+  "generated_at": "2026-10-11T09:28:49+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 741,
-    "published": 67,
-    "missing": 674,
+    "published": 68,
+    "missing": 673,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-13",
     "end": "2026-10-11",
     "total": 149,
-    "published": 53,
-    "missing": 96,
+    "published": 54,
+    "missing": 95,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224438085225?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-11-224438085225.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Beam, Built by the Minds Behind AlphaGo — and the Value of a $25 Billion AI Company",
+          "url": "https://netcreat.substack.com/p/beam-built-by-the-minds-behind-alphago",
+          "published_date": "2026-10-11",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
