@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 740,
+  "totalArchivedPosts": 741,
   "posts": [
+    {
+      "date": "2026-10-11",
+      "published": "2026-10-11T19:19:23+11:00",
+      "title": "AlphaGo 개발자들이 만든 Beam, 그리고 $25B AI 기업의 가치",
+      "logNo": "224438085225",
+      "source": "https://blog.naver.com/4-fire/224438085225?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-11-224438085225.md",
+      "content_source": "naver_post",
+      "characters": 22252
+    },
     {
       "date": "2026-10-10",
       "published": "2026-10-10T21:40:52+11:00",

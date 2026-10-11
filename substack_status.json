@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T06:37:07+00:00",
+  "generated_at": "2026-10-11T08:38:55+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 740,
+    "total": 741,
     "published": 67,
-    "missing": 673,
+    "missing": 674,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-07-12",
-    "end": "2026-10-10",
+    "start": "2026-07-13",
+    "end": "2026-10-11",
     "total": 149,
-    "published": 54,
-    "missing": 95,
+    "published": 53,
+    "missing": 96,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-11",
+        "title": "AlphaGo 개발자들이 만든 Beam, 그리고 $25B AI 기업의 가치",
+        "logNo": "224438085225",
+        "url": "https://blog.naver.com/4-fire/224438085225?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-11-224438085225.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-10",
