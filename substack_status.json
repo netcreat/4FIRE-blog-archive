@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T12:55:14+00:00",
+  "generated_at": "2026-10-12T13:31:32+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 743,
-    "published": 70,
+    "total": 744,
+    "published": 71,
     "missing": 673,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-07-14",
-    "end": "2026-10-12",
-    "total": 151,
+    "start": "2026-07-15",
+    "end": "2026-10-13",
+    "total": 152,
     "published": 56,
-    "missing": 95,
+    "missing": 96,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-13",
+        "title": "IonQ는 왜 Elisity에 13억 달러를 베팅했을까?",
+        "logNo": "224439505882",
+        "url": "https://blog.naver.com/4-fire/224439505882?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-13-224439505882.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-12",
@@ -4956,10 +4970,18 @@
         "url": "https://blog.naver.com/4-fire/224218780692",
         "github_archive": "posts/2026/2026-03-16-224218780692.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Zero Trust: A New Security Principle for the Age of AI Agents and Quantum Computing",
+          "url": "https://netcreat.substack.com/p/zero-trust-a-new-security-principle",
+          "published_date": "2026-10-13",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {

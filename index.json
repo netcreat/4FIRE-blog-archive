@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 743,
+  "totalArchivedPosts": 744,
   "posts": [
+    {
+      "date": "2026-10-13",
+      "published": "2026-10-13T00:21:30+11:00",
+      "title": "IonQ는 왜 Elisity에 13억 달러를 베팅했을까?",
+      "logNo": "224439505882",
+      "source": "https://blog.naver.com/4-fire/224439505882?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-13-224439505882.md",
+      "content_source": "naver_post",
+      "characters": 18834
+    },
     {
       "date": "2026-10-12",
       "published": "2026-10-12T20:59:34+11:00",

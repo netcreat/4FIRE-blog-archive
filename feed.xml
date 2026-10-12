@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Mon, 12 Oct 2026 21:54:45 +0900</pubDate>
+            <pubDate>Mon, 12 Oct 2026 22:31:01 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ는 왜 Elisity에 13억 달러를 베팅했을까?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224439505882?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224439505882</guid>
+                
+                <description><![CDATA[✅ 양자컴퓨터가 아닌 보안의 통제권을 사다 2026년 10월 12일, IonQ가 사이버보안 기업 Elisity를 최대 13억 달러에 인수하는 계약을 발표했다. https://www.ionq.com/news/ionq-to-acquire-elisity-to-accelerate-zero-trust-for-the-quantum-era Oxford Ionics를 통해 양자컴퓨터의 핵심 기술을 확보하고, SkyWater를 통해 반도체 제조 역량까지 확보한 IonQ가 이번에는 전통적인 기업 사이버보안 시장으로 눈을 돌린 것이다. 그런데 이번 인수는 앞선 두 건과 성격이 상당히 다르다. Oxford Ionics는 IonQ의 양자컴퓨터 성능과 확장성을 직접 개선할 수 있는 기업이었다. SkyWater는 양자칩의 설계·제조·패키징을 내재화하고 공급망을 통제하....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTJfOTAg/MDAxNzkxODExMjA3NDk3._MJsiaRaKQ0oWfAJ2nzZrlTPCrR9bMMq5kDI9i84muEg.v5PAKDJoTDcdq04aJ9FMLjXbZZ1FhrtrJDaHgf5uY94g.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Mon, 12 Oct 2026 22:21:30 +0900</pubDate>
+                <tag><![CDATA[IonQ,Elisity,13억]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ IonQ Superion 10K에는 왜 Cryo-CMOS가 필요한가? — 256에서 10K로 넘어가는 진짜 변화  256개에서 10,000개로, 단순히 큐비트 수만 늘어나는 것이 아니다 IonQ는 2026년 9월 8일 Investor Day에서 Superion 256과 차세대 Superion 10K의 개발 방향을 공개했다. 특히 주목할 부분은 10K를 위한 첫 번째 Cryo-CMOS 테스트 칩을 공개했다는 사실이다. 여기서 한 가지 의문이 생긴다. Superion 256에서도 이미 전자식 큐비트 제어 기술(EQC)을 사용하는데, 왜 10K에서는 Cryo-CMOS라는 별도의 기술이 등장하는 것일까? 핵심은 256에서 외부 제어 전자장치가 담당하던 기능의 일부를 10K에서는 QPU 칩 내부로 집적한다는 것이다. 이를 이해하....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjBfOTcg/MDAxNzg5ODYyNjkwMzE5.qSuRhNz7LJn5vWOTJv17R6vrrNW83_WvmoFh6KnwI5kg.HBtzq7-TCP-mEJa0OE6LjsgVvM5A-QLrWpf_i6D8u84g.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Sun, 20 Sep 2026 09:19:12 +0900</pubDate>
                 <tag><![CDATA[IonQ,256,10K,CryoCMOS,ActiveCMOS,SkyWaters]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[News]]></category>
-                <title><![CDATA[미국 과학의 황금시대, 이제 각 기관이 움직이기 시작했다 — DOE·NSF·NIST·NASA·DOW의 실행계획과 양자기술 전략]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224417175293?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224417175293</guid>
-                
-                <description><![CDATA[✅ 1. 백악관의 명령은 어떻게 각 기관의 실행계획으로 이어졌나? 2025년 5월 23일, 미국 백악관은 Executive Order 14303, Restoring Gold Standard Science를 발표했다. 그로부터 한 달 뒤인 6월 23일, OSTP는 각 연방기관에 Gold Standard Science를 실제 연구활동과 연구비 관리에 어떻게 적용할 것인지 구체적인 지침을 내렸다. 기관들은 60일 이내에 Implementation Plan을 마련해 OSTP에 보고하고 공개하도록 요구받았다. 그렇게 2025년 8월 22일을 전후해 DOE, NSF, NIH, NASA, 국방부, 상무부 등에서 비슷한 이름의 보고서가 잇따라 등장하기 시작했다. 처음에는 서로 다른 기관에서 거의 동시에 같은 종류의 보고서를 발표한 것이 우연....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MTlfMTk5/MDAxNzg5ODEyNTAxNzAz.AtakHkWMqbXblMxKboZt_nGHzTvbZ1OtrEYYzqxCw_Ag.8hVzy_mMPSSv68QvgmwmW-I9tKbqU-cua-WSAy6BRVsg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Sat, 19 Sep 2026 20:06:04 +0900</pubDate>
-                <tag><![CDATA[GSS,GoldenAge,DOE,NSF,NIST,NASA,DOW]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

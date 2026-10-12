@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-12T12:55:14+00:00_
+_Automatically generated: 2026-10-12T13:31:32+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 743 | 70 | 673 | 0 | 0 |
-| Recent 90 days (2026-07-14 → 2026-10-12) | 151 | 56 | 95 | 0 | 0 |
+| All | 744 | 71 | 673 | 0 | 0 |
+| Recent 90 days (2026-07-15 → 2026-10-13) | 152 | 56 | 96 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-13 | [IonQ는 왜 Elisity에 13억 달러를 베팅했을까?](posts/2026/2026-10-13-224439505882.md) | ❌ Missing | — | `224439505882` |
 | 2026-10-12 | [AMD의 82억 달러 베팅 — 페이페이 리, World Labs, 그리고 AI가 언어를 넘어 현실 세계로 향하는 이유](posts/2026/2026-10-12-224439327263.md) | ✅ Published | [AMD's $8.2 Billion Bet — Fei-Fei Li, World Labs, and Why AI Is Moving Beyond Language Into the Real World](https://netcreat.substack.com/p/amds-82-billion-bet-fei-fei-li-world) | `224439327263` |
 | 2026-10-11 | [NVIDIA는 어디에 돈을 쓰고 있는가 — 인수·투자로 읽는 Jensen Huang의 다음 전략](posts/2026/2026-10-11-224438278537.md) | ✅ Published | [Where Is NVIDIA Spending Its Money? — Reading Jensen Huang’s Next Strategy Through Acquisitions and Investments](https://netcreat.substack.com/p/where-is-nvidia-spending-its-money) | `224438278537` |
 | 2026-10-11 | [AlphaGo 개발자들이 만든 Beam, 그리고 $25B AI 기업의 가치](posts/2026/2026-10-11-224438085225.md) | ✅ Published | [Beam, Built by the Minds Behind AlphaGo — and the Value of a $25 Billion AI Company](https://netcreat.substack.com/p/beam-built-by-the-minds-behind-alphago) | `224438085225` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-09-30 | [NATO 양자 로드맵 공개, 그런데 양자컴퓨팅 RFP는 이미 끝났다](posts/2026/2026-09-30-224427575765.md) | ✅ Published | [NATO Releases Its Quantum Roadmap](https://netcreat.substack.com/p/nato-releases-its-quantum-roadmap) | `224427575765` |
 | 2026-09-30 | [Understanding Quantum Technologies 2026 Part 1](posts/2026/2026-09-30-224427057259.md) | ✅ Published | [Understanding Quantum Technologies 2026 — Part 1](https://netcreat.substack.com/p/understanding-quantum-technologies) | `224427057259` |
 | 2026-09-30 | [LITE·COHR·GLW·LPTH·MRVL·AVGO·AAOI](posts/2026/2026-09-30-224426825573.md) | ✅ Published | [LITE, COHR, GLW, LPTH, MRVL, AVGO, and AAOI](https://netcreat.substack.com/p/lite-cohr-glw-lpth-mrvl-avgo-and) | `224426825573` |
-| 2026-09-29 | [중국의 양자 추격, 이제 QPU가 아니라 생태계를 봐야 한다](posts/2026/2026-09-29-224426013000.md) | ✅ Published | [China’s Quantum Catch-Up: It’s Time to Look Beyond the QPU and Focus on the Ecosystem](https://netcreat.substack.com/p/chinas-quantum-catch-up-its-time) | `224426013000` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).
