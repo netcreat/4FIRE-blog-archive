@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Mon, 12 Oct 2026 18:37:05 +0900</pubDate>
+            <pubDate>Mon, 12 Oct 2026 19:09:30 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Computing]]></category>
+                <title><![CDATA[AMD의 82억 달러 베팅 — 페이페이 리, World Labs, 그리고 AI가 언어를 넘어 현실 세계로 향하는 이유]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224439327263?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224439327263</guid>
+                
+                <description><![CDATA[✅ 서론 AMD가 World Labs 인수를 발표한 지 어느덧 2주가 지났다. 2026년 9월 28일, AMD는 세계적인 인공지능 연구자 페이페이 리(Fei-Fei Li)가 이끄는 World Labs를 82억 달러($8.2B)에 인수하기로 합의했다고 발표했다. 9월 26일 체결된 계약에 따르면 인수대금은 전액 AMD 주식으로 지급되며, 규제 승인 등을 거쳐 2026년 말 거래를 마무리할 예정이다. 인수가 완료되면 페이페이 리는 AMD의 Executive Vice President 겸 Chief Scientist로 합류하여 CEO 리사 수(Lisa Su)에게 직접 보고하게 된다. 반도체 기업이 AI 스타트업을 인수하는 일은 새삼스럽지 않다. 그러나 이번 거래에는 조금 다른 의미가 숨어 있다. World Labs는 반도체 설....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTJfMTY3/MDAxNzkxNzk3MzQ3MDg2.j35_53GenTql31KKZyCsMgqnGXQIQH6zOk9noM37-oog._QuHo14mOHaQiB4IXDxRbB0dTDRahRy1ho8lTl08GiIg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Mon, 12 Oct 2026 18:59:34 +0900</pubDate>
+                <tag><![CDATA[AMD,FeiFeiLi,LisaSu,WorldLabs]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 1. 백악관의 명령은 어떻게 각 기관의 실행계획으로 이어졌나? 2025년 5월 23일, 미국 백악관은 Executive Order 14303, Restoring Gold Standard Science를 발표했다. 그로부터 한 달 뒤인 6월 23일, OSTP는 각 연방기관에 Gold Standard Science를 실제 연구활동과 연구비 관리에 어떻게 적용할 것인지 구체적인 지침을 내렸다. 기관들은 60일 이내에 Implementation Plan을 마련해 OSTP에 보고하고 공개하도록 요구받았다. 그렇게 2025년 8월 22일을 전후해 DOE, NSF, NIH, NASA, 국방부, 상무부 등에서 비슷한 이름의 보고서가 잇따라 등장하기 시작했다. 처음에는 서로 다른 기관에서 거의 동시에 같은 종류의 보고서를 발표한 것이 우연....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MTlfMTk5/MDAxNzg5ODEyNTAxNzAz.AtakHkWMqbXblMxKboZt_nGHzTvbZ1OtrEYYzqxCw_Ag.8hVzy_mMPSSv68QvgmwmW-I9tKbqU-cua-WSAy6BRVsg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Sat, 19 Sep 2026 20:06:04 +0900</pubDate>
                 <tag><![CDATA[GSS,GoldenAge,DOE,NSF,NIST,NASA,DOW]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[News]]></category>
-                <title><![CDATA[DOE·NSF·NIST가 동시에 움직인 이유 — ‘Science: A New Golden Age’의 숨은 타임라인]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224416696918?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224416696918</guid>
-                
-                <description><![CDATA[✅ 어느 날 갑자기 등장한 ‘A New Golden Age’? 2026년 7월 21일, 백악관 OSTP Director Michael Kratsios가 대통령에게 한 보고서를 제출한다. 제목은 Science: A New Golden Age. 백악관은 이를 단순한 과학정책 보고서가 아니라, 1945년 Vannevar Bush의 「Science: The Endless Frontier」 이후 80여 년 만에 미국의 Science & Technology Enterprise 전체를 다시 생각하는 작업이라고 설명했다. 처음 이 문서만 보면 이렇게 생각하기 쉽다. “2026년 7월에 OSTP가 새로운 아이디어를 내놨구나.” 그런데 날짜를 거꾸로 추적해 보면 전혀 다른 그림이 나타난다. DOE에서는 이미 Gold Standard Science Implementation Plan이 나와 있었....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MTlfMjM2/MDAxNzg5NzY2Mzk5NDU0.6hcIYbKVoCnenBL2CYo8G78vluvpk68yf_LcKD4eoKsg._piUKaswMQsBf4NUWMPZlz_L4ng2JzCxrgpZt5laq9cg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Sat, 19 Sep 2026 06:59:06 +0900</pubDate>
-                <tag><![CDATA[NewGoldenAge,DOE,NSF,OSTP]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 742,
+  "totalArchivedPosts": 743,
   "posts": [
+    {
+      "date": "2026-10-12",
+      "published": "2026-10-12T20:59:34+11:00",
+      "title": "AMD의 82억 달러 베팅 — 페이페이 리, World Labs, 그리고 AI가 언어를 넘어 현실 세계로 향하는 이유",
+      "logNo": "224439327263",
+      "source": "https://blog.naver.com/4-fire/224439327263?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-12-224439327263.md",
+      "content_source": "naver_post",
+      "characters": 21398
+    },
     {
       "date": "2026-10-11",
       "published": "2026-10-11T23:13:44+11:00",

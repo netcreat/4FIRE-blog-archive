@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T09:37:34+00:00",
+  "generated_at": "2026-10-12T10:10:01+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 742,
+    "total": 743,
     "published": 69,
-    "missing": 673,
+    "missing": 674,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-07-13",
-    "end": "2026-10-11",
-    "total": 150,
+    "start": "2026-07-14",
+    "end": "2026-10-12",
+    "total": 151,
     "published": 55,
-    "missing": 95,
+    "missing": 96,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-12",
+        "title": "AMD의 82억 달러 베팅 — 페이페이 리, World Labs, 그리고 AI가 언어를 넘어 현실 세계로 향하는 이유",
+        "logNo": "224439327263",
+        "url": "https://blog.naver.com/4-fire/224439327263?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-12-224439327263.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-11",
