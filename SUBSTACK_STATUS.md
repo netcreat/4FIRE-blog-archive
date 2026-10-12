@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-12T10:10:01+00:00_
+_Automatically generated: 2026-10-12T10:24:57+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,14 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 743 | 69 | 674 | 0 | 0 |
-| Recent 90 days (2026-07-14 → 2026-10-12) | 151 | 55 | 96 | 0 | 0 |
+| All | 743 | 70 | 673 | 0 | 0 |
+| Recent 90 days (2026-07-14 → 2026-10-12) | 151 | 56 | 95 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-10-12 | [AMD의 82억 달러 베팅 — 페이페이 리, World Labs, 그리고 AI가 언어를 넘어 현실 세계로 향하는 이유](posts/2026/2026-10-12-224439327263.md) | ❌ Missing | — | `224439327263` |
+| 2026-10-12 | [AMD의 82억 달러 베팅 — 페이페이 리, World Labs, 그리고 AI가 언어를 넘어 현실 세계로 향하는 이유](posts/2026/2026-10-12-224439327263.md) | ✅ Published | [AMD's $8.2 Billion Bet — Fei-Fei Li, World Labs, and Why AI Is Moving Beyond Language Into the Real World](https://netcreat.substack.com/p/amds-82-billion-bet-fei-fei-li-world) | `224439327263` |
 | 2026-10-11 | [NVIDIA는 어디에 돈을 쓰고 있는가 — 인수·투자로 읽는 Jensen Huang의 다음 전략](posts/2026/2026-10-11-224438278537.md) | ✅ Published | [Where Is NVIDIA Spending Its Money? — Reading Jensen Huang’s Next Strategy Through Acquisitions and Investments](https://netcreat.substack.com/p/where-is-nvidia-spending-its-money) | `224438278537` |
 | 2026-10-11 | [AlphaGo 개발자들이 만든 Beam, 그리고 $25B AI 기업의 가치](posts/2026/2026-10-11-224438085225.md) | ✅ Published | [Beam, Built by the Minds Behind AlphaGo — and the Value of a $25 Billion AI Company](https://netcreat.substack.com/p/beam-built-by-the-minds-behind-alphago) | `224438085225` |
 | 2026-10-10 | [백악관의 $6B 과학투자 발표: 새 예산은 얼마이고, 어디로 가는가?](posts/2026/2026-10-10-224437337550.md) | ✅ Published | [The White House's $6 Billion Science Investment Announcement: How Much Is New, and Where Will It Go?](https://netcreat.substack.com/p/the-white-houses-6-billion-science) | `224437337550` |
@@ -171,11 +171,10 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **674**
+Total missing: **673**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-10-12 | [AMD의 82억 달러 베팅 — 페이페이 리, World Labs, 그리고 AI가 언어를 넘어 현실 세계로 향하는 이유](posts/2026/2026-10-12-224439327263.md) | ❌ Missing | — | `224439327263` |
 | 2026-10-09 | [구름을 뚫지 못하는 레이저로 어떻게 우주 양자통신을 할까? — Capella, Skyloom, Starlink 그리고 IonQ의 QKD 전략](posts/2026/2026-10-09-224435941091.md) | ❌ Missing | — | `224435941091` |
 | 2026-10-08 | [GlobalFoundries Investor Day 2026 — 광학·전력·양자·IP를 선택한 파운드리](posts/2026/2026-10-08-224435624365.md) | ❌ Missing | — | `224435624365` |
 | 2026-09-24 | [IonQ Superion 256, FIU에 판매. 양자 네트워킹에서 컴퓨팅까지 이어지는 새로운 사업 구조](posts/2026/2026-09-24-224422062043.md) | ❌ Missing | — | `224422062043` |
@@ -861,7 +860,7 @@ _Not calculated because the public sitemap fetch failed._
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-10-12 | [AMD의 82억 달러 베팅 — 페이페이 리, World Labs, 그리고 AI가 언어를 넘어 현실 세계로 향하는 이유](posts/2026/2026-10-12-224439327263.md) | ❌ Missing | — | `224439327263` |
+| 2026-10-12 | [AMD의 82억 달러 베팅 — 페이페이 리, World Labs, 그리고 AI가 언어를 넘어 현실 세계로 향하는 이유](posts/2026/2026-10-12-224439327263.md) | ✅ Published | [AMD's $8.2 Billion Bet — Fei-Fei Li, World Labs, and Why AI Is Moving Beyond Language Into the Real World](https://netcreat.substack.com/p/amds-82-billion-bet-fei-fei-li-world) | `224439327263` |
 | 2026-10-11 | [NVIDIA는 어디에 돈을 쓰고 있는가 — 인수·투자로 읽는 Jensen Huang의 다음 전략](posts/2026/2026-10-11-224438278537.md) | ✅ Published | [Where Is NVIDIA Spending Its Money? — Reading Jensen Huang’s Next Strategy Through Acquisitions and Investments](https://netcreat.substack.com/p/where-is-nvidia-spending-its-money) | `224438278537` |
 | 2026-10-11 | [AlphaGo 개발자들이 만든 Beam, 그리고 $25B AI 기업의 가치](posts/2026/2026-10-11-224438085225.md) | ✅ Published | [Beam, Built by the Minds Behind AlphaGo — and the Value of a $25 Billion AI Company](https://netcreat.substack.com/p/beam-built-by-the-minds-behind-alphago) | `224438085225` |
 | 2026-10-10 | [백악관의 $6B 과학투자 발표: 새 예산은 얼마이고, 어디로 가는가?](posts/2026/2026-10-10-224437337550.md) | ✅ Published | [The White House's $6 Billion Science Investment Announcement: How Much Is New, and Where Will It Go?](https://netcreat.substack.com/p/the-white-houses-6-billion-science) | `224437337550` |
