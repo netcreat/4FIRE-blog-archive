@@ -5,6 +5,17 @@
   "substack_base_url": "https://netcreat.substack.com",
   "description": "Curated mapping keyed by Naver logNo. A Naver post not listed here is automatically treated as missing from Substack. Use status='skip' for Naver-only posts that should not be published on Substack.",
   "mappings": {
+    "224439993177": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Elisity Technical Deep Dive (2) — CCC, Virtual Edge, and Virtual Edge Node",
+          "url": "https://netcreat.substack.com/p/elisity-technical-deep-dive-2-ccc",
+          "published_date": "2026-10-13"
+        }
+      ]
+    },
     "224439505882": {
       "status": "published",
       "relationship": "one_to_one",
