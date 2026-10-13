@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Tue, 13 Oct 2026 12:33:59 +0900</pubDate>
+            <pubDate>Tue, 13 Oct 2026 12:45:22 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Series]]></category>
+                <title><![CDATA[Elisity 기술 심층 분석 (5) — Microsegmentation · Agentless · PQC · QKD · Zero Trust]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224440118264?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224440118264</guid>
+                
+                <description><![CDATA[✅ Elisity의 진짜 경쟁자는 누구인가? — Zero Trust에서 PQC까지, 차세대 보안 시장의 기술 경쟁 2026년 10월 13일 기준 지난 4편에서는 Elisity가 기존 네트워크의 스위치를 활용해 장비의 신원을 식별하고, 통신 관계를 분석하며, 마이크로세그멘테이션 정책으로 공격자의 내부 이동을 제한하는 과정을 살펴보았다. 이러한 아키텍처는 분명 매력적이다. 기존 스위치를 활용할 수 있고, 단말마다 별도 에이전트를 설치하지 않아도 되기 때문이다. 하지만 시장에는 Elisity 외에도 Illumio, Akamai Guardicore, Zero Networks, ColorTokens, Cisco 등 여러 마이크로세그멘테이션 기업이 존재한다. 더욱 흥미로운 것은 제로트러스트 시장에 이미....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTNfMTgx/MDAxNzkxODU5OTY3Nzgy.6PMrh1RBmIEHhbiXf_1Z6wap75tEpvfMi-2IzUDgt1gg.ddqu0gCb_7TQ28fywO6Upa_IBq7lVCXsuX5Dn79TzcYg.PNG/wide_infographic_image._overall_a_clean_modern_i.png?type=s3" />]]></description>
+                <pubDate>Tue, 13 Oct 2026 12:38:43 +0900</pubDate>
+                <tag><![CDATA[Elisity,IonQ,Cloudflare,Fortinet,PaloAlto,Akamai,Zscaler,Cisco,Illumio,ColorTokens]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[2026년 9월 21일, IonQ는 한국의 양자기술 기업 SDT와 새로운 전략적 파트너십을 발표했다. 이번 발표는 단순한 양자컴퓨터 판매 계약이 아니다. Superion 256의 국내 도입부터 양자 메모리 제조, 구미의 양자컴퓨터 생산거점, 아시아·태평양 지역 공급망, 그리고 국내 암센터와의 공동 프로젝트까지 포함하고 있다. 특히 관심을 끄는 것은 IonQ가 국내 암센터 프로젝트를 별도로 언급했다는 점이다. SDT는 어떤 기업이기에 IonQ와 이러한 협력을 추진하게 되었으며, 양자컴퓨터 제조와 암 연구라는 서로 다른 분야에서 어떤 역할을 맡게 되는 것일까? 이번 발표를 이해하기 위해 SDT의 과거 행보부터 양자바이오 사업, 구미 제조거점의 의미까지....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjJfMTkw/MDAxNzkwMDUyNjA1MDIx.ab48YkG_JQV4OMlnzIJTQimy9etICnRD-D3Mt6EesDsg.jHTpDm6gT0kPrfw2bR3zlvtLWgoZIxop2Dy22u1w6DQg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Tue, 22 Sep 2026 14:51:38 +0900</pubDate>
                 <tag><![CDATA[IonQ,SDT,SuperIon,256,SiV]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[IonQ의 네 가지 양자 응용 연구 — AI, 산업용 HPC, 단백질 접힘을 관통하는 하나의 전략]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224419051220?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224419051220</guid>
-                
-                <description><![CDATA[✅ 서론 양자컴퓨터의 발전을 이야기할 때 가장 먼저 등장하는 것은 물리 큐비트와 논리 큐비트의 개수, 게이트 충실도, 오류 정정 성능이다. 하지만 큐비트 수가 증가한다고 해서 양자컴퓨터가 실제 산업 현장에서 곧바로 활용되는 것은 아니다. 하드웨어의 성능을 실질적인 계산 결과로 연결할 수 있는 알고리즘과 소프트웨어도 함께 발전해야 한다. 이번에 IonQ가 IEEE에서 수상한 네 편의 연구는 이러한 관점에서 주목할 만하다. 생성형 AI를 이용한 양자 최적화, 기존 AI 모델의 양자 기반 미세조정, 엔지니어링 시뮬레이션 가속, 단백질 접힘이라는 서로 다른 문제를 다루고 있기 때문이다. 겉으로 보기에는 독립적인 연구처럼 보이지만, 네....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjFfMTAy/MDAxNzg5OTg2ODI0ODQw.r0oar19dA1uIDpnpuU5WR4cJ__x5xVy-TL497dRxirUg.I7HLY640wpLgQ38Ec9gBkpd-3PVFLqO_O5S9qMdAANkg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Mon, 21 Sep 2026 20:09:24 +0900</pubDate>
-                <tag><![CDATA[IonQ,IEEE,QCE26]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

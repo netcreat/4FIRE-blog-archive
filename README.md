@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-13T03:34:35+00:00_
+_Automatically generated: 2026-10-13T03:45:53+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 748 | 71 | 677 | 0 | 0 |
-| Recent 90 days (2026-07-15 → 2026-10-13) | 156 | 56 | 100 | 0 | 0 |
+| All | 749 | 71 | 678 | 0 | 0 |
+| Recent 90 days (2026-07-15 → 2026-10-13) | 157 | 56 | 101 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-13 | [Elisity 기술 심층 분석 (5) — Microsegmentation · Agentless · PQC · QKD · Zero Trust](posts/2026/2026-10-13-224440118264.md) | ❌ Missing | — | `224440118264` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (4) — Zero Trust · Dynamic Policy · EDR Integration · Lateral Movement](posts/2026/2026-10-13-224440063909.md) | ❌ Missing | — | `224440063909` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (3) — 네트워크 데이터 수집 · 장치 식별 · AI 기반 분석](posts/2026/2026-10-13-224440028682.md) | ❌ Missing | — | `224440028682` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (2) — CCC · Virtual Edge · Virtual Edge Node](posts/2026/2026-10-13-224439993177.md) | ❌ Missing | — | `224439993177` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-02 | [Understanding Quantum Technologies 2026 Part 4](posts/2026/2026-10-02-224429425295.md) | ✅ Published | [Understanding Quantum Technologies 2026 — 4](https://netcreat.substack.com/p/understanding-quantum-technologies-e71) | `224429425295` |
 | 2026-10-02 | [Understanding Quantum Technologies 2026 Part 3](posts/2026/2026-10-02-224429090037.md) | ✅ Published | [Understanding Quantum Technologies 2026 — 3](https://netcreat.substack.com/p/understanding-quantum-technologies-445) | `224429090037` |
 | 2026-10-02 | [HBM 디스펙 이후, NVIDIA가 바꾸려는 것은 무엇인가?](posts/2026/2026-10-01-224428808831.md) | ✅ Published | [What Is NVIDIA Really Trying to Change After HBM De-Specification?](https://netcreat.substack.com/p/what-is-nvidia-really-trying-to-change) | `224428808831` |
-| 2026-10-01 | [논리 큐비트 800개를 향한 코드 설계: Walking Cat과 신규 qLDPC 연구를 함께 읽기](posts/2026/2026-10-01-224428509000.md) | ✅ Published | [Designing Codes for 800 Logical Qubits: Reading Walking Cat Alongside New qLDPC Research](https://netcreat.substack.com/p/designing-codes-for-800-logical-qubits) | `224428509000` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

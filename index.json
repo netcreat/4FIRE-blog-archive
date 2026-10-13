@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 748,
+  "totalArchivedPosts": 749,
   "posts": [
+    {
+      "date": "2026-10-13",
+      "published": "2026-10-13T14:38:43+11:00",
+      "title": "Elisity 기술 심층 분석 (5) — Microsegmentation · Agentless · PQC · QKD · Zero Trust",
+      "logNo": "224440118264",
+      "source": "https://blog.naver.com/4-fire/224440118264?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-13-224440118264.md",
+      "content_source": "naver_post",
+      "characters": 26378
+    },
     {
       "date": "2026-10-13",
       "published": "2026-10-13T13:47:06+11:00",
