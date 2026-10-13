@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T00:46:05+00:00",
+  "generated_at": "2026-10-13T03:34:35+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 744,
+    "total": 748,
     "published": 71,
-    "missing": 673,
+    "missing": 677,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,71 @@
     "days": 90,
     "start": "2026-07-15",
     "end": "2026-10-13",
-    "total": 152,
+    "total": 156,
     "published": 56,
-    "missing": 96,
+    "missing": 100,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-13",
+        "title": "Elisity 기술 심층 분석 (4) — Zero Trust · Dynamic Policy · EDR Integration · Lateral Movement",
+        "logNo": "224440063909",
+        "url": "https://blog.naver.com/4-fire/224440063909?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-13-224440063909.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
+    {
+      "naver": {
+        "published_date": "2026-10-13",
+        "title": "Elisity 기술 심층 분석 (3) — 네트워크 데이터 수집 · 장치 식별 · AI 기반 분석",
+        "logNo": "224440028682",
+        "url": "https://blog.naver.com/4-fire/224440028682?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-13-224440028682.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
+    {
+      "naver": {
+        "published_date": "2026-10-13",
+        "title": "Elisity 기술 심층 분석 (2) — CCC · Virtual Edge · Virtual Edge Node",
+        "logNo": "224439993177",
+        "url": "https://blog.naver.com/4-fire/224439993177?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-13-224439993177.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
+    {
+      "naver": {
+        "published_date": "2026-10-13",
+        "title": "Elisity 기술 심층 분석 (1) — Zero Trust와 Microsegmentation의 이해",
+        "logNo": "224439947359",
+        "url": "https://blog.naver.com/4-fire/224439947359?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-13-224439947359.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-13",

@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-13T00:46:05+00:00_
+_Automatically generated: 2026-10-13T03:34:35+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,17 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 744 | 71 | 673 | 0 | 0 |
-| Recent 90 days (2026-07-15 → 2026-10-13) | 152 | 56 | 96 | 0 | 0 |
+| All | 748 | 71 | 677 | 0 | 0 |
+| Recent 90 days (2026-07-15 → 2026-10-13) | 156 | 56 | 100 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-13 | [Elisity 기술 심층 분석 (4) — Zero Trust · Dynamic Policy · EDR Integration · Lateral Movement](posts/2026/2026-10-13-224440063909.md) | ❌ Missing | — | `224440063909` |
+| 2026-10-13 | [Elisity 기술 심층 분석 (3) — 네트워크 데이터 수집 · 장치 식별 · AI 기반 분석](posts/2026/2026-10-13-224440028682.md) | ❌ Missing | — | `224440028682` |
+| 2026-10-13 | [Elisity 기술 심층 분석 (2) — CCC · Virtual Edge · Virtual Edge Node](posts/2026/2026-10-13-224439993177.md) | ❌ Missing | — | `224439993177` |
+| 2026-10-13 | [Elisity 기술 심층 분석 (1) — Zero Trust와 Microsegmentation의 이해](posts/2026/2026-10-13-224439947359.md) | ❌ Missing | — | `224439947359` |
 | 2026-10-13 | [IonQ는 왜 Elisity에 13억 달러를 베팅했을까?](posts/2026/2026-10-13-224439505882.md) | ❌ Missing | — | `224439505882` |
 | 2026-10-12 | [AMD의 82억 달러 베팅 — 페이페이 리, World Labs, 그리고 AI가 언어를 넘어 현실 세계로 향하는 이유](posts/2026/2026-10-12-224439327263.md) | ✅ Published | [AMD's $8.2 Billion Bet — Fei-Fei Li, World Labs, and Why AI Is Moving Beyond Language Into the Real World](https://netcreat.substack.com/p/amds-82-billion-bet-fei-fei-li-world) | `224439327263` |
 | 2026-10-11 | [NVIDIA는 어디에 돈을 쓰고 있는가 — 인수·투자로 읽는 Jensen Huang의 다음 전략](posts/2026/2026-10-11-224438278537.md) | ✅ Published | [Where Is NVIDIA Spending Its Money? — Reading Jensen Huang’s Next Strategy Through Acquisitions and Investments](https://netcreat.substack.com/p/where-is-nvidia-spending-its-money) | `224438278537` |
@@ -172,10 +176,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **673**
+Total missing: **677**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-13 | [Elisity 기술 심층 분석 (4) — Zero Trust · Dynamic Policy · EDR Integration · Lateral Movement](posts/2026/2026-10-13-224440063909.md) | ❌ Missing | — | `224440063909` |
+| 2026-10-13 | [Elisity 기술 심층 분석 (3) — 네트워크 데이터 수집 · 장치 식별 · AI 기반 분석](posts/2026/2026-10-13-224440028682.md) | ❌ Missing | — | `224440028682` |
+| 2026-10-13 | [Elisity 기술 심층 분석 (2) — CCC · Virtual Edge · Virtual Edge Node](posts/2026/2026-10-13-224439993177.md) | ❌ Missing | — | `224439993177` |
+| 2026-10-13 | [Elisity 기술 심층 분석 (1) — Zero Trust와 Microsegmentation의 이해](posts/2026/2026-10-13-224439947359.md) | ❌ Missing | — | `224439947359` |
 | 2026-10-13 | [IonQ는 왜 Elisity에 13억 달러를 베팅했을까?](posts/2026/2026-10-13-224439505882.md) | ❌ Missing | — | `224439505882` |
 | 2026-10-09 | [구름을 뚫지 못하는 레이저로 어떻게 우주 양자통신을 할까? — Capella, Skyloom, Starlink 그리고 IonQ의 QKD 전략](posts/2026/2026-10-09-224435941091.md) | ❌ Missing | — | `224435941091` |
 | 2026-10-08 | [GlobalFoundries Investor Day 2026 — 광학·전력·양자·IP를 선택한 파운드리](posts/2026/2026-10-08-224435624365.md) | ❌ Missing | — | `224435624365` |
@@ -857,10 +865,14 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 744 Naver posts</summary>
+<summary>Show all 748 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-13 | [Elisity 기술 심층 분석 (4) — Zero Trust · Dynamic Policy · EDR Integration · Lateral Movement](posts/2026/2026-10-13-224440063909.md) | ❌ Missing | — | `224440063909` |
+| 2026-10-13 | [Elisity 기술 심층 분석 (3) — 네트워크 데이터 수집 · 장치 식별 · AI 기반 분석](posts/2026/2026-10-13-224440028682.md) | ❌ Missing | — | `224440028682` |
+| 2026-10-13 | [Elisity 기술 심층 분석 (2) — CCC · Virtual Edge · Virtual Edge Node](posts/2026/2026-10-13-224439993177.md) | ❌ Missing | — | `224439993177` |
+| 2026-10-13 | [Elisity 기술 심층 분석 (1) — Zero Trust와 Microsegmentation의 이해](posts/2026/2026-10-13-224439947359.md) | ❌ Missing | — | `224439947359` |
 | 2026-10-13 | [IonQ는 왜 Elisity에 13억 달러를 베팅했을까?](posts/2026/2026-10-13-224439505882.md) | ❌ Missing | — | `224439505882` |
 | 2026-10-12 | [AMD의 82억 달러 베팅 — 페이페이 리, World Labs, 그리고 AI가 언어를 넘어 현실 세계로 향하는 이유](posts/2026/2026-10-12-224439327263.md) | ✅ Published | [AMD's $8.2 Billion Bet — Fei-Fei Li, World Labs, and Why AI Is Moving Beyond Language Into the Real World](https://netcreat.substack.com/p/amds-82-billion-bet-fei-fei-li-world) | `224439327263` |
 | 2026-10-11 | [NVIDIA는 어디에 돈을 쓰고 있는가 — 인수·투자로 읽는 Jensen Huang의 다음 전략](posts/2026/2026-10-11-224438278537.md) | ✅ Published | [Where Is NVIDIA Spending Its Money? — Reading Jensen Huang’s Next Strategy Through Acquisitions and Investments](https://netcreat.substack.com/p/where-is-nvidia-spending-its-money) | `224438278537` |

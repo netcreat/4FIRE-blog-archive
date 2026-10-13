@@ -21,7 +21,63 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Tue, 13 Oct 2026 09:45:35 +0900</pubDate>
+            <pubDate>Tue, 13 Oct 2026 12:33:59 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Series]]></category>
+                <title><![CDATA[Elisity 기술 심층 분석 (4) — Zero Trust · Dynamic Policy · EDR Integration · Lateral Movement]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224440063909?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224440063909</guid>
+                
+                <description><![CDATA[✅ 랜섬웨어에 감염되어도 확산하지 못한다 — Elisity의 동적 마이크로세그멘테이션 지난 3편에서는 Elisity가 네트워크 스위치에서 수집한 Telemetry를 IdentityGraph와 AI를 이용해 어떻게 분석하는지 살펴보았다. Elisity는 장비의 정체를 파악하고, 각 장비가 어떤 서버와 어떤 프로토콜로 통신하는지 분석하며, 이를 기반으로 접근제어 정책을 수립한다. 그렇다면 이러한 정보는 실제 보안 사고에서 어떤 역할을 할까? 가령 한 직원의 PC가 랜섬웨어에 감염되었다고 가정해 보자. 공격자는 해당 PC에서 파일서버, 데이터베이스, 도메인 컨트롤러를 탐색하고 접근 권한을 확대하려 할 수 있다. 기존 보안 시스템은 이러한 공격을 탐지하고 차....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTNfNjIg/MDAxNzkxODU4MTczMDUz.F7sd-VDC5WksWNeNRGpAKcPW8fNMbETMmoDMbYNDoeMg.vM8-u6FHceTG9kDDBrnY-KLrm4Zr71AxvTfXAjAXeF8g.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Tue, 13 Oct 2026 11:47:06 +0900</pubDate>
+                <tag><![CDATA[Elisity]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Series]]></category>
+                <title><![CDATA[Elisity 기술 심층 분석 (3) — 네트워크 데이터 수집 · 장치 식별 · AI 기반 분석]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224440028682?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224440028682</guid>
+                
+                <description><![CDATA[✅ Elisity는 무엇을 보고 어떻게 판단하는가? — Telemetry, IdentityGraph 그리고 AI 지난 2편에서는 Elisity의 전체 아키텍처와 Cloud Control Center(CCC), Virtual Edge(VE), Virtual Edge Node(VEN)의 역할을 살펴보았다. 기존 기업 네트워크의 스위치를 VEN으로 활용하고, VE를 통해 수집한 정보를 중앙 클라우드의 CCC와 교환하는 구조였다. 그렇다면 VEN은 실제로 어떤 정보를 수집하고, VE와 CCC는 그 데이터를 이용해 무엇을 판단할까? 우리가 흔히 사용하는 보안 시스템처럼 악성코드나 랜섬웨어를 식별하는 것일까? 아니면 정상적인 통신 관계를 파악해 허용하지 않은 접근을 제한하는 것일까? 결론부터 말하면 Elisity의 핵심은 공....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTNfMTk3/MDAxNzkxODU3OTIzMDUw.oNnCfGAbgDLi53yjfJJrrleiHeSp_MWBDTwAeT5FHgUg.tFM9adNtkmmnne7KthffSjgkmApRxqp_C8Y2e1g_i64g.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Tue, 13 Oct 2026 11:17:39 +0900</pubDate>
+                <tag><![CDATA[Elisity]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Series]]></category>
+                <title><![CDATA[Elisity 기술 심층 분석 (2) — CCC · Virtual Edge · Virtual Edge Node]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224439993177?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224439993177</guid>
+                
+                <description><![CDATA[✅ Elisity의 아키텍처 — 기존 스위치가 보안 장비로 변신하는 방법 지난 1편에서는 제로트러스트(Zero Trust)의 기본 원칙과 마이크로세그멘테이션(Microsegmentation)이 무엇인지 살펴보았다. 제로트러스트의 핵심은 기업 네트워크에 접속했다는 이유만으로 모든 자원에 대한 접근을 허용하지 않는다는 것이다. 그렇다면 이러한 원칙을 실제 네트워크에서는 어떻게 구현할 수 있을까? 모든 PC와 서버에 보안 소프트웨어를 설치해야 할까? 아니면 새로운 보안 장비를 구입해 스위치와 서버 사이에 추가해야 할까? Elisity가 제시하는 방식은 조금 다르다. 기존 네트워크 스위치를 보안 정책의 집행 지점으로 활용하고, 중앙 클라우드에서 장치....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTNfMTcy/MDAxNzkxODU0NjIwOTYw.N8lgPy0xz-EtRauP6dr3EM1QjHR6xCBniSMHpPQxk1Ag.bVYsNrni4bTfUu-V7T9HbUh1IhC_Uf9Gzc8cfXTbu-Qg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Tue, 13 Oct 2026 10:49:12 +0900</pubDate>
+                <tag><![CDATA[Elisity,CCC,VE,VEN]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Series]]></category>
+                <title><![CDATA[Elisity 기술 심층 분석 (1) — Zero Trust와 Microsegmentation의 이해]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224439947359?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224439947359</guid>
+                
+                <description><![CDATA[✅ 제로트러스트의 본질 — 침입자를 막는 것보다 자유롭게 움직이지 못하게 하는 것 앞서 「IonQ는 왜 Elisity에 13억 달러를 베팅했을까?」라는 글에서 IonQ의 인수 배경과 전략적 의미를 살펴보았다. 그렇다면 Elisity는 실제로 어떤 기술을 보유하고 있으며, 기존 보안 솔루션과 무엇이 다를까? 이를 이해하기 위해서는 먼저 Zero Trust(제로트러스트)라는 보안 원칙부터 살펴볼 필요가 있다. 이번 글에서는 기술적인 구조를 깊이 파고들기보다는 제로트러스트가 왜 등장했고, 기존 보안과 무엇이 다르며, Elisity가 그 안에서 어떤 역할을 하는지 살펴보기로 한다. ✅ 1. 기존 네트워크 보안은 무엇을 신뢰했는가?  외부 침입을 막는 경....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTNfMTQz/MDAxNzkxODUyNTUzOTQ0.dhQAFXO7rcPLI7mZMzAKH5vdhPCu_KCFY1IvEKcwngQg._HBZUbNMlEqGsrVQujby3i7fvTI1eRsQBSIRAFkvvBsg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Tue, 13 Oct 2026 10:11:24 +0900</pubDate>
+                <tag><![CDATA[Elisity,ZeroTrust,Microsegmentation]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -663,62 +719,6 @@
                 <description><![CDATA[✅ 서론 양자컴퓨터의 발전을 이야기할 때 가장 먼저 등장하는 것은 물리 큐비트와 논리 큐비트의 개수, 게이트 충실도, 오류 정정 성능이다. 하지만 큐비트 수가 증가한다고 해서 양자컴퓨터가 실제 산업 현장에서 곧바로 활용되는 것은 아니다. 하드웨어의 성능을 실질적인 계산 결과로 연결할 수 있는 알고리즘과 소프트웨어도 함께 발전해야 한다. 이번에 IonQ가 IEEE에서 수상한 네 편의 연구는 이러한 관점에서 주목할 만하다. 생성형 AI를 이용한 양자 최적화, 기존 AI 모델의 양자 기반 미세조정, 엔지니어링 시뮬레이션 가속, 단백질 접힘이라는 서로 다른 문제를 다루고 있기 때문이다. 겉으로 보기에는 독립적인 연구처럼 보이지만, 네....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjFfMTAy/MDAxNzg5OTg2ODI0ODQw.r0oar19dA1uIDpnpuU5WR4cJ__x5xVy-TL497dRxirUg.I7HLY640wpLgQ38Ec9gBkpd-3PVFLqO_O5S9qMdAANkg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Mon, 21 Sep 2026 20:09:24 +0900</pubDate>
                 <tag><![CDATA[IonQ,IEEE,QCE26]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[IonQ의 100만 큐비트 확장 전략 — SkyWater, 양자산업의 반도체 제조 플랫폼이 될 수 있을까?]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224418682921?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224418682921</guid>
-                
-                <description><![CDATA[✅ IonQ의 대규모 QPU 확장 전략 “It's not a quantum problem, it's an integration problem.” 그는 다이를 정밀하게 결합하고, 다이 사이에서 이온을 이동시키는 구조를 설계하며, 패키징 수율을 개선하는 것이 핵심 과제라고 설명했다. 또한 필요한 정렬 정밀도를 산업 표준 공정으로 달성할 수 있는지 검토했다고 밝혔다. 이 발언은 SkyWater가 IonQ의 확장 로드맵에서 어떤 역할을 맡을 수 있는지 이해하는 데 중요한 단서가 된다. ✅ 2026 Investor Day에서 공개된 두 장의 슬라이드가 의미하는 것 IonQ는 2026년 9월 8일 Investor Day에서 Superion QPU를 256개의 물리 큐비트에서 10K, 20K, 200K, 그리고 100만 개 이상으로....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjFfMjM1/MDAxNzg5OTY2NDI0ODMw.dzGyJGomhQHPR2M-QrQ4C3jVDcCjd53vS9-vP0-EmYgg.KBUS_PJDsZpAWeOsgEubrtKxkQ9y1MGdqJmBVMvMZbUg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Mon, 21 Sep 2026 14:16:12 +0900</pubDate>
-                <tag><![CDATA[IonQ,SkyWater,Tiling,DieShrink,ICPackaging]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[QEC]]></category>
-                <title><![CDATA[IonQ Superion 10K — 800 Logical Qubits의 비밀은 새로운 QEC 코드에 있을까?]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224417992062?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224417992062</guid>
-                
-                <description><![CDATA[✅ 10,000개의 물리 큐비트로 800개의 논리 큐비트를 만들 수 있을까? IonQ의 공식 로드맵에 따르면 2027년 Superion 10K의 목표는 물리 큐비트 10,000개와 논리 큐비트 800개다. 동시에 논리 오류율(Logical Error Rate)은 10−7 미만을 목표로 하고 있다. 단순히 계산하면 논리 큐비트 1개당 평균 12.5개의 물리 큐비트를 사용하는 셈이다. 하지만 실제 Fault-Tolerant Quantum Computer(FTQC)에서는 논리 큐비트를 저장하는 Memory Block 외에도 Magic Factory, Cat Factory, Ancilla, Beacon, Reservoir 및 이온 운송을 위한 추가적인 물리 큐비트가 필요하다. 따라서 단순히 10,000개를 12.5개씩 나누는 것으로 실제 시스템 구성을 설명할 수....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjBfMTQx/MDAxNzg5OTAyNzQxOTY4.MagQqm19vtqgBCKiqZyfFJfpTRRrtNFeUjA6MKZ7MUYg.zgevRIeJaymVZduKer7RnYuga2DbZFMoPF6jEIUUAVIg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Sun, 20 Sep 2026 21:13:20 +0900</pubDate>
-                <tag><![CDATA[IonQ,Superion,10K,800,LQ,QEC,Code]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Portfolios]]></category>
-                <title><![CDATA[BWX Technologies(BWXT) 투자 분석 업데이트 — 실적은 성장하는데 주가는 왜 계속 하락할까?]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224417645768?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224417645768</guid>
-                <description><![CDATA[✅ 지난 7월 분석의 핵심은 무엇이었나?  좋은 기업과 좋은 매수가격은 다르다 지난 7월 BWXT를 분석하면서 가장 중요하게 살펴본 것은 미 해군 원자로와 핵연료 공급망에서 축적한 제조 및 인증 역량이었다. BWXT는 단순히 원자력 발전소 건설이 늘어나면 혜택을 받는 기업이 아니다. 미 해군 핵추진체계에서 축적한 원자로 설계·제조 경험을 바탕으로 다음 사업으로 확장하고 있다. 미 해군 잠수함 및 항공모함용 원자로 국가안보용 우라늄 농축 및 핵연료 TRISO·HALEU 첨단연료 군사용 마이크로 원자로 상업 원전 및 SMR 핵심 부품 우주 원자로 및 핵추진 기술 다만 당시 분석가격 $174.52에서는 2026년 예상 PER이 약 37배였으며, FCF 수.......]]></description>
-                
-                <pubDate>Sun, 20 Sep 2026 12:31:06 +0900</pubDate>
-                <tag><![CDATA[BWXT]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[IonQ Superion 256 vs 10K — 능동 CMOS가 바꾸는 양자컴퓨터의 제어 방식]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224417528589?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224417528589</guid>
-                
-                <description><![CDATA[✅ IonQ Superion 10K에는 왜 Cryo-CMOS가 필요한가? — 256에서 10K로 넘어가는 진짜 변화  256개에서 10,000개로, 단순히 큐비트 수만 늘어나는 것이 아니다 IonQ는 2026년 9월 8일 Investor Day에서 Superion 256과 차세대 Superion 10K의 개발 방향을 공개했다. 특히 주목할 부분은 10K를 위한 첫 번째 Cryo-CMOS 테스트 칩을 공개했다는 사실이다. 여기서 한 가지 의문이 생긴다. Superion 256에서도 이미 전자식 큐비트 제어 기술(EQC)을 사용하는데, 왜 10K에서는 Cryo-CMOS라는 별도의 기술이 등장하는 것일까? 핵심은 256에서 외부 제어 전자장치가 담당하던 기능의 일부를 10K에서는 QPU 칩 내부로 집적한다는 것이다. 이를 이해하....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjBfOTcg/MDAxNzg5ODYyNjkwMzE5.qSuRhNz7LJn5vWOTJv17R6vrrNW83_WvmoFh6KnwI5kg.HBtzq7-TCP-mEJa0OE6LjsgVvM5A-QLrWpf_i6D8u84g.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Sun, 20 Sep 2026 09:19:12 +0900</pubDate>
-                <tag><![CDATA[IonQ,256,10K,CryoCMOS,ActiveCMOS,SkyWaters]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

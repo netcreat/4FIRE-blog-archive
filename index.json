@@ -2,8 +2,48 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 744,
+  "totalArchivedPosts": 748,
   "posts": [
+    {
+      "date": "2026-10-13",
+      "published": "2026-10-13T13:47:06+11:00",
+      "title": "Elisity 기술 심층 분석 (4) — Zero Trust · Dynamic Policy · EDR Integration · Lateral Movement",
+      "logNo": "224440063909",
+      "source": "https://blog.naver.com/4-fire/224440063909?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-13-224440063909.md",
+      "content_source": "naver_post",
+      "characters": 20163
+    },
+    {
+      "date": "2026-10-13",
+      "published": "2026-10-13T13:17:39+11:00",
+      "title": "Elisity 기술 심층 분석 (3) — 네트워크 데이터 수집 · 장치 식별 · AI 기반 분석",
+      "logNo": "224440028682",
+      "source": "https://blog.naver.com/4-fire/224440028682?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-13-224440028682.md",
+      "content_source": "naver_post",
+      "characters": 21785
+    },
+    {
+      "date": "2026-10-13",
+      "published": "2026-10-13T12:49:12+11:00",
+      "title": "Elisity 기술 심층 분석 (2) — CCC · Virtual Edge · Virtual Edge Node",
+      "logNo": "224439993177",
+      "source": "https://blog.naver.com/4-fire/224439993177?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-13-224439993177.md",
+      "content_source": "naver_post",
+      "characters": 19778
+    },
+    {
+      "date": "2026-10-13",
+      "published": "2026-10-13T12:11:24+11:00",
+      "title": "Elisity 기술 심층 분석 (1) — Zero Trust와 Microsegmentation의 이해",
+      "logNo": "224439947359",
+      "source": "https://blog.naver.com/4-fire/224439947359?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-13-224439947359.md",
+      "content_source": "naver_post",
+      "characters": 15548
+    },
     {
       "date": "2026-10-13",
       "published": "2026-10-13T00:21:30+11:00",

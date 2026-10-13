@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-13T00:46:05+00:00_
+_Automatically generated: 2026-10-13T03:34:35+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,17 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 744 | 71 | 673 | 0 | 0 |
-| Recent 90 days (2026-07-15 → 2026-10-13) | 152 | 56 | 96 | 0 | 0 |
+| All | 748 | 71 | 677 | 0 | 0 |
+| Recent 90 days (2026-07-15 → 2026-10-13) | 156 | 56 | 100 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-13 | [Elisity 기술 심층 분석 (4) — Zero Trust · Dynamic Policy · EDR Integration · Lateral Movement](posts/2026/2026-10-13-224440063909.md) | ❌ Missing | — | `224440063909` |
+| 2026-10-13 | [Elisity 기술 심층 분석 (3) — 네트워크 데이터 수집 · 장치 식별 · AI 기반 분석](posts/2026/2026-10-13-224440028682.md) | ❌ Missing | — | `224440028682` |
+| 2026-10-13 | [Elisity 기술 심층 분석 (2) — CCC · Virtual Edge · Virtual Edge Node](posts/2026/2026-10-13-224439993177.md) | ❌ Missing | — | `224439993177` |
+| 2026-10-13 | [Elisity 기술 심층 분석 (1) — Zero Trust와 Microsegmentation의 이해](posts/2026/2026-10-13-224439947359.md) | ❌ Missing | — | `224439947359` |
 | 2026-10-13 | [IonQ는 왜 Elisity에 13억 달러를 베팅했을까?](posts/2026/2026-10-13-224439505882.md) | ❌ Missing | — | `224439505882` |
 | 2026-10-12 | [AMD의 82억 달러 베팅 — 페이페이 리, World Labs, 그리고 AI가 언어를 넘어 현실 세계로 향하는 이유](posts/2026/2026-10-12-224439327263.md) | ✅ Published | [AMD's $8.2 Billion Bet — Fei-Fei Li, World Labs, and Why AI Is Moving Beyond Language Into the Real World](https://netcreat.substack.com/p/amds-82-billion-bet-fei-fei-li-world) | `224439327263` |
 | 2026-10-11 | [NVIDIA는 어디에 돈을 쓰고 있는가 — 인수·투자로 읽는 Jensen Huang의 다음 전략](posts/2026/2026-10-11-224438278537.md) | ✅ Published | [Where Is NVIDIA Spending Its Money? — Reading Jensen Huang’s Next Strategy Through Acquisitions and Investments](https://netcreat.substack.com/p/where-is-nvidia-spending-its-money) | `224438278537` |
@@ -47,9 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-02 | [Understanding Quantum Technologies 2026 Part 3](posts/2026/2026-10-02-224429090037.md) | ✅ Published | [Understanding Quantum Technologies 2026 — 3](https://netcreat.substack.com/p/understanding-quantum-technologies-445) | `224429090037` |
 | 2026-10-02 | [HBM 디스펙 이후, NVIDIA가 바꾸려는 것은 무엇인가?](posts/2026/2026-10-01-224428808831.md) | ✅ Published | [What Is NVIDIA Really Trying to Change After HBM De-Specification?](https://netcreat.substack.com/p/what-is-nvidia-really-trying-to-change) | `224428808831` |
 | 2026-10-01 | [논리 큐비트 800개를 향한 코드 설계: Walking Cat과 신규 qLDPC 연구를 함께 읽기](posts/2026/2026-10-01-224428509000.md) | ✅ Published | [Designing Codes for 800 Logical Qubits: Reading Walking Cat Alongside New qLDPC Research](https://netcreat.substack.com/p/designing-codes-for-800-logical-qubits) | `224428509000` |
-| 2026-10-01 | [Understanding Quantum Technologies 2026 Part 2](posts/2026/2026-10-01-224428141474.md) | ✅ Published | [Understanding Quantum Technologies 2026 — Part 2](https://netcreat.substack.com/p/understanding-quantum-technologies-248) | `224428141474` |
-| 2026-09-30 | [NATO 양자 로드맵 공개, 그런데 양자컴퓨팅 RFP는 이미 끝났다](posts/2026/2026-09-30-224427575765.md) | ✅ Published | [NATO Releases Its Quantum Roadmap](https://netcreat.substack.com/p/nato-releases-its-quantum-roadmap) | `224427575765` |
-| 2026-09-30 | [Understanding Quantum Technologies 2026 Part 1](posts/2026/2026-09-30-224427057259.md) | ✅ Published | [Understanding Quantum Technologies 2026 — Part 1](https://netcreat.substack.com/p/understanding-quantum-technologies) | `224427057259` |
-| 2026-09-30 | [LITE·COHR·GLW·LPTH·MRVL·AVGO·AAOI](posts/2026/2026-09-30-224426825573.md) | ✅ Published | [LITE, COHR, GLW, LPTH, MRVL, AVGO, and AAOI](https://netcreat.substack.com/p/lite-cohr-glw-lpth-mrvl-avgo-and) | `224426825573` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).
