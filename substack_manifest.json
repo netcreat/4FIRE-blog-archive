@@ -5,6 +5,50 @@
   "substack_base_url": "https://netcreat.substack.com",
   "description": "Curated mapping keyed by Naver logNo. A Naver post not listed here is automatically treated as missing from Substack. Use status='skip' for Naver-only posts that should not be published on Substack.",
   "mappings": {
+    "224439947359": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Elisity Technical Deep Dive (1) — Understanding Zero Trust and Microsegmentation",
+          "url": "https://netcreat.substack.com/p/elisity-technical-deep-dive-1-understanding",
+          "published_date": "2026-10-13"
+        }
+      ]
+    },
+    "224440028682": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Elisity Technical Deep Dive (3) — Network Data Collection, Device Identification, and AI-Driven Analysis",
+          "url": "https://netcreat.substack.com/p/elisity-technical-deep-dive-3-network-c2b",
+          "published_date": "2026-10-13"
+        }
+      ]
+    },
+    "224440063909": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Elisity Technical Deep Dive (4) — Zero Trust, Dynamic Policy, EDR Integration, and Lateral Movement",
+          "url": "https://netcreat.substack.com/p/elisity-technical-deep-dive-4-zero",
+          "published_date": "2026-10-13"
+        }
+      ]
+    },
+    "224440118264": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Elisity Technical Deep Dive (5) — Microsegmentation, Agentless, PQC, QKD, and Zero Trust",
+          "url": "https://netcreat.substack.com/p/elisity-technical-deep-dive-5-microsegmentation",
+          "published_date": "2026-10-13"
+        }
+      ]
+    },
     "224439993177": {
       "status": "published",
       "relationship": "one_to_one",
