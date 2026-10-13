@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 749,
+  "totalArchivedPosts": 750,
   "posts": [
+    {
+      "date": "2026-10-13",
+      "published": "2026-10-13T22:35:55+11:00",
+      "title": "IonQ, Elisity 인수에 관한 8-K 공지",
+      "logNo": "224440626371",
+      "source": "https://blog.naver.com/4-fire/224440626371?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-13-224440626371.md",
+      "content_source": "naver_post",
+      "characters": 6232
+    },
     {
       "date": "2026-10-13",
       "published": "2026-10-13T14:38:43+11:00",

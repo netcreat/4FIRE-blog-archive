@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-13T09:35:45+00:00_
+_Automatically generated: 2026-10-13T12:43:07+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 749 | 77 | 672 | 0 | 0 |
-| Recent 90 days (2026-07-15 → 2026-10-13) | 157 | 62 | 95 | 0 | 0 |
+| All | 750 | 77 | 673 | 0 | 0 |
+| Recent 90 days (2026-07-15 → 2026-10-13) | 158 | 62 | 96 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-13 | [IonQ, Elisity 인수에 관한 8-K 공지](posts/2026/2026-10-13-224440626371.md) | ❌ Missing | — | `224440626371` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (5) — Microsegmentation · Agentless · PQC · QKD · Zero Trust](posts/2026/2026-10-13-224440118264.md) | ✅ Published | [Elisity Technical Deep Dive (5) — Microsegmentation, Agentless, PQC, QKD, and Zero Trust](https://netcreat.substack.com/p/elisity-technical-deep-dive-5-microsegmentation) | `224440118264` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (4) — Zero Trust · Dynamic Policy · EDR Integration · Lateral Movement](posts/2026/2026-10-13-224440063909.md) | ✅ Published | [Elisity Technical Deep Dive (4) — Zero Trust, Dynamic Policy, EDR Integration, and Lateral Movement](https://netcreat.substack.com/p/elisity-technical-deep-dive-4-zero) | `224440063909` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (3) — 네트워크 데이터 수집 · 장치 식별 · AI 기반 분석](posts/2026/2026-10-13-224440028682.md) | ✅ Published | [Elisity Technical Deep Dive (3) — Network Data Collection, Device Identification, and AI-Driven Analysis](https://netcreat.substack.com/p/elisity-technical-deep-dive-3-network-c2b) | `224440028682` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-03 | [Understanding Quantum Technologies 2026 Part 5](posts/2026/2026-10-03-224430148490.md) | ✅ Published | [Understanding Quantum Technologies 2026 — 5](https://netcreat.substack.com/p/understanding-quantum-technologies-5fb) | `224430148490` |
 | 2026-10-02 | [Understanding Quantum Technologies 2026 Part 4](posts/2026/2026-10-02-224429425295.md) | ✅ Published | [Understanding Quantum Technologies 2026 — 4](https://netcreat.substack.com/p/understanding-quantum-technologies-e71) | `224429425295` |
 | 2026-10-02 | [Understanding Quantum Technologies 2026 Part 3](posts/2026/2026-10-02-224429090037.md) | ✅ Published | [Understanding Quantum Technologies 2026 — 3](https://netcreat.substack.com/p/understanding-quantum-technologies-445) | `224429090037` |
-| 2026-10-02 | [HBM 디스펙 이후, NVIDIA가 바꾸려는 것은 무엇인가?](posts/2026/2026-10-01-224428808831.md) | ✅ Published | [What Is NVIDIA Really Trying to Change After HBM De-Specification?](https://netcreat.substack.com/p/what-is-nvidia-really-trying-to-change) | `224428808831` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

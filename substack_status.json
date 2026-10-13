@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T09:35:45+00:00",
+  "generated_at": "2026-10-13T12:43:07+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 749,
+    "total": 750,
     "published": 77,
-    "missing": 672,
+    "missing": 673,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,29 @@
     "days": 90,
     "start": "2026-07-15",
     "end": "2026-10-13",
-    "total": 157,
+    "total": 158,
     "published": 62,
-    "missing": 95,
+    "missing": 96,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-13",
+        "title": "IonQ, Elisity 인수에 관한 8-K 공지",
+        "logNo": "224440626371",
+        "url": "https://blog.naver.com/4-fire/224440626371?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-13-224440626371.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-13",
