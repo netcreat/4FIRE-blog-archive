@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T04:36:52+00:00",
+  "generated_at": "2026-10-13T05:24:16+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 749,
-    "published": 73,
-    "missing": 676,
+    "published": 77,
+    "missing": 672,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-15",
     "end": "2026-10-13",
     "total": 157,
-    "published": 58,
-    "missing": 99,
+    "published": 62,
+    "missing": 95,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224440118264?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-13-224440118264.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Elisity Technical Deep Dive (5) — Microsegmentation, Agentless, PQC, QKD, and Zero Trust",
+          "url": "https://netcreat.substack.com/p/elisity-technical-deep-dive-5-microsegmentation",
+          "published_date": "2026-10-13",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
@@ -65,10 +73,18 @@
         "url": "https://blog.naver.com/4-fire/224440063909?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-13-224440063909.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Elisity Technical Deep Dive (4) — Zero Trust, Dynamic Policy, EDR Integration, and Lateral Movement",
+          "url": "https://netcreat.substack.com/p/elisity-technical-deep-dive-4-zero",
+          "published_date": "2026-10-13",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
@@ -79,10 +95,18 @@
         "url": "https://blog.naver.com/4-fire/224440028682?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-13-224440028682.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Elisity Technical Deep Dive (3) — Network Data Collection, Device Identification, and AI-Driven Analysis",
+          "url": "https://netcreat.substack.com/p/elisity-technical-deep-dive-3-network-c2b",
+          "published_date": "2026-10-13",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
@@ -115,10 +139,18 @@
         "url": "https://blog.naver.com/4-fire/224439947359?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-13-224439947359.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Elisity Technical Deep Dive (1) — Understanding Zero Trust and Microsegmentation",
+          "url": "https://netcreat.substack.com/p/elisity-technical-deep-dive-1-understanding",
+          "published_date": "2026-10-13",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {

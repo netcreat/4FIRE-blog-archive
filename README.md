@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-13T04:36:52+00:00_
+_Automatically generated: 2026-10-13T05:24:16+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,18 +14,18 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 749 | 73 | 676 | 0 | 0 |
-| Recent 90 days (2026-07-15 → 2026-10-13) | 157 | 58 | 99 | 0 | 0 |
+| All | 749 | 77 | 672 | 0 | 0 |
+| Recent 90 days (2026-07-15 → 2026-10-13) | 157 | 62 | 95 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-10-13 | [Elisity 기술 심층 분석 (5) — Microsegmentation · Agentless · PQC · QKD · Zero Trust](posts/2026/2026-10-13-224440118264.md) | ❌ Missing | — | `224440118264` |
-| 2026-10-13 | [Elisity 기술 심층 분석 (4) — Zero Trust · Dynamic Policy · EDR Integration · Lateral Movement](posts/2026/2026-10-13-224440063909.md) | ❌ Missing | — | `224440063909` |
-| 2026-10-13 | [Elisity 기술 심층 분석 (3) — 네트워크 데이터 수집 · 장치 식별 · AI 기반 분석](posts/2026/2026-10-13-224440028682.md) | ❌ Missing | — | `224440028682` |
+| 2026-10-13 | [Elisity 기술 심층 분석 (5) — Microsegmentation · Agentless · PQC · QKD · Zero Trust](posts/2026/2026-10-13-224440118264.md) | ✅ Published | [Elisity Technical Deep Dive (5) — Microsegmentation, Agentless, PQC, QKD, and Zero Trust](https://netcreat.substack.com/p/elisity-technical-deep-dive-5-microsegmentation) | `224440118264` |
+| 2026-10-13 | [Elisity 기술 심층 분석 (4) — Zero Trust · Dynamic Policy · EDR Integration · Lateral Movement](posts/2026/2026-10-13-224440063909.md) | ✅ Published | [Elisity Technical Deep Dive (4) — Zero Trust, Dynamic Policy, EDR Integration, and Lateral Movement](https://netcreat.substack.com/p/elisity-technical-deep-dive-4-zero) | `224440063909` |
+| 2026-10-13 | [Elisity 기술 심층 분석 (3) — 네트워크 데이터 수집 · 장치 식별 · AI 기반 분석](posts/2026/2026-10-13-224440028682.md) | ✅ Published | [Elisity Technical Deep Dive (3) — Network Data Collection, Device Identification, and AI-Driven Analysis](https://netcreat.substack.com/p/elisity-technical-deep-dive-3-network-c2b) | `224440028682` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (2) — CCC · Virtual Edge · Virtual Edge Node](posts/2026/2026-10-13-224439993177.md) | ✅ Published | [Elisity Technical Deep Dive (2) — CCC, Virtual Edge, and Virtual Edge Node](https://netcreat.substack.com/p/elisity-technical-deep-dive-2-ccc) | `224439993177` |
-| 2026-10-13 | [Elisity 기술 심층 분석 (1) — Zero Trust와 Microsegmentation의 이해](posts/2026/2026-10-13-224439947359.md) | ❌ Missing | — | `224439947359` |
+| 2026-10-13 | [Elisity 기술 심층 분석 (1) — Zero Trust와 Microsegmentation의 이해](posts/2026/2026-10-13-224439947359.md) | ✅ Published | [Elisity Technical Deep Dive (1) — Understanding Zero Trust and Microsegmentation](https://netcreat.substack.com/p/elisity-technical-deep-dive-1-understanding) | `224439947359` |
 | 2026-10-13 | [IonQ는 왜 Elisity에 13억 달러를 베팅했을까?](posts/2026/2026-10-13-224439505882.md) | ✅ Published | [Why Did IonQ Bet $1.3 Billion on Elisity?](https://netcreat.substack.com/p/why-did-ionq-bet-13-billion-on-elisity) | `224439505882` |
 | 2026-10-12 | [AMD의 82억 달러 베팅 — 페이페이 리, World Labs, 그리고 AI가 언어를 넘어 현실 세계로 향하는 이유](posts/2026/2026-10-12-224439327263.md) | ✅ Published | [AMD's $8.2 Billion Bet — Fei-Fei Li, World Labs, and Why AI Is Moving Beyond Language Into the Real World](https://netcreat.substack.com/p/amds-82-billion-bet-fei-fei-li-world) | `224439327263` |
 | 2026-10-11 | [NVIDIA는 어디에 돈을 쓰고 있는가 — 인수·투자로 읽는 Jensen Huang의 다음 전략](posts/2026/2026-10-11-224438278537.md) | ✅ Published | [Where Is NVIDIA Spending Its Money? — Reading Jensen Huang’s Next Strategy Through Acquisitions and Investments](https://netcreat.substack.com/p/where-is-nvidia-spending-its-money) | `224438278537` |
