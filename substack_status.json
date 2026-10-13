@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T03:50:13+00:00",
+  "generated_at": "2026-10-13T04:36:52+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 749,
-    "published": 72,
-    "missing": 677,
+    "published": 73,
+    "missing": 676,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-15",
     "end": "2026-10-13",
     "total": 157,
-    "published": 57,
-    "missing": 100,
+    "published": 58,
+    "missing": 99,
     "skip": 0,
     "check": 0
   },
@@ -93,10 +93,18 @@
         "url": "https://blog.naver.com/4-fire/224439993177?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-13-224439993177.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Elisity Technical Deep Dive (2) — CCC, Virtual Edge, and Virtual Edge Node",
+          "url": "https://netcreat.substack.com/p/elisity-technical-deep-dive-2-ccc",
+          "published_date": "2026-10-13",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {

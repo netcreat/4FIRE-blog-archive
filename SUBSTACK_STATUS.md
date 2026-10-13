@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-13T03:50:13+00:00_
+_Automatically generated: 2026-10-13T04:36:52+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,8 +10,8 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 749 | 72 | 677 | 0 | 0 |
-| Recent 90 days (2026-07-15 → 2026-10-13) | 157 | 57 | 100 | 0 | 0 |
+| All | 749 | 73 | 676 | 0 | 0 |
+| Recent 90 days (2026-07-15 → 2026-10-13) | 157 | 58 | 99 | 0 | 0 |
 
 ## Recent 90 days
 
@@ -20,7 +20,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-10-13 | [Elisity 기술 심층 분석 (5) — Microsegmentation · Agentless · PQC · QKD · Zero Trust](posts/2026/2026-10-13-224440118264.md) | ❌ Missing | — | `224440118264` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (4) — Zero Trust · Dynamic Policy · EDR Integration · Lateral Movement](posts/2026/2026-10-13-224440063909.md) | ❌ Missing | — | `224440063909` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (3) — 네트워크 데이터 수집 · 장치 식별 · AI 기반 분석](posts/2026/2026-10-13-224440028682.md) | ❌ Missing | — | `224440028682` |
-| 2026-10-13 | [Elisity 기술 심층 분석 (2) — CCC · Virtual Edge · Virtual Edge Node](posts/2026/2026-10-13-224439993177.md) | ❌ Missing | — | `224439993177` |
+| 2026-10-13 | [Elisity 기술 심층 분석 (2) — CCC · Virtual Edge · Virtual Edge Node](posts/2026/2026-10-13-224439993177.md) | ✅ Published | [Elisity Technical Deep Dive (2) — CCC, Virtual Edge, and Virtual Edge Node](https://netcreat.substack.com/p/elisity-technical-deep-dive-2-ccc) | `224439993177` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (1) — Zero Trust와 Microsegmentation의 이해](posts/2026/2026-10-13-224439947359.md) | ❌ Missing | — | `224439947359` |
 | 2026-10-13 | [IonQ는 왜 Elisity에 13억 달러를 베팅했을까?](posts/2026/2026-10-13-224439505882.md) | ✅ Published | [Why Did IonQ Bet $1.3 Billion on Elisity?](https://netcreat.substack.com/p/why-did-ionq-bet-13-billion-on-elisity) | `224439505882` |
 | 2026-10-12 | [AMD의 82억 달러 베팅 — 페이페이 리, World Labs, 그리고 AI가 언어를 넘어 현실 세계로 향하는 이유](posts/2026/2026-10-12-224439327263.md) | ✅ Published | [AMD's $8.2 Billion Bet — Fei-Fei Li, World Labs, and Why AI Is Moving Beyond Language Into the Real World](https://netcreat.substack.com/p/amds-82-billion-bet-fei-fei-li-world) | `224439327263` |
@@ -177,14 +177,13 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **677**
+Total missing: **676**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
 | 2026-10-13 | [Elisity 기술 심층 분석 (5) — Microsegmentation · Agentless · PQC · QKD · Zero Trust](posts/2026/2026-10-13-224440118264.md) | ❌ Missing | — | `224440118264` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (4) — Zero Trust · Dynamic Policy · EDR Integration · Lateral Movement](posts/2026/2026-10-13-224440063909.md) | ❌ Missing | — | `224440063909` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (3) — 네트워크 데이터 수집 · 장치 식별 · AI 기반 분석](posts/2026/2026-10-13-224440028682.md) | ❌ Missing | — | `224440028682` |
-| 2026-10-13 | [Elisity 기술 심층 분석 (2) — CCC · Virtual Edge · Virtual Edge Node](posts/2026/2026-10-13-224439993177.md) | ❌ Missing | — | `224439993177` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (1) — Zero Trust와 Microsegmentation의 이해](posts/2026/2026-10-13-224439947359.md) | ❌ Missing | — | `224439947359` |
 | 2026-10-09 | [구름을 뚫지 못하는 레이저로 어떻게 우주 양자통신을 할까? — Capella, Skyloom, Starlink 그리고 IonQ의 QKD 전략](posts/2026/2026-10-09-224435941091.md) | ❌ Missing | — | `224435941091` |
 | 2026-10-08 | [GlobalFoundries Investor Day 2026 — 광학·전력·양자·IP를 선택한 파운드리](posts/2026/2026-10-08-224435624365.md) | ❌ Missing | — | `224435624365` |
@@ -873,7 +872,7 @@ _Not calculated because the public sitemap fetch failed._
 | 2026-10-13 | [Elisity 기술 심층 분석 (5) — Microsegmentation · Agentless · PQC · QKD · Zero Trust](posts/2026/2026-10-13-224440118264.md) | ❌ Missing | — | `224440118264` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (4) — Zero Trust · Dynamic Policy · EDR Integration · Lateral Movement](posts/2026/2026-10-13-224440063909.md) | ❌ Missing | — | `224440063909` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (3) — 네트워크 데이터 수집 · 장치 식별 · AI 기반 분석](posts/2026/2026-10-13-224440028682.md) | ❌ Missing | — | `224440028682` |
-| 2026-10-13 | [Elisity 기술 심층 분석 (2) — CCC · Virtual Edge · Virtual Edge Node](posts/2026/2026-10-13-224439993177.md) | ❌ Missing | — | `224439993177` |
+| 2026-10-13 | [Elisity 기술 심층 분석 (2) — CCC · Virtual Edge · Virtual Edge Node](posts/2026/2026-10-13-224439993177.md) | ✅ Published | [Elisity Technical Deep Dive (2) — CCC, Virtual Edge, and Virtual Edge Node](https://netcreat.substack.com/p/elisity-technical-deep-dive-2-ccc) | `224439993177` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (1) — Zero Trust와 Microsegmentation의 이해](posts/2026/2026-10-13-224439947359.md) | ❌ Missing | — | `224439947359` |
 | 2026-10-13 | [IonQ는 왜 Elisity에 13억 달러를 베팅했을까?](posts/2026/2026-10-13-224439505882.md) | ✅ Published | [Why Did IonQ Bet $1.3 Billion on Elisity?](https://netcreat.substack.com/p/why-did-ionq-bet-13-billion-on-elisity) | `224439505882` |
 | 2026-10-12 | [AMD의 82억 달러 베팅 — 페이페이 리, World Labs, 그리고 AI가 언어를 넘어 현실 세계로 향하는 이유](posts/2026/2026-10-12-224439327263.md) | ✅ Published | [AMD's $8.2 Billion Bet — Fei-Fei Li, World Labs, and Why AI Is Moving Beyond Language Into the Real World](https://netcreat.substack.com/p/amds-82-billion-bet-fei-fei-li-world) | `224439327263` |
