@@ -5,6 +5,17 @@
   "substack_base_url": "https://netcreat.substack.com",
   "description": "Curated mapping keyed by Naver logNo. A Naver post not listed here is automatically treated as missing from Substack. Use status='skip' for Naver-only posts that should not be published on Substack.",
   "mappings": {
+    "224439505882": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Why Did IonQ Bet $1.3 Billion on Elisity?",
+          "url": "https://netcreat.substack.com/p/why-did-ionq-bet-13-billion-on-elisity",
+          "published_date": "2026-10-13"
+        }
+      ]
+    },
     "224218780692": {
       "status": "published",
       "relationship": "one_to_one",
