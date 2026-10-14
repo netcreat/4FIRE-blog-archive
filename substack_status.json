@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T15:50:22+00:00",
+  "generated_at": "2026-10-14T16:19:18+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,8 +24,8 @@
     }
   },
   "summary": {
-    "total": 753,
-    "published": 78,
+    "total": 754,
+    "published": 79,
     "missing": 675,
     "skip": 0,
     "check": 0
@@ -34,8 +34,8 @@
     "days": 90,
     "start": "2026-07-17",
     "end": "2026-10-15",
-    "total": 159,
-    "published": 62,
+    "total": 160,
+    "published": 63,
     "missing": 97,
     "skip": 0,
     "check": 0
@@ -43,6 +43,28 @@
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-15",
+        "title": "IonQ는 왜 지금 또 20억 달러를 조달했을까?",
+        "logNo": "224442006517",
+        "url": "https://blog.naver.com/4-fire/224442006517?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-15-224442006517.md"
+      },
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Why Is IonQ Raising Another $2 Billion Now?",
+          "url": "https://netcreat.substack.com/p/why-is-ionq-raising-another-2-billion",
+          "published_date": "2026-10-15",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-15",

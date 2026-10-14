@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-14T15:50:22+00:00_
+_Automatically generated: 2026-10-14T16:19:18+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 753 | 78 | 675 | 0 | 0 |
-| Recent 90 days (2026-07-17 → 2026-10-15) | 159 | 62 | 97 | 0 | 0 |
+| All | 754 | 79 | 675 | 0 | 0 |
+| Recent 90 days (2026-07-17 → 2026-10-15) | 160 | 63 | 97 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-15 | [IonQ는 왜 지금 또 20억 달러를 조달했을까?](posts/2026/2026-10-15-224442006517.md) | ✅ Published | [Why Is IonQ Raising Another $2 Billion Now?](https://netcreat.substack.com/p/why-is-ionq-raising-another-2-billion) | `224442006517` |
 | 2026-10-15 | [IonQ의 분산 FTQC, 1kHz 이후의 진짜 과제 — Cisco Quantum Summit 미히르 바스카 발표 분석](posts/2026/2026-10-15-224441914933.md) | ❌ Missing | — | `224441914933` |
 | 2026-10-14 | [코닝을 유리회사로만 보면 놓치는 것 — 반도체 원재료부터 Glass Core·GlassBridge까지](posts/2026/2026-10-14-224441507057.md) | ❌ Missing | — | `224441507057` |
 | 2026-10-14 | [IonQ의 보안 퍼즐은 완성됐는가? — Elisity의 Zero Trust와 IDQ의 양자 보안, 그리고 남은 공백](posts/2026/2026-10-14-224441409780.md) | ✅ Published | [Is IonQ’s Security Puzzle Complete? — Elisity’s Zero Trust, IDQ’s Quantum Security, and the Missing Pieces](https://netcreat.substack.com/p/is-ionqs-security-puzzle-complete) | `224441409780` |
@@ -866,10 +867,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 753 Naver posts</summary>
+<summary>Show all 754 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-15 | [IonQ는 왜 지금 또 20억 달러를 조달했을까?](posts/2026/2026-10-15-224442006517.md) | ✅ Published | [Why Is IonQ Raising Another $2 Billion Now?](https://netcreat.substack.com/p/why-is-ionq-raising-another-2-billion) | `224442006517` |
 | 2026-10-15 | [IonQ의 분산 FTQC, 1kHz 이후의 진짜 과제 — Cisco Quantum Summit 미히르 바스카 발표 분석](posts/2026/2026-10-15-224441914933.md) | ❌ Missing | — | `224441914933` |
 | 2026-10-14 | [코닝을 유리회사로만 보면 놓치는 것 — 반도체 원재료부터 Glass Core·GlassBridge까지](posts/2026/2026-10-14-224441507057.md) | ❌ Missing | — | `224441507057` |
 | 2026-10-14 | [IonQ의 보안 퍼즐은 완성됐는가? — Elisity의 Zero Trust와 IDQ의 양자 보안, 그리고 남은 공백](posts/2026/2026-10-14-224441409780.md) | ✅ Published | [Is IonQ’s Security Puzzle Complete? — Elisity’s Zero Trust, IDQ’s Quantum Security, and the Missing Pieces](https://netcreat.substack.com/p/is-ionqs-security-puzzle-complete) | `224441409780` |

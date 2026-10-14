@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 753,
+  "totalArchivedPosts": 754,
   "posts": [
+    {
+      "date": "2026-10-15",
+      "published": "2026-10-15T02:57:07+11:00",
+      "title": "IonQ는 왜 지금 또 20억 달러를 조달했을까?",
+      "logNo": "224442006517",
+      "source": "https://blog.naver.com/4-fire/224442006517?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-15-224442006517.md",
+      "content_source": "naver_post",
+      "characters": 16254
+    },
     {
       "date": "2026-10-15",
       "published": "2026-10-15T01:00:21+11:00",
