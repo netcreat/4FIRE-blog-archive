@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Wed, 14 Oct 2026 12:44:50 +0900</pubDate>
+            <pubDate>Wed, 14 Oct 2026 14:39:31 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ의 보안 퍼즐은 완성됐는가? — Elisity의 Zero Trust와 IDQ의 양자 보안, 그리고 남은 공백]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224441409780?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224441409780</guid>
+                
+                <description><![CDATA[✅ IonQ의 보안 퍼즐은 완성됐는가? — Elisity의 Zero Trust와 IDQ의 양자 보안, 그리고 남은 공백 Elisity의 마이크로세그멘테이션은 기업내부의 모든 리소스가 동일한 레벨의 방어력을 가지는게 의미가 없고, 현실적으로도 불가능하기 때문에 기업내부를 격실로 분리하여 방어력을 높이는 것이 대표적인 목적이라고 할 수 있다. 그렇다면 Elisity가 기업 내부 LAN과 데이터센터의 접근을 통제하고, ID Quantique(IDQ)가 지점 간 WAN의 통신을 양자 내성 기술로 보호한다면 IonQ는 내부에서 외부까지 보안 체계를 갖추는 것일까? 표면적으로는 그럴듯하다. 그러나 Elisity는 단순한 LAN 전용 제품이 아니고, IDQ 역시 WAN 암호화 장비만 만드는....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTRfMjM1/MDAxNzkxOTUyMTI3NzUw._vVD_R-qnR6ovnS-DihxISPSOieAu419F3V9VcDvatEg.vq2zOXxoBUOKOb8CFSc0frk2hdFMkg59kDYpyKH83Bgg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Wed, 14 Oct 2026 14:29:25 +0900</pubDate>
+                <tag><![CDATA[IonQ,Elisity,보안,신원보안,단말보안,애플리케이션보안,데이터보안,네트워크보안,통합관제]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 서론 — 현재의 제품 로드맵과 미래의 연구 방향은 다르다 IonQ는 Oxford Ionics의 전자식 큐비트 제어 기술(EQC)과 SkyWater의 반도체 제조 역량을 결합해, 이온트랩 양자컴퓨터를 대규모로 생산할 수 있는 반도체 기반 플랫폼으로 발전시키고 있다. 그런데 IonQ의 Chief Science Advisor인 크리스 먼로(Christopher Monroe) 교수는 최근 중성원자 분야에서 활용해 온 광학 집게(Optical Tweezer)를 이온트랩에 도입하는 새로운 아키텍처를 공동 연구했다. 이미 레이저 기반 게이트 제어의 복잡성을 줄이기 위해 EQC를 도입했는데, 다시 레이저로 이온을 포획하고 이동시키는 기술을 연구한다는 점은 언뜻 모순처럼 보일 수 있다. 하지만 이....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjJfMTU0/MDAxNzkwMDcwODU0ODY1.FJbGW8b-vWnAQk30tCRitya29fHZ33TRKQGgBKKe3Rkg.kvg1sjiyH0S2Yr2va3-f3ZQt6RAltap-Au9_UBqoyL0g.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Tue, 22 Sep 2026 19:17:39 +0900</pubDate>
                 <tag><![CDATA[Chris,Monroe,Optical,Tweezer]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[News]]></category>
-                <title><![CDATA[미국이 그린란드에서 얻는 것 — 북극 안보 재편과 투자자가 봐야 할 기업들]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224420079308?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224420079308</guid>
-                
-                <description><![CDATA[✅ 서론 미국은 왜 그린란드에 집착하는가. 덴마크와 그린란드는 무엇을 내주고 무엇을 지키려 하는가. 그리고 투자자는 어느 기업을 봐야 하는가. 이번 협상을 관통하는 핵심은 미국이 그린란드의 전략적 위치를 장기간 활용하면서, 경쟁국의 진입과 미래의 정치적 이탈 가능성을 제한하려 한다는 것이다. 실제 안보 필요와 강대국의 세력권 확대가 동시에 작동한다. 미국의 압박이 먹혔다는 설명도 맞지만, 그것만으로는 왜 이 지역에 집착하는지 충분히 설명되지 않는다. 작성 기준은 2026년 9월 22일이다. 확인된 공식 발표는 서명 예정 단계이며, 협정 전문은 공개되지 않았다. 서명 이후에도 필요한 의회 절차가 남는다. 따라서 영토 편입....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjJfMTIz/MDAxNzkwMDYyNTE1NDgy.cdWouvHnhyeizNB-o0MCb-LPmNIeRQfVpkuuNG9TlCog.lMBStICVWgqlCBtt62I4fFBTPGlS2NLNtWbnMVliNfkg.PNG/a58bd100-1c5d-48d7-be35-39d7a0569d26.png?type=s3" />]]></description>
-                <pubDate>Tue, 22 Sep 2026 17:53:35 +0900</pubDate>
-                <tag><![CDATA[Greenland]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

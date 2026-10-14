@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-14T03:45:19+00:00_
+_Automatically generated: 2026-10-14T05:40:02+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 750 | 77 | 673 | 0 | 0 |
-| Recent 90 days (2026-07-15 → 2026-10-13) | 158 | 62 | 96 | 0 | 0 |
+| All | 751 | 77 | 674 | 0 | 0 |
+| Recent 90 days (2026-07-16 → 2026-10-14) | 159 | 62 | 97 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-14 | [IonQ의 보안 퍼즐은 완성됐는가? — Elisity의 Zero Trust와 IDQ의 양자 보안, 그리고 남은 공백](posts/2026/2026-10-14-224441409780.md) | ❌ Missing | — | `224441409780` |
 | 2026-10-13 | [IonQ, Elisity 인수에 관한 8-K 공지](posts/2026/2026-10-13-224440626371.md) | ❌ Missing | — | `224440626371` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (5) — Microsegmentation · Agentless · PQC · QKD · Zero Trust](posts/2026/2026-10-13-224440118264.md) | ✅ Published | [Elisity Technical Deep Dive (5) — Microsegmentation, Agentless, PQC, QKD, and Zero Trust](https://netcreat.substack.com/p/elisity-technical-deep-dive-5-microsegmentation) | `224440118264` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (4) — Zero Trust · Dynamic Policy · EDR Integration · Lateral Movement](posts/2026/2026-10-13-224440063909.md) | ✅ Published | [Elisity Technical Deep Dive (4) — Zero Trust, Dynamic Policy, EDR Integration, and Lateral Movement](https://netcreat.substack.com/p/elisity-technical-deep-dive-4-zero) | `224440063909` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-03 | [IonQ는 왜 BB5·BB7·GB8을 함께 사용하는가?](posts/2026/2026-10-03-224430550598.md) | ✅ Published | [Why Does IonQ Use BB5, BB7, and GB8 Together?](https://netcreat.substack.com/p/why-does-ionq-use-bb5-bb7-and-gb8) | `224430550598` |
 | 2026-10-03 | [Understanding Quantum Technologies 2026 Part 5](posts/2026/2026-10-03-224430148490.md) | ✅ Published | [Understanding Quantum Technologies 2026 — 5](https://netcreat.substack.com/p/understanding-quantum-technologies-5fb) | `224430148490` |
 | 2026-10-02 | [Understanding Quantum Technologies 2026 Part 4](posts/2026/2026-10-02-224429425295.md) | ✅ Published | [Understanding Quantum Technologies 2026 — 4](https://netcreat.substack.com/p/understanding-quantum-technologies-e71) | `224429425295` |
-| 2026-10-02 | [Understanding Quantum Technologies 2026 Part 3](posts/2026/2026-10-02-224429090037.md) | ✅ Published | [Understanding Quantum Technologies 2026 — 3](https://netcreat.substack.com/p/understanding-quantum-technologies-445) | `224429090037` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 750,
+  "totalArchivedPosts": 751,
   "posts": [
+    {
+      "date": "2026-10-14",
+      "published": "2026-10-14T16:29:25+11:00",
+      "title": "IonQ의 보안 퍼즐은 완성됐는가? — Elisity의 Zero Trust와 IDQ의 양자 보안, 그리고 남은 공백",
+      "logNo": "224441409780",
+      "source": "https://blog.naver.com/4-fire/224441409780?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-14-224441409780.md",
+      "content_source": "naver_post",
+      "characters": 11903
+    },
     {
       "date": "2026-10-13",
       "published": "2026-10-13T22:35:55+11:00",

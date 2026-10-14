@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T03:45:19+00:00",
+  "generated_at": "2026-10-14T05:40:02+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 750,
+    "total": 751,
     "published": 77,
-    "missing": 673,
+    "missing": 674,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-07-15",
-    "end": "2026-10-13",
-    "total": 158,
+    "start": "2026-07-16",
+    "end": "2026-10-14",
+    "total": 159,
     "published": 62,
-    "missing": 96,
+    "missing": 97,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-14",
+        "title": "IonQ의 보안 퍼즐은 완성됐는가? — Elisity의 Zero Trust와 IDQ의 양자 보안, 그리고 남은 공백",
+        "logNo": "224441409780",
+        "url": "https://blog.naver.com/4-fire/224441409780?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-14-224441409780.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-13",
