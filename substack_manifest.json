@@ -869,6 +869,17 @@
           "published_date": "2026-10-07"
         }
       ]
+    },
+    "224441409780": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Is IonQ’s Security Puzzle Complete? — Elisity’s Zero Trust, IDQ’s Quantum Security, and the Missing Pieces",
+          "url": "https://netcreat.substack.com/p/is-ionqs-security-puzzle-complete",
+          "published_date": "2026-10-14"
+        }
+      ]
     }
   }
 }
