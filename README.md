@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-14T05:55:48+00:00_
+_Automatically generated: 2026-10-14T06:56:52+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 751 | 78 | 673 | 0 | 0 |
-| Recent 90 days (2026-07-16 → 2026-10-14) | 159 | 63 | 96 | 0 | 0 |
+| All | 752 | 78 | 674 | 0 | 0 |
+| Recent 90 days (2026-07-16 → 2026-10-14) | 160 | 63 | 97 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-14 | [코닝을 유리회사로만 보면 놓치는 것 — 반도체 원재료부터 Glass Core·GlassBridge까지](posts/2026/2026-10-14-224441507057.md) | ❌ Missing | — | `224441507057` |
 | 2026-10-14 | [IonQ의 보안 퍼즐은 완성됐는가? — Elisity의 Zero Trust와 IDQ의 양자 보안, 그리고 남은 공백](posts/2026/2026-10-14-224441409780.md) | ✅ Published | [Is IonQ’s Security Puzzle Complete? — Elisity’s Zero Trust, IDQ’s Quantum Security, and the Missing Pieces](https://netcreat.substack.com/p/is-ionqs-security-puzzle-complete) | `224441409780` |
 | 2026-10-13 | [IonQ, Elisity 인수에 관한 8-K 공지](posts/2026/2026-10-13-224440626371.md) | ❌ Missing | — | `224440626371` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (5) — Microsegmentation · Agentless · PQC · QKD · Zero Trust](posts/2026/2026-10-13-224440118264.md) | ✅ Published | [Elisity Technical Deep Dive (5) — Microsegmentation, Agentless, PQC, QKD, and Zero Trust](https://netcreat.substack.com/p/elisity-technical-deep-dive-5-microsegmentation) | `224440118264` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-04 | [NSA의 국가안보시스템 전환과 새로운 투자 기회](posts/2026/2026-10-04-224431017441.md) | ✅ Published | [NSA’s National Security Systems Transition and the New Investment Opportunities It Could Create](https://netcreat.substack.com/p/nsas-national-security-systems-transition) | `224431017441` |
 | 2026-10-03 | [IonQ는 왜 BB5·BB7·GB8을 함께 사용하는가?](posts/2026/2026-10-03-224430550598.md) | ✅ Published | [Why Does IonQ Use BB5, BB7, and GB8 Together?](https://netcreat.substack.com/p/why-does-ionq-use-bb5-bb7-and-gb8) | `224430550598` |
 | 2026-10-03 | [Understanding Quantum Technologies 2026 Part 5](posts/2026/2026-10-03-224430148490.md) | ✅ Published | [Understanding Quantum Technologies 2026 — 5](https://netcreat.substack.com/p/understanding-quantum-technologies-5fb) | `224430148490` |
-| 2026-10-02 | [Understanding Quantum Technologies 2026 Part 4](posts/2026/2026-10-02-224429425295.md) | ✅ Published | [Understanding Quantum Technologies 2026 — 4](https://netcreat.substack.com/p/understanding-quantum-technologies-e71) | `224429425295` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

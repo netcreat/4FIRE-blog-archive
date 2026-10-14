@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Wed, 14 Oct 2026 14:55:18 +0900</pubDate>
+            <pubDate>Wed, 14 Oct 2026 15:56:21 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Semiconductor]]></category>
+                <title><![CDATA[코닝을 유리회사로만 보면 놓치는 것 — 반도체 원재료부터 Glass Core·GlassBridge까지]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224441507057?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224441507057</guid>
+                
+                <description><![CDATA[✅ 코닝은 단순한 광섬유 회사가 아니다. 코닝(Corning)을 AI 데이터센터용 광섬유 회사로만 보면 전체 그림의 상당 부분을 놓치게 된다. 코닝은 Hemlock Semiconductor의 초고순도 polysilicon부터 Advanced Packaging용 Glass Carrier, 차세대 Glass Core, 현재의 FAU(Fiber Array Unit), 미래의 GlassBridge까지 서로 다른 반도체·광학 공급망 층에 걸쳐 있다. 다만 이 사업들은 모두 같은 단계에 있지 않다. Hemlock·Glass Carrier·FAU는 이미 상용 영역이고, Glass Core와 GlassBridge는 차세대 성장 옵션에 가깝다. 따라서 코닝의 핵심을 ‘Glass Substrate 시장 지배자’라고 단정하기보다, 반도체 원재료·패키징·광연결의 여러 병목에 동....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTRfMTYg/MDAxNzkxOTYwMzc4NTkw.jc5nHcJhcpnlFXIWNs0na6kpAb061fEhpkNQ7TsNbzMg.NB9_shGNg4o891RhGDBwI1mHW5SMSOAA_xaTH5vZs9Mg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Wed, 14 Oct 2026 15:50:40 +0900</pubDate>
+                <tag><![CDATA[코닝,Corning,GlassBridge]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 
                 <pubDate>Tue, 22 Sep 2026 22:29:21 +0900</pubDate>
                 <tag><![CDATA[LipButan,Intel,CEO,IonQ,PsiQuantum,Classiq]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[크리스 먼로의 광학 집게 연구, IonQ는 왜 EQC 이후의 기술까지 연구하는가?]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224420150495?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224420150495</guid>
-                
-                <description><![CDATA[✅ 서론 — 현재의 제품 로드맵과 미래의 연구 방향은 다르다 IonQ는 Oxford Ionics의 전자식 큐비트 제어 기술(EQC)과 SkyWater의 반도체 제조 역량을 결합해, 이온트랩 양자컴퓨터를 대규모로 생산할 수 있는 반도체 기반 플랫폼으로 발전시키고 있다. 그런데 IonQ의 Chief Science Advisor인 크리스 먼로(Christopher Monroe) 교수는 최근 중성원자 분야에서 활용해 온 광학 집게(Optical Tweezer)를 이온트랩에 도입하는 새로운 아키텍처를 공동 연구했다. 이미 레이저 기반 게이트 제어의 복잡성을 줄이기 위해 EQC를 도입했는데, 다시 레이저로 이온을 포획하고 이동시키는 기술을 연구한다는 점은 언뜻 모순처럼 보일 수 있다. 하지만 이....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjJfMTU0/MDAxNzkwMDcwODU0ODY1.FJbGW8b-vWnAQk30tCRitya29fHZ33TRKQGgBKKe3Rkg.kvg1sjiyH0S2Yr2va3-f3ZQt6RAltap-Au9_UBqoyL0g.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Tue, 22 Sep 2026 19:17:39 +0900</pubDate>
-                <tag><![CDATA[Chris,Monroe,Optical,Tweezer]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

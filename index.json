@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 751,
+  "totalArchivedPosts": 752,
   "posts": [
+    {
+      "date": "2026-10-14",
+      "published": "2026-10-14T17:50:40+11:00",
+      "title": "코닝을 유리회사로만 보면 놓치는 것 — 반도체 원재료부터 Glass Core·GlassBridge까지",
+      "logNo": "224441507057",
+      "source": "https://blog.naver.com/4-fire/224441507057?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-14-224441507057.md",
+      "content_source": "naver_post",
+      "characters": 10669
+    },
     {
       "date": "2026-10-14",
       "published": "2026-10-14T16:29:25+11:00",
