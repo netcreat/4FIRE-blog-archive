@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T05:40:02+00:00",
+  "generated_at": "2026-10-14T05:55:47+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 751,
-    "published": 77,
-    "missing": 674,
+    "published": 78,
+    "missing": 673,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-16",
     "end": "2026-10-14",
     "total": 159,
-    "published": 62,
-    "missing": 97,
+    "published": 63,
+    "missing": 96,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224441409780?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-14-224441409780.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Is IonQ’s Security Puzzle Complete? — Elisity’s Zero Trust, IDQ’s Quantum Security, and the Missing Pieces",
+          "url": "https://netcreat.substack.com/p/is-ionqs-security-puzzle-complete",
+          "published_date": "2026-10-14",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {

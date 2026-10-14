@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-14T05:40:02+00:00_
+_Automatically generated: 2026-10-14T05:55:48+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,14 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 751 | 77 | 674 | 0 | 0 |
-| Recent 90 days (2026-07-16 → 2026-10-14) | 159 | 62 | 97 | 0 | 0 |
+| All | 751 | 78 | 673 | 0 | 0 |
+| Recent 90 days (2026-07-16 → 2026-10-14) | 159 | 63 | 96 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-10-14 | [IonQ의 보안 퍼즐은 완성됐는가? — Elisity의 Zero Trust와 IDQ의 양자 보안, 그리고 남은 공백](posts/2026/2026-10-14-224441409780.md) | ❌ Missing | — | `224441409780` |
+| 2026-10-14 | [IonQ의 보안 퍼즐은 완성됐는가? — Elisity의 Zero Trust와 IDQ의 양자 보안, 그리고 남은 공백](posts/2026/2026-10-14-224441409780.md) | ✅ Published | [Is IonQ’s Security Puzzle Complete? — Elisity’s Zero Trust, IDQ’s Quantum Security, and the Missing Pieces](https://netcreat.substack.com/p/is-ionqs-security-puzzle-complete) | `224441409780` |
 | 2026-10-13 | [IonQ, Elisity 인수에 관한 8-K 공지](posts/2026/2026-10-13-224440626371.md) | ❌ Missing | — | `224440626371` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (5) — Microsegmentation · Agentless · PQC · QKD · Zero Trust](posts/2026/2026-10-13-224440118264.md) | ✅ Published | [Elisity Technical Deep Dive (5) — Microsegmentation, Agentless, PQC, QKD, and Zero Trust](https://netcreat.substack.com/p/elisity-technical-deep-dive-5-microsegmentation) | `224440118264` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (4) — Zero Trust · Dynamic Policy · EDR Integration · Lateral Movement](posts/2026/2026-10-13-224440063909.md) | ✅ Published | [Elisity Technical Deep Dive (4) — Zero Trust, Dynamic Policy, EDR Integration, and Lateral Movement](https://netcreat.substack.com/p/elisity-technical-deep-dive-4-zero) | `224440063909` |
