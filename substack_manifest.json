@@ -880,6 +880,17 @@
           "published_date": "2026-10-14"
         }
       ]
+    },
+    "224442006517": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Why Is IonQ Raising Another $2 Billion Now?",
+          "url": "https://netcreat.substack.com/p/why-is-ionq-raising-another-2-billion",
+          "published_date": "2026-10-15"
+        }
+      ]
     }
   }
 }
