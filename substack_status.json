@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T12:54:24+00:00",
+  "generated_at": "2026-10-14T15:50:22+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,18 +24,18 @@
     }
   },
   "summary": {
-    "total": 752,
+    "total": 753,
     "published": 78,
-    "missing": 674,
+    "missing": 675,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-07-16",
-    "end": "2026-10-14",
-    "total": 160,
-    "published": 63,
+    "start": "2026-07-17",
+    "end": "2026-10-15",
+    "total": 159,
+    "published": 62,
     "missing": 97,
     "skip": 0,
     "check": 0
@@ -43,6 +43,20 @@
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-15",
+        "title": "IonQ의 분산 FTQC, 1kHz 이후의 진짜 과제 — Cisco Quantum Summit 미히르 바스카 발표 분석",
+        "logNo": "224441914933",
+        "url": "https://blog.naver.com/4-fire/224441914933?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-15-224441914933.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-14",

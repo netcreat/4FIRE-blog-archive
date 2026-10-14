@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 752,
+  "totalArchivedPosts": 753,
   "posts": [
+    {
+      "date": "2026-10-15",
+      "published": "2026-10-15T01:00:21+11:00",
+      "title": "IonQ의 분산 FTQC, 1kHz 이후의 진짜 과제 — Cisco Quantum Summit 미히르 바스카 발표 분석",
+      "logNo": "224441914933",
+      "source": "https://blog.naver.com/4-fire/224441914933?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-15-224441914933.md",
+      "content_source": "naver_post",
+      "characters": 28019
+    },
     {
       "date": "2026-10-14",
       "published": "2026-10-14T17:50:40+11:00",

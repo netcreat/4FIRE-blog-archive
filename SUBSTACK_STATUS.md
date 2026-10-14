@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-14T12:54:24+00:00_
+_Automatically generated: 2026-10-14T15:50:22+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 752 | 78 | 674 | 0 | 0 |
-| Recent 90 days (2026-07-16 → 2026-10-14) | 160 | 63 | 97 | 0 | 0 |
+| All | 753 | 78 | 675 | 0 | 0 |
+| Recent 90 days (2026-07-17 → 2026-10-15) | 159 | 62 | 97 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-15 | [IonQ의 분산 FTQC, 1kHz 이후의 진짜 과제 — Cisco Quantum Summit 미히르 바스카 발표 분석](posts/2026/2026-10-15-224441914933.md) | ❌ Missing | — | `224441914933` |
 | 2026-10-14 | [코닝을 유리회사로만 보면 놓치는 것 — 반도체 원재료부터 Glass Core·GlassBridge까지](posts/2026/2026-10-14-224441507057.md) | ❌ Missing | — | `224441507057` |
 | 2026-10-14 | [IonQ의 보안 퍼즐은 완성됐는가? — Elisity의 Zero Trust와 IDQ의 양자 보안, 그리고 남은 공백](posts/2026/2026-10-14-224441409780.md) | ✅ Published | [Is IonQ’s Security Puzzle Complete? — Elisity’s Zero Trust, IDQ’s Quantum Security, and the Missing Pieces](https://netcreat.substack.com/p/is-ionqs-security-puzzle-complete) | `224441409780` |
 | 2026-10-13 | [IonQ, Elisity 인수에 관한 8-K 공지](posts/2026/2026-10-13-224440626371.md) | ❌ Missing | — | `224440626371` |
@@ -175,15 +176,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-07-21 | [Fast logical operations in quantum LDPC codes using simple resource states](posts/2026/2026-07-21-224353334531.md) | ✅ Published | [Fast Logical Operations in Quantum LDPC Codes Using Simple Resource States](https://netcreat.substack.com/p/fast-logical-operations-in-quantum) | `224353334531` |
 | 2026-07-20 | [Perrseus 프로그램 개요 요약](posts/2026/2026-07-20-224351619458.md) | ❌ Missing | — | `224351619458` |
 | 2026-07-19 | [SSC와 NSSL Phase 3: 미국이 국가안보 우주발사 체계를 어떻게 재편하고 있는가](posts/2026/2026-07-19-224351092273.md) | ❌ Missing | — | `224351092273` |
-| 2026-07-16 | [NIWC 공고가 보여주는 미국의 양자시대 방어 전략](posts/2026/2026-07-16-224348735829.md) | ❌ Missing | — | `224348735829` |
-| 2026-07-16 | [DC-QNet: 미국이 구축 중인 도시 규모 양자 네트워크 테스트베드](posts/2026/2026-07-16-224347939720.md) | ✅ Published | [DC-QNet: The City-Scale Quantum Network Testbed the U.S. Is Building](https://netcreat.substack.com/p/dc-qnet-the-city-scale-quantum-network) | `224347939720` |
 
 ## Missing from Substack
 
-Total missing: **674**
+Total missing: **675**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-15 | [IonQ의 분산 FTQC, 1kHz 이후의 진짜 과제 — Cisco Quantum Summit 미히르 바스카 발표 분석](posts/2026/2026-10-15-224441914933.md) | ❌ Missing | — | `224441914933` |
 | 2026-10-14 | [코닝을 유리회사로만 보면 놓치는 것 — 반도체 원재료부터 Glass Core·GlassBridge까지](posts/2026/2026-10-14-224441507057.md) | ❌ Missing | — | `224441507057` |
 | 2026-10-13 | [IonQ, Elisity 인수에 관한 8-K 공지](posts/2026/2026-10-13-224440626371.md) | ❌ Missing | — | `224440626371` |
 | 2026-10-09 | [구름을 뚫지 못하는 레이저로 어떻게 우주 양자통신을 할까? — Capella, Skyloom, Starlink 그리고 IonQ의 QKD 전략](posts/2026/2026-10-09-224435941091.md) | ❌ Missing | — | `224435941091` |
@@ -866,10 +866,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 752 Naver posts</summary>
+<summary>Show all 753 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-15 | [IonQ의 분산 FTQC, 1kHz 이후의 진짜 과제 — Cisco Quantum Summit 미히르 바스카 발표 분석](posts/2026/2026-10-15-224441914933.md) | ❌ Missing | — | `224441914933` |
 | 2026-10-14 | [코닝을 유리회사로만 보면 놓치는 것 — 반도체 원재료부터 Glass Core·GlassBridge까지](posts/2026/2026-10-14-224441507057.md) | ❌ Missing | — | `224441507057` |
 | 2026-10-14 | [IonQ의 보안 퍼즐은 완성됐는가? — Elisity의 Zero Trust와 IDQ의 양자 보안, 그리고 남은 공백](posts/2026/2026-10-14-224441409780.md) | ✅ Published | [Is IonQ’s Security Puzzle Complete? — Elisity’s Zero Trust, IDQ’s Quantum Security, and the Missing Pieces](https://netcreat.substack.com/p/is-ionqs-security-puzzle-complete) | `224441409780` |
 | 2026-10-13 | [IonQ, Elisity 인수에 관한 8-K 공지](posts/2026/2026-10-13-224440626371.md) | ❌ Missing | — | `224440626371` |
