@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 754,
+  "totalArchivedPosts": 755,
   "posts": [
+    {
+      "date": "2026-10-15",
+      "published": "2026-10-15T21:21:47+11:00",
+      "title": "IonQ의 세 차례 유상증자: HCM이 얻은 옵션 가치와 기존 주주의 주당 손익",
+      "logNo": "224442909980",
+      "source": "https://blog.naver.com/4-fire/224442909980?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-15-224442909980.md",
+      "content_source": "naver_post",
+      "characters": 13437
+    },
     {
       "date": "2026-10-15",
       "published": "2026-10-15T02:57:07+11:00",

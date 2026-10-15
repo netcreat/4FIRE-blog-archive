@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T09:46:06+00:00",
+  "generated_at": "2026-10-15T10:25:44+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 754,
+    "total": 755,
     "published": 80,
-    "missing": 674,
+    "missing": 675,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,29 @@
     "days": 90,
     "start": "2026-07-17",
     "end": "2026-10-15",
-    "total": 160,
+    "total": 161,
     "published": 64,
-    "missing": 96,
+    "missing": 97,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-15",
+        "title": "IonQ의 세 차례 유상증자: HCM이 얻은 옵션 가치와 기존 주주의 주당 손익",
+        "logNo": "224442909980",
+        "url": "https://blog.naver.com/4-fire/224442909980?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-15-224442909980.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-15",
