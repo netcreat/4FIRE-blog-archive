@@ -891,6 +891,17 @@
           "published_date": "2026-10-15"
         }
       ]
+    },
+    "224441914933": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "IonQ's Distributed FTQC: The Real Challenge Beyond 1 kHz",
+          "url": "https://netcreat.substack.com/p/ionqs-distributed-ftqc-the-real-challenge",
+          "published_date": "2026-10-15"
+        }
+      ]
     }
   }
 }
