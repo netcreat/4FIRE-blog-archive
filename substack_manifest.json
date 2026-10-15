@@ -5,6 +5,17 @@
   "substack_base_url": "https://netcreat.substack.com",
   "description": "Curated mapping keyed by Naver logNo. A Naver post not listed here is automatically treated as missing from Substack. Use status='skip' for Naver-only posts that should not be published on Substack.",
   "mappings": {
+    "224442909980": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "IonQ’s Three Equity Offerings: HCM’s Option Value and the Per-Share Impact on Existing Shareholders",
+          "url": "https://netcreat.substack.com/p/ionqs-three-equity-offerings-hcms",
+          "published_date": "2026-10-15"
+        }
+      ]
+    },
     "224439947359": {
       "status": "published",
       "relationship": "one_to_one",
