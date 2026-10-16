@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T06:56:33+00:00",
+  "generated_at": "2026-10-16T09:44:50+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 756,
+    "total": 757,
     "published": 82,
-    "missing": 674,
+    "missing": 675,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,29 @@
     "days": 90,
     "start": "2026-07-18",
     "end": "2026-10-16",
-    "total": 162,
+    "total": 163,
     "published": 66,
-    "missing": 96,
+    "missing": 97,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-16",
+        "title": "IonQ 3차례 유상증자 분석 — HCM은 주식을 팔고 워런트로 얼마나 벌 수 있을까?",
+        "logNo": "224443846709",
+        "url": "https://blog.naver.com/4-fire/224443846709?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-16-224443846709.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-16",

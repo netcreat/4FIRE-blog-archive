@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 756,
+  "totalArchivedPosts": 757,
   "posts": [
+    {
+      "date": "2026-10-16",
+      "published": "2026-10-16T18:14:59+11:00",
+      "title": "IonQ 3차례 유상증자 분석 — HCM은 주식을 팔고 워런트로 얼마나 벌 수 있을까?",
+      "logNo": "224443846709",
+      "source": "https://blog.naver.com/4-fire/224443846709?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-16-224443846709.md",
+      "content_source": "naver_post",
+      "characters": 16484
+    },
     {
       "date": "2026-10-16",
       "published": "2026-10-16T14:41:15+11:00",

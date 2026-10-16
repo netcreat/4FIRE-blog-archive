@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-16T06:56:33+00:00_
+_Automatically generated: 2026-10-16T09:44:50+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 756 | 82 | 674 | 0 | 0 |
-| Recent 90 days (2026-07-18 → 2026-10-16) | 162 | 66 | 96 | 0 | 0 |
+| All | 757 | 82 | 675 | 0 | 0 |
+| Recent 90 days (2026-07-18 → 2026-10-16) | 163 | 66 | 97 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-16 | [IonQ 3차례 유상증자 분석 — HCM은 주식을 팔고 워런트로 얼마나 벌 수 있을까?](posts/2026/2026-10-16-224443846709.md) | ❌ Missing | — | `224443846709` |
 | 2026-10-16 | [Cashless Exercise라는 옵션](posts/2026/2026-10-16-224443610974.md) | ✅ Published | [The Cashless Exercise Option](https://substack.com/home/post/p-220641243) | `224443610974` |
 | 2026-10-15 | [IonQ의 세 차례 유상증자: HCM이 얻은 옵션 가치와 기존 주주의 주당 손익](posts/2026/2026-10-15-224442909980.md) | ✅ Published | [IonQ’s Three Equity Offerings: HCM’s Option Value and the Per-Share Impact on Existing Shareholders](https://netcreat.substack.com/p/ionqs-three-equity-offerings-hcms) | `224442909980` |
 | 2026-10-15 | [IonQ는 왜 지금 또 20억 달러를 조달했을까?](posts/2026/2026-10-15-224442006517.md) | ✅ Published | [Why Is IonQ Raising Another $2 Billion Now?](https://netcreat.substack.com/p/why-is-ionq-raising-another-2-billion) | `224442006517` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-07 | [Scale의 GFS, Flexibility의 SKYT](posts/2026/2026-10-07-224434076828.md) | ✅ Published | [GFS for Scale, SKYT for Flexibility](https://netcreat.substack.com/p/gfs-for-scale-skyt-for-flexibility) | `224434076828` |
 | 2026-10-07 | [미국이 믿고 맡길 수 있는 반도체 공장은 어디인가 — DMEA Trusted Foundry 지형도와 진짜 경쟁력](posts/2026/2026-10-07-224433756102.md) | ✅ Published | [Which Semiconductor Fabs Can America Trust?](https://netcreat.substack.com/p/which-semiconductor-fabs-can-america) | `224433756102` |
 | 2026-10-06 | [Anduril의 NGC2 계약, 그리고 IonQ — 두 달 전 MOU의 퍼즐이 맞춰지기 시작했다](posts/2026/2026-10-06-224433390072.md) | ✅ Published | [Anduril’s NGC2 Contract and IonQ](https://netcreat.substack.com/p/andurils-ngc2-contract-and-ionq) | `224433390072` |
-| 2026-10-06 | [GlobalFoundries는 왜 다시 봐야 하는가 — 미세공정 경쟁에서 내려온 뒤 더 큰 판을 만들고 있는 파운드리](posts/2026/2026-10-06-224433126940.md) | ✅ Published | [Why GlobalFoundries Deserves a Second Look - The Foundry That Left the Leading-Edge Race to Build a Bigger Platform](https://netcreat.substack.com/p/why-globalfoundries-deserves-a-second) | `224433126940` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

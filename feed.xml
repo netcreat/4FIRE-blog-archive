@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Fri, 16 Oct 2026 15:56:04 +0900</pubDate>
+            <pubDate>Fri, 16 Oct 2026 18:44:18 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ 3차례 유상증자 분석 — HCM은 주식을 팔고 워런트로 얼마나 벌 수 있을까?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224443846709?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224443846709</guid>
+                <description><![CDATA[✅ IonQ 3차례 유상증자 비교 — 실제 급락일 매도를 가정하면 수익은 얼마일까? IonQ는 2025년 7월(Series A), 2025년 10월(Series B), 2026년 10월(Series C) 각각 보통주, 선납형 워런트(Pre-funded Warrant), 추가 워런트를 결합한 자금조달을 발표했다. Series A는 2025년 7월 11일 $41.81, Series B는 2025년 10월 16일 $65.59에 보통주와 선납형 워런트 전환 주식을 모두 매도했다고 고정 가정한다. HCM측의 2025년 3분기·4분기 13F에 IONQ 보통주가 나타나지 않는다. HCM이 받은 보통주의 매도를 의무적으로 지연시키는 락업은 확인되지 않았다. 두 증자의 완료일로부터 정확히 2거래일 뒤에 각각 -8.97%, -9.42%의 급락이 나타났다. 따.......]]></description>
+                
+                <pubDate>Fri, 16 Oct 2026 16:14:59 +0900</pubDate>
+                <tag><![CDATA[IonQ,유상증자,HCM,수익률]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ IonQ, 새로운 디코더 기능을 추가하다. 논문: Soft decoding for quantum LDPC codes with experimental validation 발표일: 2026년 9월 22일 연구진: Arda Aydin, Edwin Tham, Min Ye, Nicolas Delfosse 소속: IonQ 및 메릴랜드대학교 ✅ 1. 논문은 세 가지 다른 실험을 하나의 성과로 소개하고 있다 이번 논문을 처음 읽었을 때 가장 혼란스러운 부분은 580배, 210배, 13.66초라는 세 가지 숫자가 서로 어떤 관계에 있는지 명확하지 않다는 점이다. 그런데 논문을 자세히 살펴보면 연구진은 세 가지 독립적인 실험을 통해 하나의 기술을 검증하고 있다. 논문의 논리적 흐름 자체에 문제가 있다기보다는, 서로 다른 대상과 평가 기준을 사용....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjRfMTA2/MDAxNzkwMjUxMTU2NzAw.3H5ACGJm9nhhl6BqmVsiWvcnOM9uftuSX3IVn9aHGdwg.daResgrQyfmwSPcJ0f6nKYawSqpMoEJh7cWTnOcNmlwg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Thu, 24 Sep 2026 21:34:44 +0900</pubDate>
                 <tag><![CDATA[IonQ,Soft,Decoding]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[IonQ·NVIDIA·ORNL·EPB — 양자 슈퍼컴퓨팅의 퍼즐이 맞춰지기 시작했다]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224421379356?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224421379356</guid>
-                
-                <description><![CDATA[✅ 들어가며 — 하루 간격으로 나온 발표, 그리고 그 뒤에 있는 연구 2026년 9월 23일, IonQ는 NVIDIA의 가속 양자 연구센터(NVAQC)에 Superion 256을 공급한다고 발표했다. 이 시스템은 NVAQC에 설치될 최초의 온프레미스 양자컴퓨터다. 바로 전날인 9월 22일, IonQ는 일반 CPU만으로도 대규모 양자 오류 정정의 실시간 디코딩을 처리할 수 있다는 연구 성과를 발표했다. 비슷한 시기에 테네시주 채터누가에서는 EPB의 IonQ Forte Enterprise가 시운전을 완료하면서, 실제 양자컴퓨터를 활용한 지역 연구 인프라가 가동 단계에 들어섰다. 개인적으로 포스트를 준비하고 있었는데, 이 뉴스가 보다 큰 까닭에 뒤로 밀렸다. 흥미롭게도 NVIDIA의 NV....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjNfMTM0/MDAxNzkwMTcxMzU5MDc0.yq7RBXzjiNJ62oug6A7hyJBj0X4mfHJkY7MWOXCiKJAg.DFhMpG71YP__ltzb9utf1rHk1pIiZf_0EcGze6KpFBcg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Wed, 23 Sep 2026 23:53:49 +0900</pubDate>
-                <tag><![CDATA[IonQ,NVIDIA,Superion256,GB200,NVL72,EPB,ORNL,NVAQC,최초,온프레미스,양자컴퓨터]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>
