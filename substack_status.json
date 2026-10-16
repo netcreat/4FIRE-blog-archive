@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T03:51:32+00:00",
+  "generated_at": "2026-10-16T04:12:01+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 756,
-    "published": 81,
-    "missing": 675,
+    "published": 82,
+    "missing": 674,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-18",
     "end": "2026-10-16",
     "total": 162,
-    "published": 65,
-    "missing": 97,
+    "published": 66,
+    "missing": 96,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224443610974?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-16-224443610974.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "The Cashless Exercise Option",
+          "url": "https://substack.com/home/post/p-220641243",
+          "published_date": "2026-10-16",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
