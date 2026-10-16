@@ -913,6 +913,18 @@
           "published_date": "2026-10-15"
         }
       ]
+    },
+    "224443610974": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "The Cashless Exercise Option",
+          "url": "https://substack.com/home/post/p-220641243",
+          "published_date": "2026-10-16",
+          "post_id": "220641243"
+        }
+      ]
     }
   }
 }
