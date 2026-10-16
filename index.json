@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 755,
+  "totalArchivedPosts": 756,
   "posts": [
+    {
+      "date": "2026-10-16",
+      "published": "2026-10-16T14:41:15+11:00",
+      "title": "Cashless Exercise라는 옵션",
+      "logNo": "224443610974",
+      "source": "https://blog.naver.com/4-fire/224443610974?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-16-224443610974.md",
+      "content_source": "naver_post",
+      "characters": 10019
+    },
     {
       "date": "2026-10-15",
       "published": "2026-10-15T21:21:47+11:00",

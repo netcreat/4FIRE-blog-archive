@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Fri, 16 Oct 2026 09:52:58 +0900</pubDate>
+            <pubDate>Fri, 16 Oct 2026 12:44:55 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[Cashless Exercise라는 옵션]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224443610974?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224443610974</guid>
+                <description><![CDATA[✅ IonQ의 세 차례 유상증자: Cashless Exercise가 줄일 수 있는 기존 주주 지분율 희석 후속 분석: https://blog.naver.com/4-fire/224442909980(2026년 10월 15일)에서 현금 행사만 가정했던 내용을 보완한다. 기존 글에서는 Heights Capital Management(HCM)가 받은 Series A·B·C 추가 워런트가 전부 현금 행사되면 IonQ가 막대한 추가 현금을 확보하고 그만큼 신주가 발행된다고 계산했다. 하지만 SEC 계약에는 Cashless Exercise(현금 없는 행사)라는 선택지가 있다. 이 방식을 적용하면 회사는 추가 행사대금을 받지 않는 대신, 훨씬 적은 주식을 발행할 수 있다. 이 글의 초점은 “HCM의 워런트 행사차익과 이론적 경제가치는 기본적으로.......]]></description>
+                
+                <pubDate>Fri, 16 Oct 2026 12:41:15 +0900</pubDate>
+                <tag><![CDATA[IonQ,Cashless,Exercise]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 들어가며 — 하루 간격으로 나온 발표, 그리고 그 뒤에 있는 연구 2026년 9월 23일, IonQ는 NVIDIA의 가속 양자 연구센터(NVAQC)에 Superion 256을 공급한다고 발표했다. 이 시스템은 NVAQC에 설치될 최초의 온프레미스 양자컴퓨터다. 바로 전날인 9월 22일, IonQ는 일반 CPU만으로도 대규모 양자 오류 정정의 실시간 디코딩을 처리할 수 있다는 연구 성과를 발표했다. 비슷한 시기에 테네시주 채터누가에서는 EPB의 IonQ Forte Enterprise가 시운전을 완료하면서, 실제 양자컴퓨터를 활용한 지역 연구 인프라가 가동 단계에 들어섰다. 개인적으로 포스트를 준비하고 있었는데, 이 뉴스가 보다 큰 까닭에 뒤로 밀렸다. 흥미롭게도 NVIDIA의 NV....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjNfMTM0/MDAxNzkwMTcxMzU5MDc0.yq7RBXzjiNJ62oug6A7hyJBj0X4mfHJkY7MWOXCiKJAg.DFhMpG71YP__ltzb9utf1rHk1pIiZf_0EcGze6KpFBcg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Wed, 23 Sep 2026 23:53:49 +0900</pubDate>
                 <tag><![CDATA[IonQ,NVIDIA,Superion256,GB200,NVL72,EPB,ORNL,NVAQC,최초,온프레미스,양자컴퓨터]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Usual Life]]></category>
-                <title><![CDATA[열심히 배워서 남주자 — 커피 한잔 후원 오픈]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224421146774?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224421146774</guid>
-                
-                <description><![CDATA[https://netcreat.substack.com/subscribe ✅ 열심히 배워서 남주자 제가 이 블로그를 운영하면서 오랫동안 지켜온 모토가 하나 있습니다. 배워서 남주냐? "네, 열심히 배워서 남도 줄겁니다." 새로운 기술을 공부하고, 논문을 읽고, 기업들의 발표 자료를 분석하다 보면 혼자 알고 있기에는 아까운 내용들을 발견할 때가 많습니다. 누군가에게는 이미 알고 있는 내용이겠지만, 또 다른 누군가에게는 새로운 세상을 이해하는 계기가 될 수도 있습니다. 제가 공부하면서 얻은 지식과 새로운 발견을 다른 분들과 나누고, 그 과정에서 저 역시 더 많은 것을 배울 수 있다는 것이 이 블로그를 운영해 온 가장 큰 즐거움입니다. 지금까지 많....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjNfNjUg/MDAxNzkwMTU0NTgxNzk3.DdRqb9gs20VPk-tRnK9rNvPRorn4Kagfwq8obHLe97Qg.qn64Jw5jkWSTtFECiJA6VkfUqrP2Gb-HJXi-PZ5ZX2cg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Wed, 23 Sep 2026 18:14:48 +0900</pubDate>
-                <tag><![CDATA[사파이어,커피후원]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>
