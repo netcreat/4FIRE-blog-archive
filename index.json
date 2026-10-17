@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 757,
+  "totalArchivedPosts": 758,
   "posts": [
+    {
+      "date": "2026-10-17",
+      "published": "2026-10-17T13:37:24+11:00",
+      "title": "Cisco Quantum Summit 2026 Day 2 패널 토론",
+      "logNo": "224444553990",
+      "source": "https://blog.naver.com/4-fire/224444553990?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-17-224444553990.md",
+      "content_source": "naver_post",
+      "characters": 12941
+    },
     {
       "date": "2026-10-16",
       "published": "2026-10-16T18:14:59+11:00",

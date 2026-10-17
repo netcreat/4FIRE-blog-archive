@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T00:55:00+00:00",
+  "generated_at": "2026-10-17T03:43:37+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 757,
+    "total": 758,
     "published": 82,
-    "missing": 675,
+    "missing": 676,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-07-18",
-    "end": "2026-10-16",
-    "total": 163,
+    "start": "2026-07-19",
+    "end": "2026-10-17",
+    "total": 164,
     "published": 66,
-    "missing": 97,
+    "missing": 98,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-17",
+        "title": "Cisco Quantum Summit 2026 Day 2 패널 토론",
+        "logNo": "224444553990",
+        "url": "https://blog.naver.com/4-fire/224444553990?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-17-224444553990.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-16",

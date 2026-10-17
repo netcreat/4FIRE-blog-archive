@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Sat, 17 Oct 2026 09:54:31 +0900</pubDate>
+            <pubDate>Sat, 17 Oct 2026 12:43:07 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Series]]></category>
+                <title><![CDATA[Cisco Quantum Summit 2026 Day 2 패널 토론]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224444553990?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224444553990</guid>
+                
+                <description><![CDATA[2026년 10월 7일 개최된 Cisco Quantum Summit Day 2의 패널 토론(영상 약 03:32:04~04:14:18)을 요약했다. ✅ 1. 공식 프로그램의 Day 2 패널 명단과 실제 진행자 ✅ 2. 각 기업이 서로 다른 숫자를 발표하는데, 기술 발전을 판단할 단일 지표는 무엇인가?  03:33~03:39 — Logical Qubit 수만으로는 부족하다 Pranav Gokhale (Infleqtion): 계산의 폭을 나타내는 Logical Qubit 수와 계산의 깊이·규모를 나타내는 Logical Operations(QOPS)를 함께 봐야 한다. 하드웨어 방식에 따라 다른 구축 비용도 빠질 수 없다. Patrick Rall (IBM): Logical Gate라는 단일 범주도 균질하지 않다. T Gate 수, Bell Pair 소비량, 실행하는 데 걸리는 실....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTdfMTQg/MDAxNzkyMjAwMjU5Nzk1.pyjXUIwXIWEDXYnPNknsUO-fauZ1q4D3ZRpOJj4pKl4g.hiTXzdrwMsxwK2o754EZm6xCx9DxpefkhndbOtSoT7cg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sat, 17 Oct 2026 11:37:24 +0900</pubDate>
+                <tag><![CDATA[Cisco,Quantum,Submmit,2026]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -81,7 +95,7 @@
 
             <item>
                 <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
+                <category><![CDATA[Series]]></category>
                 <title><![CDATA[IonQ의 분산 FTQC, 1kHz 이후의 진짜 과제 — Cisco Quantum Summit 미히르 바스카 발표 분석]]></title>
                 <link><![CDATA[https://blog.naver.com/4-fire/224441914933?fromRss=true&trackingCode=rss]]></link>
                 <guid>https://blog.naver.com/4-fire/224441914933</guid>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 1. 플로리다 국제대학교, Superion 256 구매 계약 체결 10시간전 트위터에 FIU 관계자와 사진찍는 모습이 올라와서 의아해 했던 기억이 난다. 그 후 IonQ가 9월 24일 플로리다 국제대학교(Florida International University, FIU)와 Superion 256 공급 계약을 체결했다고 발표했다. 이번 계약은 FIU가 클라우드를 통해 양자컴퓨터를 이용하는 수준이 아니라, 캠퍼스 내에 실제 양자컴퓨터를 설치하고 자체 연구·교육 인프라로 활용하는 계약이다. FIU는 플로리다주 내 IonQ의 핵심 학술 파트너로 자리매김하며, 지역 대학과 연구기관, 산업 파트너들이 참여하는 양자 연구·교육 허브를 구축할 계획이다.  주요 계약 내용 FIU는 약 56,000명....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjRfMzAw/MDAxNzkwMjU3MjQ5MjA4.7tIO-gZL4EPvqG1f0owYKTMyp1KhM-EVr8rvCWqUKgIg.kAUmK3ejSuwH3wpsHf1eHg92zSzG85q8tQNjGgyjkjog.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Thu, 24 Sep 2026 22:54:41 +0900</pubDate>
                 <tag><![CDATA[IonQ,FIU,SuperIon]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[QEC]]></category>
-                <title><![CDATA[IonQ 소프트 디코딩 논문 완전 해설: 580배 오류 억제부터 논리 큐비트 수명 13.66초까지]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224422011850?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224422011850</guid>
-                
-                <description><![CDATA[✅ IonQ, 새로운 디코더 기능을 추가하다. 논문: Soft decoding for quantum LDPC codes with experimental validation 발표일: 2026년 9월 22일 연구진: Arda Aydin, Edwin Tham, Min Ye, Nicolas Delfosse 소속: IonQ 및 메릴랜드대학교 ✅ 1. 논문은 세 가지 다른 실험을 하나의 성과로 소개하고 있다 이번 논문을 처음 읽었을 때 가장 혼란스러운 부분은 580배, 210배, 13.66초라는 세 가지 숫자가 서로 어떤 관계에 있는지 명확하지 않다는 점이다. 그런데 논문을 자세히 살펴보면 연구진은 세 가지 독립적인 실험을 통해 하나의 기술을 검증하고 있다. 논문의 논리적 흐름 자체에 문제가 있다기보다는, 서로 다른 대상과 평가 기준을 사용....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjRfMTA2/MDAxNzkwMjUxMTU2NzAw.3H5ACGJm9nhhl6BqmVsiWvcnOM9uftuSX3IVn9aHGdwg.daResgrQyfmwSPcJ0f6nKYawSqpMoEJh7cWTnOcNmlwg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Thu, 24 Sep 2026 21:34:44 +0900</pubDate>
-                <tag><![CDATA[IonQ,Soft,Decoding]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>
