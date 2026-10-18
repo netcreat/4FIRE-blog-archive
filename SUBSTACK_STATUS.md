@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-18T00:55:31+00:00_
+_Automatically generated: 2026-10-18T03:16:09+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,19 +10,20 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 758 | 82 | 676 | 0 | 0 |
-| Recent 90 days (2026-07-19 → 2026-10-17) | 164 | 66 | 98 | 0 | 0 |
+| All | 759 | 82 | 677 | 0 | 0 |
+| Recent 90 days (2026-07-19 → 2026-10-17) | 165 | 66 | 99 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 패널 토론](posts/2026/2026-10-17-224444553990.md) | ❌ Missing | — | `224444553990` |
+| 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt](posts/2026/2026-10-17-224444857373.md) | ❌ Missing | — | `224444857373` |
+| 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — 패널 토론](posts/2026/2026-10-17-224444553990.md) | ❌ Missing | — | `224444553990` |
 | 2026-10-16 | [IonQ 3차례 유상증자 분석 — HCM은 주식을 팔고 워런트로 얼마나 벌 수 있을까?](posts/2026/2026-10-16-224443846709.md) | ❌ Missing | — | `224443846709` |
 | 2026-10-16 | [Cashless Exercise라는 옵션](posts/2026/2026-10-16-224443610974.md) | ✅ Published | [The Cashless Exercise Option](https://substack.com/home/post/p-220641243) | `224443610974` |
 | 2026-10-15 | [IonQ의 세 차례 유상증자: HCM이 얻은 옵션 가치와 기존 주주의 주당 손익](posts/2026/2026-10-15-224442909980.md) | ✅ Published | [IonQ’s Three Equity Offerings: HCM’s Option Value and the Per-Share Impact on Existing Shareholders](https://netcreat.substack.com/p/ionqs-three-equity-offerings-hcms) | `224442909980` |
 | 2026-10-15 | [IonQ는 왜 지금 또 20억 달러를 조달했을까?](posts/2026/2026-10-15-224442006517.md) | ✅ Published | [Why Is IonQ Raising Another $2 Billion Now?](https://netcreat.substack.com/p/why-is-ionq-raising-another-2-billion) | `224442006517` |
-| 2026-10-15 | [IonQ의 분산 FTQC, 1kHz 이후의 진짜 과제 — Cisco Quantum Summit 미히르 바스카 발표 분석](posts/2026/2026-10-15-224441914933.md) | ✅ Published | [IonQ's Distributed FTQC: The Real Challenge Beyond 1 kHz](https://netcreat.substack.com/p/ionqs-distributed-ftqc-the-real-challenge) | `224441914933` |
+| 2026-10-15 | [Cisco Quantum Summit 2026 Day 2 — IonQ, Mihir Bhaskar, 1kHz 이후의 진짜 과제](posts/2026/2026-10-15-224441914933.md) | ✅ Published | [IonQ's Distributed FTQC: The Real Challenge Beyond 1 kHz](https://netcreat.substack.com/p/ionqs-distributed-ftqc-the-real-challenge) | `224441914933` |
 | 2026-10-14 | [코닝을 유리회사로만 보면 놓치는 것 — 반도체 원재료부터 Glass Core·GlassBridge까지](posts/2026/2026-10-14-224441507057.md) | ❌ Missing | — | `224441507057` |
 | 2026-10-14 | [IonQ의 보안 퍼즐은 완성됐는가? — Elisity의 Zero Trust와 IDQ의 양자 보안, 그리고 남은 공백](posts/2026/2026-10-14-224441409780.md) | ✅ Published | [Is IonQ’s Security Puzzle Complete? — Elisity’s Zero Trust, IDQ’s Quantum Security, and the Missing Pieces](https://netcreat.substack.com/p/is-ionqs-security-puzzle-complete) | `224441409780` |
 | 2026-10-13 | [IonQ, Elisity 인수에 관한 8-K 공지](posts/2026/2026-10-13-224440626371.md) | ❌ Missing | — | `224440626371` |
@@ -184,11 +185,12 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **676**
+Total missing: **677**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 패널 토론](posts/2026/2026-10-17-224444553990.md) | ❌ Missing | — | `224444553990` |
+| 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt](posts/2026/2026-10-17-224444857373.md) | ❌ Missing | — | `224444857373` |
+| 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — 패널 토론](posts/2026/2026-10-17-224444553990.md) | ❌ Missing | — | `224444553990` |
 | 2026-10-16 | [IonQ 3차례 유상증자 분석 — HCM은 주식을 팔고 워런트로 얼마나 벌 수 있을까?](posts/2026/2026-10-16-224443846709.md) | ❌ Missing | — | `224443846709` |
 | 2026-10-14 | [코닝을 유리회사로만 보면 놓치는 것 — 반도체 원재료부터 Glass Core·GlassBridge까지](posts/2026/2026-10-14-224441507057.md) | ❌ Missing | — | `224441507057` |
 | 2026-10-13 | [IonQ, Elisity 인수에 관한 8-K 공지](posts/2026/2026-10-13-224440626371.md) | ❌ Missing | — | `224440626371` |
@@ -872,16 +874,17 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 758 Naver posts</summary>
+<summary>Show all 759 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 패널 토론](posts/2026/2026-10-17-224444553990.md) | ❌ Missing | — | `224444553990` |
+| 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt](posts/2026/2026-10-17-224444857373.md) | ❌ Missing | — | `224444857373` |
+| 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — 패널 토론](posts/2026/2026-10-17-224444553990.md) | ❌ Missing | — | `224444553990` |
 | 2026-10-16 | [IonQ 3차례 유상증자 분석 — HCM은 주식을 팔고 워런트로 얼마나 벌 수 있을까?](posts/2026/2026-10-16-224443846709.md) | ❌ Missing | — | `224443846709` |
 | 2026-10-16 | [Cashless Exercise라는 옵션](posts/2026/2026-10-16-224443610974.md) | ✅ Published | [The Cashless Exercise Option](https://substack.com/home/post/p-220641243) | `224443610974` |
 | 2026-10-15 | [IonQ의 세 차례 유상증자: HCM이 얻은 옵션 가치와 기존 주주의 주당 손익](posts/2026/2026-10-15-224442909980.md) | ✅ Published | [IonQ’s Three Equity Offerings: HCM’s Option Value and the Per-Share Impact on Existing Shareholders](https://netcreat.substack.com/p/ionqs-three-equity-offerings-hcms) | `224442909980` |
 | 2026-10-15 | [IonQ는 왜 지금 또 20억 달러를 조달했을까?](posts/2026/2026-10-15-224442006517.md) | ✅ Published | [Why Is IonQ Raising Another $2 Billion Now?](https://netcreat.substack.com/p/why-is-ionq-raising-another-2-billion) | `224442006517` |
-| 2026-10-15 | [IonQ의 분산 FTQC, 1kHz 이후의 진짜 과제 — Cisco Quantum Summit 미히르 바스카 발표 분석](posts/2026/2026-10-15-224441914933.md) | ✅ Published | [IonQ's Distributed FTQC: The Real Challenge Beyond 1 kHz](https://netcreat.substack.com/p/ionqs-distributed-ftqc-the-real-challenge) | `224441914933` |
+| 2026-10-15 | [Cisco Quantum Summit 2026 Day 2 — IonQ, Mihir Bhaskar, 1kHz 이후의 진짜 과제](posts/2026/2026-10-15-224441914933.md) | ✅ Published | [IonQ's Distributed FTQC: The Real Challenge Beyond 1 kHz](https://netcreat.substack.com/p/ionqs-distributed-ftqc-the-real-challenge) | `224441914933` |
 | 2026-10-14 | [코닝을 유리회사로만 보면 놓치는 것 — 반도체 원재료부터 Glass Core·GlassBridge까지](posts/2026/2026-10-14-224441507057.md) | ❌ Missing | — | `224441507057` |
 | 2026-10-14 | [IonQ의 보안 퍼즐은 완성됐는가? — Elisity의 Zero Trust와 IDQ의 양자 보안, 그리고 남은 공백](posts/2026/2026-10-14-224441409780.md) | ✅ Published | [Is IonQ’s Security Puzzle Complete? — Elisity’s Zero Trust, IDQ’s Quantum Security, and the Missing Pieces](https://netcreat.substack.com/p/is-ionqs-security-puzzle-complete) | `224441409780` |
 | 2026-10-13 | [IonQ, Elisity 인수에 관한 8-K 공지](posts/2026/2026-10-13-224440626371.md) | ❌ Missing | — | `224440626371` |

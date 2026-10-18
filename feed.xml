@@ -21,12 +21,26 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Sun, 18 Oct 2026 09:55:02 +0900</pubDate>
+            <pubDate>Sun, 18 Oct 2026 12:15:38 +0900</pubDate>
 
             <item>
                 <author>4-fire</author>
                 <category><![CDATA[Series]]></category>
-                <title><![CDATA[Cisco Quantum Summit 2026 Day 2 패널 토론]]></title>
+                <title><![CDATA[Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224444857373?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224444857373</guid>
+                
+                <description><![CDATA[✅ 1. 이번 발표의 핵심 메시지 행사: Cisco Quantum Summit 2026 Day 2, 2026년 10월 7일. 발표자: Pete Shadbolt, PsiQuantum 공동창업자 겸 최고과학책임자(CSO). 첫째, 상용 FTQC는 다수의 칩과 모듈을 연결하는 시스템 문제가 된다. IBM, IonQ, Pascal, PsiQuantum의 확장형 아키텍처를 나란히 소개하면서, 단일 칩의 큐비트 수만으로는 상업적으로 유용한 연산 능력을 확보하기 어렵다고 설명한다. 둘째, 광자 양자컴퓨팅의 핵심은 광학적 손실을 낮추면서 다수의 광학 부품을 고수율로 생산하는 데 있다. 광자 발생·분배·경로 선택·Fusion·검출을 하나의 통합 제조 플랫폼으로 가져가는 방향이다. 셋째, PsiQuantum이 구축한 고속 광스위....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMThfMTk4/MDAxNzkyMjg0NzM3Mzk0.PXvDbqcJQbMBLUu_8J0lRUM-4-_qXsTObImMIdznY_Ag.dfwKtyoauI2GV-HHAZMR8uZgIPZPvQKeXUefNIqjmIcg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sat, 17 Oct 2026 18:41:02 +0900</pubDate>
+                <tag><![CDATA[Cisco,Quantum,Summit,2026,PsiQuantum,Pete,Shadbolt]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Series]]></category>
+                <title><![CDATA[Cisco Quantum Summit 2026 Day 2 — 패널 토론]]></title>
                 <link><![CDATA[https://blog.naver.com/4-fire/224444553990?fromRss=true&trackingCode=rss]]></link>
                 <guid>https://blog.naver.com/4-fire/224444553990</guid>
                 
@@ -96,7 +110,7 @@
             <item>
                 <author>4-fire</author>
                 <category><![CDATA[Series]]></category>
-                <title><![CDATA[IonQ의 분산 FTQC, 1kHz 이후의 진짜 과제 — Cisco Quantum Summit 미히르 바스카 발표 분석]]></title>
+                <title><![CDATA[Cisco Quantum Summit 2026 Day 2 — IonQ, Mihir Bhaskar, 1kHz 이후의 진짜 과제]]></title>
                 <link><![CDATA[https://blog.naver.com/4-fire/224441914933?fromRss=true&trackingCode=rss]]></link>
                 <guid>https://blog.naver.com/4-fire/224441914933</guid>
                 
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 서론 — QWC에서 발견한 흥미로운 슬라이드 2026년 9월 23~25일 개최된 Quantum World Congress(QWC)에서 IonQ가 공개한 슬라이드 한 장이 눈에 들어왔다. 제목은 A Trusted Quantum Ecosystem for All, 즉 모두를 위한 신뢰할 수 있는 양자 생태계다. 지금까지 IonQ의 기술 로드맵을 살펴보면서 개별 기업들의 인수합병과 기술적 연결에 주목해 왔는데, 이번 슬라이드는 그동안 별개로 생각했던 사업들이 하나의 구조로 연결될 수 있다는 새로운 관점을 제공한다. 특히 Hybrid Classical Integration 계층에 등장하는 AMD, Arm, Broadcom이라는 세 기업과 그 주변에 배치된 Nexus Photonics 및 Vector Atomic이 눈길을 끌었다. 더 흥미로운 부....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjVfMTYy/MDAxNzkwMzA0NTk5NTk2.S20Ki90Ng2JOHJi8A2rOKNTDmKr2bhJUPq7AFu3Qa78g.MlgP4-ZTDmJPRsR6Hc6f2oH_bBc41zO_r5WP7fzWorIg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Fri, 25 Sep 2026 12:49:19 +0900</pubDate>
                 <tag><![CDATA[IonQ,QWC,Nexus,Photonics,ARM,BROADCOM,AMD]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[IonQ Superion 256, FIU에 판매. 양자 네트워킹에서 컴퓨팅까지 이어지는 새로운 사업 구조]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224422062043?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224422062043</guid>
-                
-                <description><![CDATA[✅ 1. 플로리다 국제대학교, Superion 256 구매 계약 체결 10시간전 트위터에 FIU 관계자와 사진찍는 모습이 올라와서 의아해 했던 기억이 난다. 그 후 IonQ가 9월 24일 플로리다 국제대학교(Florida International University, FIU)와 Superion 256 공급 계약을 체결했다고 발표했다. 이번 계약은 FIU가 클라우드를 통해 양자컴퓨터를 이용하는 수준이 아니라, 캠퍼스 내에 실제 양자컴퓨터를 설치하고 자체 연구·교육 인프라로 활용하는 계약이다. FIU는 플로리다주 내 IonQ의 핵심 학술 파트너로 자리매김하며, 지역 대학과 연구기관, 산업 파트너들이 참여하는 양자 연구·교육 허브를 구축할 계획이다.  주요 계약 내용 FIU는 약 56,000명....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjRfMzAw/MDAxNzkwMjU3MjQ5MjA4.7tIO-gZL4EPvqG1f0owYKTMyp1KhM-EVr8rvCWqUKgIg.kAUmK3ejSuwH3wpsHf1eHg92zSzG85q8tQNjGgyjkjog.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Thu, 24 Sep 2026 22:54:41 +0900</pubDate>
-                <tag><![CDATA[IonQ,FIU,SuperIon]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

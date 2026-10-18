@@ -2,12 +2,22 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 758,
+  "totalArchivedPosts": 759,
   "posts": [
     {
       "date": "2026-10-17",
+      "published": "2026-10-17T20:41:02+11:00",
+      "title": "Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt",
+      "logNo": "224444857373",
+      "source": "https://blog.naver.com/4-fire/224444857373?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-17-224444857373.md",
+      "content_source": "naver_post",
+      "characters": 33343
+    },
+    {
+      "date": "2026-10-17",
       "published": "2026-10-17T13:37:24+11:00",
-      "title": "Cisco Quantum Summit 2026 Day 2 패널 토론",
+      "title": "Cisco Quantum Summit 2026 Day 2 — 패널 토론",
       "logNo": "224444553990",
       "source": "https://blog.naver.com/4-fire/224444553990?fromRss=true&trackingCode=rss",
       "archive": "posts/2026/2026-10-17-224444553990.md",
@@ -57,7 +67,7 @@
     {
       "date": "2026-10-15",
       "published": "2026-10-15T01:00:21+11:00",
-      "title": "IonQ의 분산 FTQC, 1kHz 이후의 진짜 과제 — Cisco Quantum Summit 미히르 바스카 발표 분석",
+      "title": "Cisco Quantum Summit 2026 Day 2 — IonQ, Mihir Bhaskar, 1kHz 이후의 진짜 과제",
       "logNo": "224441914933",
       "source": "https://blog.naver.com/4-fire/224441914933?fromRss=true&trackingCode=rss",
       "archive": "posts/2026/2026-10-15-224441914933.md",

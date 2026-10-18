@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-18T00:55:31+00:00_
+_Automatically generated: 2026-10-18T03:16:09+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,19 +14,20 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 758 | 82 | 676 | 0 | 0 |
-| Recent 90 days (2026-07-19 → 2026-10-17) | 164 | 66 | 98 | 0 | 0 |
+| All | 759 | 82 | 677 | 0 | 0 |
+| Recent 90 days (2026-07-19 → 2026-10-17) | 165 | 66 | 99 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 패널 토론](posts/2026/2026-10-17-224444553990.md) | ❌ Missing | — | `224444553990` |
+| 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt](posts/2026/2026-10-17-224444857373.md) | ❌ Missing | — | `224444857373` |
+| 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — 패널 토론](posts/2026/2026-10-17-224444553990.md) | ❌ Missing | — | `224444553990` |
 | 2026-10-16 | [IonQ 3차례 유상증자 분석 — HCM은 주식을 팔고 워런트로 얼마나 벌 수 있을까?](posts/2026/2026-10-16-224443846709.md) | ❌ Missing | — | `224443846709` |
 | 2026-10-16 | [Cashless Exercise라는 옵션](posts/2026/2026-10-16-224443610974.md) | ✅ Published | [The Cashless Exercise Option](https://substack.com/home/post/p-220641243) | `224443610974` |
 | 2026-10-15 | [IonQ의 세 차례 유상증자: HCM이 얻은 옵션 가치와 기존 주주의 주당 손익](posts/2026/2026-10-15-224442909980.md) | ✅ Published | [IonQ’s Three Equity Offerings: HCM’s Option Value and the Per-Share Impact on Existing Shareholders](https://netcreat.substack.com/p/ionqs-three-equity-offerings-hcms) | `224442909980` |
 | 2026-10-15 | [IonQ는 왜 지금 또 20억 달러를 조달했을까?](posts/2026/2026-10-15-224442006517.md) | ✅ Published | [Why Is IonQ Raising Another $2 Billion Now?](https://netcreat.substack.com/p/why-is-ionq-raising-another-2-billion) | `224442006517` |
-| 2026-10-15 | [IonQ의 분산 FTQC, 1kHz 이후의 진짜 과제 — Cisco Quantum Summit 미히르 바스카 발표 분석](posts/2026/2026-10-15-224441914933.md) | ✅ Published | [IonQ's Distributed FTQC: The Real Challenge Beyond 1 kHz](https://netcreat.substack.com/p/ionqs-distributed-ftqc-the-real-challenge) | `224441914933` |
+| 2026-10-15 | [Cisco Quantum Summit 2026 Day 2 — IonQ, Mihir Bhaskar, 1kHz 이후의 진짜 과제](posts/2026/2026-10-15-224441914933.md) | ✅ Published | [IonQ's Distributed FTQC: The Real Challenge Beyond 1 kHz](https://netcreat.substack.com/p/ionqs-distributed-ftqc-the-real-challenge) | `224441914933` |
 | 2026-10-14 | [코닝을 유리회사로만 보면 놓치는 것 — 반도체 원재료부터 Glass Core·GlassBridge까지](posts/2026/2026-10-14-224441507057.md) | ❌ Missing | — | `224441507057` |
 | 2026-10-14 | [IonQ의 보안 퍼즐은 완성됐는가? — Elisity의 Zero Trust와 IDQ의 양자 보안, 그리고 남은 공백](posts/2026/2026-10-14-224441409780.md) | ✅ Published | [Is IonQ’s Security Puzzle Complete? — Elisity’s Zero Trust, IDQ’s Quantum Security, and the Missing Pieces](https://netcreat.substack.com/p/is-ionqs-security-puzzle-complete) | `224441409780` |
 | 2026-10-13 | [IonQ, Elisity 인수에 관한 8-K 공지](posts/2026/2026-10-13-224440626371.md) | ❌ Missing | — | `224440626371` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-08 | [DARPA QBI Stage C 발표 — 재수에 성공한 Atom, 다중 베팅하는 Microsoft, 그리고 Diraq의 시간표](posts/2026/2026-10-08-224434955271.md) | ✅ Published | [DARPA QBI Stage C — Atom Computing's Comeback, Microsoft's Multiple Bets, and Diraq's Timeline](https://netcreat.substack.com/p/darpa-qbi-stage-c-atom-computings) | `224434955271` |
 | 2026-10-07 | [Ayar Labs와 Marvell — AI Scale-Up의 다음 전쟁은 광이 어디까지 들어가느냐에 달려 있다](posts/2026/2026-10-07-224434437418.md) | ✅ Published | [Ayar Labs and Marvell — The Next Battle in AI Scale-Up Is About How Deep Optics Can Move Into the System](https://netcreat.substack.com/p/ayar-labs-and-marvell-the-next-battle) | `224434437418` |
 | 2026-10-07 | [Scale의 GFS, Flexibility의 SKYT](posts/2026/2026-10-07-224434076828.md) | ✅ Published | [GFS for Scale, SKYT for Flexibility](https://netcreat.substack.com/p/gfs-for-scale-skyt-for-flexibility) | `224434076828` |
-| 2026-10-07 | [미국이 믿고 맡길 수 있는 반도체 공장은 어디인가 — DMEA Trusted Foundry 지형도와 진짜 경쟁력](posts/2026/2026-10-07-224433756102.md) | ✅ Published | [Which Semiconductor Fabs Can America Trust?](https://netcreat.substack.com/p/which-semiconductor-fabs-can-america) | `224433756102` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).
