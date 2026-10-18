@@ -936,6 +936,18 @@
           "published_date": "2026-10-18"
         }
       ]
+    },
+    "224444553990": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Cisco Quantum Summit 2026 Day 2 — Panel Discussion",
+          "url": "https://substack.com/home/post/p-220947419",
+          "published_date": "2026-10-18",
+          "post_id": "220947419"
+        }
+      ]
     }
   }
 }
