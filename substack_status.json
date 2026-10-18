@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T03:43:20+00:00",
+  "generated_at": "2026-10-18T03:59:29+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 759,
-    "published": 82,
-    "missing": 677,
+    "published": 83,
+    "missing": 676,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-19",
     "end": "2026-10-17",
     "total": 165,
-    "published": 66,
-    "missing": 99,
+    "published": 67,
+    "missing": 98,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224444857373?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-17-224444857373.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt",
+          "url": "https://netcreat.substack.com/p/cisco-quantum-summit-2026-day-2-psiquantum",
+          "published_date": "2026-10-18",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
