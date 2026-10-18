@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-18T03:59:29+00:00_
+_Automatically generated: 2026-10-18T05:35:54+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,15 +14,15 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 759 | 83 | 676 | 0 | 0 |
-| Recent 90 days (2026-07-19 → 2026-10-17) | 165 | 67 | 98 | 0 | 0 |
+| All | 759 | 84 | 675 | 0 | 0 |
+| Recent 90 days (2026-07-19 → 2026-10-17) | 165 | 68 | 97 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
 | 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt](posts/2026/2026-10-17-224444857373.md) | ✅ Published | [Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt](https://netcreat.substack.com/p/cisco-quantum-summit-2026-day-2-psiquantum) | `224444857373` |
-| 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — 패널 토론](posts/2026/2026-10-17-224444553990.md) | ❌ Missing | — | `224444553990` |
+| 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — 패널 토론](posts/2026/2026-10-17-224444553990.md) | ✅ Published | [Cisco Quantum Summit 2026 Day 2 — Panel Discussion](https://substack.com/home/post/p-220947419) | `224444553990` |
 | 2026-10-16 | [IonQ 3차례 유상증자 분석 — HCM은 주식을 팔고 워런트로 얼마나 벌 수 있을까?](posts/2026/2026-10-16-224443846709.md) | ❌ Missing | — | `224443846709` |
 | 2026-10-16 | [Cashless Exercise라는 옵션](posts/2026/2026-10-16-224443610974.md) | ✅ Published | [The Cashless Exercise Option](https://substack.com/home/post/p-220641243) | `224443610974` |
 | 2026-10-15 | [IonQ의 세 차례 유상증자: HCM이 얻은 옵션 가치와 기존 주주의 주당 손익](posts/2026/2026-10-15-224442909980.md) | ✅ Published | [IonQ’s Three Equity Offerings: HCM’s Option Value and the Per-Share Impact on Existing Shareholders](https://netcreat.substack.com/p/ionqs-three-equity-offerings-hcms) | `224442909980` |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T03:59:29+00:00",
+  "generated_at": "2026-10-18T05:35:54+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 759,
-    "published": 83,
-    "missing": 676,
+    "published": 84,
+    "missing": 675,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-19",
     "end": "2026-10-17",
     "total": 165,
-    "published": 67,
-    "missing": 98,
+    "published": 68,
+    "missing": 97,
     "skip": 0,
     "check": 0
   },
@@ -73,10 +73,18 @@
         "url": "https://blog.naver.com/4-fire/224444553990?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-17-224444553990.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Cisco Quantum Summit 2026 Day 2 — Panel Discussion",
+          "url": "https://substack.com/home/post/p-220947419",
+          "published_date": "2026-10-18",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
