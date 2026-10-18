@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-18T09:42:05+00:00_
+_Automatically generated: 2026-10-18T12:48:22+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 759 | 84 | 675 | 0 | 0 |
-| Recent 90 days (2026-07-19 → 2026-10-17) | 165 | 68 | 97 | 0 | 0 |
+| All | 760 | 84 | 676 | 0 | 0 |
+| Recent 90 days (2026-07-20 → 2026-10-18) | 165 | 68 | 97 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-18 | [Cisco Quantum Summit 2026 Day 1 — 패널 토론](posts/2026/2026-10-18-224445836524.md) | ❌ Missing | — | `224445836524` |
 | 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt](posts/2026/2026-10-17-224444857373.md) | ✅ Published | [Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt](https://netcreat.substack.com/p/cisco-quantum-summit-2026-day-2-psiquantum) | `224444857373` |
 | 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — 패널 토론](posts/2026/2026-10-17-224444553990.md) | ✅ Published | [Cisco Quantum Summit 2026 Day 2 — Panel Discussion](https://substack.com/home/post/p-220947419) | `224444553990` |
 | 2026-10-16 | [IonQ 3차례 유상증자 분석 — HCM은 주식을 팔고 워런트로 얼마나 벌 수 있을까?](posts/2026/2026-10-16-224443846709.md) | ❌ Missing | — | `224443846709` |
@@ -181,14 +182,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-07-21 | [SDA 세번째  Tranche 1 위성을 궤도에.](posts/2026/2026-07-21-224353715240.md) | ❌ Missing | — | `224353715240` |
 | 2026-07-21 | [Fast logical operations in quantum LDPC codes using simple resource states](posts/2026/2026-07-21-224353334531.md) | ✅ Published | [Fast Logical Operations in Quantum LDPC Codes Using Simple Resource States](https://netcreat.substack.com/p/fast-logical-operations-in-quantum) | `224353334531` |
 | 2026-07-20 | [Perrseus 프로그램 개요 요약](posts/2026/2026-07-20-224351619458.md) | ❌ Missing | — | `224351619458` |
-| 2026-07-19 | [SSC와 NSSL Phase 3: 미국이 국가안보 우주발사 체계를 어떻게 재편하고 있는가](posts/2026/2026-07-19-224351092273.md) | ❌ Missing | — | `224351092273` |
 
 ## Missing from Substack
 
-Total missing: **675**
+Total missing: **676**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-18 | [Cisco Quantum Summit 2026 Day 1 — 패널 토론](posts/2026/2026-10-18-224445836524.md) | ❌ Missing | — | `224445836524` |
 | 2026-10-16 | [IonQ 3차례 유상증자 분석 — HCM은 주식을 팔고 워런트로 얼마나 벌 수 있을까?](posts/2026/2026-10-16-224443846709.md) | ❌ Missing | — | `224443846709` |
 | 2026-10-14 | [코닝을 유리회사로만 보면 놓치는 것 — 반도체 원재료부터 Glass Core·GlassBridge까지](posts/2026/2026-10-14-224441507057.md) | ❌ Missing | — | `224441507057` |
 | 2026-10-13 | [IonQ, Elisity 인수에 관한 8-K 공지](posts/2026/2026-10-13-224440626371.md) | ❌ Missing | — | `224440626371` |
@@ -872,10 +873,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 759 Naver posts</summary>
+<summary>Show all 760 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-18 | [Cisco Quantum Summit 2026 Day 1 — 패널 토론](posts/2026/2026-10-18-224445836524.md) | ❌ Missing | — | `224445836524` |
 | 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt](posts/2026/2026-10-17-224444857373.md) | ✅ Published | [Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt](https://netcreat.substack.com/p/cisco-quantum-summit-2026-day-2-psiquantum) | `224444857373` |
 | 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — 패널 토론](posts/2026/2026-10-17-224444553990.md) | ✅ Published | [Cisco Quantum Summit 2026 Day 2 — Panel Discussion](https://substack.com/home/post/p-220947419) | `224444553990` |
 | 2026-10-16 | [IonQ 3차례 유상증자 분석 — HCM은 주식을 팔고 워런트로 얼마나 벌 수 있을까?](posts/2026/2026-10-16-224443846709.md) | ❌ Missing | — | `224443846709` |

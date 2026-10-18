@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Sun, 18 Oct 2026 18:41:36 +0900</pubDate>
+            <pubDate>Sun, 18 Oct 2026 21:47:51 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Series]]></category>
+                <title><![CDATA[Cisco Quantum Summit 2026 Day 1 — 패널 토론]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224445836524?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224445836524</guid>
+                <description><![CDATA[2026년 10월 6일 개최된 Cisco Quantum Summit 2026 Day 1의패널 토론은 녹화 영상 기준 약 02:51:30~03:36에 진행됐다. ✅ 1. 공식 패널 명단과 실제 발언자 ✅ 2. 양자 인터넷에서 사람들이 가장 먼저 사용할 서비스는 무엇인가?  02:52:23~02:56:42 — 고전 인터넷에서 배울 점과 최초 유용한 응용 Sabitha: 고전 인터넷이 소수의 연구 노드에서 시작해 전 세계적 네트워크로 발전했다. 그 경험에서 양자 네트워크가 배울 교훈은 무엇이며, 최초로 사람들이 의존할 만한 응용은 무엇인가? Inder Monga (ESnet): QPV처럼 비교적 가까운 응용이 있지만, 본인이 집중하는 분산 양자컴퓨팅은 더 어려운 문제다. 하드웨어와 알고리즘이 서로의.......]]></description>
+                
+                <pubDate>Sun, 18 Oct 2026 21:39:21 +0900</pubDate>
+                <tag><![CDATA[Cisco,Quantum,Summit,2026]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 30개의 논리 큐비트가 정말 30개의 ‘논리 큐비트’인가? 며칠 전 Infleqtion이 Quantum World Congress 2026에서 상당히 눈길을 끄는 발표를 했다. https://infleqtion.com/infleqtion-achieves-30-entangled-logical-qubits-on-its-sqale-quantum-computer/ 80개의 물리 큐비트만을 이용해 30개의 entangled logical qubits를 구현했다는 내용이었다. Infleqtion은 이를 자사의 2026년 로드맵 목표 달성으로 발표했고, 중성원자 기반 상용 시스템에서 30개의 논리 큐비트를 구현했다고 설명했다. 숫자만 보면 놀랍다. Physical Qubit: 80 Logical Qubit: 30 Physical : Logical : = 8 : 3 : 3 일반적으로 오류정정을 이야기할 때는 하....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjZfMTM1/MDAxNzkwMzk0NDkwNjg5.MeybTaTsuMb_aEa0aeDVO-aIdRrHtzIzu9oJB2lx8QIg.CJxU-AarqR5aG8m6LGWSviUGVmM9ZKwF6PEQaHcdSoMg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Sat, 26 Sep 2026 13:59:17 +0900</pubDate>
                 <tag><![CDATA[Infleqtion,Microsoft,Qolab,FTQC,Scale,Capability,Reliability,Performance]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[IonQ의 또 다른 큰 그림 — Nexus Photonics는 양자산업의 새로운 Pick & Shovel이 될 수 있을까?]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224422396636?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224422396636</guid>
-                
-                <description><![CDATA[✅ 서론 — QWC에서 발견한 흥미로운 슬라이드 2026년 9월 23~25일 개최된 Quantum World Congress(QWC)에서 IonQ가 공개한 슬라이드 한 장이 눈에 들어왔다. 제목은 A Trusted Quantum Ecosystem for All, 즉 모두를 위한 신뢰할 수 있는 양자 생태계다. 지금까지 IonQ의 기술 로드맵을 살펴보면서 개별 기업들의 인수합병과 기술적 연결에 주목해 왔는데, 이번 슬라이드는 그동안 별개로 생각했던 사업들이 하나의 구조로 연결될 수 있다는 새로운 관점을 제공한다. 특히 Hybrid Classical Integration 계층에 등장하는 AMD, Arm, Broadcom이라는 세 기업과 그 주변에 배치된 Nexus Photonics 및 Vector Atomic이 눈길을 끌었다. 더 흥미로운 부....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MjVfMTYy/MDAxNzkwMzA0NTk5NTk2.S20Ki90Ng2JOHJi8A2rOKNTDmKr2bhJUPq7AFu3Qa78g.MlgP4-ZTDmJPRsR6Hc6f2oH_bBc41zO_r5WP7fzWorIg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Fri, 25 Sep 2026 12:49:19 +0900</pubDate>
-                <tag><![CDATA[IonQ,QWC,Nexus,Photonics,ARM,BROADCOM,AMD]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>
