@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T07:01:02+00:00",
+  "generated_at": "2026-10-19T09:49:44+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,53 @@
     }
   },
   "summary": {
-    "total": 760,
+    "total": 762,
     "published": 84,
-    "missing": 676,
+    "missing": 678,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-07-20",
-    "end": "2026-10-18",
-    "total": 165,
+    "start": "2026-07-21",
+    "end": "2026-10-19",
+    "total": 166,
     "published": 68,
-    "missing": 97,
+    "missing": 98,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-19",
+        "title": "Cisco Quantum Summit 2026 Day 1 — Quantum Position Verification(QPV)",
+        "logNo": "224446825415",
+        "url": "https://blog.naver.com/4-fire/224446825415?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-19-224446825415.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
+    {
+      "naver": {
+        "published_date": "2026-10-19",
+        "title": "Cisco Quantum Summit 2026 Day 1 — 양자 네트워크 전송 인프라를 어떻게 봐야 하나",
+        "logNo": "224446785603",
+        "url": "https://blog.naver.com/4-fire/224446785603?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-19-224446785603.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-18",

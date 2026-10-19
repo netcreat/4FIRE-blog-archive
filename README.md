@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-19T07:01:02+00:00_
+_Automatically generated: 2026-10-19T09:49:44+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,15 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 760 | 84 | 676 | 0 | 0 |
-| Recent 90 days (2026-07-20 → 2026-10-18) | 165 | 68 | 97 | 0 | 0 |
+| All | 762 | 84 | 678 | 0 | 0 |
+| Recent 90 days (2026-07-21 → 2026-10-19) | 166 | 68 | 98 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — Quantum Position Verification(QPV)](posts/2026/2026-10-19-224446825415.md) | ❌ Missing | — | `224446825415` |
+| 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — 양자 네트워크 전송 인프라를 어떻게 봐야 하나](posts/2026/2026-10-19-224446785603.md) | ❌ Missing | — | `224446785603` |
 | 2026-10-18 | [Cisco Quantum Summit 2026 Day 1 — 패널 토론](posts/2026/2026-10-18-224445836524.md) | ❌ Missing | — | `224445836524` |
 | 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt](posts/2026/2026-10-17-224444857373.md) | ✅ Published | [Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt](https://netcreat.substack.com/p/cisco-quantum-summit-2026-day-2-psiquantum) | `224444857373` |
 | 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — 패널 토론](posts/2026/2026-10-17-224444553990.md) | ✅ Published | [Cisco Quantum Summit 2026 Day 2 — Panel Discussion](https://substack.com/home/post/p-220947419) | `224444553990` |
@@ -49,7 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-08 | [GlobalFoundries Investor Day 2026 — 광학·전력·양자·IP를 선택한 파운드리](posts/2026/2026-10-08-224435624365.md) | ❌ Missing | — | `224435624365` |
 | 2026-10-08 | [EUV 없는 반도체 혁명 — Kepler Computing의 강유전체 메모리, GlobalFoundries 그리고 머스크의 Terafab](posts/2026/2026-10-08-224435475308.md) | ✅ Published | [A Semiconductor Revolution Without EUV — Kepler Computing, Ferroelectric Memory, GlobalFoundries, and Musk's Terafab](https://netcreat.substack.com/p/a-semiconductor-revolution-without) | `224435475308` |
 | 2026-10-08 | [Marvell Investor Day 2026](posts/2026/2026-10-08-224435257702.md) | ✅ Published | [Marvell Investor Day 2026 — From Custom ASICs to an AI Data-Movement Platform](https://netcreat.substack.com/p/marvell-investor-day-2026-from-custom) | `224435257702` |
-| 2026-10-08 | [DARPA QBI Stage C 발표 — 재수에 성공한 Atom, 다중 베팅하는 Microsoft, 그리고 Diraq의 시간표](posts/2026/2026-10-08-224434955271.md) | ✅ Published | [DARPA QBI Stage C — Atom Computing's Comeback, Microsoft's Multiple Bets, and Diraq's Timeline](https://netcreat.substack.com/p/darpa-qbi-stage-c-atom-computings) | `224434955271` |
-| 2026-10-07 | [Ayar Labs와 Marvell — AI Scale-Up의 다음 전쟁은 광이 어디까지 들어가느냐에 달려 있다](posts/2026/2026-10-07-224434437418.md) | ✅ Published | [Ayar Labs and Marvell — The Next Battle in AI Scale-Up Is About How Deep Optics Can Move Into the System](https://netcreat.substack.com/p/ayar-labs-and-marvell-the-next-battle) | `224434437418` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

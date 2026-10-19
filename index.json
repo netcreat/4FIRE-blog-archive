@@ -2,8 +2,28 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 760,
+  "totalArchivedPosts": 762,
   "posts": [
+    {
+      "date": "2026-10-19",
+      "published": "2026-10-19T20:23:06+11:00",
+      "title": "Cisco Quantum Summit 2026 Day 1 — Quantum Position Verification(QPV)",
+      "logNo": "224446825415",
+      "source": "https://blog.naver.com/4-fire/224446825415?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-19-224446825415.md",
+      "content_source": "naver_post",
+      "characters": 13463
+    },
+    {
+      "date": "2026-10-19",
+      "published": "2026-10-19T19:43:38+11:00",
+      "title": "Cisco Quantum Summit 2026 Day 1 — 양자 네트워크 전송 인프라를 어떻게 봐야 하나",
+      "logNo": "224446785603",
+      "source": "https://blog.naver.com/4-fire/224446785603?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-19-224446785603.md",
+      "content_source": "naver_post",
+      "characters": 11562
+    },
     {
       "date": "2026-10-18",
       "published": "2026-10-18T23:39:21+11:00",
