@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-19T12:56:25+00:00_
+_Automatically generated: 2026-10-19T15:49:41+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 762 | 84 | 678 | 0 | 0 |
-| Recent 90 days (2026-07-21 → 2026-10-19) | 166 | 68 | 98 | 0 | 0 |
+| All | 763 | 84 | 679 | 0 | 0 |
+| Recent 90 days (2026-07-22 → 2026-10-20) | 165 | 67 | 98 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-20 | [Quantinuum의 논리 오류율 10배 개선의 의미?](posts/2026/2026-10-20-224447108213.md) | ❌ Missing | — | `224447108213` |
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — Quantum Position Verification(QPV)](posts/2026/2026-10-19-224446825415.md) | ❌ Missing | — | `224446825415` |
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — 양자 네트워크 전송 인프라를 어떻게 봐야 하나](posts/2026/2026-10-19-224446785603.md) | ❌ Missing | — | `224446785603` |
 | 2026-10-18 | [Cisco Quantum Summit 2026 Day 1 — 패널 토론](posts/2026/2026-10-18-224445836524.md) | ❌ Missing | — | `224445836524` |
@@ -181,15 +182,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-07-23 | [미국 혁신의 새로운 황금시대를 열다: FY2028 행정부 연구개발 예산 우선순위](posts/2026/2026-07-23-224355281442.md) | ❌ Missing | — | `224355281442` |
 | 2026-07-23 | [Science: A New Golden Age](posts/2026/2026-07-23-224355191418.md) | ❌ Missing | — | `224355191418` |
 | 2026-07-22 | [IonQ가 연결한 미국의 두 양자 허브: Elevate Quantum과 Bloch Quantum](posts/2026/2026-07-22-224354676817.md) | ❌ Missing | — | `224354676817` |
-| 2026-07-21 | [SDA 세번째  Tranche 1 위성을 궤도에.](posts/2026/2026-07-21-224353715240.md) | ❌ Missing | — | `224353715240` |
-| 2026-07-21 | [Fast logical operations in quantum LDPC codes using simple resource states](posts/2026/2026-07-21-224353334531.md) | ✅ Published | [Fast Logical Operations in Quantum LDPC Codes Using Simple Resource States](https://netcreat.substack.com/p/fast-logical-operations-in-quantum) | `224353334531` |
 
 ## Missing from Substack
 
-Total missing: **678**
+Total missing: **679**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-20 | [Quantinuum의 논리 오류율 10배 개선의 의미?](posts/2026/2026-10-20-224447108213.md) | ❌ Missing | — | `224447108213` |
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — Quantum Position Verification(QPV)](posts/2026/2026-10-19-224446825415.md) | ❌ Missing | — | `224446825415` |
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — 양자 네트워크 전송 인프라를 어떻게 봐야 하나](posts/2026/2026-10-19-224446785603.md) | ❌ Missing | — | `224446785603` |
 | 2026-10-18 | [Cisco Quantum Summit 2026 Day 1 — 패널 토론](posts/2026/2026-10-18-224445836524.md) | ❌ Missing | — | `224445836524` |
@@ -876,10 +876,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 762 Naver posts</summary>
+<summary>Show all 763 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-20 | [Quantinuum의 논리 오류율 10배 개선의 의미?](posts/2026/2026-10-20-224447108213.md) | ❌ Missing | — | `224447108213` |
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — Quantum Position Verification(QPV)](posts/2026/2026-10-19-224446825415.md) | ❌ Missing | — | `224446825415` |
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — 양자 네트워크 전송 인프라를 어떻게 봐야 하나](posts/2026/2026-10-19-224446785603.md) | ❌ Missing | — | `224446785603` |
 | 2026-10-18 | [Cisco Quantum Summit 2026 Day 1 — 패널 토론](posts/2026/2026-10-18-224445836524.md) | ❌ Missing | — | `224445836524` |

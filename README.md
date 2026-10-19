@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-19T12:56:25+00:00_
+_Automatically generated: 2026-10-19T15:49:41+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 762 | 84 | 678 | 0 | 0 |
-| Recent 90 days (2026-07-21 → 2026-10-19) | 166 | 68 | 98 | 0 | 0 |
+| All | 763 | 84 | 679 | 0 | 0 |
+| Recent 90 days (2026-07-22 → 2026-10-20) | 165 | 67 | 98 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-20 | [Quantinuum의 논리 오류율 10배 개선의 의미?](posts/2026/2026-10-20-224447108213.md) | ❌ Missing | — | `224447108213` |
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — Quantum Position Verification(QPV)](posts/2026/2026-10-19-224446825415.md) | ❌ Missing | — | `224446825415` |
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — 양자 네트워크 전송 인프라를 어떻게 봐야 하나](posts/2026/2026-10-19-224446785603.md) | ❌ Missing | — | `224446785603` |
 | 2026-10-18 | [Cisco Quantum Summit 2026 Day 1 — 패널 토론](posts/2026/2026-10-18-224445836524.md) | ❌ Missing | — | `224445836524` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-09 | [구름을 뚫지 못하는 레이저로 어떻게 우주 양자통신을 할까? — Capella, Skyloom, Starlink 그리고 IonQ의 QKD 전략](posts/2026/2026-10-09-224435941091.md) | ❌ Missing | — | `224435941091` |
 | 2026-10-08 | [GlobalFoundries Investor Day 2026 — 광학·전력·양자·IP를 선택한 파운드리](posts/2026/2026-10-08-224435624365.md) | ❌ Missing | — | `224435624365` |
 | 2026-10-08 | [EUV 없는 반도체 혁명 — Kepler Computing의 강유전체 메모리, GlobalFoundries 그리고 머스크의 Terafab](posts/2026/2026-10-08-224435475308.md) | ✅ Published | [A Semiconductor Revolution Without EUV — Kepler Computing, Ferroelectric Memory, GlobalFoundries, and Musk's Terafab](https://netcreat.substack.com/p/a-semiconductor-revolution-without) | `224435475308` |
-| 2026-10-08 | [Marvell Investor Day 2026](posts/2026/2026-10-08-224435257702.md) | ✅ Published | [Marvell Investor Day 2026 — From Custom ASICs to an AI Data-Movement Platform](https://netcreat.substack.com/p/marvell-investor-day-2026-from-custom) | `224435257702` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 762,
+  "totalArchivedPosts": 763,
   "posts": [
+    {
+      "date": "2026-10-20",
+      "published": "2026-10-20T01:23:25+11:00",
+      "title": "Quantinuum의 논리 오류율 10배 개선의 의미?",
+      "logNo": "224447108213",
+      "source": "https://blog.naver.com/4-fire/224447108213?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-20-224447108213.md",
+      "content_source": "naver_post",
+      "characters": 20645
+    },
     {
       "date": "2026-10-19",
       "published": "2026-10-19T20:23:06+11:00",

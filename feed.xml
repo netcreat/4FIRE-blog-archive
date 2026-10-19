@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Mon, 19 Oct 2026 21:55:56 +0900</pubDate>
+            <pubDate>Tue, 20 Oct 2026 00:49:09 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Quantinuum]]></category>
+                <title><![CDATA[Quantinuum의 논리 오류율 10배 개선의 의미?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224447108213?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224447108213</guid>
+                
+                <description><![CDATA[✅ IonQ의 고충실도·대량생산 전략과 비교하면? 2026년 10월 19일 Quantinuum은 Helios 양자컴퓨터에서 99.9995%의 논리 메모리 충실도(Logical Memory Fidelity)를 달성했다고 발표했다. 지난 9월 Helix Code로 세운 자사의 기록보다 오류율을 약 10배 낮췄으며, Code Distance가 증가할 때 논리 오류가 평균 12분의 1로 감소하는 결과도 제시했다. 이 발표를 보고 몇 가지 의문이 생겼다. Quantinuum은 왜 부호화 효율이 높은 BB 계열 qLDPC 대신 Color Code를 사용했을까? 발표에 등장하는 Λ=12는 어떤 의미이며, IonQ에도 이에 대응하는 실험 결과가 있을까? Quantinuum의 99.9995%와 IonQ의 99.99% 또는 99.995%를 직접 비교할 수 있....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTlfMTUz/MDAxNzkyNDE4NzAyMDU3.-d8QwwBw_hFAYBcWpPLcuu8k1P3nMcO-m-xLveMgkEog.jklVocsbUfsLx2vlBfS4WSPgAex44U9zw_rFBgMsthUg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Mon, 19 Oct 2026 23:23:25 +0900</pubDate>
+                <tag><![CDATA[Quantinuum]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 
                 <pubDate>Tue, 29 Sep 2026 15:36:32 +0900</pubDate>
                 <tag><![CDATA[중국,양자추격]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[Nexus Photonics의 100GHz가 의미하는 것 — Broadcom과 1.6T에서 보이는 새로운 퍼즐]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224425266846?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224425266846</guid>
-                <description><![CDATA[✅ 지난번 Broadcom·AMD·ARM 분석에서 시작된 의문 지난번 QWC에서 공개된 슬라이드를 보면서 한 가지 흥미로운 부분을 살펴봤다. IonQ의 생태계 그림에 단순한 양자컴퓨팅 업체들만 등장한 것이 아니라 Broadcom, AMD, ARM 같은 고전 컴퓨팅 핵심 업체들이 함께 등장했다는 점이었다. 당시 나는 이를 단순한 파트너 로고 모음이라기보다, 장기적으로는 양자컴퓨터가 기존 CPU·GPU·네트워크 인프라와 연결되는 구조를 염두에 둔 것일 가능성을 생각해봤다. 특히 Nexus Photonics를 공부하면서 다음과 같은 가설을 제시했다. NVIDIA가 NVQLink를 통해 GPU와 여러 종류의 QPU를 연결하는 인터페이스를 선점하려 한다면, IonQ는 Nexus Photonics를 통.......]]></description>
-                
-                <pubDate>Mon, 28 Sep 2026 22:29:26 +0900</pubDate>
-                <tag><![CDATA[Nexus,Broadcom,100GHz,NRZ,PAM4,16QAM]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>
