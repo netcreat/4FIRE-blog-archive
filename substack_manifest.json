@@ -948,6 +948,17 @@
           "post_id": "220947419"
         }
       ]
+    },
+    "224263659154": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Trapped-Ion Computing Is Not an Array—It Is a Moving Network",
+          "url": "https://netcreat.substack.com/p/trapped-ion-computing-is-not-an-arrayit",
+          "published_date": "2026-10-23"
+        }
+      ]
     }
   }
 }
