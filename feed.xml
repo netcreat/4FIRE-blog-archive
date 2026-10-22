@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Thu, 22 Oct 2026 18:47:57 +0900</pubDate>
+            <pubDate>Thu, 22 Oct 2026 21:55:27 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Shorts]]></category>
+                <title><![CDATA[양자컴퓨터가 해킹당한다면?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224450586859?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224450586859</guid>
+                <description><![CDATA[✅ 세상의 암호를 깨는 양자컴퓨터, 그런데 누군가 그 컴퓨터를 해킹한다면? 어느 날, 인류가 마침내 기존의 강력한 암호를 해독할 수 있는 양자컴퓨터를 개발했다고 가정해 보겠습니다. 은행과 정부기관은 비상이 걸릴 것입니다. 지금까지 안전하다고 믿었던 RSA 같은 암호가 더 이상 안전하지 않을 수 있기 때문입니다. 그런데 여기서 이상한 생각이 하나 듭니다. "그렇게 강력한 양자컴퓨터를 누군가 해킹해서 자기 마음대로 사용한다면 어떻게 될까요?" 사실 양자컴퓨터도 일반 컴퓨터의 도움을 받아 작동합니다. 인터넷으로 명령을 전달하고, 계산을 제어하고, 결과를 받아오는 과정에는 기존 서버와 소프트웨어가 사용됩니다. 따.......]]></description>
+                
+                <pubDate>Thu, 22 Oct 2026 21:50:31 +0900</pubDate>
+                <tag><![CDATA[양자컴퓨터,해킹,보안]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 기술 경쟁력·시장 크기·미래 TAM·밸류에이션을 하나로 합친 포토닉스/AI 인프라 종합 리포트 기준 시점: 2026년 9월 말 이 7개 기업을 단순히 ‘광학주’, ‘포토닉스주’, 심지어 ‘양자 관련주’라는 하나의 카테고리로 묶으면 산업 구조를 거의 이해할 수 없다. Lumentum(LITE)과 Coherent(COHR)는 실제로 빛을 만들고 변조하고 증폭하고 스위칭하는 active photonics가 핵심이다. Corning(GLW)은 빛이 이동하는 광섬유와 유리·케이블·커넥티비티라는 물리 인프라에 강하다. LightPath Technologies(LPTH)는 통신 광학보다 IR 소재·렌즈·열화상·방산 시스템에 가깝다. 반면 Marvell(MRVL)과 Broadcom(AVGO)은 광자를 직접 만드는 회사라기....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MzBfMTUg/MDAxNzkwNzMxNjc5MDg4.NmnROCcmtvd7OGGa3ZQsG53_HTrfcNBAajSnCzfTWSUg.TL_Q49DJ59eQmHJpIw-WWANgK0nqaSjiMoGtE4Hpqgkg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Wed, 30 Sep 2026 10:49:47 +0900</pubDate>
                 <tag><![CDATA[COHR,LITE,GLW,LPTH,MRVL,AVGO,AAOI]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Computing]]></category>
-                <title><![CDATA[중국의 양자 추격, 이제 QPU가 아니라 생태계를 봐야 한다]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224426013000?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224426013000</guid>
-                <description><![CDATA[✅ 8월에는 중국이 무엇을 따라오고 있는지를 봤다 지난 8월 초 「미국에서 중국으로 돌아간 양자 연구자들」이라는 포스트를 작성하면서 중국의 양자기술 추격을 꽤 긴 호흡으로 살펴본 적이 있다. 당시 관심의 출발점은 왕예(Ye Wang)를 비롯해 미국 주요 양자 연구기관에서 경험을 쌓은 연구자들이 중국으로 돌아가면서 어떤 기술들이 중국 연구생태계 안에서 다시 결합되고 있는가였다. Duke의 이온트랩 게이트와 오류제어, NIST의 QCCD와 이온 수송, JQI의 네트워크 기술, Yale과 UCSB의 초전도 기술, Stanford와 MIT의 양자통신 기술이 서로 다른 연구자들을 통해 중국으로 흘러들어갔다. 중요한 것은 한 연구자가 기술 하나를 가지고 돌아.......]]></description>
-                
-                <pubDate>Tue, 29 Sep 2026 15:36:32 +0900</pubDate>
-                <tag><![CDATA[중국,양자추격]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

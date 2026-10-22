@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-22T09:48:26+00:00_
+_Automatically generated: 2026-10-22T12:55:57+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 763 | 84 | 679 | 0 | 0 |
-| Recent 90 days (2026-07-22 → 2026-10-20) | 165 | 67 | 98 | 0 | 0 |
+| All | 764 | 84 | 680 | 0 | 0 |
+| Recent 90 days (2026-07-24 → 2026-10-22) | 162 | 67 | 95 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-22 | [양자컴퓨터가 해킹당한다면?](posts/2026/2026-10-22-224450586859.md) | ❌ Missing | — | `224450586859` |
 | 2026-10-20 | [Quantinuum의 논리 오류율 10배 개선의 의미?](posts/2026/2026-10-20-224447108213.md) | ❌ Missing | — | `224447108213` |
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — Quantum Position Verification(QPV)](posts/2026/2026-10-19-224446825415.md) | ❌ Missing | — | `224446825415` |
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — 양자 네트워크 전송 인프라를 어떻게 봐야 하나](posts/2026/2026-10-19-224446785603.md) | ❌ Missing | — | `224446785603` |
@@ -178,17 +179,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-07-24 | [IBM이 HRL을 인수한 진짜 의미(3) : 그럼 Boeing과 GM은 HRL을 매각했나?](posts/2026/2026-07-24-224356620786.md) | ❌ Missing | — | `224356620786` |
 | 2026-07-24 | [IBM이 HRL을 인수한 진짜 의미(2) : IBM은 왜 HRL을 인수했나?](posts/2026/2026-07-24-224356614701.md) | ❌ Missing | — | `224356614701` |
 | 2026-07-24 | [IBM이 HRL을 인수한 진짜 의미(1) : 실리콘 양자컴퓨터 종류](posts/2026/2026-07-24-224356583793.md) | ❌ Missing | — | `224356583793` |
-| 2026-07-23 | [Psiquantum만 단독으로 QBI C단계 통과됐다고?](posts/2026/2026-07-23-224355687427.md) | ❌ Missing | — | `224355687427` |
-| 2026-07-23 | [미국 혁신의 새로운 황금시대를 열다: FY2028 행정부 연구개발 예산 우선순위](posts/2026/2026-07-23-224355281442.md) | ❌ Missing | — | `224355281442` |
-| 2026-07-23 | [Science: A New Golden Age](posts/2026/2026-07-23-224355191418.md) | ❌ Missing | — | `224355191418` |
-| 2026-07-22 | [IonQ가 연결한 미국의 두 양자 허브: Elevate Quantum과 Bloch Quantum](posts/2026/2026-07-22-224354676817.md) | ❌ Missing | — | `224354676817` |
 
 ## Missing from Substack
 
-Total missing: **679**
+Total missing: **680**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-22 | [양자컴퓨터가 해킹당한다면?](posts/2026/2026-10-22-224450586859.md) | ❌ Missing | — | `224450586859` |
 | 2026-10-20 | [Quantinuum의 논리 오류율 10배 개선의 의미?](posts/2026/2026-10-20-224447108213.md) | ❌ Missing | — | `224447108213` |
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — Quantum Position Verification(QPV)](posts/2026/2026-10-19-224446825415.md) | ❌ Missing | — | `224446825415` |
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — 양자 네트워크 전송 인프라를 어떻게 봐야 하나](posts/2026/2026-10-19-224446785603.md) | ❌ Missing | — | `224446785603` |
@@ -876,10 +874,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 763 Naver posts</summary>
+<summary>Show all 764 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-22 | [양자컴퓨터가 해킹당한다면?](posts/2026/2026-10-22-224450586859.md) | ❌ Missing | — | `224450586859` |
 | 2026-10-20 | [Quantinuum의 논리 오류율 10배 개선의 의미?](posts/2026/2026-10-20-224447108213.md) | ❌ Missing | — | `224447108213` |
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — Quantum Position Verification(QPV)](posts/2026/2026-10-19-224446825415.md) | ❌ Missing | — | `224446825415` |
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — 양자 네트워크 전송 인프라를 어떻게 봐야 하나](posts/2026/2026-10-19-224446785603.md) | ❌ Missing | — | `224446785603` |
