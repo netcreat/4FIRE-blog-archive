@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T12:55:57+00:00",
+  "generated_at": "2026-10-22T13:05:23+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 764,
-    "published": 84,
-    "missing": 680,
+    "published": 85,
+    "missing": 679,
     "skip": 0,
     "check": 0
   },
@@ -4898,10 +4898,18 @@
         "url": "https://blog.naver.com/4-fire/224263659154",
         "github_archive": "posts/2026/2026-04-24-224263659154.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Trapped-Ion Computing Is Not an Array—It Is a Moving Network",
+          "url": "https://netcreat.substack.com/p/trapped-ion-computing-is-not-an-arrayit",
+          "published_date": "2026-10-23",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {

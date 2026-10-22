@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-22T12:55:57+00:00_
+_Automatically generated: 2026-10-22T13:05:23+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,7 +10,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 764 | 84 | 680 | 0 | 0 |
+| All | 764 | 85 | 679 | 0 | 0 |
 | Recent 90 days (2026-07-24 → 2026-10-22) | 162 | 67 | 95 | 0 | 0 |
 
 ## Recent 90 days
@@ -182,7 +182,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **680**
+Total missing: **679**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
@@ -406,7 +406,6 @@ Total missing: **680**
 | 2026-04-25 | [Cisco, UCSB와 협력하여 확장 가능한 양자 네트워크를 위한양자 정보를 보존하는 범용 광자 스위치 발표](posts/2026/2026-04-25-224264848979.md) | ❌ Missing | — | `224264848979` |
 | 2026-04-25 | [이온트랩을 이용한 FTQC: Walking Cat 아키텍처 (3)- Part3.1- Logical Architecture Components and operations](posts/2026/2026-04-25-224264544239.md) | ❌ Missing | — | `224264544239` |
 | 2026-04-24 | [이온트랩을 이용한 FTQC: Walking Cat 아키텍처 (2)- Part2 - Moving-Qubit Model](posts/2026/2026-04-24-224264116845.md) | ❌ Missing | — | `224264116845` |
-| 2026-04-24 | [이온트랩은 배열이 아니라 움직이는 네트워크다](posts/2026/2026-04-24-224263659154.md) | ❌ Missing | — | `224263659154` |
 | 2026-04-23 | [이온트랩을 이용한 FTQC: Walking Cat 아키텍처 (1)- Part - Introduction and Overview](posts/2026/2026-04-23-224262826596.md) | ❌ Missing | — | `224262826596` |
 | 2026-04-21 | [IonQ 컴퓨트 부문 President가 말하는 양자컴퓨팅의 현실: 배선, CMOS 스케일링, 그리고 제조 경쟁의 시작](posts/2026/2026-04-21-224259707282.md) | ❌ Missing | — | `224259707282` |
 | 2026-04-20 | [IonQ 컴퓨트 부문 CTO가 말하는 양자컴퓨팅의 현실: 칩, 스케일링, 그리고 산업화의 시작](posts/2026/2026-04-20-224258952760.md) | ❌ Missing | — | `224258952760` |
@@ -1178,7 +1177,7 @@ _Not calculated because the public sitemap fetch failed._
 | 2026-04-25 | [Cisco, UCSB와 협력하여 확장 가능한 양자 네트워크를 위한양자 정보를 보존하는 범용 광자 스위치 발표](posts/2026/2026-04-25-224264848979.md) | ❌ Missing | — | `224264848979` |
 | 2026-04-25 | [이온트랩을 이용한 FTQC: Walking Cat 아키텍처 (3)- Part3.1- Logical Architecture Components and operations](posts/2026/2026-04-25-224264544239.md) | ❌ Missing | — | `224264544239` |
 | 2026-04-24 | [이온트랩을 이용한 FTQC: Walking Cat 아키텍처 (2)- Part2 - Moving-Qubit Model](posts/2026/2026-04-24-224264116845.md) | ❌ Missing | — | `224264116845` |
-| 2026-04-24 | [이온트랩은 배열이 아니라 움직이는 네트워크다](posts/2026/2026-04-24-224263659154.md) | ❌ Missing | — | `224263659154` |
+| 2026-04-24 | [이온트랩은 배열이 아니라 움직이는 네트워크다](posts/2026/2026-04-24-224263659154.md) | ✅ Published | [Trapped-Ion Computing Is Not an Array—It Is a Moving Network](https://netcreat.substack.com/p/trapped-ion-computing-is-not-an-arrayit) | `224263659154` |
 | 2026-04-23 | [이온트랩을 이용한 FTQC: Walking Cat 아키텍처 (1)- Part - Introduction and Overview](posts/2026/2026-04-23-224262826596.md) | ❌ Missing | — | `224262826596` |
 | 2026-04-21 | [IonQ 컴퓨트 부문 President가 말하는 양자컴퓨팅의 현실: 배선, CMOS 스케일링, 그리고 제조 경쟁의 시작](posts/2026/2026-04-21-224259707282.md) | ❌ Missing | — | `224259707282` |
 | 2026-04-20 | [영국의 양자 전략 - ProQure, 양자 네트워킹, 그리고 2030년 이후 국가 조달의 방향](posts/2026/2026-04-20-224259267885.md) | ✅ Published | [The UK's Quantum Strategy — ProQure, Quantum Networking, and the Road to National Procurement Beyond 2030](https://netcreat.substack.com/p/the-uks-quantum-strategy-proqure) | `224259267885` |
