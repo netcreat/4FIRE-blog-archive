@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T03:45:59+00:00",
+  "generated_at": "2026-10-23T04:15:43+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 765,
-    "published": 88,
-    "missing": 677,
+    "published": 89,
+    "missing": 676,
     "skip": 0,
     "check": 0
   },
@@ -9894,10 +9894,18 @@
         "url": "https://blog.naver.com/4-fire/223996526279",
         "github_archive": "posts/2025/2025-09-05-223996526279.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Approaches to Scaling QCCD Control Wiring",
+          "url": "https://netcreat.substack.com/p/approaches-to-scaling-qccd-control",
+          "published_date": "2026-10-23",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {

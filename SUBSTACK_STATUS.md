@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-23T03:45:59+00:00_
+_Automatically generated: 2026-10-23T04:15:43+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,7 +10,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 765 | 88 | 677 | 0 | 0 |
+| All | 765 | 89 | 676 | 0 | 0 |
 | Recent 90 days (2026-07-25 → 2026-10-23) | 160 | 67 | 93 | 0 | 0 |
 
 ## Recent 90 days
@@ -180,7 +180,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **677**
+Total missing: **676**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
@@ -753,7 +753,6 @@ Total missing: **677**
 | 2025-09-07 | [IonQ의 Duke와 UMD의 특허 사용권리](posts/2025/2025-09-07-223998073788.md) | ❌ Missing | — | `223998073788` |
 | 2025-09-06 | [Moveless: Minimizing QEC Overhead on QCCDs](posts/2025/2025-09-06-223997884902.md) | ❌ Missing | — | `223997884902` |
 | 2025-09-05 | [NSF의 추가 양자 지원 프로그램 발표](posts/2025/2025-09-05-223997006035.md) | ❌ Missing | — | `223997006035` |
-| 2025-09-05 | [QCCD 의 배선 확장을 위한 접근 방식](posts/2025/2025-09-05-223996526279.md) | ❌ Missing | — | `223996526279` |
 | 2025-09-04 | [Microsoft Quantum의 전략변경과 IonQ의 횡재](posts/2025/2025-09-04-223994831510.md) | ❌ Missing | — | `223994831510` |
 | 2025-09-04 | [Microsoft, 새로운 4차원 기하학적 코드로 양자 오류 정정 기술 진전](posts/2025/2025-09-04-223994510116.md) | ❌ Missing | — | `223994510116` |
 | 2025-09-03 | [오크리지 국립연구소(ORNL), Quantum Brilliance와 협력해 최초의 상온 양자컴퓨터 클러스터 설치](posts/2025/2025-09-03-223994326689.md) | ❌ Missing | — | `223994326689` |
@@ -1527,7 +1526,7 @@ _Not calculated because the public sitemap fetch failed._
 | 2025-09-07 | [IonQ의 Duke와 UMD의 특허 사용권리](posts/2025/2025-09-07-223998073788.md) | ❌ Missing | — | `223998073788` |
 | 2025-09-06 | [Moveless: Minimizing QEC Overhead on QCCDs](posts/2025/2025-09-06-223997884902.md) | ❌ Missing | — | `223997884902` |
 | 2025-09-05 | [NSF의 추가 양자 지원 프로그램 발표](posts/2025/2025-09-05-223997006035.md) | ❌ Missing | — | `223997006035` |
-| 2025-09-05 | [QCCD 의 배선 확장을 위한 접근 방식](posts/2025/2025-09-05-223996526279.md) | ❌ Missing | — | `223996526279` |
+| 2025-09-05 | [QCCD 의 배선 확장을 위한 접근 방식](posts/2025/2025-09-05-223996526279.md) | ✅ Published | [Approaches to Scaling QCCD Control Wiring](https://netcreat.substack.com/p/approaches-to-scaling-qccd-control) | `223996526279` |
 | 2025-09-04 | [Microsoft Quantum의 전략변경과 IonQ의 횡재](posts/2025/2025-09-04-223994831510.md) | ❌ Missing | — | `223994831510` |
 | 2025-09-04 | [Microsoft, 새로운 4차원 기하학적 코드로 양자 오류 정정 기술 진전](posts/2025/2025-09-04-223994510116.md) | ❌ Missing | — | `223994510116` |
 | 2025-09-03 | [오크리지 국립연구소(ORNL), Quantum Brilliance와 협력해 최초의 상온 양자컴퓨터 클러스터 설치](posts/2025/2025-09-03-223994326689.md) | ❌ Missing | — | `223994326689` |
