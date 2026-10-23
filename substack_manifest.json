@@ -1037,6 +1037,17 @@
           "post_id": "221758070"
         }
       ]
+    },
+    "224072805567": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "The Reality of Synthetic Aperture Radar (SAR) and Ways to Improve It",
+          "url": "https://netcreat.substack.com/p/the-reality-of-synthetic-aperture",
+          "published_date": "2026-10-24"
+        }
+      ]
     }
   }
 }
