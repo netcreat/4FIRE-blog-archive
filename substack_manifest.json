@@ -970,6 +970,17 @@
           "published_date": "2026-10-23"
         }
       ]
+    },
+    "223964102139": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Oxford Ionics' Design Philosophy: An Analysis of Two Research Papers",
+          "url": "https://netcreat.substack.com/p/oxford-ionics-design-philosophy-an",
+          "published_date": "2026-10-23"
+        }
+      ]
     }
   }
 }
