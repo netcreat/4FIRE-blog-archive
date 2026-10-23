@@ -1014,6 +1014,29 @@
           "published_date": "2026-10-23"
         }
       ]
+    },
+    "224446785603": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Cisco Quantum Summit 2026 Day 1 — How Should We Evaluate Quantum Network Transmission Infrastructure?",
+          "url": "https://netcreat.substack.com/p/cisco-quantum-summit-2026-day-1-how",
+          "published_date": "2026-10-23"
+        }
+      ]
+    },
+    "224447108213": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "What Does Quantinuum's 10× Reduction in Logical Error Rate Really Mean?",
+          "url": "https://substack.com/home/post/p-221758070",
+          "published_date": "2026-10-23",
+          "post_id": "221758070"
+        }
+      ]
     }
   }
 }
