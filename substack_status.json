@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T00:59:52+00:00",
+  "generated_at": "2026-10-23T03:12:19+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 765,
-    "published": 86,
-    "missing": 679,
+    "published": 87,
+    "missing": 678,
     "skip": 0,
     "check": 0
   },
@@ -10594,10 +10594,18 @@
         "url": "https://blog.naver.com/4-fire/223964102139",
         "github_archive": "posts/2025/2025-08-08-223964102139.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Oxford Ionics' Design Philosophy: An Analysis of Two Research Papers",
+          "url": "https://netcreat.substack.com/p/oxford-ionics-design-philosophy-an",
+          "published_date": "2026-10-23",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {

@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-23T00:59:52+00:00_
+_Automatically generated: 2026-10-23T03:12:19+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,7 +10,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 765 | 86 | 679 | 0 | 0 |
+| All | 765 | 87 | 678 | 0 | 0 |
 | Recent 90 days (2026-07-25 → 2026-10-23) | 160 | 67 | 93 | 0 | 0 |
 
 ## Recent 90 days
@@ -180,7 +180,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **679**
+Total missing: **678**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
@@ -803,7 +803,6 @@ Total missing: **679**
 | 2025-08-10 | [IBM의 Relay-BP (feat. 고요속의 외침)](posts/2025/2025-08-10-223965497190.md) | ❌ Missing | — | `223965497190` |
 | 2025-08-09 | [QEC 디코더를 위한 하드웨어 선정시 고려사항](posts/2025/2025-08-09-223965017090.md) | ❌ Missing | — | `223965017090` |
 | 2025-08-09 | [IonQ, qLDPC를 위한 새로운 양자 메모리 아키텍처 공개](posts/2025/2025-08-09-223964754536.md) | ❌ Missing | — | `223964754536` |
-| 2025-08-08 | [Oxford Ionics 설계 철학 분석](posts/2025/2025-08-08-223964102139.md) | ❌ Missing | — | `223964102139` |
 | 2025-08-08 | [양자 오류 정정 (QEC) 작동 원리](posts/2025/2025-08-08-223963002872.md) | ❌ Missing | — | `223963002872` |
 | 2025-08-05 | [전자기파의 주파수와 파장](posts/2025/2025-08-05-223960189106.md) | ❌ Missing | — | `223960189106` |
 | 2025-08-04 | [이온트랩 양자컴퓨터의 메모리 종류](posts/2025/2025-08-04-223958857609.md) | ❌ Missing | — | `223958857609` |
@@ -1579,7 +1578,7 @@ _Not calculated because the public sitemap fetch failed._
 | 2025-08-10 | [IBM의 Relay-BP (feat. 고요속의 외침)](posts/2025/2025-08-10-223965497190.md) | ❌ Missing | — | `223965497190` |
 | 2025-08-09 | [QEC 디코더를 위한 하드웨어 선정시 고려사항](posts/2025/2025-08-09-223965017090.md) | ❌ Missing | — | `223965017090` |
 | 2025-08-09 | [IonQ, qLDPC를 위한 새로운 양자 메모리 아키텍처 공개](posts/2025/2025-08-09-223964754536.md) | ❌ Missing | — | `223964754536` |
-| 2025-08-08 | [Oxford Ionics 설계 철학 분석](posts/2025/2025-08-08-223964102139.md) | ❌ Missing | — | `223964102139` |
+| 2025-08-08 | [Oxford Ionics 설계 철학 분석](posts/2025/2025-08-08-223964102139.md) | ✅ Published | [Oxford Ionics' Design Philosophy: An Analysis of Two Research Papers](https://netcreat.substack.com/p/oxford-ionics-design-philosophy-an) | `223964102139` |
 | 2025-08-08 | [양자 오류 정정 (QEC) 작동 원리](posts/2025/2025-08-08-223963002872.md) | ❌ Missing | — | `223963002872` |
 | 2025-08-05 | [전자기파의 주파수와 파장](posts/2025/2025-08-05-223960189106.md) | ❌ Missing | — | `223960189106` |
 | 2025-08-04 | [이온트랩 양자컴퓨터의 메모리 종류](posts/2025/2025-08-04-223958857609.md) | ❌ Missing | — | `223958857609` |
