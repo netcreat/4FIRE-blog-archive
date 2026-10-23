@@ -1003,6 +1003,17 @@
           "published_date": "2026-10-23"
         }
       ]
+    },
+    "224435941091": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "How Can Space Quantum Communications Work If Lasers Cannot Penetrate Clouds? — Capella, Skyloom, Starlink, and IonQ's QKD Strategy",
+          "url": "https://netcreat.substack.com/p/how-can-space-quantum-communications",
+          "published_date": "2026-10-23"
+        }
+      ]
     }
   }
 }
