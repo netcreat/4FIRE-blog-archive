@@ -981,6 +981,17 @@
           "published_date": "2026-10-23"
         }
       ]
+    },
+    "223979308744": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Oxford Ionics' QCCD",
+          "url": "https://netcreat.substack.com/p/oxford-ionics-qccd",
+          "published_date": "2026-10-23"
+        }
+      ]
     }
   }
 }
