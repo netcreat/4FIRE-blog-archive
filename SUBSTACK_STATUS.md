@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-23T06:56:15+00:00_
+_Automatically generated: 2026-10-23T09:26:00+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,8 +10,8 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 765 | 89 | 676 | 0 | 0 |
-| Recent 90 days (2026-07-25 → 2026-10-23) | 160 | 67 | 93 | 0 | 0 |
+| All | 765 | 90 | 675 | 0 | 0 |
+| Recent 90 days (2026-07-25 → 2026-10-23) | 160 | 68 | 92 | 0 | 0 |
 
 ## Recent 90 days
 
@@ -46,7 +46,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-10-09 | [아이온큐의 다음 빅 허들은 무엇인가?](posts/2026/2026-10-09-224436465772.md) | ✅ Published | [What Is IonQ’s Next Big Hurdle?](https://netcreat.substack.com/p/what-is-ionqs-next-big-hurdle) | `224436465772` |
 | 2026-10-09 | [인터포저가 바꾸는 반도체 생태계](posts/2026/2026-10-09-224435985869.md) | ✅ Published | [How Interposers Are Reshaping the Semiconductor Ecosystem](https://netcreat.substack.com/p/how-interposers-are-reshaping-the) | `224435985869` |
 | 2026-10-09 | [미국 국방부, 양자컴퓨팅에 3억 5천만 달러 투입 — DARPA Stage C와 PsiQuantum 대출, 그리고 국가 양자전략의 변화](posts/2026/2026-10-09-224435960562.md) | ✅ Published | [The Pentagon’s $350 Million Quantum Push — DARPA Stage C, PsiQuantum’s Loan, and a Shift in U.S. Quantum Strategy](https://substack.com/home/post/p-219518246) | `224435960562` |
-| 2026-10-09 | [구름을 뚫지 못하는 레이저로 어떻게 우주 양자통신을 할까? — Capella, Skyloom, Starlink 그리고 IonQ의 QKD 전략](posts/2026/2026-10-09-224435941091.md) | ❌ Missing | — | `224435941091` |
+| 2026-10-09 | [구름을 뚫지 못하는 레이저로 어떻게 우주 양자통신을 할까? — Capella, Skyloom, Starlink 그리고 IonQ의 QKD 전략](posts/2026/2026-10-09-224435941091.md) | ✅ Published | [How Can Space Quantum Communications Work If Lasers Cannot Penetrate Clouds? — Capella, Skyloom, Starlink, and IonQ's QKD Strategy](https://netcreat.substack.com/p/how-can-space-quantum-communications) | `224435941091` |
 | 2026-10-08 | [GlobalFoundries Investor Day 2026 — 광학·전력·양자·IP를 선택한 파운드리](posts/2026/2026-10-08-224435624365.md) | ❌ Missing | — | `224435624365` |
 | 2026-10-08 | [EUV 없는 반도체 혁명 — Kepler Computing의 강유전체 메모리, GlobalFoundries 그리고 머스크의 Terafab](posts/2026/2026-10-08-224435475308.md) | ✅ Published | [A Semiconductor Revolution Without EUV — Kepler Computing, Ferroelectric Memory, GlobalFoundries, and Musk's Terafab](https://netcreat.substack.com/p/a-semiconductor-revolution-without) | `224435475308` |
 | 2026-10-08 | [Marvell Investor Day 2026](posts/2026/2026-10-08-224435257702.md) | ✅ Published | [Marvell Investor Day 2026 — From Custom ASICs to an AI Data-Movement Platform](https://netcreat.substack.com/p/marvell-investor-day-2026-from-custom) | `224435257702` |
@@ -180,7 +180,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **676**
+Total missing: **675**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
@@ -193,7 +193,6 @@ Total missing: **676**
 | 2026-10-16 | [IonQ 3차례 유상증자 분석 — HCM은 주식을 팔고 워런트로 얼마나 벌 수 있을까?](posts/2026/2026-10-16-224443846709.md) | ❌ Missing | — | `224443846709` |
 | 2026-10-14 | [코닝을 유리회사로만 보면 놓치는 것 — 반도체 원재료부터 Glass Core·GlassBridge까지](posts/2026/2026-10-14-224441507057.md) | ❌ Missing | — | `224441507057` |
 | 2026-10-13 | [IonQ, Elisity 인수에 관한 8-K 공지](posts/2026/2026-10-13-224440626371.md) | ❌ Missing | — | `224440626371` |
-| 2026-10-09 | [구름을 뚫지 못하는 레이저로 어떻게 우주 양자통신을 할까? — Capella, Skyloom, Starlink 그리고 IonQ의 QKD 전략](posts/2026/2026-10-09-224435941091.md) | ❌ Missing | — | `224435941091` |
 | 2026-10-08 | [GlobalFoundries Investor Day 2026 — 광학·전력·양자·IP를 선택한 파운드리](posts/2026/2026-10-08-224435624365.md) | ❌ Missing | — | `224435624365` |
 | 2026-09-24 | [IonQ Superion 256, FIU에 판매. 양자 네트워킹에서 컴퓨팅까지 이어지는 새로운 사업 구조](posts/2026/2026-09-24-224422062043.md) | ❌ Missing | — | `224422062043` |
 | 2026-09-24 | [IonQ 소프트 디코딩 논문 완전 해설: 580배 오류 억제부터 논리 큐비트 수명 13.66초까지](posts/2026/2026-09-24-224422011850.md) | ❌ Missing | — | `224422011850` |
@@ -901,7 +900,7 @@ _Not calculated because the public sitemap fetch failed._
 | 2026-10-09 | [아이온큐의 다음 빅 허들은 무엇인가?](posts/2026/2026-10-09-224436465772.md) | ✅ Published | [What Is IonQ’s Next Big Hurdle?](https://netcreat.substack.com/p/what-is-ionqs-next-big-hurdle) | `224436465772` |
 | 2026-10-09 | [인터포저가 바꾸는 반도체 생태계](posts/2026/2026-10-09-224435985869.md) | ✅ Published | [How Interposers Are Reshaping the Semiconductor Ecosystem](https://netcreat.substack.com/p/how-interposers-are-reshaping-the) | `224435985869` |
 | 2026-10-09 | [미국 국방부, 양자컴퓨팅에 3억 5천만 달러 투입 — DARPA Stage C와 PsiQuantum 대출, 그리고 국가 양자전략의 변화](posts/2026/2026-10-09-224435960562.md) | ✅ Published | [The Pentagon’s $350 Million Quantum Push — DARPA Stage C, PsiQuantum’s Loan, and a Shift in U.S. Quantum Strategy](https://substack.com/home/post/p-219518246) | `224435960562` |
-| 2026-10-09 | [구름을 뚫지 못하는 레이저로 어떻게 우주 양자통신을 할까? — Capella, Skyloom, Starlink 그리고 IonQ의 QKD 전략](posts/2026/2026-10-09-224435941091.md) | ❌ Missing | — | `224435941091` |
+| 2026-10-09 | [구름을 뚫지 못하는 레이저로 어떻게 우주 양자통신을 할까? — Capella, Skyloom, Starlink 그리고 IonQ의 QKD 전략](posts/2026/2026-10-09-224435941091.md) | ✅ Published | [How Can Space Quantum Communications Work If Lasers Cannot Penetrate Clouds? — Capella, Skyloom, Starlink, and IonQ's QKD Strategy](https://netcreat.substack.com/p/how-can-space-quantum-communications) | `224435941091` |
 | 2026-10-08 | [GlobalFoundries Investor Day 2026 — 광학·전력·양자·IP를 선택한 파운드리](posts/2026/2026-10-08-224435624365.md) | ❌ Missing | — | `224435624365` |
 | 2026-10-08 | [EUV 없는 반도체 혁명 — Kepler Computing의 강유전체 메모리, GlobalFoundries 그리고 머스크의 Terafab](posts/2026/2026-10-08-224435475308.md) | ✅ Published | [A Semiconductor Revolution Without EUV — Kepler Computing, Ferroelectric Memory, GlobalFoundries, and Musk's Terafab](https://netcreat.substack.com/p/a-semiconductor-revolution-without) | `224435475308` |
 | 2026-10-08 | [Marvell Investor Day 2026](posts/2026/2026-10-08-224435257702.md) | ✅ Published | [Marvell Investor Day 2026 — From Custom ASICs to an AI Data-Movement Platform](https://netcreat.substack.com/p/marvell-investor-day-2026-from-custom) | `224435257702` |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T06:56:15+00:00",
+  "generated_at": "2026-10-23T09:26:00+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 765,
-    "published": 89,
-    "missing": 676,
+    "published": 90,
+    "missing": 675,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-25",
     "end": "2026-10-23",
     "total": 160,
-    "published": 67,
-    "missing": 93,
+    "published": 68,
+    "missing": 92,
     "skip": 0,
     "check": 0
   },
@@ -617,10 +617,18 @@
         "url": "https://blog.naver.com/4-fire/224435941091?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-09-224435941091.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "How Can Space Quantum Communications Work If Lasers Cannot Penetrate Clouds? — Capella, Skyloom, Starlink, and IonQ's QKD Strategy",
+          "url": "https://netcreat.substack.com/p/how-can-space-quantum-communications",
+          "published_date": "2026-10-23",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
