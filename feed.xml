@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Fri, 23 Oct 2026 06:43:04 +0900</pubDate>
+            <pubDate>Fri, 23 Oct 2026 09:37:09 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[양자컴퓨터가 해킹당한다면? - 심화편]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224450875880?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224450875880</guid>
+                <description><![CDATA[✅ 세상의 암호를 깨는 양자컴퓨터, 그런데 그 컴퓨터가 해킹당한다면? 어느 날, 전 세계에 속보가 전해진다. “기존 RSA 암호를 실용적으로 해독할 수 있는 양자컴퓨터가 등장했다.” 은행과 정부기관은 오래된 암호 시스템을 걱정하기 시작한다. 그런데 누군가 더 불편한 질문을 던진다. “잠깐, 그 양자컴퓨터를 해커가 차지하면 어떻게 될까?” 세상의 금고를 열 수 있는 기계를 만드는 것도 문제지만, 그 기계를 누가 사용할 수 있는지 통제하는 문제는 또 다르다. 이 이야기를 따라가면 PQC, QKD, AES, OTP가 각각 무엇을 보호하고 무엇을 보호하지 못하는지 자연스럽게 드러난다. 현재 시점의 구분: RSA-2048을 실용적으로 해독하는 대규.......]]></description>
+                
+                <pubDate>Fri, 23 Oct 2026 07:27:38 +0900</pubDate>
+                <tag><![CDATA[PQC,QKD,Zero,Trust]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 서론 — 1,822페이지짜리 양자기술 보고서를 5편으로 나눠 읽어본다 양자컴퓨팅을 보다 보면 어느 순간부터 개별 기술이나 기업만 따라가서는 전체 그림이 잘 보이지 않는다. 물리 큐비트 수가 많다고 좋은 양자컴퓨터가 되는 것도 아니고, 논리 큐비트를 만들었다고 곧바로 FTQC가 되는 것도 아니다. 좋은 하드웨어가 있어도 실제로 의미 있는 알고리즘이 없으면 소용이 없고, 알고리즘이 있어도 classical computer보다 실제로 우위가 있는지 따져봐야 한다. 더 나아가 QPU를 서로 연결하는 기술, quantum communication과 sensing, 이를 뒷받침하는 photonics·cryogenics·semiconductor·control electronics, 그리고 국가 정책·자본·인재·공....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MzBfMTEy/MDAxNzkwNzQ0NTU3MTYz.tSkms_4BWEXK43PrSciYMmJNr7rXzAOYJGzr3oveLZYg.378xBIlh761Y5pQLXbQywJQQlQ0XDgOV-I3dUaqjvC4g.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Wed, 30 Sep 2026 14:14:32 +0900</pubDate>
                 <tag><![CDATA[Olivier,Ezratty,Understanding,Quantum,Technologies,2026]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Semiconductor]]></category>
-                <title><![CDATA[LITE·COHR·GLW·LPTH·MRVL·AVGO·AAOI]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224426825573?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224426825573</guid>
-                
-                <description><![CDATA[✅ 기술 경쟁력·시장 크기·미래 TAM·밸류에이션을 하나로 합친 포토닉스/AI 인프라 종합 리포트 기준 시점: 2026년 9월 말 이 7개 기업을 단순히 ‘광학주’, ‘포토닉스주’, 심지어 ‘양자 관련주’라는 하나의 카테고리로 묶으면 산업 구조를 거의 이해할 수 없다. Lumentum(LITE)과 Coherent(COHR)는 실제로 빛을 만들고 변조하고 증폭하고 스위칭하는 active photonics가 핵심이다. Corning(GLW)은 빛이 이동하는 광섬유와 유리·케이블·커넥티비티라는 물리 인프라에 강하다. LightPath Technologies(LPTH)는 통신 광학보다 IR 소재·렌즈·열화상·방산 시스템에 가깝다. 반면 Marvell(MRVL)과 Broadcom(AVGO)은 광자를 직접 만드는 회사라기....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MzBfMTUg/MDAxNzkwNzMxNjc5MDg4.NmnROCcmtvd7OGGa3ZQsG53_HTrfcNBAajSnCzfTWSUg.TL_Q49DJ59eQmHJpIw-WWANgK0nqaSjiMoGtE4Hpqgkg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Wed, 30 Sep 2026 10:49:47 +0900</pubDate>
-                <tag><![CDATA[COHR,LITE,GLW,LPTH,MRVL,AVGO,AAOI]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

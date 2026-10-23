@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 764,
+  "totalArchivedPosts": 765,
   "posts": [
+    {
+      "date": "2026-10-23",
+      "published": "2026-10-23T09:27:38+11:00",
+      "title": "양자컴퓨터가 해킹당한다면? - 심화편",
+      "logNo": "224450875880",
+      "source": "https://blog.naver.com/4-fire/224450875880?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-23-224450875880.md",
+      "content_source": "naver_post",
+      "characters": 11351
+    },
     {
       "date": "2026-10-22",
       "published": "2026-10-22T23:50:31+11:00",

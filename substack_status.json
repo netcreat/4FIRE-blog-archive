@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:43:34+00:00",
+  "generated_at": "2026-10-23T00:37:40+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 764,
-    "published": 85,
+    "total": 765,
+    "published": 86,
     "missing": 679,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-07-24",
-    "end": "2026-10-22",
-    "total": 162,
+    "start": "2026-07-25",
+    "end": "2026-10-23",
+    "total": 160,
     "published": 67,
-    "missing": 95,
+    "missing": 93,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-23",
+        "title": "양자컴퓨터가 해킹당한다면? - 심화편",
+        "logNo": "224450875880",
+        "url": "https://blog.naver.com/4-fire/224450875880?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-23-224450875880.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-22",
@@ -11280,10 +11294,18 @@
         "url": "https://blog.naver.com/4-fire/223910571735",
         "github_archive": "posts/2025/2025-06-25-223910571735.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Oxford Ionics QPU Architecture: A Detailed Technical Breakdown of Its Components",
+          "url": "https://netcreat.substack.com/p/oxford-ionics-qpu-architecture-a",
+          "published_date": "2026-10-23",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {

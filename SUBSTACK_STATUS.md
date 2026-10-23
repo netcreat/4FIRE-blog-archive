@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-22T21:43:34+00:00_
+_Automatically generated: 2026-10-23T00:37:40+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 764 | 85 | 679 | 0 | 0 |
-| Recent 90 days (2026-07-24 → 2026-10-22) | 162 | 67 | 95 | 0 | 0 |
+| All | 765 | 86 | 679 | 0 | 0 |
+| Recent 90 days (2026-07-25 → 2026-10-23) | 160 | 67 | 93 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-23 | [양자컴퓨터가 해킹당한다면? - 심화편](posts/2026/2026-10-23-224450875880.md) | ❌ Missing | — | `224450875880` |
 | 2026-10-22 | [양자컴퓨터가 해킹당한다면?](posts/2026/2026-10-22-224450586859.md) | ❌ Missing | — | `224450586859` |
 | 2026-10-20 | [Quantinuum의 논리 오류율 10배 개선의 의미?](posts/2026/2026-10-20-224447108213.md) | ❌ Missing | — | `224447108213` |
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — Quantum Position Verification(QPV)](posts/2026/2026-10-19-224446825415.md) | ❌ Missing | — | `224446825415` |
@@ -176,9 +177,6 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-07-26 | [Starlink V3의 미친 스펙](posts/2026/2026-07-26-224358478312.md) | ❌ Missing | — | `224358478312` |
 | 2026-07-25 | [Genesis 명단에 IonQ가 왜 안보일까?](posts/2026/2026-07-25-224357746878.md) | ❌ Missing | — | `224357746878` |
 | 2026-07-25 | [DAF/USSF 2027년 예산 편성](posts/2026/2026-07-25-224357372711.md) | ❌ Missing | — | `224357372711` |
-| 2026-07-24 | [IBM이 HRL을 인수한 진짜 의미(3) : 그럼 Boeing과 GM은 HRL을 매각했나?](posts/2026/2026-07-24-224356620786.md) | ❌ Missing | — | `224356620786` |
-| 2026-07-24 | [IBM이 HRL을 인수한 진짜 의미(2) : IBM은 왜 HRL을 인수했나?](posts/2026/2026-07-24-224356614701.md) | ❌ Missing | — | `224356614701` |
-| 2026-07-24 | [IBM이 HRL을 인수한 진짜 의미(1) : 실리콘 양자컴퓨터 종류](posts/2026/2026-07-24-224356583793.md) | ❌ Missing | — | `224356583793` |
 
 ## Missing from Substack
 
@@ -186,6 +184,7 @@ Total missing: **679**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-23 | [양자컴퓨터가 해킹당한다면? - 심화편](posts/2026/2026-10-23-224450875880.md) | ❌ Missing | — | `224450875880` |
 | 2026-10-22 | [양자컴퓨터가 해킹당한다면?](posts/2026/2026-10-22-224450586859.md) | ❌ Missing | — | `224450586859` |
 | 2026-10-20 | [Quantinuum의 논리 오류율 10배 개선의 의미?](posts/2026/2026-10-20-224447108213.md) | ❌ Missing | — | `224447108213` |
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — Quantum Position Verification(QPV)](posts/2026/2026-10-19-224446825415.md) | ❌ Missing | — | `224446825415` |
@@ -854,7 +853,6 @@ Total missing: **679**
 | 2025-06-28 | [카펠라 스페이스 17번째 위성 궤도 진입 성공](posts/2025/2025-06-28-223914577284.md) | ❌ Missing | — | `223914577284` |
 | 2025-06-28 | [노이즈 최소화 기술이 양자 에러율을 바꾼다](posts/2025/2025-06-28-223914248248.md) | ❌ Missing | — | `223914248248` |
 | 2025-06-25 | [IonQ, 양자컴퓨터로 단백질 구조 예측의 한계 돌파](posts/2025/2025-06-25-223911640788.md) | ❌ Missing | — | `223911640788` |
-| 2025-06-25 | [Oxford Ionics QPU 아키텍처: 구성요소별 정밀 기술 요약](posts/2025/2025-06-25-223910571735.md) | ❌ Missing | — | `223910571735` |
 | 2025-06-24 | [위성과 양자통신이 만나다: SAR 위성에서 QKD까지](posts/2025/2025-06-24-223910067185.md) | ❌ Missing | — | `223910067185` |
 | 2025-06-24 | [IonQ, 기술 진화의 3단 전략 – 레이저에서 마이크로파, 그리고 광자로](posts/2025/2025-06-24-223909621472.md) | ❌ Missing | — | `223909621472` |
 | 2025-06-23 | [이온트랩에서 살아남은 자](posts/2025/2025-06-23-223909057268.md) | ❌ Missing | — | `223909057268` |
@@ -873,10 +871,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 764 Naver posts</summary>
+<summary>Show all 765 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-23 | [양자컴퓨터가 해킹당한다면? - 심화편](posts/2026/2026-10-23-224450875880.md) | ❌ Missing | — | `224450875880` |
 | 2026-10-22 | [양자컴퓨터가 해킹당한다면?](posts/2026/2026-10-22-224450586859.md) | ❌ Missing | — | `224450586859` |
 | 2026-10-20 | [Quantinuum의 논리 오류율 10배 개선의 의미?](posts/2026/2026-10-20-224447108213.md) | ❌ Missing | — | `224447108213` |
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — Quantum Position Verification(QPV)](posts/2026/2026-10-19-224446825415.md) | ❌ Missing | — | `224446825415` |
@@ -1630,7 +1629,7 @@ _Not calculated because the public sitemap fetch failed._
 | 2025-06-28 | [카펠라 스페이스 17번째 위성 궤도 진입 성공](posts/2025/2025-06-28-223914577284.md) | ❌ Missing | — | `223914577284` |
 | 2025-06-28 | [노이즈 최소화 기술이 양자 에러율을 바꾼다](posts/2025/2025-06-28-223914248248.md) | ❌ Missing | — | `223914248248` |
 | 2025-06-25 | [IonQ, 양자컴퓨터로 단백질 구조 예측의 한계 돌파](posts/2025/2025-06-25-223911640788.md) | ❌ Missing | — | `223911640788` |
-| 2025-06-25 | [Oxford Ionics QPU 아키텍처: 구성요소별 정밀 기술 요약](posts/2025/2025-06-25-223910571735.md) | ❌ Missing | — | `223910571735` |
+| 2025-06-25 | [Oxford Ionics QPU 아키텍처: 구성요소별 정밀 기술 요약](posts/2025/2025-06-25-223910571735.md) | ✅ Published | [Oxford Ionics QPU Architecture: A Detailed Technical Breakdown of Its Components](https://netcreat.substack.com/p/oxford-ionics-qpu-architecture-a) | `223910571735` |
 | 2025-06-24 | [위성과 양자통신이 만나다: SAR 위성에서 QKD까지](posts/2025/2025-06-24-223910067185.md) | ❌ Missing | — | `223910067185` |
 | 2025-06-24 | [IonQ, 기술 진화의 3단 전략 – 레이저에서 마이크로파, 그리고 광자로](posts/2025/2025-06-24-223909621472.md) | ❌ Missing | — | `223909621472` |
 | 2025-06-23 | [이온트랩에서 살아남은 자](posts/2025/2025-06-23-223909057268.md) | ❌ Missing | — | `223909057268` |
