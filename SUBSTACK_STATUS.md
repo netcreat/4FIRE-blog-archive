@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-23T03:12:19+00:00_
+_Automatically generated: 2026-10-23T03:41:42+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,7 +10,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 765 | 87 | 678 | 0 | 0 |
+| All | 765 | 88 | 677 | 0 | 0 |
 | Recent 90 days (2026-07-25 → 2026-10-23) | 160 | 67 | 93 | 0 | 0 |
 
 ## Recent 90 days
@@ -180,7 +180,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **678**
+Total missing: **677**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
@@ -784,7 +784,6 @@ Total missing: **678**
 | 2025-08-24 | [이온트랩 제조 옵션과 Oxford Ionics의 QUARTET 설치 모습](posts/2025/2025-08-24-223981485424.md) | ❌ Missing | — | `223981485424` |
 | 2025-08-23 | [DARPA 에서 진행중인 Quantum Computer Programs](posts/2025/2025-08-23-223980712486.md) | ❌ Missing | — | `223980712486` |
 | 2025-08-22 | [Distributed Quantum Computing across an Optical Network Link](posts/2025/2025-08-22-223979974042.md) | ❌ Missing | — | `223979974042` |
-| 2025-08-22 | [Oxford Ionics의 QCCD](posts/2025/2025-08-22-223979308744.md) | ❌ Missing | — | `223979308744` |
 | 2025-08-21 | [하드웨어만 준비된다면...](posts/2025/2025-08-21-223978279046.md) | ❌ Missing | — | `223978279046` |
 | 2025-08-21 | [Quantinuum의 12 논리 큐비트 구현 - 어떻게 가능한가?](posts/2025/2025-08-21-223978212519.md) | ❌ Missing | — | `223978212519` |
 | 2025-08-21 | [Quantinuum의 QCCD와 레이스트랙(Race Track) 동작 원리](posts/2025/2025-08-21-223978046014.md) | ❌ Missing | — | `223978046014` |
@@ -1559,7 +1558,7 @@ _Not calculated because the public sitemap fetch failed._
 | 2025-08-24 | [이온트랩 제조 옵션과 Oxford Ionics의 QUARTET 설치 모습](posts/2025/2025-08-24-223981485424.md) | ❌ Missing | — | `223981485424` |
 | 2025-08-23 | [DARPA 에서 진행중인 Quantum Computer Programs](posts/2025/2025-08-23-223980712486.md) | ❌ Missing | — | `223980712486` |
 | 2025-08-22 | [Distributed Quantum Computing across an Optical Network Link](posts/2025/2025-08-22-223979974042.md) | ❌ Missing | — | `223979974042` |
-| 2025-08-22 | [Oxford Ionics의 QCCD](posts/2025/2025-08-22-223979308744.md) | ❌ Missing | — | `223979308744` |
+| 2025-08-22 | [Oxford Ionics의 QCCD](posts/2025/2025-08-22-223979308744.md) | ✅ Published | [Oxford Ionics' QCCD](https://netcreat.substack.com/p/oxford-ionics-qccd) | `223979308744` |
 | 2025-08-21 | [하드웨어만 준비된다면...](posts/2025/2025-08-21-223978279046.md) | ❌ Missing | — | `223978279046` |
 | 2025-08-21 | [Quantinuum의 12 논리 큐비트 구현 - 어떻게 가능한가?](posts/2025/2025-08-21-223978212519.md) | ❌ Missing | — | `223978212519` |
 | 2025-08-21 | [Quantinuum의 QCCD와 레이스트랙(Race Track) 동작 원리](posts/2025/2025-08-21-223978046014.md) | ❌ Missing | — | `223978046014` |
