@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-23T09:26:00+00:00_
+_Automatically generated: 2026-10-23T09:45:54+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,8 +14,8 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 765 | 90 | 675 | 0 | 0 |
-| Recent 90 days (2026-07-25 → 2026-10-23) | 160 | 68 | 92 | 0 | 0 |
+| All | 765 | 92 | 673 | 0 | 0 |
+| Recent 90 days (2026-07-25 → 2026-10-23) | 160 | 70 | 90 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
@@ -23,9 +23,9 @@ Track Naver posts and their English Substack editions. **The table below is upda
 |---|---|---|---|---|
 | 2026-10-23 | [양자컴퓨터가 해킹당한다면? - 심화편](posts/2026/2026-10-23-224450875880.md) | ❌ Missing | — | `224450875880` |
 | 2026-10-22 | [양자컴퓨터가 해킹당한다면?](posts/2026/2026-10-22-224450586859.md) | ❌ Missing | — | `224450586859` |
-| 2026-10-20 | [Quantinuum의 논리 오류율 10배 개선의 의미?](posts/2026/2026-10-20-224447108213.md) | ❌ Missing | — | `224447108213` |
+| 2026-10-20 | [Quantinuum의 논리 오류율 10배 개선의 의미?](posts/2026/2026-10-20-224447108213.md) | ✅ Published | [What Does Quantinuum's 10× Reduction in Logical Error Rate Really Mean?](https://substack.com/home/post/p-221758070) | `224447108213` |
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — Quantum Position Verification(QPV)](posts/2026/2026-10-19-224446825415.md) | ❌ Missing | — | `224446825415` |
-| 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — 양자 네트워크 전송 인프라를 어떻게 봐야 하나](posts/2026/2026-10-19-224446785603.md) | ❌ Missing | — | `224446785603` |
+| 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — 양자 네트워크 전송 인프라를 어떻게 봐야 하나](posts/2026/2026-10-19-224446785603.md) | ✅ Published | [Cisco Quantum Summit 2026 Day 1 — How Should We Evaluate Quantum Network Transmission Infrastructure?](https://netcreat.substack.com/p/cisco-quantum-summit-2026-day-1-how) | `224446785603` |
 | 2026-10-18 | [Cisco Quantum Summit 2026 Day 1 — 패널 토론](posts/2026/2026-10-18-224445836524.md) | ❌ Missing | — | `224445836524` |
 | 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt](posts/2026/2026-10-17-224444857373.md) | ✅ Published | [Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt](https://netcreat.substack.com/p/cisco-quantum-summit-2026-day-2-psiquantum) | `224444857373` |
 | 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — 패널 토론](posts/2026/2026-10-17-224444553990.md) | ✅ Published | [Cisco Quantum Summit 2026 Day 2 — Panel Discussion](https://substack.com/home/post/p-220947419) | `224444553990` |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T09:26:00+00:00",
+  "generated_at": "2026-10-23T09:45:54+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 765,
-    "published": 90,
-    "missing": 675,
+    "published": 92,
+    "missing": 673,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-25",
     "end": "2026-10-23",
     "total": 160,
-    "published": 68,
-    "missing": 92,
+    "published": 70,
+    "missing": 90,
     "skip": 0,
     "check": 0
   },
@@ -79,10 +79,18 @@
         "url": "https://blog.naver.com/4-fire/224447108213?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-20-224447108213.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "What Does Quantinuum's 10× Reduction in Logical Error Rate Really Mean?",
+          "url": "https://substack.com/home/post/p-221758070",
+          "published_date": "2026-10-23",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
@@ -107,10 +115,18 @@
         "url": "https://blog.naver.com/4-fire/224446785603?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-19-224446785603.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Cisco Quantum Summit 2026 Day 1 — How Should We Evaluate Quantum Network Transmission Infrastructure?",
+          "url": "https://netcreat.substack.com/p/cisco-quantum-summit-2026-day-1-how",
+          "published_date": "2026-10-23",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
