@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-23T21:43:56+00:00_
+_Automatically generated: 2026-10-23T23:25:08+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,7 +10,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 765 | 92 | 673 | 0 | 0 |
+| All | 765 | 93 | 672 | 0 | 0 |
 | Recent 90 days (2026-07-25 → 2026-10-23) | 160 | 70 | 90 | 0 | 0 |
 
 ## Recent 90 days
@@ -180,7 +180,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **673**
+Total missing: **672**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
@@ -596,7 +596,6 @@ Total missing: **673**
 | 2025-11-13 | [Skyloom은 어느 정도 경쟁력이 있나?](posts/2025/2025-11-13-224075173126.md) | ❌ Missing | — | `224075173126` |
 | 2025-11-13 | [IBM, 양자 어드밴티지·내결함성 달성을 위한 핵심 프로세서·소프트웨어·알고리즘 최신 성과 발표](posts/2025/2025-11-13-224074939718.md) | ❌ Missing | — | `224074939718` |
 | 2025-11-12 | [Skyloom Global, IonQ에게 날개를 달아주다.](posts/2025/2025-11-12-224073891499.md) | ❌ Missing | — | `224073891499` |
-| 2025-11-11 | [SAR(합성개구레이다)의 현실과 개선방안](posts/2025/2025-11-11-224072805567.md) | ❌ Missing | — | `224072805567` |
 | 2025-11-11 | [Starcloud는 어떻게 데이터센터를 우주로 보내는가](posts/2025/2025-11-11-224072520488.md) | ❌ Missing | — | `224072520488` |
 | 2025-11-11 | [IonQ – 시카고대학 전략적 제휴 발표 요약](posts/2025/2025-11-11-224071871076.md) | ❌ Missing | — | `224071871076` |
 | 2025-11-09 | [[쇼츠] 넌 다 계획이 있구나.](posts/2025/2025-11-09-224070307093.md) | ❌ Missing | — | `224070307093` |
@@ -1368,7 +1367,7 @@ _Not calculated because the public sitemap fetch failed._
 | 2025-11-13 | [Skyloom은 어느 정도 경쟁력이 있나?](posts/2025/2025-11-13-224075173126.md) | ❌ Missing | — | `224075173126` |
 | 2025-11-13 | [IBM, 양자 어드밴티지·내결함성 달성을 위한 핵심 프로세서·소프트웨어·알고리즘 최신 성과 발표](posts/2025/2025-11-13-224074939718.md) | ❌ Missing | — | `224074939718` |
 | 2025-11-12 | [Skyloom Global, IonQ에게 날개를 달아주다.](posts/2025/2025-11-12-224073891499.md) | ❌ Missing | — | `224073891499` |
-| 2025-11-11 | [SAR(합성개구레이다)의 현실과 개선방안](posts/2025/2025-11-11-224072805567.md) | ❌ Missing | — | `224072805567` |
+| 2025-11-11 | [SAR(합성개구레이다)의 현실과 개선방안](posts/2025/2025-11-11-224072805567.md) | ✅ Published | [The Reality of Synthetic Aperture Radar (SAR) and Ways to Improve It](https://netcreat.substack.com/p/the-reality-of-synthetic-aperture) | `224072805567` |
 | 2025-11-11 | [Starcloud는 어떻게 데이터센터를 우주로 보내는가](posts/2025/2025-11-11-224072520488.md) | ❌ Missing | — | `224072520488` |
 | 2025-11-11 | [IonQ – 시카고대학 전략적 제휴 발표 요약](posts/2025/2025-11-11-224071871076.md) | ❌ Missing | — | `224071871076` |
 | 2025-11-09 | [[쇼츠] 넌 다 계획이 있구나.](posts/2025/2025-11-09-224070307093.md) | ❌ Missing | — | `224070307093` |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T21:43:56+00:00",
+  "generated_at": "2026-10-23T23:25:08+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 765,
-    "published": 92,
-    "missing": 673,
+    "published": 93,
+    "missing": 672,
     "skip": 0,
     "check": 0
   },
@@ -7740,10 +7740,18 @@
         "url": "https://blog.naver.com/4-fire/224072805567",
         "github_archive": "posts/2025/2025-11-11-224072805567.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "The Reality of Synthetic Aperture Radar (SAR) and Ways to Improve It",
+          "url": "https://netcreat.substack.com/p/the-reality-of-synthetic-aperture",
+          "published_date": "2026-10-24",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
