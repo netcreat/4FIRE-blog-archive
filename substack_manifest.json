@@ -992,6 +992,17 @@
           "published_date": "2026-10-23"
         }
       ]
+    },
+    "223996526279": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Approaches to Scaling QCCD Control Wiring",
+          "url": "https://netcreat.substack.com/p/approaches-to-scaling-qccd-control",
+          "published_date": "2026-10-23"
+        }
+      ]
     }
   }
 }
