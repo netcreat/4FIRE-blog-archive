@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:54:27+00:00",
+  "generated_at": "2026-10-25T09:43:37+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 765,
+    "total": 766,
     "published": 93,
-    "missing": 672,
+    "missing": 673,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-07-25",
-    "end": "2026-10-23",
-    "total": 160,
+    "start": "2026-07-27",
+    "end": "2026-10-25",
+    "total": 157,
     "published": 70,
-    "missing": 90,
+    "missing": 87,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-25",
+        "title": "우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요?",
+        "logNo": "224453237227",
+        "url": "https://blog.naver.com/4-fire/224453237227?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-25-224453237227.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-23",

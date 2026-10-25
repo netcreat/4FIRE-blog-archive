@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-25T06:54:27+00:00_
+_Automatically generated: 2026-10-25T09:43:37+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 765 | 93 | 672 | 0 | 0 |
-| Recent 90 days (2026-07-25 → 2026-10-23) | 160 | 70 | 90 | 0 | 0 |
+| All | 766 | 93 | 673 | 0 | 0 |
+| Recent 90 days (2026-07-27 → 2026-10-25) | 157 | 70 | 87 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-25 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요?](posts/2026/2026-10-25-224453237227.md) | ❌ Missing | — | `224453237227` |
 | 2026-10-23 | [양자컴퓨터가 해킹당한다면? - 심화편](posts/2026/2026-10-23-224450875880.md) | ❌ Missing | — | `224450875880` |
 | 2026-10-22 | [양자컴퓨터가 해킹당한다면?](posts/2026/2026-10-22-224450586859.md) | ❌ Missing | — | `224450586859` |
 | 2026-10-20 | [Quantinuum의 논리 오류율 10배 개선의 의미?](posts/2026/2026-10-20-224447108213.md) | ✅ Published | [What Does Quantinuum's 10× Reduction in Logical Error Rate Really Mean?](https://netcreat.substack.com/p/what-does-quantinuums-10-reduction) | `224447108213` |
@@ -173,17 +174,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-07-29 | [IonQ, SkyWater Technology 인수 관련 최종 규제 승인 확보](posts/2026/2026-07-29-224362085662.md) | ❌ Missing | — | `224362085662` |
 | 2026-07-29 | [Officina Stellare의 OCT 계약으로 드러난 Leonardo의 우주전략](posts/2026/2026-07-29-224361924846.md) | ❌ Missing | — | `224361924846` |
 | 2026-07-28 | [Rocket Lab은 왜 Kodiak으로 향하는가](posts/2026/2026-07-28-224360861377.md) | ❌ Missing | — | `224360861377` |
-| 2026-07-26 | [BWX Technologies(BWXT) 투자 분석](posts/2026/2026-07-26-224358669266.md) | ❌ Missing | — | `224358669266` |
-| 2026-07-26 | [Starlink V3의 미친 스펙](posts/2026/2026-07-26-224358478312.md) | ❌ Missing | — | `224358478312` |
-| 2026-07-25 | [Genesis 명단에 IonQ가 왜 안보일까?](posts/2026/2026-07-25-224357746878.md) | ❌ Missing | — | `224357746878` |
-| 2026-07-25 | [DAF/USSF 2027년 예산 편성](posts/2026/2026-07-25-224357372711.md) | ❌ Missing | — | `224357372711` |
 
 ## Missing from Substack
 
-Total missing: **672**
+Total missing: **673**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-25 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요?](posts/2026/2026-10-25-224453237227.md) | ❌ Missing | — | `224453237227` |
 | 2026-10-23 | [양자컴퓨터가 해킹당한다면? - 심화편](posts/2026/2026-10-23-224450875880.md) | ❌ Missing | — | `224450875880` |
 | 2026-10-22 | [양자컴퓨터가 해킹당한다면?](posts/2026/2026-10-22-224450586859.md) | ❌ Missing | — | `224450586859` |
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — Quantum Position Verification(QPV)](posts/2026/2026-10-19-224446825415.md) | ❌ Missing | — | `224446825415` |
@@ -864,10 +862,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 765 Naver posts</summary>
+<summary>Show all 766 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-25 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요?](posts/2026/2026-10-25-224453237227.md) | ❌ Missing | — | `224453237227` |
 | 2026-10-23 | [양자컴퓨터가 해킹당한다면? - 심화편](posts/2026/2026-10-23-224450875880.md) | ❌ Missing | — | `224450875880` |
 | 2026-10-22 | [양자컴퓨터가 해킹당한다면?](posts/2026/2026-10-22-224450586859.md) | ❌ Missing | — | `224450586859` |
 | 2026-10-20 | [Quantinuum의 논리 오류율 10배 개선의 의미?](posts/2026/2026-10-20-224447108213.md) | ✅ Published | [What Does Quantinuum's 10× Reduction in Logical Error Rate Really Mean?](https://netcreat.substack.com/p/what-does-quantinuums-10-reduction) | `224447108213` |

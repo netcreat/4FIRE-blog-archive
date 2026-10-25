@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Sun, 25 Oct 2026 15:53:58 +0900</pubDate>
+            <pubDate>Sun, 25 Oct 2026 18:43:06 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Golden Dome]]></category>
+                <title><![CDATA[우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224453237227?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224453237227</guid>
+                
+                <description><![CDATA[✅ Maxwell에서 시작된 의외의 연결: NASA, Rocket Lab, Viasat, ESA, Kepler 그리고 IonQ 2026년 10월 20일, SpaceX의 Falcon 9 로켓이 여러 위성을 싣고 우주로 향했습니다. 이날 발사 목록에는 최근 살펴봤던 Capella Space의 Acadia-11과 Acadia-12도 포함되어 있었습니다. 그런데 목록을 살펴보다가 흥미로운 이름 하나를 발견했습니다. Maxwell. 처음에는 평범한 소형위성인 줄 알았습니다. 하지만 관계를 따라가다 보니 예상하지 못했던 기업들이 등장했습니다. 위성을 제작한 회사는 Rocket Lab, 임무를 주관하는 회사는 Viasat, 최종 고객은 NASA였습니다. 발사는 SpaceX가 담당했습니다. 그런데 Maxwell은 지구를 관측하거나 인터넷 서....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMjVfMTE2/MDAxNzkyOTE4NTQ4Nzkz.SWIOII2zXPoNfSSQX-HAo2IdhagoRY8f1iCH3ggBHt8g.Cj-IIGJqf425qlo-xX4lZ_KjUfh-1aKnrQWH0mFe_r8g.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sun, 25 Oct 2026 18:00:56 +0900</pubDate>
+                <tag><![CDATA[Maxwell,Viasat,RocketLabs]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ NATO 양자 로드맵 공개 — 그런데 양자컴퓨팅 RFP는 이미 마감됐다 NATO가 9월 29일 Quantum Technology Roadmap을 공개했다. https://www.nato.int/en/news-and-events/articles/news/2026/09/29/nato-releases-quantum-technology-roadmap https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2026/09/29/quantum-technology-roadmap 언뜻 보면 이제 NATO가 양자기술 사업을 시작하려는 것처럼 보이지만, 실제 흐름을 따라가 보면 조금 다르다. 이번 로드맵은 하나의 새로운 양자 프로젝트를 발표한 문서가 아니라 Quantum Computing·Quantum Communication·Quantum Sensing을 모두 포괄하는 NATO 전체 양자전략....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MzBfMyAg/MDAxNzkwNzc1OTQzNjE1.FD5nkjhKQkV-568BtGWL6RNq_uJq9VfBSgjE1eQM1vEg.9fuNW09hEEUFxaJ_vtgG7htIiK6nRKjx8vD9OrdvLksg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Wed, 30 Sep 2026 22:47:26 +0900</pubDate>
                 <tag><![CDATA[NATO,FAASQ,QZBP]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Series]]></category>
-                <title><![CDATA[Understanding Quantum Technologies 2026 Part 1]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224427057259?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224427057259</guid>
-                
-                <description><![CDATA[✅ 서론 — 1,822페이지짜리 양자기술 보고서를 5편으로 나눠 읽어본다 양자컴퓨팅을 보다 보면 어느 순간부터 개별 기술이나 기업만 따라가서는 전체 그림이 잘 보이지 않는다. 물리 큐비트 수가 많다고 좋은 양자컴퓨터가 되는 것도 아니고, 논리 큐비트를 만들었다고 곧바로 FTQC가 되는 것도 아니다. 좋은 하드웨어가 있어도 실제로 의미 있는 알고리즘이 없으면 소용이 없고, 알고리즘이 있어도 classical computer보다 실제로 우위가 있는지 따져봐야 한다. 더 나아가 QPU를 서로 연결하는 기술, quantum communication과 sensing, 이를 뒷받침하는 photonics·cryogenics·semiconductor·control electronics, 그리고 국가 정책·자본·인재·공....... <img src="https://blogthumb.pstatic.net/MjAyNjA5MzBfMTEy/MDAxNzkwNzQ0NTU3MTYz.tSkms_4BWEXK43PrSciYMmJNr7rXzAOYJGzr3oveLZYg.378xBIlh761Y5pQLXbQywJQQlQ0XDgOV-I3dUaqjvC4g.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Wed, 30 Sep 2026 14:14:32 +0900</pubDate>
-                <tag><![CDATA[Olivier,Ezratty,Understanding,Quantum,Technologies,2026]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>
