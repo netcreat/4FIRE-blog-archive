@@ -1048,6 +1048,17 @@
           "published_date": "2026-10-24"
         }
       ]
+    },
+    "224450875880": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "What If a Quantum Computer Were Hacked? — An In-Depth Analysis",
+          "url": "https://netcreat.substack.com/p/what-if-a-quantum-computer-were-hacked",
+          "published_date": "2026-10-26"
+        }
+      ]
     }
   }
 }
