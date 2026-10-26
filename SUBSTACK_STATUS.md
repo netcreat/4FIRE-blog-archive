@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-26T18:59:20+00:00_
+_Automatically generated: 2026-10-26T21:17:43+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,7 +10,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 768 | 95 | 673 | 0 | 0 |
+| All | 768 | 96 | 672 | 0 | 0 |
 | Recent 90 days (2026-07-28 → 2026-10-26) | 159 | 72 | 87 | 0 | 0 |
 
 ## Recent 90 days
@@ -179,7 +179,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **673**
+Total missing: **672**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
@@ -375,7 +375,6 @@ Total missing: **673**
 | 2026-05-11 | [2026년 1분기 실적 발표 - RED WIRE](posts/2026/2026-05-11-224282221706.md) | ❌ Missing | — | `224282221706` |
 | 2026-05-09 | [Skyloom, Officina Stellare, 그리고 José Manuel Piracés 기술 이전인가, 아니면 기술 융합인가](posts/2026/2026-05-09-224280291122.md) | ❌ Missing | — | `224280291122` |
 | 2026-05-09 | [Harvard Cleanroom에서 시작된 변화 — IonQ는 왜 Photonics와 Foundry 방향으로 움직이는가](posts/2026/2026-05-09-224280043874.md) | ❌ Missing | — | `224280043874` |
-| 2026-05-08 | [Quantum OS는 무엇이며, 왜 지금 중요해지는가?](posts/2026/2026-05-08-224279416702.md) | ❌ Missing | — | `224279416702` |
 | 2026-05-08 | [IonQ 2026년 1분기 실적 분석](posts/2026/2026-05-08-224279194334.md) | ❌ Missing | — | `224279194334` |
 | 2026-05-08 | [RKLB 2026년 1분기 실적 분석](posts/2026/2026-05-08-224278451485.md) | ❌ Missing | — | `224278451485` |
 | 2026-05-07 | [미 국방부가 꿈꾸는 우주의 인터넷](posts/2026/2026-05-07-224278123534.md) | ❌ Missing | — | `224278123534` |
@@ -1145,7 +1144,7 @@ _Not calculated because the public sitemap fetch failed._
 | 2026-05-11 | [2026년 1분기 실적 발표 - RED WIRE](posts/2026/2026-05-11-224282221706.md) | ❌ Missing | — | `224282221706` |
 | 2026-05-09 | [Skyloom, Officina Stellare, 그리고 José Manuel Piracés 기술 이전인가, 아니면 기술 융합인가](posts/2026/2026-05-09-224280291122.md) | ❌ Missing | — | `224280291122` |
 | 2026-05-09 | [Harvard Cleanroom에서 시작된 변화 — IonQ는 왜 Photonics와 Foundry 방향으로 움직이는가](posts/2026/2026-05-09-224280043874.md) | ❌ Missing | — | `224280043874` |
-| 2026-05-08 | [Quantum OS는 무엇이며, 왜 지금 중요해지는가?](posts/2026/2026-05-08-224279416702.md) | ❌ Missing | — | `224279416702` |
+| 2026-05-08 | [Quantum OS는 무엇이며, 왜 지금 중요해지는가?](posts/2026/2026-05-08-224279416702.md) | ✅ Published | [What Is a Quantum OS, and Why Does It Matter Now?](https://netcreat.substack.com/p/what-is-a-quantum-os-and-why-does) | `224279416702` |
 | 2026-05-08 | [IonQ 2026년 1분기 실적 분석](posts/2026/2026-05-08-224279194334.md) | ❌ Missing | — | `224279194334` |
 | 2026-05-08 | [RKLB 2026년 1분기 실적 분석](posts/2026/2026-05-08-224278451485.md) | ❌ Missing | — | `224278451485` |
 | 2026-05-07 | [미 국방부가 꿈꾸는 우주의 인터넷](posts/2026/2026-05-07-224278123534.md) | ❌ Missing | — | `224278123534` |

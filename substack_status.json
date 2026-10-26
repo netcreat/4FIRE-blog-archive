@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T18:59:20+00:00",
+  "generated_at": "2026-10-26T21:17:43+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 768,
-    "published": 95,
-    "missing": 673,
+    "published": 96,
+    "missing": 672,
     "skip": 0,
     "check": 0
   },
@@ -4616,10 +4616,18 @@
         "url": "https://blog.naver.com/4-fire/224279416702",
         "github_archive": "posts/2026/2026-05-08-224279416702.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "What Is a Quantum OS, and Why Does It Matter Now?",
+          "url": "https://netcreat.substack.com/p/what-is-a-quantum-os-and-why-does",
+          "published_date": "2026-10-27",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
