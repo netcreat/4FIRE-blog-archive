@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 766,
+  "totalArchivedPosts": 767,
   "posts": [
+    {
+      "date": "2026-10-26",
+      "published": "2026-10-26T16:50:00+11:00",
+      "title": "우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요? - 심화편",
+      "logNo": "224453312491",
+      "source": "https://blog.naver.com/4-fire/224453312491?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-26-224453312491.md",
+      "content_source": "naver_post",
+      "characters": 16981
+    },
     {
       "date": "2026-10-25",
       "published": "2026-10-25T20:00:56+11:00",

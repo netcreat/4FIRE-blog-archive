@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-26T03:48:25+00:00_
+_Automatically generated: 2026-10-26T07:01:17+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 766 | 93 | 673 | 0 | 0 |
-| Recent 90 days (2026-07-27 → 2026-10-25) | 157 | 70 | 87 | 0 | 0 |
+| All | 767 | 93 | 674 | 0 | 0 |
+| Recent 90 days (2026-07-28 → 2026-10-26) | 158 | 70 | 88 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-26 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요? - 심화편](posts/2026/2026-10-26-224453312491.md) | ❌ Missing | — | `224453312491` |
 | 2026-10-25 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요?](posts/2026/2026-10-25-224453237227.md) | ❌ Missing | — | `224453237227` |
 | 2026-10-23 | [양자컴퓨터가 해킹당한다면? - 심화편](posts/2026/2026-10-23-224450875880.md) | ❌ Missing | — | `224450875880` |
 | 2026-10-22 | [양자컴퓨터가 해킹당한다면?](posts/2026/2026-10-22-224450586859.md) | ❌ Missing | — | `224450586859` |
@@ -177,10 +178,11 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **673**
+Total missing: **674**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-26 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요? - 심화편](posts/2026/2026-10-26-224453312491.md) | ❌ Missing | — | `224453312491` |
 | 2026-10-25 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요?](posts/2026/2026-10-25-224453237227.md) | ❌ Missing | — | `224453237227` |
 | 2026-10-23 | [양자컴퓨터가 해킹당한다면? - 심화편](posts/2026/2026-10-23-224450875880.md) | ❌ Missing | — | `224450875880` |
 | 2026-10-22 | [양자컴퓨터가 해킹당한다면?](posts/2026/2026-10-22-224450586859.md) | ❌ Missing | — | `224450586859` |
@@ -862,10 +864,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 766 Naver posts</summary>
+<summary>Show all 767 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-26 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요? - 심화편](posts/2026/2026-10-26-224453312491.md) | ❌ Missing | — | `224453312491` |
 | 2026-10-25 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요?](posts/2026/2026-10-25-224453237227.md) | ❌ Missing | — | `224453237227` |
 | 2026-10-23 | [양자컴퓨터가 해킹당한다면? - 심화편](posts/2026/2026-10-23-224450875880.md) | ❌ Missing | — | `224450875880` |
 | 2026-10-22 | [양자컴퓨터가 해킹당한다면?](posts/2026/2026-10-22-224450586859.md) | ❌ Missing | — | `224450586859` |
