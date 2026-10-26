@@ -1059,6 +1059,17 @@
           "published_date": "2026-10-26"
         }
       ]
+    },
+    "224454437483": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Why Did IonQ Have to Choose SkyWater?",
+          "url": "https://netcreat.substack.com/p/why-did-ionq-have-to-choose-skywater",
+          "published_date": "2026-10-26"
+        }
+      ]
     }
   }
 }
