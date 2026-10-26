@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T07:01:17+00:00",
+  "generated_at": "2026-10-26T09:56:18+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 767,
+    "total": 768,
     "published": 93,
-    "missing": 674,
+    "missing": 675,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,29 @@
     "days": 90,
     "start": "2026-07-28",
     "end": "2026-10-26",
-    "total": 158,
+    "total": 159,
     "published": 70,
-    "missing": 88,
+    "missing": 89,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-26",
+        "title": "왜 IonQ에는 하필, Skywater 여야만 했을까?",
+        "logNo": "224454437483",
+        "url": "https://blog.naver.com/4-fire/224454437483?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-26-224454437483.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-26",

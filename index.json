@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 767,
+  "totalArchivedPosts": 768,
   "posts": [
+    {
+      "date": "2026-10-26",
+      "published": "2026-10-26T20:20:10+11:00",
+      "title": "왜 IonQ에는 하필, Skywater 여야만 했을까?",
+      "logNo": "224454437483",
+      "source": "https://blog.naver.com/4-fire/224454437483?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-26-224454437483.md",
+      "content_source": "naver_post",
+      "characters": 15132
+    },
     {
       "date": "2026-10-26",
       "published": "2026-10-26T16:50:00+11:00",

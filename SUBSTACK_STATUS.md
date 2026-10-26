@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-26T07:01:17+00:00_
+_Automatically generated: 2026-10-26T09:56:18+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 767 | 93 | 674 | 0 | 0 |
-| Recent 90 days (2026-07-28 → 2026-10-26) | 158 | 70 | 88 | 0 | 0 |
+| All | 768 | 93 | 675 | 0 | 0 |
+| Recent 90 days (2026-07-28 → 2026-10-26) | 159 | 70 | 89 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-26 | [왜 IonQ에는 하필, Skywater 여야만 했을까?](posts/2026/2026-10-26-224454437483.md) | ❌ Missing | — | `224454437483` |
 | 2026-10-26 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요? - 심화편](posts/2026/2026-10-26-224453312491.md) | ❌ Missing | — | `224453312491` |
 | 2026-10-25 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요?](posts/2026/2026-10-25-224453237227.md) | ❌ Missing | — | `224453237227` |
 | 2026-10-23 | [양자컴퓨터가 해킹당한다면? - 심화편](posts/2026/2026-10-23-224450875880.md) | ❌ Missing | — | `224450875880` |
@@ -178,10 +179,11 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **674**
+Total missing: **675**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-26 | [왜 IonQ에는 하필, Skywater 여야만 했을까?](posts/2026/2026-10-26-224454437483.md) | ❌ Missing | — | `224454437483` |
 | 2026-10-26 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요? - 심화편](posts/2026/2026-10-26-224453312491.md) | ❌ Missing | — | `224453312491` |
 | 2026-10-25 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요?](posts/2026/2026-10-25-224453237227.md) | ❌ Missing | — | `224453237227` |
 | 2026-10-23 | [양자컴퓨터가 해킹당한다면? - 심화편](posts/2026/2026-10-23-224450875880.md) | ❌ Missing | — | `224450875880` |
@@ -864,10 +866,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 767 Naver posts</summary>
+<summary>Show all 768 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-26 | [왜 IonQ에는 하필, Skywater 여야만 했을까?](posts/2026/2026-10-26-224454437483.md) | ❌ Missing | — | `224454437483` |
 | 2026-10-26 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요? - 심화편](posts/2026/2026-10-26-224453312491.md) | ❌ Missing | — | `224453312491` |
 | 2026-10-25 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요?](posts/2026/2026-10-25-224453237227.md) | ❌ Missing | — | `224453237227` |
 | 2026-10-23 | [양자컴퓨터가 해킹당한다면? - 심화편](posts/2026/2026-10-23-224450875880.md) | ❌ Missing | — | `224450875880` |
