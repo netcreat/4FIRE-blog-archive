@@ -2,8 +2,28 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 768,
+  "totalArchivedPosts": 770,
   "posts": [
+    {
+      "date": "2026-10-27",
+      "published": "2026-10-27T09:10:57+11:00",
+      "title": "Intel이 Classiq을 인수합니다",
+      "logNo": "224454942010",
+      "source": "https://blog.naver.com/4-fire/224454942010?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-27-224454942010.md",
+      "content_source": "naver_post",
+      "characters": 22755
+    },
+    {
+      "date": "2026-10-27",
+      "published": "2026-10-27T09:10:00+11:00",
+      "title": "IonQ는 왜 Elisity에 최대 13억 달러를 지불 했을까?",
+      "logNo": "224454479969",
+      "source": "https://blog.naver.com/4-fire/224454479969?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-27-224454479969.md",
+      "content_source": "naver_post",
+      "characters": 26749
+    },
     {
       "date": "2026-10-26",
       "published": "2026-10-26T20:20:10+11:00",

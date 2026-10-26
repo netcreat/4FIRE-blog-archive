@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-26T21:44:30+00:00_
+_Automatically generated: 2026-10-26T22:18:23+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,15 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 768 | 96 | 672 | 0 | 0 |
-| Recent 90 days (2026-07-28 → 2026-10-26) | 159 | 72 | 87 | 0 | 0 |
+| All | 770 | 96 | 674 | 0 | 0 |
+| Recent 90 days (2026-07-29 → 2026-10-27) | 160 | 72 | 88 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-27 | [Intel이 Classiq을 인수합니다](posts/2026/2026-10-27-224454942010.md) | ❌ Missing | — | `224454942010` |
+| 2026-10-27 | [IonQ는 왜 Elisity에 최대 13억 달러를 지불 했을까?](posts/2026/2026-10-27-224454479969.md) | ❌ Missing | — | `224454479969` |
 | 2026-10-26 | [왜 IonQ에는 하필, Skywater 여야만 했을까?](posts/2026/2026-10-26-224454437483.md) | ✅ Published | [Why Did IonQ Have to Choose SkyWater?](https://netcreat.substack.com/p/why-did-ionq-have-to-choose-skywater) | `224454437483` |
 | 2026-10-26 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요? - 심화편](posts/2026/2026-10-26-224453312491.md) | ❌ Missing | — | `224453312491` |
 | 2026-10-25 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요?](posts/2026/2026-10-25-224453237227.md) | ❌ Missing | — | `224453237227` |
@@ -49,7 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-12 | [AMD의 82억 달러 베팅 — 페이페이 리, World Labs, 그리고 AI가 언어를 넘어 현실 세계로 향하는 이유](posts/2026/2026-10-12-224439327263.md) | ✅ Published | [AMD's $8.2 Billion Bet — Fei-Fei Li, World Labs, and Why AI Is Moving Beyond Language Into the Real World](https://netcreat.substack.com/p/amds-82-billion-bet-fei-fei-li-world) | `224439327263` |
 | 2026-10-11 | [NVIDIA는 어디에 돈을 쓰고 있는가 — 인수·투자로 읽는 Jensen Huang의 다음 전략](posts/2026/2026-10-11-224438278537.md) | ✅ Published | [Where Is NVIDIA Spending Its Money? — Reading Jensen Huang’s Next Strategy Through Acquisitions and Investments](https://netcreat.substack.com/p/where-is-nvidia-spending-its-money) | `224438278537` |
 | 2026-10-11 | [AlphaGo 개발자들이 만든 Beam, 그리고 $25B AI 기업의 가치](posts/2026/2026-10-11-224438085225.md) | ✅ Published | [Beam, Built by the Minds Behind AlphaGo — and the Value of a $25 Billion AI Company](https://netcreat.substack.com/p/beam-built-by-the-minds-behind-alphago) | `224438085225` |
-| 2026-10-10 | [백악관의 $6B 과학투자 발표: 새 예산은 얼마이고, 어디로 가는가?](posts/2026/2026-10-10-224437337550.md) | ✅ Published | [The White House's $6 Billion Science Investment Announcement: How Much Is New, and Where Will It Go?](https://netcreat.substack.com/p/the-white-houses-6-billion-science) | `224437337550` |
-| 2026-10-09 | [아이온큐의 다음 빅 허들은 무엇인가?](posts/2026/2026-10-09-224436465772.md) | ✅ Published | [What Is IonQ’s Next Big Hurdle?](https://netcreat.substack.com/p/what-is-ionqs-next-big-hurdle) | `224436465772` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T21:44:30+00:00",
+  "generated_at": "2026-10-26T22:18:23+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,53 @@
     }
   },
   "summary": {
-    "total": 768,
+    "total": 770,
     "published": 96,
-    "missing": 672,
+    "missing": 674,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-07-28",
-    "end": "2026-10-26",
-    "total": 159,
+    "start": "2026-07-29",
+    "end": "2026-10-27",
+    "total": 160,
     "published": 72,
-    "missing": 87,
+    "missing": 88,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-27",
+        "title": "Intel이 Classiq을 인수합니다",
+        "logNo": "224454942010",
+        "url": "https://blog.naver.com/4-fire/224454942010?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-27-224454942010.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
+    {
+      "naver": {
+        "published_date": "2026-10-27",
+        "title": "IonQ는 왜 Elisity에 최대 13억 달러를 지불 했을까?",
+        "logNo": "224454479969",
+        "url": "https://blog.naver.com/4-fire/224454479969?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-27-224454479969.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-26",

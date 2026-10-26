@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-26T21:44:30+00:00_
+_Automatically generated: 2026-10-26T22:18:23+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,15 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 768 | 96 | 672 | 0 | 0 |
-| Recent 90 days (2026-07-28 → 2026-10-26) | 159 | 72 | 87 | 0 | 0 |
+| All | 770 | 96 | 674 | 0 | 0 |
+| Recent 90 days (2026-07-29 → 2026-10-27) | 160 | 72 | 88 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-27 | [Intel이 Classiq을 인수합니다](posts/2026/2026-10-27-224454942010.md) | ❌ Missing | — | `224454942010` |
+| 2026-10-27 | [IonQ는 왜 Elisity에 최대 13억 달러를 지불 했을까?](posts/2026/2026-10-27-224454479969.md) | ❌ Missing | — | `224454479969` |
 | 2026-10-26 | [왜 IonQ에는 하필, Skywater 여야만 했을까?](posts/2026/2026-10-26-224454437483.md) | ✅ Published | [Why Did IonQ Have to Choose SkyWater?](https://netcreat.substack.com/p/why-did-ionq-have-to-choose-skywater) | `224454437483` |
 | 2026-10-26 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요? - 심화편](posts/2026/2026-10-26-224453312491.md) | ❌ Missing | — | `224453312491` |
 | 2026-10-25 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요?](posts/2026/2026-10-25-224453237227.md) | ❌ Missing | — | `224453237227` |
@@ -175,14 +177,15 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-07-31 | [QED-C의 양자 네트워킹 로드맵](posts/2026/2026-07-31-224363465601.md) | ✅ Published | [QED-C’s Quantum Networking Roadmap](https://netcreat.substack.com/p/qed-cs-quantum-networking-roadmap) | `224363465601` |
 | 2026-07-29 | [IonQ, SkyWater Technology 인수 관련 최종 규제 승인 확보](posts/2026/2026-07-29-224362085662.md) | ❌ Missing | — | `224362085662` |
 | 2026-07-29 | [Officina Stellare의 OCT 계약으로 드러난 Leonardo의 우주전략](posts/2026/2026-07-29-224361924846.md) | ❌ Missing | — | `224361924846` |
-| 2026-07-28 | [Rocket Lab은 왜 Kodiak으로 향하는가](posts/2026/2026-07-28-224360861377.md) | ❌ Missing | — | `224360861377` |
 
 ## Missing from Substack
 
-Total missing: **672**
+Total missing: **674**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-27 | [Intel이 Classiq을 인수합니다](posts/2026/2026-10-27-224454942010.md) | ❌ Missing | — | `224454942010` |
+| 2026-10-27 | [IonQ는 왜 Elisity에 최대 13억 달러를 지불 했을까?](posts/2026/2026-10-27-224454479969.md) | ❌ Missing | — | `224454479969` |
 | 2026-10-26 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요? - 심화편](posts/2026/2026-10-26-224453312491.md) | ❌ Missing | — | `224453312491` |
 | 2026-10-25 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요?](posts/2026/2026-10-25-224453237227.md) | ❌ Missing | — | `224453237227` |
 | 2026-10-22 | [양자컴퓨터가 해킹당한다면?](posts/2026/2026-10-22-224450586859.md) | ❌ Missing | — | `224450586859` |
@@ -863,10 +866,12 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 768 Naver posts</summary>
+<summary>Show all 770 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-27 | [Intel이 Classiq을 인수합니다](posts/2026/2026-10-27-224454942010.md) | ❌ Missing | — | `224454942010` |
+| 2026-10-27 | [IonQ는 왜 Elisity에 최대 13억 달러를 지불 했을까?](posts/2026/2026-10-27-224454479969.md) | ❌ Missing | — | `224454479969` |
 | 2026-10-26 | [왜 IonQ에는 하필, Skywater 여야만 했을까?](posts/2026/2026-10-26-224454437483.md) | ✅ Published | [Why Did IonQ Have to Choose SkyWater?](https://netcreat.substack.com/p/why-did-ionq-have-to-choose-skywater) | `224454437483` |
 | 2026-10-26 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요? - 심화편](posts/2026/2026-10-26-224453312491.md) | ❌ Missing | — | `224453312491` |
 | 2026-10-25 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요?](posts/2026/2026-10-25-224453237227.md) | ❌ Missing | — | `224453237227` |
