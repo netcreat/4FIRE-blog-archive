@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T11:16:41+00:00",
+  "generated_at": "2026-10-26T11:40:17+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 768,
-    "published": 94,
-    "missing": 674,
+    "published": 95,
+    "missing": 673,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-28",
     "end": "2026-10-26",
     "total": 159,
-    "published": 71,
-    "missing": 88,
+    "published": 72,
+    "missing": 87,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224454437483?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-26-224454437483.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Why Did IonQ Have to Choose SkyWater?",
+          "url": "https://netcreat.substack.com/p/why-did-ionq-have-to-choose-skywater",
+          "published_date": "2026-10-26",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {

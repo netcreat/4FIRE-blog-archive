@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-26T11:16:41+00:00_
+_Automatically generated: 2026-10-26T11:40:17+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,14 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 768 | 94 | 674 | 0 | 0 |
-| Recent 90 days (2026-07-28 → 2026-10-26) | 159 | 71 | 88 | 0 | 0 |
+| All | 768 | 95 | 673 | 0 | 0 |
+| Recent 90 days (2026-07-28 → 2026-10-26) | 159 | 72 | 87 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-10-26 | [왜 IonQ에는 하필, Skywater 여야만 했을까?](posts/2026/2026-10-26-224454437483.md) | ❌ Missing | — | `224454437483` |
+| 2026-10-26 | [왜 IonQ에는 하필, Skywater 여야만 했을까?](posts/2026/2026-10-26-224454437483.md) | ✅ Published | [Why Did IonQ Have to Choose SkyWater?](https://netcreat.substack.com/p/why-did-ionq-have-to-choose-skywater) | `224454437483` |
 | 2026-10-26 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요? - 심화편](posts/2026/2026-10-26-224453312491.md) | ❌ Missing | — | `224453312491` |
 | 2026-10-25 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요?](posts/2026/2026-10-25-224453237227.md) | ❌ Missing | — | `224453237227` |
 | 2026-10-23 | [양자컴퓨터가 해킹당한다면? - 심화편](posts/2026/2026-10-23-224450875880.md) | ✅ Published | [What If a Quantum Computer Were Hacked? — An In-Depth Analysis](https://netcreat.substack.com/p/what-if-a-quantum-computer-were-hacked) | `224450875880` |
