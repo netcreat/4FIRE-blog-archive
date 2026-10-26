@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-26T22:18:23+00:00_
+_Automatically generated: 2026-10-26T23:42:37+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,15 +14,15 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 770 | 96 | 674 | 0 | 0 |
-| Recent 90 days (2026-07-29 → 2026-10-27) | 160 | 72 | 88 | 0 | 0 |
+| All | 770 | 98 | 672 | 0 | 0 |
+| Recent 90 days (2026-07-29 → 2026-10-27) | 160 | 74 | 86 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-10-27 | [Intel이 Classiq을 인수합니다](posts/2026/2026-10-27-224454942010.md) | ❌ Missing | — | `224454942010` |
-| 2026-10-27 | [IonQ는 왜 Elisity에 최대 13억 달러를 지불 했을까?](posts/2026/2026-10-27-224454479969.md) | ❌ Missing | — | `224454479969` |
+| 2026-10-27 | [Intel이 Classiq을 인수합니다](posts/2026/2026-10-27-224454942010.md) | ✅ Published | [Intel Is Acquiring Classiq](https://netcreat.substack.com/p/intel-is-acquiring-classiq-a-quantum) | `224454942010` |
+| 2026-10-27 | [IonQ는 왜 Elisity에 최대 13억 달러를 지불 했을까?](posts/2026/2026-10-27-224454479969.md) | ✅ Published | [Why Did IonQ Agree to Pay Up to $1.3 Billion for Elisity?](https://netcreat.substack.com/p/why-did-ionq-agree-to-pay-up-to-13) | `224454479969` |
 | 2026-10-26 | [왜 IonQ에는 하필, Skywater 여야만 했을까?](posts/2026/2026-10-26-224454437483.md) | ✅ Published | [Why Did IonQ Have to Choose SkyWater?](https://netcreat.substack.com/p/why-did-ionq-have-to-choose-skywater) | `224454437483` |
 | 2026-10-26 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요? - 심화편](posts/2026/2026-10-26-224453312491.md) | ❌ Missing | — | `224453312491` |
 | 2026-10-25 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요?](posts/2026/2026-10-25-224453237227.md) | ❌ Missing | — | `224453237227` |
