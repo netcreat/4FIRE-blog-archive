@@ -2,8 +2,28 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 770,
+  "totalArchivedPosts": 772,
   "posts": [
+    {
+      "date": "2026-10-27",
+      "published": "2026-10-27T23:29:39+11:00",
+      "title": "QKD는 어떻게 비밀키를 공유할까요?",
+      "logNo": "224455866257",
+      "source": "https://blog.naver.com/4-fire/224455866257?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-27-224455866257.md",
+      "content_source": "naver_post",
+      "characters": 5441
+    },
+    {
+      "date": "2026-10-27",
+      "published": "2026-10-27T23:16:22+11:00",
+      "title": "IonQ, AFRL에서 $7.5M 후속 자금 확보",
+      "logNo": "224455854435",
+      "source": "https://blog.naver.com/4-fire/224455854435?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-27-224455854435.md",
+      "content_source": "naver_post",
+      "characters": 4430
+    },
     {
       "date": "2026-10-27",
       "published": "2026-10-27T09:10:57+11:00",

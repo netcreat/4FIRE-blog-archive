@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T09:51:25+00:00",
+  "generated_at": "2026-10-27T12:58:17+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 770,
+    "total": 772,
     "published": 98,
-    "missing": 672,
+    "missing": 674,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,43 @@
     "days": 90,
     "start": "2026-07-29",
     "end": "2026-10-27",
-    "total": 160,
+    "total": 162,
     "published": 74,
-    "missing": 86,
+    "missing": 88,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-27",
+        "title": "QKD는 어떻게 비밀키를 공유할까요?",
+        "logNo": "224455866257",
+        "url": "https://blog.naver.com/4-fire/224455866257?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-27-224455866257.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
+    {
+      "naver": {
+        "published_date": "2026-10-27",
+        "title": "IonQ, AFRL에서 $7.5M 후속 자금 확보",
+        "logNo": "224455854435",
+        "url": "https://blog.naver.com/4-fire/224455854435?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-27-224455854435.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-27",

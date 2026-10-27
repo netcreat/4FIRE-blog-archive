@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-27T09:51:25+00:00_
+_Automatically generated: 2026-10-27T12:58:17+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,15 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 770 | 98 | 672 | 0 | 0 |
-| Recent 90 days (2026-07-29 → 2026-10-27) | 160 | 74 | 86 | 0 | 0 |
+| All | 772 | 98 | 674 | 0 | 0 |
+| Recent 90 days (2026-07-29 → 2026-10-27) | 162 | 74 | 88 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-27 | [QKD는 어떻게 비밀키를 공유할까요?](posts/2026/2026-10-27-224455866257.md) | ❌ Missing | — | `224455866257` |
+| 2026-10-27 | [IonQ, AFRL에서 $7.5M 후속 자금 확보](posts/2026/2026-10-27-224455854435.md) | ❌ Missing | — | `224455854435` |
 | 2026-10-27 | [Intel이 Classiq을 인수합니다](posts/2026/2026-10-27-224454942010.md) | ✅ Published | [Intel Is Acquiring Classiq](https://netcreat.substack.com/p/intel-is-acquiring-classiq-a-quantum) | `224454942010` |
 | 2026-10-27 | [IonQ는 왜 Elisity에 최대 13억 달러를 지불 했을까?](posts/2026/2026-10-27-224454479969.md) | ✅ Published | [Why Did IonQ Agree to Pay Up to $1.3 Billion for Elisity?](https://netcreat.substack.com/p/why-did-ionq-agree-to-pay-up-to-13) | `224454479969` |
 | 2026-10-26 | [왜 IonQ에는 하필, Skywater 여야만 했을까?](posts/2026/2026-10-26-224454437483.md) | ✅ Published | [Why Did IonQ Have to Choose SkyWater?](https://netcreat.substack.com/p/why-did-ionq-have-to-choose-skywater) | `224454437483` |
@@ -49,7 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-13 | [Elisity 기술 심층 분석 (1) — Zero Trust와 Microsegmentation의 이해](posts/2026/2026-10-13-224439947359.md) | ✅ Published | [Elisity Technical Deep Dive (1) — Understanding Zero Trust and Microsegmentation](https://netcreat.substack.com/p/elisity-technical-deep-dive-1-understanding) | `224439947359` |
 | 2026-10-13 | [IonQ는 왜 Elisity에 13억 달러를 베팅했을까?](posts/2026/2026-10-13-224439505882.md) | ✅ Published | [Why Did IonQ Bet $1.3 Billion on Elisity?](https://netcreat.substack.com/p/why-did-ionq-bet-13-billion-on-elisity) | `224439505882` |
 | 2026-10-12 | [AMD의 82억 달러 베팅 — 페이페이 리, World Labs, 그리고 AI가 언어를 넘어 현실 세계로 향하는 이유](posts/2026/2026-10-12-224439327263.md) | ✅ Published | [AMD's $8.2 Billion Bet — Fei-Fei Li, World Labs, and Why AI Is Moving Beyond Language Into the Real World](https://netcreat.substack.com/p/amds-82-billion-bet-fei-fei-li-world) | `224439327263` |
-| 2026-10-11 | [NVIDIA는 어디에 돈을 쓰고 있는가 — 인수·투자로 읽는 Jensen Huang의 다음 전략](posts/2026/2026-10-11-224438278537.md) | ✅ Published | [Where Is NVIDIA Spending Its Money? — Reading Jensen Huang’s Next Strategy Through Acquisitions and Investments](https://netcreat.substack.com/p/where-is-nvidia-spending-its-money) | `224438278537` |
-| 2026-10-11 | [AlphaGo 개발자들이 만든 Beam, 그리고 $25B AI 기업의 가치](posts/2026/2026-10-11-224438085225.md) | ✅ Published | [Beam, Built by the Minds Behind AlphaGo — and the Value of a $25 Billion AI Company](https://netcreat.substack.com/p/beam-built-by-the-minds-behind-alphago) | `224438085225` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).
