@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-28T03:55:30+00:00_
+_Automatically generated: 2026-10-28T07:08:23+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 772 | 98 | 674 | 0 | 0 |
-| Recent 90 days (2026-07-29 → 2026-10-27) | 162 | 74 | 88 | 0 | 0 |
+| All | 773 | 98 | 675 | 0 | 0 |
+| Recent 90 days (2026-07-30 → 2026-10-28) | 161 | 74 | 87 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-28 | [BB84의 키 확립부터 공개키 암호화와 실제 데이터 보호까지](posts/2026/2026-10-28-224456705898.md) | ❌ Missing | — | `224456705898` |
 | 2026-10-27 | [QKD는 어떻게 비밀키를 공유할까요?](posts/2026/2026-10-27-224455866257.md) | ❌ Missing | — | `224455866257` |
 | 2026-10-27 | [IonQ, AFRL에서 $7.5M 후속 자금 확보](posts/2026/2026-10-27-224455854435.md) | ❌ Missing | — | `224455854435` |
 | 2026-10-27 | [Intel이 Classiq을 인수합니다](posts/2026/2026-10-27-224454942010.md) | ✅ Published | [Intel Is Acquiring Classiq](https://netcreat.substack.com/p/intel-is-acquiring-classiq-a-quantum) | `224454942010` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-13 | [Elisity 기술 심층 분석 (2) — CCC · Virtual Edge · Virtual Edge Node](posts/2026/2026-10-13-224439993177.md) | ✅ Published | [Elisity Technical Deep Dive (2) — CCC, Virtual Edge, and Virtual Edge Node](https://netcreat.substack.com/p/elisity-technical-deep-dive-2-ccc) | `224439993177` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (1) — Zero Trust와 Microsegmentation의 이해](posts/2026/2026-10-13-224439947359.md) | ✅ Published | [Elisity Technical Deep Dive (1) — Understanding Zero Trust and Microsegmentation](https://netcreat.substack.com/p/elisity-technical-deep-dive-1-understanding) | `224439947359` |
 | 2026-10-13 | [IonQ는 왜 Elisity에 13억 달러를 베팅했을까?](posts/2026/2026-10-13-224439505882.md) | ✅ Published | [Why Did IonQ Bet $1.3 Billion on Elisity?](https://netcreat.substack.com/p/why-did-ionq-bet-13-billion-on-elisity) | `224439505882` |
-| 2026-10-12 | [AMD의 82억 달러 베팅 — 페이페이 리, World Labs, 그리고 AI가 언어를 넘어 현실 세계로 향하는 이유](posts/2026/2026-10-12-224439327263.md) | ✅ Published | [AMD's $8.2 Billion Bet — Fei-Fei Li, World Labs, and Why AI Is Moving Beyond Language Into the Real World](https://netcreat.substack.com/p/amds-82-billion-bet-fei-fei-li-world) | `224439327263` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

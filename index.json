@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 772,
+  "totalArchivedPosts": 773,
   "posts": [
+    {
+      "date": "2026-10-28",
+      "published": "2026-10-28T17:24:23+11:00",
+      "title": "BB84의 키 확립부터 공개키 암호화와 실제 데이터 보호까지",
+      "logNo": "224456705898",
+      "source": "https://blog.naver.com/4-fire/224456705898?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-28-224456705898.md",
+      "content_source": "naver_post",
+      "characters": 27510
+    },
     {
       "date": "2026-10-27",
       "published": "2026-10-27T23:29:39+11:00",

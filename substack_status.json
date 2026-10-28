@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T03:55:30+00:00",
+  "generated_at": "2026-10-28T07:08:23+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 772,
+    "total": 773,
     "published": 98,
-    "missing": 674,
+    "missing": 675,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-07-29",
-    "end": "2026-10-27",
-    "total": 162,
+    "start": "2026-07-30",
+    "end": "2026-10-28",
+    "total": 161,
     "published": 74,
-    "missing": 88,
+    "missing": 87,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-28",
+        "title": "BB84의 키 확립부터 공개키 암호화와 실제 데이터 보호까지",
+        "logNo": "224456705898",
+        "url": "https://blog.naver.com/4-fire/224456705898?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-28-224456705898.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-27",

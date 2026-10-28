@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Wed, 28 Oct 2026 12:55:01 +0900</pubDate>
+            <pubDate>Wed, 28 Oct 2026 16:07:52 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Q-Networking]]></category>
+                <title><![CDATA[BB84의 키 확립부터 공개키 암호화와 실제 데이터 보호까지]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224456705898?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224456705898</guid>
+                
+                <description><![CDATA[✅ 키 확립에서 실제 데이터 암호화까지 암호화 시스템을 평가하려면 세 단계를 분리해야 한다. 첫째 비밀키를 어떻게 확립하는가, 둘째 통신 상대를 어떻게 인증하는가, 셋째 실제 데이터를 어떤 알고리즘으로 암호화하는가다. 이 보고서는 Alice가 최초 비트열 10110010을 준비해 양자상태로 전송하는 BB84의 전 과정을 재구성한 다음, Eve의 정보량·최종 키 추출·OTP·AES-256-GCM과 PQC의 ML-KEM·ML-DSA를 동일한 보안 체계에서 분석한다. BB84의 Sifting, 오류 정정, Privacy Amplification을 거쳐 완성되는 비밀키와 ML-KEM의 공유 비밀은 생성 원리가 다르지만, 둘 모두 최종적으로 암호화 엔진의 대칭 세션키 재료가 될 수 있다. 양자내성....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMjhfMjU5/MDAxNzkzMTY4NTAyMDc5.HhPqNCC8_kT9arAXVUXyY9tp66K_AkdIAzmVd7JxFpcg.JZHxIVuoy6S88bma-khW2aOLgzxLXwbfYRJdxhTYVVwg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Wed, 28 Oct 2026 15:24:23 +0900</pubDate>
+                <tag><![CDATA[BB84,QKD,PQC,대칭,비대칭,키확립]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 오류정정 코드의 구조와 Walking Cat 아키텍처 분석 IonQ의 양자 오류정정 기술을 이해하려면 단순히 물리 큐비트가 몇 개인지보다 어떤 오류정정 코드를 사용하고, 그 코드를 실제 하드웨어에서 어떻게 실행하는지 살펴봐야 한다. IonQ의 2025년 연구에서는 기존 BB6 코드를 개선한 BB5 코드가 등장했다. 그리고 2026년 10월 1일에는 BB5와 신드롬 추출 최적화 기술을 포함한 미국 특허출원이 공개됐다. 이에 대한 자세한 내용은 이미 다룬 바 있다. 2026년 4월 공개된 Walking Cat Architecture에서는 BB7 기반 Q70, GB8 기반 Q54와 Q102라는 세 가지 주요 코드가 제시됐다. 여기서 몇 가지 중요한 질문이 생긴다. 안정자 Weight가 낮으면 오....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDNfMTk5/MDAxNzkxMDIzMjIwMjEx.IQ8J5LZXFX7jRn2ANp3p4cGYWP6k5-SeyLBMpjjLCAgg.vD9xRVKH7pwuvbUIa4TzdPzu6h-tMRNia_y_NA4a43Yg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Sat, 03 Oct 2026 21:04:01 +0900</pubDate>
                 <tag><![CDATA[BB,GB,Walking,Cat,IonQ]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Series]]></category>
-                <title><![CDATA[Understanding Quantum Technologies 2026 Part 5]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224430148490?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224430148490</guid>
-                
-                <description><![CDATA[✅ 서론 — 1,822페이지짜리 양자기술 보고서를 5편으로 나눠 읽어본다 양자컴퓨팅을 보다 보면 어느 순간부터 개별 기술이나 기업만 따라가서는 전체 그림이 잘 보이지 않는다. 물리 큐비트 수가 많다고 좋은 양자컴퓨터가 되는 것도 아니고, 논리 큐비트를 만들었다고 곧바로 FTQC가 되는 것도 아니다. 좋은 하드웨어가 있어도 실제로 의미 있는 알고리즘이 없으면 소용이 없고, 알고리즘이 있어도 classical computer보다 실제로 우위가 있는지 따져봐야 한다. 더 나아가 QPU를 서로 연결하는 기술, quantum communication과 sensing, 이를 뒷받침하는 photonics·cryogenics·semiconductor·control electronics, 그리고 국가 정책·자본·인재·공....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDNfMTQ1/MDAxNzkwOTg3NTE4Mzc3.7T5Z8IUPgGnK-7rP4IcYkinPvi86_dN9qhyDSIO5RvQg.0GUP0Wy1a9XGJqWhcNGYX4l6t5ku9PipaUICWKvoiWEg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Sat, 03 Oct 2026 10:39:45 +0900</pubDate>
-                <tag><![CDATA[Olivier,Ezratty,Understanding,Quantum,Technologies,2026]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

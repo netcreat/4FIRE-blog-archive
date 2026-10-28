@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-28T03:55:30+00:00_
+_Automatically generated: 2026-10-28T07:08:23+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 772 | 98 | 674 | 0 | 0 |
-| Recent 90 days (2026-07-29 → 2026-10-27) | 162 | 74 | 88 | 0 | 0 |
+| All | 773 | 98 | 675 | 0 | 0 |
+| Recent 90 days (2026-07-30 → 2026-10-28) | 161 | 74 | 87 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-28 | [BB84의 키 확립부터 공개키 암호화와 실제 데이터 보호까지](posts/2026/2026-10-28-224456705898.md) | ❌ Missing | — | `224456705898` |
 | 2026-10-27 | [QKD는 어떻게 비밀키를 공유할까요?](posts/2026/2026-10-27-224455866257.md) | ❌ Missing | — | `224455866257` |
 | 2026-10-27 | [IonQ, AFRL에서 $7.5M 후속 자금 확보](posts/2026/2026-10-27-224455854435.md) | ❌ Missing | — | `224455854435` |
 | 2026-10-27 | [Intel이 Classiq을 인수합니다](posts/2026/2026-10-27-224454942010.md) | ✅ Published | [Intel Is Acquiring Classiq](https://netcreat.substack.com/p/intel-is-acquiring-classiq-a-quantum) | `224454942010` |
@@ -177,15 +178,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-07-31 | [IonQ, SkyWater 인수 완료](posts/2026/2026-07-31-224364343830.md) | ❌ Missing | — | `224364343830` |
 | 2026-07-31 | [OCT 업체별 상세 비교](posts/2026/2026-07-31-224364215965.md) | ❌ Missing | — | `224364215965` |
 | 2026-07-31 | [QED-C의 양자 네트워킹 로드맵](posts/2026/2026-07-31-224363465601.md) | ✅ Published | [QED-C’s Quantum Networking Roadmap](https://netcreat.substack.com/p/qed-cs-quantum-networking-roadmap) | `224363465601` |
-| 2026-07-29 | [IonQ, SkyWater Technology 인수 관련 최종 규제 승인 확보](posts/2026/2026-07-29-224362085662.md) | ❌ Missing | — | `224362085662` |
-| 2026-07-29 | [Officina Stellare의 OCT 계약으로 드러난 Leonardo의 우주전략](posts/2026/2026-07-29-224361924846.md) | ❌ Missing | — | `224361924846` |
 
 ## Missing from Substack
 
-Total missing: **674**
+Total missing: **675**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-28 | [BB84의 키 확립부터 공개키 암호화와 실제 데이터 보호까지](posts/2026/2026-10-28-224456705898.md) | ❌ Missing | — | `224456705898` |
 | 2026-10-27 | [QKD는 어떻게 비밀키를 공유할까요?](posts/2026/2026-10-27-224455866257.md) | ❌ Missing | — | `224455866257` |
 | 2026-10-27 | [IonQ, AFRL에서 $7.5M 후속 자금 확보](posts/2026/2026-10-27-224455854435.md) | ❌ Missing | — | `224455854435` |
 | 2026-10-26 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요? - 심화편](posts/2026/2026-10-26-224453312491.md) | ❌ Missing | — | `224453312491` |
@@ -868,10 +868,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 772 Naver posts</summary>
+<summary>Show all 773 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-28 | [BB84의 키 확립부터 공개키 암호화와 실제 데이터 보호까지](posts/2026/2026-10-28-224456705898.md) | ❌ Missing | — | `224456705898` |
 | 2026-10-27 | [QKD는 어떻게 비밀키를 공유할까요?](posts/2026/2026-10-27-224455866257.md) | ❌ Missing | — | `224455866257` |
 | 2026-10-27 | [IonQ, AFRL에서 $7.5M 후속 자금 확보](posts/2026/2026-10-27-224455854435.md) | ❌ Missing | — | `224455854435` |
 | 2026-10-27 | [Intel이 Classiq을 인수합니다](posts/2026/2026-10-27-224454942010.md) | ✅ Published | [Intel Is Acquiring Classiq](https://netcreat.substack.com/p/intel-is-acquiring-classiq-a-quantum) | `224454942010` |
