@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-28T19:00:01+00:00_
+_Automatically generated: 2026-10-28T21:51:32+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 774 | 98 | 676 | 0 | 0 |
-| Recent 90 days (2026-07-30 → 2026-10-28) | 162 | 74 | 88 | 0 | 0 |
+| All | 775 | 98 | 677 | 0 | 0 |
+| Recent 90 days (2026-07-31 → 2026-10-29) | 163 | 74 | 89 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-29 | [영국 Quantum Leap과 우주 양자 로드맵](posts/2026/2026-10-29-224457341737.md) | ❌ Missing | — | `224457341737` |
 | 2026-10-28 | [NIST PQC 전환 지침 최종 확정](posts/2026/2026-10-28-224457006220.md) | ❌ Missing | — | `224457006220` |
 | 2026-10-28 | [BB84의 키 확립부터 공개키 암호화와 실제 데이터 보호까지](posts/2026/2026-10-28-224456705898.md) | ❌ Missing | — | `224456705898` |
 | 2026-10-27 | [QKD는 어떻게 비밀키를 공유할까요?](posts/2026/2026-10-27-224455866257.md) | ❌ Missing | — | `224455866257` |
@@ -182,10 +183,11 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **676**
+Total missing: **677**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-29 | [영국 Quantum Leap과 우주 양자 로드맵](posts/2026/2026-10-29-224457341737.md) | ❌ Missing | — | `224457341737` |
 | 2026-10-28 | [NIST PQC 전환 지침 최종 확정](posts/2026/2026-10-28-224457006220.md) | ❌ Missing | — | `224457006220` |
 | 2026-10-28 | [BB84의 키 확립부터 공개키 암호화와 실제 데이터 보호까지](posts/2026/2026-10-28-224456705898.md) | ❌ Missing | — | `224456705898` |
 | 2026-10-27 | [QKD는 어떻게 비밀키를 공유할까요?](posts/2026/2026-10-27-224455866257.md) | ❌ Missing | — | `224455866257` |
@@ -870,10 +872,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 774 Naver posts</summary>
+<summary>Show all 775 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-29 | [영국 Quantum Leap과 우주 양자 로드맵](posts/2026/2026-10-29-224457341737.md) | ❌ Missing | — | `224457341737` |
 | 2026-10-28 | [NIST PQC 전환 지침 최종 확정](posts/2026/2026-10-28-224457006220.md) | ❌ Missing | — | `224457006220` |
 | 2026-10-28 | [BB84의 키 확립부터 공개키 암호화와 실제 데이터 보호까지](posts/2026/2026-10-28-224456705898.md) | ❌ Missing | — | `224456705898` |
 | 2026-10-27 | [QKD는 어떻게 비밀키를 공유할까요?](posts/2026/2026-10-27-224455866257.md) | ❌ Missing | — | `224455866257` |

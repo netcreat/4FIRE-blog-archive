@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T19:00:01+00:00",
+  "generated_at": "2026-10-28T21:51:32+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 774,
+    "total": 775,
     "published": 98,
-    "missing": 676,
+    "missing": 677,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-07-30",
-    "end": "2026-10-28",
-    "total": 162,
+    "start": "2026-07-31",
+    "end": "2026-10-29",
+    "total": 163,
     "published": 74,
-    "missing": 88,
+    "missing": 89,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-29",
+        "title": "영국 Quantum Leap과 우주 양자 로드맵",
+        "logNo": "224457341737",
+        "url": "https://blog.naver.com/4-fire/224457341737?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-29-224457341737.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-28",

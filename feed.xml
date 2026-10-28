@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Thu, 29 Oct 2026 03:59:32 +0900</pubDate>
+            <pubDate>Thu, 29 Oct 2026 06:51:01 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[News]]></category>
+                <title><![CDATA[영국 Quantum Leap과 우주 양자 로드맵]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224457341737?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224457341737</guid>
+                
+                <description><![CDATA[✅ £20억의 진실, 기술의 확장, 그리고 지연된 ProQure 2026년 3월 17일 영국 정부는 최대 £2 billion(20억 파운드)의 Quantum Leap 투자 패키지를 발표했다. 양자컴퓨터 공공조달, 양자 네트워킹, 양자 센싱·항법을 산업화하기 위한 계획이었다. 그리고 2026년 10월 27일에는 Quantum Technology Roadmap for Space가 발표됐다. 이번에는 위성 QKD, 우주용 원자시계, 양자센서, 미래 양자 네트워크가 등장했다. 그렇다면 10월에 별도의 £20억 우주 예산이 추가된 것일까? 아니면 기존 예산의 사용처가 달라진 것일까? 동시에 10월 1일부터 시작했어야 할 ProQure의 선정 결과는 왜 아직 공개되지 않았을까? 이번 글은 앞서 작성한 글을 바탕으로....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMjlfMjQ5/MDAxNzkzMjE5Nzc2NDc4.n_b4aAoDz27QRWV_ztS683lMhb_QYsKoFidfT1Aa03wg.95zjZsnJ8NRhp6nBlbxWUGlLalEcKipb6SjPVADlLlcg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Thu, 29 Oct 2026 06:04:07 +0900</pubDate>
+                <tag><![CDATA[영국,Quantum,Technology,Roadmap,Space]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 안실라는 몇 개가 필요할까? 안정자 웨이트·신드롬·병렬 계층의 관계 양자 오류정정에서 물리 큐비트를 추가로 확보하면 어디에 써야 할까? 논리 정보를 담는 데이터 큐비트를 늘릴 수도 있지만, 오류를 검사하는 안실라 큐비트에 배정할 수도 있다. 큐비트 예산이 작을 때는 소수의 안실라를 측정하고 초기화하며 여러 번 재사용한다. 필요한 검사 결과를 모두 얻을 수 있지만, 그만큼 시간이 걸린다. 더 많은 큐비트를 확보할 수 있다면 여러 안정자 검사를 동시에 진행하도록 안실라를 늘릴 수 있다. Q54·Q70·Q102에서 데이터 큐비트 수만큼 신드롬 추출용 안실라를 배치하는 설계는 이러한 선택을 보여준다. 이 글의 핵심은 안실라를 늘려....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDZfMjc2/MDAxNzkxMjUxMTQ0MzEz.UOhZe89_P666KwwTsc7m8h3wO8Z4gLKriXLRCPR3w4sg.TpQWA4Dm4cyZMcU_GaPJPh8EPoI9TADqtUZR1WRYn3kg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Tue, 06 Oct 2026 11:09:21 +0900</pubDate>
                 <tag><![CDATA[안실라,Ancilla,Q70,Q54,Q102,IonQ,Walking,Cat]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[News]]></category>
-                <title><![CDATA[NSA의 국가안보시스템 전환과 새로운 투자 기회]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224431017441?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224431017441</guid>
-                
-                <description><![CDATA[✅ 양자컴퓨터가 등장하기 전에 보안망부터 바꾼다 2026년 10월 1일, 미국 국가안보국(NSA)이 양자컴퓨터의 위협으로부터 국가안보시스템(NSS)을 보호하기 위한 새로운 발표를 내놓았다. https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4615285/nsa-announces-post-quantum-cryptography-measures-to-safeguard-national-security/ 발표의 핵심은 2027년부터 도입되는 신규 상용 국가안보시스템에 양자내성암호(PQC) 지원을 요구하고, 이를 지원하지 못하는 기존 시스템은 2030년까지 단계적으로 퇴출한다는 내용이다. 하지만 이를 새로운 정책이라고 보기는 어렵다. 미국 정부는 이미 2022년부터 NSS의....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDRfMTUy/MDAxNzkxMDgxNDM2Mjg5.ceaZK0CZ0z--Igy-ev-HHL4yYE3nYu5RjV7oxWuaZtkg.b978-07auE4xpMd5vfsHrLTaAoqTzMdqvBRw9nSkILYg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Sun, 04 Oct 2026 12:54:14 +0900</pubDate>
-                <tag><![CDATA[NSA,NSS,PQC,IonQ,CNSA]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

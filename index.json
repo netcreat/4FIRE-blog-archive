@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 774,
+  "totalArchivedPosts": 775,
   "posts": [
+    {
+      "date": "2026-10-29",
+      "published": "2026-10-29T08:04:07+11:00",
+      "title": "영국 Quantum Leap과 우주 양자 로드맵",
+      "logNo": "224457341737",
+      "source": "https://blog.naver.com/4-fire/224457341737?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-29-224457341737.md",
+      "content_source": "naver_post",
+      "characters": 14896
+    },
     {
       "date": "2026-10-28",
       "published": "2026-10-28T22:12:16+11:00",

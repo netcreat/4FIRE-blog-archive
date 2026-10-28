@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-28T19:00:01+00:00_
+_Automatically generated: 2026-10-28T21:51:32+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 774 | 98 | 676 | 0 | 0 |
-| Recent 90 days (2026-07-30 → 2026-10-28) | 162 | 74 | 88 | 0 | 0 |
+| All | 775 | 98 | 677 | 0 | 0 |
+| Recent 90 days (2026-07-31 → 2026-10-29) | 163 | 74 | 89 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-29 | [영국 Quantum Leap과 우주 양자 로드맵](posts/2026/2026-10-29-224457341737.md) | ❌ Missing | — | `224457341737` |
 | 2026-10-28 | [NIST PQC 전환 지침 최종 확정](posts/2026/2026-10-28-224457006220.md) | ❌ Missing | — | `224457006220` |
 | 2026-10-28 | [BB84의 키 확립부터 공개키 암호화와 실제 데이터 보호까지](posts/2026/2026-10-28-224456705898.md) | ❌ Missing | — | `224456705898` |
 | 2026-10-27 | [QKD는 어떻게 비밀키를 공유할까요?](posts/2026/2026-10-27-224455866257.md) | ❌ Missing | — | `224455866257` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-13 | [Elisity 기술 심층 분석 (4) — Zero Trust · Dynamic Policy · EDR Integration · Lateral Movement](posts/2026/2026-10-13-224440063909.md) | ✅ Published | [Elisity Technical Deep Dive (4) — Zero Trust, Dynamic Policy, EDR Integration, and Lateral Movement](https://netcreat.substack.com/p/elisity-technical-deep-dive-4-zero) | `224440063909` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (3) — 네트워크 데이터 수집 · 장치 식별 · AI 기반 분석](posts/2026/2026-10-13-224440028682.md) | ✅ Published | [Elisity Technical Deep Dive (3) — Network Data Collection, Device Identification, and AI-Driven Analysis](https://netcreat.substack.com/p/elisity-technical-deep-dive-3-network-c2b) | `224440028682` |
 | 2026-10-13 | [Elisity 기술 심층 분석 (2) — CCC · Virtual Edge · Virtual Edge Node](posts/2026/2026-10-13-224439993177.md) | ✅ Published | [Elisity Technical Deep Dive (2) — CCC, Virtual Edge, and Virtual Edge Node](https://netcreat.substack.com/p/elisity-technical-deep-dive-2-ccc) | `224439993177` |
-| 2026-10-13 | [Elisity 기술 심층 분석 (1) — Zero Trust와 Microsegmentation의 이해](posts/2026/2026-10-13-224439947359.md) | ✅ Published | [Elisity Technical Deep Dive (1) — Understanding Zero Trust and Microsegmentation](https://netcreat.substack.com/p/elisity-technical-deep-dive-1-understanding) | `224439947359` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).
