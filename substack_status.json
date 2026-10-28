@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T09:58:39+00:00",
+  "generated_at": "2026-10-28T13:07:43+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 773,
+    "total": 774,
     "published": 98,
-    "missing": 675,
+    "missing": 676,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,29 @@
     "days": 90,
     "start": "2026-07-30",
     "end": "2026-10-28",
-    "total": 161,
+    "total": 162,
     "published": 74,
-    "missing": 87,
+    "missing": 88,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-28",
+        "title": "NIST PQC 전환 지침 최종 확정",
+        "logNo": "224457006220",
+        "url": "https://blog.naver.com/4-fire/224457006220?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-28-224457006220.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-28",

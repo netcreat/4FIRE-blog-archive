@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 773,
+  "totalArchivedPosts": 774,
   "posts": [
+    {
+      "date": "2026-10-28",
+      "published": "2026-10-28T22:12:16+11:00",
+      "title": "NIST PQC 전환 지침 최종 확정",
+      "logNo": "224457006220",
+      "source": "https://blog.naver.com/4-fire/224457006220?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-28-224457006220.md",
+      "content_source": "naver_post",
+      "characters": 8787
+    },
     {
       "date": "2026-10-28",
       "published": "2026-10-28T17:24:23+11:00",
