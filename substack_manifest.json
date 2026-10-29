@@ -1114,6 +1114,17 @@
           "published_date": "2026-10-29"
         }
       ]
+    },
+    "224457341737": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "The UK's Quantum Leap and Its Space Quantum Roadmap",
+          "url": "https://netcreat.substack.com/p/the-uks-quantum-leap-and-its-space",
+          "published_date": "2026-10-29"
+        }
+      ]
     }
   }
 }
