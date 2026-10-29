@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-29T07:27:50+00:00_
+_Automatically generated: 2026-10-29T08:38:35+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,14 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 776 | 99 | 677 | 0 | 0 |
-| Recent 90 days (2026-07-31 → 2026-10-29) | 164 | 75 | 89 | 0 | 0 |
+| All | 776 | 100 | 676 | 0 | 0 |
+| Recent 90 days (2026-07-31 → 2026-10-29) | 164 | 76 | 88 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-10-29 | [영국 Quantum Leap과 우주 양자 로드맵](posts/2026/2026-10-29-224457341737.md) | ❌ Missing | — | `224457341737` |
+| 2026-10-29 | [영국 Quantum Leap과 우주 양자 로드맵](posts/2026/2026-10-29-224457341737.md) | ✅ Published | [The UK's Quantum Leap and Its Space Quantum Roadmap](https://netcreat.substack.com/p/the-uks-quantum-leap-and-its-space) | `224457341737` |
 | 2026-10-29 | [QKD 기술 분류와 주요 기업의 제품 전략](posts/2026/2026-10-29-224456777014.md) | ❌ Missing | — | `224456777014` |
 | 2026-10-28 | [NIST PQC 전환 지침 최종 확정](posts/2026/2026-10-28-224457006220.md) | ❌ Missing | — | `224457006220` |
 | 2026-10-28 | [BB84의 키 확립부터 공개키 암호화와 실제 데이터 보호까지](posts/2026/2026-10-28-224456705898.md) | ❌ Missing | — | `224456705898` |
