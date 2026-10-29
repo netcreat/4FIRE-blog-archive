@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T07:09:21+00:00",
+  "generated_at": "2026-10-29T07:27:50+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 776,
-    "published": 98,
-    "missing": 678,
+    "published": 99,
+    "missing": 677,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-07-31",
     "end": "2026-10-29",
     "total": 164,
-    "published": 74,
-    "missing": 90,
+    "published": 75,
+    "missing": 89,
     "skip": 0,
     "check": 0
   },
@@ -121,10 +121,18 @@
         "url": "https://blog.naver.com/4-fire/224455854435?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-27-224455854435.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "IonQ Secures $7.5 Million in Follow-On Funding from AFRL",
+          "url": "https://netcreat.substack.com/p/ionq-secures-75-million-in-follow",
+          "published_date": "2026-10-29",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
