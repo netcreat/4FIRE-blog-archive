@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Thu, 29 Oct 2026 06:51:01 +0900</pubDate>
+            <pubDate>Thu, 29 Oct 2026 10:08:54 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Q-Networking]]></category>
+                <title><![CDATA[QKD 기술 분류와 주요 기업의 제품 전략]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224456777014?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224456777014</guid>
+                
+                <description><![CDATA[✅ DV·CV·MDI·DI, KMS·PQC 통합 및 로드맵 분석 본 보고서는 양자정보 표현(DV/CV), 프로토콜(BB84·COW·GG02 등), 양자상태 분배 구조(P&M/EB/중앙 측정), 장치 신뢰 가정(MDI/DI), 네트워크 중계 및 제품 계층(QKD/KMS/PQC/인크립터)을 서로 다른 분류 축으로 분석한다. 제조사 비교는 브랜드 단위의 단순 목록이 아니라 제품명·세대별 실제 공개 기능을 기준으로 한다. 같은 업체에서도 BB84와 COW, DV와 CV, QKD 광학장비와 키 관리 소프트웨어의 역할이 다를 수 있다. 기업이 공식적으로 공개한 제품·연구 실증·향후 계획을 구분한다. 공개되지 않은 검출기 구조나 보안 모델을 특정 프로토콜로 단정하지 않으며, 구매·실증 상태 역시 발....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMjhfMjkx/MDAxNzkzMTY5NTEyOTE0.ZD7d9pW-PsNVtjOV8tWLiUWElwNMyoMxYbQKFOL929Yg.FW8WKKZt8j0rRS-ZeKA63XuMM3keBxqY-ufHPJCHuJAg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Thu, 29 Oct 2026 09:00:00 +0900</pubDate>
+                <tag><![CDATA[QKD,BB84,DV,CV,MDI,DI]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ GlobalFoundries를 다시 보게 된 계기 최근 Kepler Computing의 기술을 살펴보다가 GlobalFoundries(GFS)가 단순한 제조 파트너가 아니라 직접 투자자이자 실제 양산을 준비하는 파운드리라는 사실이 눈에 들어왔다. 처음에는 “28nm 정도의 성숙공정을 만드는 회사”라는 이미지가 강했다. 그런데 하나씩 들여다보니 전혀 다른 그림이 나타났다. GF가 집중하고 있는 분야는 다음과 같다. Silicon Photonics SiGe RF-SOI FD-SOI GaN MRAM RRAM GCRAM Ferroelectric Memory 3D Integration Advanced Packaging Quantum 재미있는 점은 이 기술들이 서로 따로 노는 것이 아니라는 것이다. AI 데이터센터에서 앞으로 문제가 될 데이터 이동, 전력....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDZfNjQg/MDAxNzkxMjcyNDE0NDUx.8TiadLqsHrtks1B3nOwHrKXQEbQPTanomwUrqptkE5og._5vt1A4P3JUzHXnv7mwKDWfyGFK0tUXCE7S3WRgp26kg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Tue, 06 Oct 2026 16:42:13 +0900</pubDate>
                 <tag><![CDATA[Global,Foundries,GFS]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[QEC]]></category>
-                <title><![CDATA[IonQ가 안실라 큐비트를 늘리는 이유]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224432740161?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224432740161</guid>
-                
-                <description><![CDATA[✅ 안실라는 몇 개가 필요할까? 안정자 웨이트·신드롬·병렬 계층의 관계 양자 오류정정에서 물리 큐비트를 추가로 확보하면 어디에 써야 할까? 논리 정보를 담는 데이터 큐비트를 늘릴 수도 있지만, 오류를 검사하는 안실라 큐비트에 배정할 수도 있다. 큐비트 예산이 작을 때는 소수의 안실라를 측정하고 초기화하며 여러 번 재사용한다. 필요한 검사 결과를 모두 얻을 수 있지만, 그만큼 시간이 걸린다. 더 많은 큐비트를 확보할 수 있다면 여러 안정자 검사를 동시에 진행하도록 안실라를 늘릴 수 있다. Q54·Q70·Q102에서 데이터 큐비트 수만큼 신드롬 추출용 안실라를 배치하는 설계는 이러한 선택을 보여준다. 이 글의 핵심은 안실라를 늘려....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDZfMjc2/MDAxNzkxMjUxMTQ0MzEz.UOhZe89_P666KwwTsc7m8h3wO8Z4gLKriXLRCPR3w4sg.TpQWA4Dm4cyZMcU_GaPJPh8EPoI9TADqtUZR1WRYn3kg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Tue, 06 Oct 2026 11:09:21 +0900</pubDate>
-                <tag><![CDATA[안실라,Ancilla,Q70,Q54,Q102,IonQ,Walking,Cat]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

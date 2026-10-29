@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 775,
+  "totalArchivedPosts": 776,
   "posts": [
+    {
+      "date": "2026-10-29",
+      "published": "2026-10-29T11:00:00+11:00",
+      "title": "QKD 기술 분류와 주요 기업의 제품 전략",
+      "logNo": "224456777014",
+      "source": "https://blog.naver.com/4-fire/224456777014?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-29-224456777014.md",
+      "content_source": "naver_post",
+      "characters": 31988
+    },
     {
       "date": "2026-10-29",
       "published": "2026-10-29T08:04:07+11:00",

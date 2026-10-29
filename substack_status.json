@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T21:51:32+00:00",
+  "generated_at": "2026-10-29T01:09:26+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 775,
+    "total": 776,
     "published": 98,
-    "missing": 677,
+    "missing": 678,
     "skip": 0,
     "check": 0
   },
@@ -34,9 +34,9 @@
     "days": 90,
     "start": "2026-07-31",
     "end": "2026-10-29",
-    "total": 163,
+    "total": 164,
     "published": 74,
-    "missing": 89,
+    "missing": 90,
     "skip": 0,
     "check": 0
   },
@@ -50,6 +50,20 @@
         "logNo": "224457341737",
         "url": "https://blog.naver.com/4-fire/224457341737?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-29-224457341737.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
+    {
+      "naver": {
+        "published_date": "2026-10-29",
+        "title": "QKD 기술 분류와 주요 기업의 제품 전략",
+        "logNo": "224456777014",
+        "url": "https://blog.naver.com/4-fire/224456777014?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-29-224456777014.md"
       },
       "status": "missing",
       "status_label": "❌ Missing",
