@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Fri, 30 Oct 2026 16:08:47 +0900</pubDate>
+            <pubDate>Fri, 30 Oct 2026 18:53:26 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ의 SkyWater SP90 심층 분석]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224459237269?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224459237269</guid>
+                
+                <description><![CDATA[✅ 광학 소재부터 웨이퍼 출하, OnRamp, 광학 손실까지 2026년 10월 27일 SkyWater는 SP90의 내부 기술과 OnRamp 프로그램을 소개했다. 이 발표는 단일 광도파로가 아니라, 서로 다른 양자 광학 소재들을 제조 가능한 통합 플랫폼으로 연결하려는 전략을 보여준다. 이 내용은 이미 Cisco Quantum Summit에서 소개되었지만, SkyWater에서 공식적으로 소개되었다. 이 글은 SP90과 SC250의 역할, 여섯 기술 모듈, LN·PPLN·TFLN·BTO·Diamond의 차이, 비선형 광학 원리, SkyWater와 Xanadu의 손실 지표, 웨이퍼 출하 및 OnRamp의 상용화 의미를 차례로 검증한다. 공식 확인 사실, 물리학적 설명, 필자의 해석, 아직 공개되지 않은 사항을 구분했다. ✅....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMzBfMjI2/MDAxNzkzMzQ3MTkxNjUz.41qoDI3KIQoBVpQODgLkXzkC9B4Y6wQg1AZdx5qpiDwg.hEMdSKV-qRPh5pgkVOgqVreXAE1wpjKg16hVZKOgxpYg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Fri, 30 Oct 2026 17:04:28 +0900</pubDate>
+                <tag><![CDATA[IonQ,SkyWater,SP90,TFLN]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ DMEA Trusted Foundry를 왜 따로 봐야 하는가 GlobalFoundries와 SkyWater를 비교하다가 미국 국방부 산하 DMEA의 Trusted Supplier 생태계까지 들어오게 됐다. 2026년 9월 3일 최신 DMEA 지도에는 79개의 Trusted Supplier가 올라와 있다. 하지만 79개 모두가 wafer를 직접 만드는 파운드리는 아니다. DMEA는 반도체 공급망을 설계부터 제조·패키징·테스트까지 여러 단계로 나눠 인증한다. 따라서 단순히 “DMEA 인증을 받았다”는 것만으로 생산능력이나 기술력을 판단하면 안 된다. 더구나 같은 Category 1A라도 한쪽은 연구·prototype 중심이고 다른 한쪽은 연 수십만 장의 wafer를 생산하는 상업 HVM fab일 수 있다. 결국 Trusted Foundr....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDdfMjA1/MDAxNzkxMzMwMzYwNzUx.aKcta9JL90nVMOmBxMlVHHE-2th0NCzoMWcwFI3nsLUg.0yxD8cu8LrduHtir5HSNigXoHZtO4eFrnHJjWvjfp1kg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Wed, 07 Oct 2026 08:58:22 +0900</pubDate>
                 <tag><![CDATA[DMEA,GFS,SkyWater,Foundry]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[Anduril의 NGC2 계약, 그리고 IonQ — 두 달 전 MOU의 퍼즐이 맞춰지기 시작했다]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224433390072?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224433390072</guid>
-                
-                <description><![CDATA[✅ Anduril Continues to Scale NGC2 Across the Army 지난 8월 IonQ의 실적발표에서 흥미로운 한 줄을 발견했다. IonQ와 Anduril이 국방 및 국가안보 분야의 Quantum Technologies 적용을 위한 MOU를 맺었다는 내용이었다. 당시 특히 눈에 들어왔던 것은 Mission Critical Government and Commercial Bids를 위한 Joint Proposals라는 표현이었다. 단순 공동연구가 아니라 향후 정부 사업에 두 회사가 함께 제안서를 제출할 수 있다는 의미였기 때문이다. 당시에는 구체적인 대상 사업이 공개되지 않았다. 그래서 이전 글에서는 Anduril의 Air·Sea·Land·Space 플랫폼과 Lattice, 그리고 IonQ가 확보한 PNT·Quantum Sensing·Optical/Quantum Netw....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDZfNjcg/MDAxNzkxMjg2MDA1MTAw.lgxM-QbEWhg8BWRLGT0c_1GDg31LEHHN3YNdupM0BJ0g.KaYm3Tcg2IN_bGWsTNt__-qB-JLiQwg6H65LpWhVxYQg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Tue, 06 Oct 2026 21:27:08 +0900</pubDate>
-                <tag><![CDATA[IonQ,Anduril,MOU,NGC2,NATO]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

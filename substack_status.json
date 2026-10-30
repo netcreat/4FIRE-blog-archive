@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T07:09:16+00:00",
+  "generated_at": "2026-10-30T09:53:56+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 777,
+    "total": 778,
     "published": 101,
-    "missing": 676,
+    "missing": 677,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,29 @@
     "days": 90,
     "start": "2026-08-01",
     "end": "2026-10-30",
-    "total": 162,
+    "total": 163,
     "published": 76,
-    "missing": 86,
+    "missing": 87,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-30",
+        "title": "IonQ의 SkyWater SP90 심층 분석",
+        "logNo": "224459237269",
+        "url": "https://blog.naver.com/4-fire/224459237269?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-30-224459237269.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-30",

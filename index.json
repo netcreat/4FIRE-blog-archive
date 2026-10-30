@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 777,
+  "totalArchivedPosts": 778,
   "posts": [
+    {
+      "date": "2026-10-30",
+      "published": "2026-10-30T19:04:28+11:00",
+      "title": "IonQ의 SkyWater SP90 심층 분석",
+      "logNo": "224459237269",
+      "source": "https://blog.naver.com/4-fire/224459237269?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-30-224459237269.md",
+      "content_source": "naver_post",
+      "characters": 11824
+    },
     {
       "date": "2026-10-30",
       "published": "2026-10-30T11:26:28+11:00",
