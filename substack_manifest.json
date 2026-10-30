@@ -1125,6 +1125,17 @@
           "published_date": "2026-10-29"
         }
       ]
+    },
+    "224458689317": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Seven Core Microsegmentation Technologies: A Comprehensive Comparison of Elisity and Its Competitors",
+          "url": "https://netcreat.substack.com/p/seven-core-microsegmentation-technologies",
+          "published_date": "2026-10-30"
+        }
+      ]
     }
   }
 }
