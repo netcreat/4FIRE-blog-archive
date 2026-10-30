@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Fri, 30 Oct 2026 06:52:39 +0900</pubDate>
+            <pubDate>Fri, 30 Oct 2026 09:48:21 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[마이크로세그멘테이션 7대 기술과 경쟁사 총정리]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224458689317?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224458689317</guid>
+                
+                <description><![CDATA[✅ IonQ는 왜 Elisity를 선택했을까? 지금까지 Elisity를 여러 차례 분석하면서 Zero Trust, 에이전트리스(Agentless) 마이크로세그멘테이션, IdentityGraph, Dynamic Policy Engine(DPE), AI Insights, 네트워크 스위치 집행 방식까지 하나씩 살펴보았습니다. 하지만 분석이 깊어질수록 새로운 의문이 생겼습니다. 이 기능들이 정말 Elisity만의 강점이라면, 비슷한 기능을 가진 ORDR, Zero Networks, Akamai Guardicore, Illumio, Armis, Forescout는 무엇이 다른가?라는 질문입니다. IonQ는 2026년 10월 12일 Elisity를 최대 13억 달러에 인수하는 확정계약을 발표했습니다. 기본 대가 11억 5천만 달러와 최대 1억 5천만 달러의 성과연동 대가....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMzBfMjcz/MDAxNzkzMzE4NjI1MzM5.VJDsXt6VTP7jYpS5B_N_LXbw6zGqFdHNo_0Fw6QrQZQg.yau4xvpfMNIz4NRdbawnFTz0myb8mj1cT9kW0ZfMfOog.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Fri, 30 Oct 2026 09:26:28 +0900</pubDate>
+                <tag><![CDATA[IonQ,Elisity]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ Anduril Continues to Scale NGC2 Across the Army 지난 8월 IonQ의 실적발표에서 흥미로운 한 줄을 발견했다. IonQ와 Anduril이 국방 및 국가안보 분야의 Quantum Technologies 적용을 위한 MOU를 맺었다는 내용이었다. 당시 특히 눈에 들어왔던 것은 Mission Critical Government and Commercial Bids를 위한 Joint Proposals라는 표현이었다. 단순 공동연구가 아니라 향후 정부 사업에 두 회사가 함께 제안서를 제출할 수 있다는 의미였기 때문이다. 당시에는 구체적인 대상 사업이 공개되지 않았다. 그래서 이전 글에서는 Anduril의 Air·Sea·Land·Space 플랫폼과 Lattice, 그리고 IonQ가 확보한 PNT·Quantum Sensing·Optical/Quantum Netw....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDZfNjcg/MDAxNzkxMjg2MDA1MTAw.lgxM-QbEWhg8BWRLGT0c_1GDg31LEHHN3YNdupM0BJ0g.KaYm3Tcg2IN_bGWsTNt__-qB-JLiQwg6H65LpWhVxYQg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Tue, 06 Oct 2026 21:27:08 +0900</pubDate>
                 <tag><![CDATA[IonQ,Anduril,MOU,NGC2,NATO]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Semiconductor]]></category>
-                <title><![CDATA[GlobalFoundries는 왜 다시 봐야 하는가 — 미세공정 경쟁에서 내려온 뒤 더 큰 판을 만들고 있는 파운드리]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224433126940?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224433126940</guid>
-                
-                <description><![CDATA[✅ GlobalFoundries를 다시 보게 된 계기 최근 Kepler Computing의 기술을 살펴보다가 GlobalFoundries(GFS)가 단순한 제조 파트너가 아니라 직접 투자자이자 실제 양산을 준비하는 파운드리라는 사실이 눈에 들어왔다. 처음에는 “28nm 정도의 성숙공정을 만드는 회사”라는 이미지가 강했다. 그런데 하나씩 들여다보니 전혀 다른 그림이 나타났다. GF가 집중하고 있는 분야는 다음과 같다. Silicon Photonics SiGe RF-SOI FD-SOI GaN MRAM RRAM GCRAM Ferroelectric Memory 3D Integration Advanced Packaging Quantum 재미있는 점은 이 기술들이 서로 따로 노는 것이 아니라는 것이다. AI 데이터센터에서 앞으로 문제가 될 데이터 이동, 전력....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDZfNjQg/MDAxNzkxMjcyNDE0NDUx.8TiadLqsHrtks1B3nOwHrKXQEbQPTanomwUrqptkE5og._5vt1A4P3JUzHXnv7mwKDWfyGFK0tUXCE7S3WRgp26kg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Tue, 06 Oct 2026 16:42:13 +0900</pubDate>
-                <tag><![CDATA[Global,Foundries,GFS]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 776,
+  "totalArchivedPosts": 777,
   "posts": [
+    {
+      "date": "2026-10-30",
+      "published": "2026-10-30T11:26:28+11:00",
+      "title": "마이크로세그멘테이션 7대 기술과 경쟁사 총정리",
+      "logNo": "224458689317",
+      "source": "https://blog.naver.com/4-fire/224458689317?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-10-30-224458689317.md",
+      "content_source": "naver_post",
+      "characters": 31656
+    },
     {
       "date": "2026-10-29",
       "published": "2026-10-29T11:00:00+11:00",

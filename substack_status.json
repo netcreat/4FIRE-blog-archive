@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T21:53:08+00:00",
+  "generated_at": "2026-10-30T00:48:53+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 776,
+    "total": 777,
     "published": 100,
-    "missing": 676,
+    "missing": 677,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-07-31",
-    "end": "2026-10-29",
-    "total": 164,
-    "published": 76,
-    "missing": 88,
+    "start": "2026-08-01",
+    "end": "2026-10-30",
+    "total": 162,
+    "published": 75,
+    "missing": 87,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-10-30",
+        "title": "마이크로세그멘테이션 7대 기술과 경쟁사 총정리",
+        "logNo": "224458689317",
+        "url": "https://blog.naver.com/4-fire/224458689317?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-10-30-224458689317.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-29",

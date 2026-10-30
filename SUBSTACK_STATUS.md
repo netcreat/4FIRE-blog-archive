@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-29T21:53:08+00:00_
+_Automatically generated: 2026-10-30T00:48:53+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 776 | 100 | 676 | 0 | 0 |
-| Recent 90 days (2026-07-31 → 2026-10-29) | 164 | 76 | 88 | 0 | 0 |
+| All | 777 | 100 | 677 | 0 | 0 |
+| Recent 90 days (2026-08-01 → 2026-10-30) | 162 | 75 | 87 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-30 | [마이크로세그멘테이션 7대 기술과 경쟁사 총정리](posts/2026/2026-10-30-224458689317.md) | ❌ Missing | — | `224458689317` |
 | 2026-10-29 | [영국 Quantum Leap과 우주 양자 로드맵](posts/2026/2026-10-29-224457341737.md) | ✅ Published | [The UK's Quantum Leap and Its Space Quantum Roadmap](https://netcreat.substack.com/p/the-uks-quantum-leap-and-its-space) | `224457341737` |
 | 2026-10-29 | [QKD 기술 분류와 주요 기업의 제품 전략](posts/2026/2026-10-29-224456777014.md) | ❌ Missing | — | `224456777014` |
 | 2026-10-28 | [NIST PQC 전환 지침 최종 확정](posts/2026/2026-10-28-224457006220.md) | ❌ Missing | — | `224457006220` |
@@ -178,16 +179,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-08-02 | [미국에서 중국으로 돌아간 양자 연구자들](posts/2026/2026-08-02-224365920986.md) | ❌ Missing | — | `224365920986` |
 | 2026-08-02 | [Leonardo 계약을 통해 다시 복기하게 된 이탈리아와 IonQ의 협력 관계 (Give less and take more)](posts/2026/2026-08-02-224365579296.md) | ❌ Missing | — | `224365579296` |
 | 2026-08-01 | [SSC, 5년간 $981M NSTTC IDIQ 수여 (RDW, RKLB)](posts/2026/2026-08-01-224364711317.md) | ❌ Missing | — | `224364711317` |
-| 2026-07-31 | [IonQ, SkyWater 인수 완료](posts/2026/2026-07-31-224364343830.md) | ❌ Missing | — | `224364343830` |
-| 2026-07-31 | [OCT 업체별 상세 비교](posts/2026/2026-07-31-224364215965.md) | ❌ Missing | — | `224364215965` |
-| 2026-07-31 | [QED-C의 양자 네트워킹 로드맵](posts/2026/2026-07-31-224363465601.md) | ✅ Published | [QED-C’s Quantum Networking Roadmap](https://netcreat.substack.com/p/qed-cs-quantum-networking-roadmap) | `224363465601` |
 
 ## Missing from Substack
 
-Total missing: **676**
+Total missing: **677**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-30 | [마이크로세그멘테이션 7대 기술과 경쟁사 총정리](posts/2026/2026-10-30-224458689317.md) | ❌ Missing | — | `224458689317` |
 | 2026-10-29 | [QKD 기술 분류와 주요 기업의 제품 전략](posts/2026/2026-10-29-224456777014.md) | ❌ Missing | — | `224456777014` |
 | 2026-10-28 | [NIST PQC 전환 지침 최종 확정](posts/2026/2026-10-28-224457006220.md) | ❌ Missing | — | `224457006220` |
 | 2026-10-28 | [BB84의 키 확립부터 공개키 암호화와 실제 데이터 보호까지](posts/2026/2026-10-28-224456705898.md) | ❌ Missing | — | `224456705898` |
@@ -872,10 +871,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 776 Naver posts</summary>
+<summary>Show all 777 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-10-30 | [마이크로세그멘테이션 7대 기술과 경쟁사 총정리](posts/2026/2026-10-30-224458689317.md) | ❌ Missing | — | `224458689317` |
 | 2026-10-29 | [영국 Quantum Leap과 우주 양자 로드맵](posts/2026/2026-10-29-224457341737.md) | ✅ Published | [The UK's Quantum Leap and Its Space Quantum Roadmap](https://netcreat.substack.com/p/the-uks-quantum-leap-and-its-space) | `224457341737` |
 | 2026-10-29 | [QKD 기술 분류와 주요 기업의 제품 전략](posts/2026/2026-10-29-224456777014.md) | ❌ Missing | — | `224456777014` |
 | 2026-10-28 | [NIST PQC 전환 지침 최종 확정](posts/2026/2026-10-28-224457006220.md) | ❌ Missing | — | `224457006220` |
