@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-01T07:11:40+00:00_
+_Automatically generated: 2026-11-01T09:54:37+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 780 | 103 | 677 | 0 | 0 |
-| Recent 90 days (2026-08-03 → 2026-11-01) | 162 | 78 | 84 | 0 | 0 |
+| All | 781 | 103 | 678 | 0 | 0 |
+| Recent 90 days (2026-08-03 → 2026-11-01) | 163 | 78 | 85 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-01 | [QSPM의 진짜 기술적 경쟁력은 탐지 센서가 아니라 배포 구조에 있는가?](posts/2026/2026-11-01-224461209664.md) | ❌ Missing | — | `224461209664` |
 | 2026-11-01 | [PQC 탐지, 스위치가 열쇠가 될까요?](posts/2026/2026-11-01-224461135839.md) | ❌ Missing | — | `224461135839` |
 | 2026-11-01 | [IonQ의 Elisity 인수 평가 - 최최종](posts/2026/2026-11-01-224460878662.md) | ✅ Published | [Is IonQ Paying Too Much for Elisity?](https://netcreat.substack.com/p/is-ionq-paying-too-much-for-elisity) | `224460878662` |
 | 2026-10-30 | [IonQ의 SkyWater SP90 심층 분석](posts/2026/2026-10-30-224459237269.md) | ✅ Published | [IonQ’s SkyWater SP90: Inside the Quantum Photonics Platform](https://netcreat.substack.com/p/ionqs-skywater-sp90-inside-the-quantum) | `224459237269` |
@@ -182,10 +183,11 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **677**
+Total missing: **678**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-01 | [QSPM의 진짜 기술적 경쟁력은 탐지 센서가 아니라 배포 구조에 있는가?](posts/2026/2026-11-01-224461209664.md) | ❌ Missing | — | `224461209664` |
 | 2026-11-01 | [PQC 탐지, 스위치가 열쇠가 될까요?](posts/2026/2026-11-01-224461135839.md) | ❌ Missing | — | `224461135839` |
 | 2026-10-29 | [QKD 기술 분류와 주요 기업의 제품 전략](posts/2026/2026-10-29-224456777014.md) | ❌ Missing | — | `224456777014` |
 | 2026-10-28 | [NIST PQC 전환 지침 최종 확정](posts/2026/2026-10-28-224457006220.md) | ❌ Missing | — | `224457006220` |
@@ -871,10 +873,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 780 Naver posts</summary>
+<summary>Show all 781 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-01 | [QSPM의 진짜 기술적 경쟁력은 탐지 센서가 아니라 배포 구조에 있는가?](posts/2026/2026-11-01-224461209664.md) | ❌ Missing | — | `224461209664` |
 | 2026-11-01 | [PQC 탐지, 스위치가 열쇠가 될까요?](posts/2026/2026-11-01-224461135839.md) | ❌ Missing | — | `224461135839` |
 | 2026-11-01 | [IonQ의 Elisity 인수 평가 - 최최종](posts/2026/2026-11-01-224460878662.md) | ✅ Published | [Is IonQ Paying Too Much for Elisity?](https://netcreat.substack.com/p/is-ionq-paying-too-much-for-elisity) | `224460878662` |
 | 2026-10-30 | [IonQ의 SkyWater SP90 심층 분석](posts/2026/2026-10-30-224459237269.md) | ✅ Published | [IonQ’s SkyWater SP90: Inside the Quantum Photonics Platform](https://netcreat.substack.com/p/ionqs-skywater-sp90-inside-the-quantum) | `224459237269` |

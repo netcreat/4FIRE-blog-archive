@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Sun, 01 Nov 2026 16:11:09 +0900</pubDate>
+            <pubDate>Sun, 01 Nov 2026 18:54:05 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[QSPM의 진짜 기술적 경쟁력은 탐지 센서가 아니라 배포 구조에 있는가?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224461209664?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224461209664</guid>
+                
+                <description><![CDATA[✅ PQC 탐지, CBOM, DPI, ERSPAN, Elisity 컨테이너 심층 분석 핵심 질문: 양자내성암호(PQC) 전환이 필요한 기업 자산을 찾으려면 네트워크 패킷을 수집해야 한다. Palo Alto Networks와 Zscaler는 자사 플랫폼을 통과하는 트래픽을 볼 수 있고, Forescout는 별도의 센서와 패킷 수집을 활용한다. 그렇다면 IonQ가 인수하기로 발표한 Elisity는 기존 스위치와 Virtual Edge(VE), ERSPAN만으로 탐지의 음영지역을 줄이면서 새로운 물리 하드웨어를 최소화할 수 있을까? 이번 글의 분석 범위: PQC 탐지 원리, TLS·SSH·VPN에서 실제로 식별할 수 있는 정보, SPAN/RSPAN/ERSPAN, Forescout·Palo Alto·Zscaler의 관측 범위, Elisity의 VEN·VE 구조, C....... <img src="https://blogthumb.pstatic.net/MjAyNjExMDFfMTMy/MDAxNzkzNTEwMjU2NDI1.-j-vLUHWDSOuv963JKDwh7AUTnjNOb3ORfzoDnDZF4Mg.91ExVD9pNheNVMoPpVcZ5YUTRgnA9CDGl5_d5WGewSog.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sun, 01 Nov 2026 16:32:20 +0900</pubDate>
+                <tag><![CDATA[IonQ,QSPM,PQC,CBOM]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 드디어 DARPA QBI Stage C 발표 2026년 10월 7일 미국 국방고등연구계획국(DARPA)의 Quantum Benchmarking Initiative(QBI) Stage C 진출 소식이 발표되었다. 이번에 발표한 기업은 IonQ, IBM, Atom Computing, Diraq 총 4개다. 이들은 앞서 2025년 11월 Stage B에 진출한 11개 기업에 포함되어 있었다. 당시 Stage B 진출 기업의 기술적 특징과 경쟁 구도는 이미 자세히 다루었으므로 이번 글에서는 반복하지 않겠다. 또한 PsiQuantum과 Microsoft가 US2QC를 통해 이미 Stage C에 상당하는 최종 검증 단계에 진입했다는 사실도 지난 7월 글에서 설명한 바 있다. 이번 발표에서 내가 가장 주목한 것은 단순히 어떤 기업이 진출했느냐가 아니다....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDhfMjM2/MDAxNzkxNDIyMDY5MTA3.nxO_iw0k8E-kTTDnY6T2WZ4Q6xZJa_eh3IYJRzzqrA4g.hbmDz-2j3CzChXPyEINkrgmPolapYQ2C4eaIN3Xy74Qg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Thu, 08 Oct 2026 10:17:26 +0900</pubDate>
                 <tag><![CDATA[DARPA,QBI,StageC,IonQ,IBM,AtomComputing,Diraq]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Semiconductor]]></category>
-                <title><![CDATA[Ayar Labs와 Marvell — AI Scale-Up의 다음 전쟁은 광이 어디까지 들어가느냐에 달려 있다]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224434437418?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224434437418</guid>
-                
-                <description><![CDATA[✅ GPU보다 더 빠르게 커지는 문제가 있다 AI 인프라를 볼 때 가장 먼저 떠오르는 것은 GPU와 HBM이다. 하지만 GPU 수가 수십 개에서 수백 개, 다시 수천 개로 늘어나면 병목은 연산 자체보다 GPU와 GPU 사이의 데이터 이동으로 옮겨간다. 특히 rack 하나를 넘어 여러 rack을 하나의 거대한 accelerator domain처럼 묶으려면 기존 copper interconnect는 거리·전력·대역폭 밀도에서 점점 불리해진다. 그래서 지금 CPO(Co-Packaged Optics), NPO(Near-Packaged Optics), Optical I/O, Photonic Fabric 같은 기술들이 동시에 부상하고 있다. 이 글에서는 그중에서도 Ayar Labs의 TeraPHY와 Celestial AI를 인수한 Marvell의 Photonic Fabric을 중심....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDdfMTgx/MDAxNzkxMzY2Nzg4MDk0.RYJsPtvtPap62wLjYyO5nOxpn-GhLzx51zRWCwD5RWog.YzREBLPVhep3LuAd2_cg_ACE4wMBA8o31td083DsM-Yg.PNG/214e2d3b-c547-46bd-b420-d58263ab7b76.png?type=s3" />]]></description>
-                <pubDate>Wed, 07 Oct 2026 19:37:07 +0900</pubDate>
-                <tag><![CDATA[AyarLabs,CelestialAI,Marvell,CPO,NPO,GFS,UCIe,CXL]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

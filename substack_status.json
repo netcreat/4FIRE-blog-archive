@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T07:11:40+00:00",
+  "generated_at": "2026-11-01T09:54:37+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 780,
+    "total": 781,
     "published": 103,
-    "missing": 677,
+    "missing": 678,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,29 @@
     "days": 90,
     "start": "2026-08-03",
     "end": "2026-11-01",
-    "total": 162,
+    "total": 163,
     "published": 78,
-    "missing": 84,
+    "missing": 85,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-01",
+        "title": "QSPM의 진짜 기술적 경쟁력은 탐지 센서가 아니라 배포 구조에 있는가?",
+        "logNo": "224461209664",
+        "url": "https://blog.naver.com/4-fire/224461209664?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-01-224461209664.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-01",
