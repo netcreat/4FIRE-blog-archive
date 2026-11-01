@@ -1158,6 +1158,28 @@
           "published_date": "2026-11-01"
         }
       ]
+    },
+    "224461135839": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "PQC Detection: Could Existing Switches Be the Key?",
+          "url": "https://netcreat.substack.com/p/pqc-detection-could-existing-switches",
+          "published_date": "2026-11-01"
+        }
+      ]
+    },
+    "224461209664": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Is QSPM's Real Competitive Advantage in Deployment Architecture Rather Than Detection Sensors?",
+          "url": "https://netcreat.substack.com/p/is-qspms-real-competitive-advantage",
+          "published_date": "2026-11-02"
+        }
+      ]
     }
   }
 }
