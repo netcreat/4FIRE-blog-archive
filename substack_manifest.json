@@ -1136,6 +1136,17 @@
           "published_date": "2026-10-30"
         }
       ]
+    },
+    "224459237269": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "IonQ’s SkyWater SP90: Inside the Quantum Photonics Platform",
+          "url": "https://netcreat.substack.com/p/ionqs-skywater-sp90-inside-the-quantum",
+          "published_date": "2026-11-01"
+        }
+      ]
     }
   }
 }
