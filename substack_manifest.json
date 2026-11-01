@@ -1147,6 +1147,17 @@
           "published_date": "2026-11-01"
         }
       ]
+    },
+    "224460878662": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Is IonQ Paying Too Much for Elisity?",
+          "url": "https://netcreat.substack.com/p/is-ionq-paying-too-much-for-elisity",
+          "published_date": "2026-11-01"
+        }
+      ]
     }
   }
 }
