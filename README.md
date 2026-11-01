@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-31T21:44:57+00:00_
+_Automatically generated: 2026-11-01T01:20:36+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 778 | 101 | 677 | 0 | 0 |
-| Recent 90 days (2026-08-01 → 2026-10-30) | 163 | 76 | 87 | 0 | 0 |
+| All | 779 | 101 | 678 | 0 | 0 |
+| Recent 90 days (2026-08-03 → 2026-11-01) | 161 | 76 | 85 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-01 | [IonQ의 Elisity 인수 평가 - 최최종](posts/2026/2026-11-01-224460878662.md) | ❌ Missing | — | `224460878662` |
 | 2026-10-30 | [IonQ의 SkyWater SP90 심층 분석](posts/2026/2026-10-30-224459237269.md) | ❌ Missing | — | `224459237269` |
 | 2026-10-30 | [마이크로세그멘테이션 7대 기술과 경쟁사 총정리](posts/2026/2026-10-30-224458689317.md) | ✅ Published | [Seven Core Microsegmentation Technologies: A Comprehensive Comparison of Elisity and Its Competitors](https://netcreat.substack.com/p/seven-core-microsegmentation-technologies) | `224458689317` |
 | 2026-10-29 | [영국 Quantum Leap과 우주 양자 로드맵](posts/2026/2026-10-29-224457341737.md) | ✅ Published | [The UK's Quantum Leap and Its Space Quantum Roadmap](https://netcreat.substack.com/p/the-uks-quantum-leap-and-its-space) | `224457341737` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-14 | [코닝을 유리회사로만 보면 놓치는 것 — 반도체 원재료부터 Glass Core·GlassBridge까지](posts/2026/2026-10-14-224441507057.md) | ❌ Missing | — | `224441507057` |
 | 2026-10-14 | [IonQ의 보안 퍼즐은 완성됐는가? — Elisity의 Zero Trust와 IDQ의 양자 보안, 그리고 남은 공백](posts/2026/2026-10-14-224441409780.md) | ✅ Published | [Is IonQ’s Security Puzzle Complete? — Elisity’s Zero Trust, IDQ’s Quantum Security, and the Missing Pieces](https://netcreat.substack.com/p/is-ionqs-security-puzzle-complete) | `224441409780` |
 | 2026-10-13 | [IonQ, Elisity 인수에 관한 8-K 공지](posts/2026/2026-10-13-224440626371.md) | ❌ Missing | — | `224440626371` |
-| 2026-10-13 | [Elisity 기술 심층 분석 (5) — Microsegmentation · Agentless · PQC · QKD · Zero Trust](posts/2026/2026-10-13-224440118264.md) | ✅ Published | [Elisity Technical Deep Dive (5) — Microsegmentation, Agentless, PQC, QKD, and Zero Trust](https://netcreat.substack.com/p/elisity-technical-deep-dive-5-microsegmentation) | `224440118264` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

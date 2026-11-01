@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-10-31T21:44:57+00:00_
+_Automatically generated: 2026-11-01T01:20:36+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 778 | 101 | 677 | 0 | 0 |
-| Recent 90 days (2026-08-01 → 2026-10-30) | 163 | 76 | 87 | 0 | 0 |
+| All | 779 | 101 | 678 | 0 | 0 |
+| Recent 90 days (2026-08-03 → 2026-11-01) | 161 | 76 | 85 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-01 | [IonQ의 Elisity 인수 평가 - 최최종](posts/2026/2026-11-01-224460878662.md) | ❌ Missing | — | `224460878662` |
 | 2026-10-30 | [IonQ의 SkyWater SP90 심층 분석](posts/2026/2026-10-30-224459237269.md) | ❌ Missing | — | `224459237269` |
 | 2026-10-30 | [마이크로세그멘테이션 7대 기술과 경쟁사 총정리](posts/2026/2026-10-30-224458689317.md) | ✅ Published | [Seven Core Microsegmentation Technologies: A Comprehensive Comparison of Elisity and Its Competitors](https://netcreat.substack.com/p/seven-core-microsegmentation-technologies) | `224458689317` |
 | 2026-10-29 | [영국 Quantum Leap과 우주 양자 로드맵](posts/2026/2026-10-29-224457341737.md) | ✅ Published | [The UK's Quantum Leap and Its Space Quantum Roadmap](https://netcreat.substack.com/p/the-uks-quantum-leap-and-its-space) | `224457341737` |
@@ -177,16 +178,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-08-06 | [IonQ’s Space Division,  NRO Radar Commercial Augmentation(RCA) 계약 수주](posts/2026/2026-08-06-224370224534.md) | ❌ Missing | — | `224370224534` |
 | 2026-08-06 | [DARPA, IonQ로부터 차세대 원자시계 제조 계약, 그리고 그 이면의 중요 내용](posts/2026/2026-08-06-224370109407.md) | ❌ Missing | — | `224370109407` |
 | 2026-08-05 | [Sandia는 IonQ에 무엇을 줄 수 있을까?](posts/2026/2026-08-05-224369235540.md) | ❌ Missing | — | `224369235540` |
-| 2026-08-02 | [미국에서 중국으로 돌아간 양자 연구자들](posts/2026/2026-08-02-224365920986.md) | ❌ Missing | — | `224365920986` |
-| 2026-08-02 | [Leonardo 계약을 통해 다시 복기하게 된 이탈리아와 IonQ의 협력 관계 (Give less and take more)](posts/2026/2026-08-02-224365579296.md) | ❌ Missing | — | `224365579296` |
-| 2026-08-01 | [SSC, 5년간 $981M NSTTC IDIQ 수여 (RDW, RKLB)](posts/2026/2026-08-01-224364711317.md) | ❌ Missing | — | `224364711317` |
 
 ## Missing from Substack
 
-Total missing: **677**
+Total missing: **678**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-01 | [IonQ의 Elisity 인수 평가 - 최최종](posts/2026/2026-11-01-224460878662.md) | ❌ Missing | — | `224460878662` |
 | 2026-10-30 | [IonQ의 SkyWater SP90 심층 분석](posts/2026/2026-10-30-224459237269.md) | ❌ Missing | — | `224459237269` |
 | 2026-10-29 | [QKD 기술 분류와 주요 기업의 제품 전략](posts/2026/2026-10-29-224456777014.md) | ❌ Missing | — | `224456777014` |
 | 2026-10-28 | [NIST PQC 전환 지침 최종 확정](posts/2026/2026-10-28-224457006220.md) | ❌ Missing | — | `224457006220` |
@@ -872,10 +871,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 778 Naver posts</summary>
+<summary>Show all 779 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-01 | [IonQ의 Elisity 인수 평가 - 최최종](posts/2026/2026-11-01-224460878662.md) | ❌ Missing | — | `224460878662` |
 | 2026-10-30 | [IonQ의 SkyWater SP90 심층 분석](posts/2026/2026-10-30-224459237269.md) | ❌ Missing | — | `224459237269` |
 | 2026-10-30 | [마이크로세그멘테이션 7대 기술과 경쟁사 총정리](posts/2026/2026-10-30-224458689317.md) | ✅ Published | [Seven Core Microsegmentation Technologies: A Comprehensive Comparison of Elisity and Its Competitors](https://netcreat.substack.com/p/seven-core-microsegmentation-technologies) | `224458689317` |
 | 2026-10-29 | [영국 Quantum Leap과 우주 양자 로드맵](posts/2026/2026-10-29-224457341737.md) | ✅ Published | [The UK's Quantum Leap and Its Space Quantum Roadmap](https://netcreat.substack.com/p/the-uks-quantum-leap-and-its-space) | `224457341737` |

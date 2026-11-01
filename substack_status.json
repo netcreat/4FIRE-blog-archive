@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T21:44:57+00:00",
+  "generated_at": "2026-11-01T01:20:36+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 778,
+    "total": 779,
     "published": 101,
-    "missing": 677,
+    "missing": 678,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-08-01",
-    "end": "2026-10-30",
-    "total": 163,
+    "start": "2026-08-03",
+    "end": "2026-11-01",
+    "total": 161,
     "published": 76,
-    "missing": 87,
+    "missing": 85,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-01",
+        "title": "IonQ의 Elisity 인수 평가 - 최최종",
+        "logNo": "224460878662",
+        "url": "https://blog.naver.com/4-fire/224460878662?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-01-224460878662.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-10-30",

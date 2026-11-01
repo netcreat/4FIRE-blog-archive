@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Sun, 01 Nov 2026 06:44:28 +0900</pubDate>
+            <pubDate>Sun, 01 Nov 2026 10:20:04 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ의 Elisity 인수 평가 - 최최종]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224460878662?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224460878662</guid>
+                
+                <description><![CDATA[✅ IonQ의 Elisity 인수 $1.3B는 비싼가? Forescout 26년 역사·7대 기술·QSPM으로 재평가 사모펀드가 약 16억 달러에 인수한 기업과 IonQ가 최대 13억 달러에 인수하려는 기업을 비교한다. 2026년 10월 12일 IonQ는 마이크로세그멘테이션 전문기업 Elisity를 최대 13억 달러에 인수하겠다고 발표했다. 양자컴퓨터 기업이 네트워크 보안기업을 인수한다는 사실도 흥미롭지만, 더 중요한 질문은 가격이다. Elisity의 기본 인수대가 최대 13억 달러는 과연 비싼 금액인가? 이를 검증하기 위해 Zero Networks, Ordr, Illumio, Akamai Guardicore, Forescout 등을 비교했다. 그 과정에서 Forescout라는 기업이 특별히 눈에 들어왔다. Forescout는 오래....... <img src="https://blogthumb.pstatic.net/MjAyNjExMDFfMTMz/MDAxNzkzNDk1MDE2OTAz.7Pxp4iGObiVITYwXKw_MNXGVvrMFvbSNj4-kXyZ7pg4g.dIW0yKMyGU8wfuAtQIPUwvBUyaahjwvjH91y0L-di_wg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sun, 01 Nov 2026 10:05:36 +0900</pubDate>
+                <tag><![CDATA[IonQ,QSPM,PQC,Elisity,Forescout]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ GlobalFoundries vs SkyWater 앞선 글에서 미국 DMEA Trusted Foundry 지형을 살펴보다 보면 결국 가장 깊게 비교할 가치가 있는 두 회사가 남는다. GlobalFoundries와 SkyWater다. 둘 다 미국의 Trusted semiconductor manufacturing infrastructure에서 중요한 위치를 차지하고, 둘 다 단순 CMOS foundry를 넘어 photonics·quantum·advanced packaging·신소재로 영역을 넓히고 있다. 그러나 두 회사가 선택한 길은 상당히 다르다. GlobalFoundries는 검증된 기술을 200/300mm 대규모 HVM으로 확장하는 회사에 가깝다. SkyWater는 새로운 소재와 device architecture를 기존 CMOS와 결합해 prototype에서 production으로 넘기는 회사에 가깝....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDdfMjE5/MDAxNzkxMzc2MjQ2NjU3.9BzoaRQ-9dgRTcAburh9ABAf1wDji57J_40LlRagCOog.-8_qBOGWTBBouHP-fXIVIUZrZIKLso7-5awIC3U8igAg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Wed, 07 Oct 2026 13:55:22 +0900</pubDate>
                 <tag><![CDATA[GF,GFS,SkyWaters,Scale,Flexibility]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Semiconductor]]></category>
-                <title><![CDATA[미국이 믿고 맡길 수 있는 반도체 공장은 어디인가 — DMEA Trusted Foundry 지형도와 진짜 경쟁력]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224433756102?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224433756102</guid>
-                
-                <description><![CDATA[✅ DMEA Trusted Foundry를 왜 따로 봐야 하는가 GlobalFoundries와 SkyWater를 비교하다가 미국 국방부 산하 DMEA의 Trusted Supplier 생태계까지 들어오게 됐다. 2026년 9월 3일 최신 DMEA 지도에는 79개의 Trusted Supplier가 올라와 있다. 하지만 79개 모두가 wafer를 직접 만드는 파운드리는 아니다. DMEA는 반도체 공급망을 설계부터 제조·패키징·테스트까지 여러 단계로 나눠 인증한다. 따라서 단순히 “DMEA 인증을 받았다”는 것만으로 생산능력이나 기술력을 판단하면 안 된다. 더구나 같은 Category 1A라도 한쪽은 연구·prototype 중심이고 다른 한쪽은 연 수십만 장의 wafer를 생산하는 상업 HVM fab일 수 있다. 결국 Trusted Foundr....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDdfMjA1/MDAxNzkxMzMwMzYwNzUx.aKcta9JL90nVMOmBxMlVHHE-2th0NCzoMWcwFI3nsLUg.0yxD8cu8LrduHtir5HSNigXoHZtO4eFrnHJjWvjfp1kg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Wed, 07 Oct 2026 08:58:22 +0900</pubDate>
-                <tag><![CDATA[DMEA,GFS,SkyWater,Foundry]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

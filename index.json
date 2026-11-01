@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 778,
+  "totalArchivedPosts": 779,
   "posts": [
+    {
+      "date": "2026-11-01",
+      "published": "2026-11-01T12:05:36+11:00",
+      "title": "IonQ의 Elisity 인수 평가 - 최최종",
+      "logNo": "224460878662",
+      "source": "https://blog.naver.com/4-fire/224460878662?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-01-224460878662.md",
+      "content_source": "naver_post",
+      "characters": 37348
+    },
     {
       "date": "2026-10-30",
       "published": "2026-10-30T19:04:28+11:00",
