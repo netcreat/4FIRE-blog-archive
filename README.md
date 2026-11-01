@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-01T04:00:05+00:00_
+_Automatically generated: 2026-11-01T07:11:40+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 779 | 103 | 676 | 0 | 0 |
-| Recent 90 days (2026-08-03 → 2026-11-01) | 161 | 78 | 83 | 0 | 0 |
+| All | 780 | 103 | 677 | 0 | 0 |
+| Recent 90 days (2026-08-03 → 2026-11-01) | 162 | 78 | 84 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-01 | [PQC 탐지, 스위치가 열쇠가 될까요?](posts/2026/2026-11-01-224461135839.md) | ❌ Missing | — | `224461135839` |
 | 2026-11-01 | [IonQ의 Elisity 인수 평가 - 최최종](posts/2026/2026-11-01-224460878662.md) | ✅ Published | [Is IonQ Paying Too Much for Elisity?](https://netcreat.substack.com/p/is-ionq-paying-too-much-for-elisity) | `224460878662` |
 | 2026-10-30 | [IonQ의 SkyWater SP90 심층 분석](posts/2026/2026-10-30-224459237269.md) | ✅ Published | [IonQ’s SkyWater SP90: Inside the Quantum Photonics Platform](https://netcreat.substack.com/p/ionqs-skywater-sp90-inside-the-quantum) | `224459237269` |
 | 2026-10-30 | [마이크로세그멘테이션 7대 기술과 경쟁사 총정리](posts/2026/2026-10-30-224458689317.md) | ✅ Published | [Seven Core Microsegmentation Technologies: A Comprehensive Comparison of Elisity and Its Competitors](https://netcreat.substack.com/p/seven-core-microsegmentation-technologies) | `224458689317` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-15 | [Cisco Quantum Summit 2026 Day 2 — IonQ, Mihir Bhaskar, 1kHz 이후의 진짜 과제](posts/2026/2026-10-15-224441914933.md) | ✅ Published | [IonQ's Distributed FTQC: The Real Challenge Beyond 1 kHz](https://netcreat.substack.com/p/ionqs-distributed-ftqc-the-real-challenge) | `224441914933` |
 | 2026-10-14 | [코닝을 유리회사로만 보면 놓치는 것 — 반도체 원재료부터 Glass Core·GlassBridge까지](posts/2026/2026-10-14-224441507057.md) | ❌ Missing | — | `224441507057` |
 | 2026-10-14 | [IonQ의 보안 퍼즐은 완성됐는가? — Elisity의 Zero Trust와 IDQ의 양자 보안, 그리고 남은 공백](posts/2026/2026-10-14-224441409780.md) | ✅ Published | [Is IonQ’s Security Puzzle Complete? — Elisity’s Zero Trust, IDQ’s Quantum Security, and the Missing Pieces](https://netcreat.substack.com/p/is-ionqs-security-puzzle-complete) | `224441409780` |
-| 2026-10-13 | [IonQ, Elisity 인수에 관한 8-K 공지](posts/2026/2026-10-13-224440626371.md) | ❌ Missing | — | `224440626371` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).
