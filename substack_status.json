@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T01:24:52+00:00",
+  "generated_at": "2026-11-01T01:53:32+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 779,
-    "published": 102,
-    "missing": 677,
+    "published": 103,
+    "missing": 676,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-08-03",
     "end": "2026-11-01",
     "total": 161,
-    "published": 77,
-    "missing": 84,
+    "published": 78,
+    "missing": 83,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224460878662?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-11-01-224460878662.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Is IonQ Paying Too Much for Elisity?",
+          "url": "https://netcreat.substack.com/p/is-ionq-paying-too-much-for-elisity",
+          "published_date": "2026-11-01",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
