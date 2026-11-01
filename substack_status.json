@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T21:46:53+00:00",
+  "generated_at": "2026-11-01T23:36:21+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 781,
-    "published": 103,
-    "missing": 678,
+    "published": 105,
+    "missing": 676,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-08-03",
     "end": "2026-11-01",
     "total": 163,
-    "published": 78,
-    "missing": 85,
+    "published": 80,
+    "missing": 83,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224461209664?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-11-01-224461209664.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Is QSPM's Real Competitive Advantage in Deployment Architecture Rather Than Detection Sensors?",
+          "url": "https://netcreat.substack.com/p/is-qspms-real-competitive-advantage",
+          "published_date": "2026-11-02",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
@@ -65,10 +73,18 @@
         "url": "https://blog.naver.com/4-fire/224461135839?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-11-01-224461135839.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "PQC Detection: Could Existing Switches Be the Key?",
+          "url": "https://netcreat.substack.com/p/pqc-detection-could-existing-switches",
+          "published_date": "2026-11-01",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
