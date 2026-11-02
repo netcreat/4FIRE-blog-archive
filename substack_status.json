@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T10:17:33+00:00",
+  "generated_at": "2026-11-02T10:37:36+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 782,
-    "published": 105,
-    "missing": 677,
+    "published": 106,
+    "missing": 676,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-08-04",
     "end": "2026-11-02",
     "total": 164,
-    "published": 80,
-    "missing": 84,
+    "published": 81,
+    "missing": 83,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224462391443?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-11-02-224462391443.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Will Quantum Computers Break All Encryption? — A Beginner’s Guide",
+          "url": "https://netcreat.substack.com/p/will-quantum-computers-break-all",
+          "published_date": "2026-11-02",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
