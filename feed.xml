@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Mon, 02 Nov 2026 13:06:22 +0900</pubDate>
+            <pubDate>Mon, 02 Nov 2026 16:38:02 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[양자컴퓨터가 발전하면 모든 암호가 깨질까요? — 입문편]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224462391443?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224462391443</guid>
+                
+                <description><![CDATA[✅ AES·PQC·QKD와 키 관리 이야기 양자컴퓨터가 강력해지면 우리가 사용하는 암호는 언젠가 모두 무용지물이 될까요? 미래의 공격에 대비해 만든 PQC까지 깨질 수 있다면, 보안을 강화하는 일이 끝없는 반복처럼 느껴질 수 있습니다. 하지만 이 질문에는 먼저 알아야 할 구분이 있습니다. 데이터를 암호화하는 기술과, 그 데이터를 열 수 있는 비밀키를 안전하게 공유하는 기술은 서로 다릅니다. 이번 글에서는 복잡한 수학을 잠시 내려놓고, 자물쇠·열쇠·건물 출입통제라는 일상적인 비유로 양자 시대의 보안을 살펴보겠습니다. ✅ 1. AES는 자물쇠, RSA·PQC는 열쇠를 공유하는 방법입니다 중요한 문서를 금고에 넣는다고 생각해 보겠습니다. 금....... <img src="https://blogthumb.pstatic.net/MjAyNjExMDJfODAg/MDAxNzkzNjAwNDExNzk4.gegQ8PY8jnIqU94aMPytAfsLD9OS03L6hKRti1Hu7f0g.FwBXob8384ybatSeMyqmpif-wr9vUmWFn7TJDR1Y-TIg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Mon, 02 Nov 2026 16:19:27 +0900</pubDate>
+                <tag><![CDATA[AES,PQC,QKD,RSA]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ Marvell은 더 이상 ‘Custom ASIC 회사’가 아니었다 2026년 10월 6일 열린 Marvell Investor Day에서 가장 화제가 된 숫자는 FY2031 매출 $70B~$90B였다. 하지만 발표자료를 처음부터 따라가 보면 더 중요한 변화가 하나 보인다. Marvell이 자신의 정체성을 다시 정의했다는 점이다. 과거에는 Storage semiconductor 회사였고, 이후 Networking과 Custom ASIC 회사로 영역을 넓혔다. 이제 Marvell이 스스로 그리고 있는 모습은 훨씬 크다. AI가 커질수록 발생하는 모든 Data Movement를 담당하는 Connectivity Platform 공식 Investor Day 페이지에서 발표자료와 webcast를 확인할 수 있다. https://d1io3yog0oux5.cloudfront.net/_9b549855d....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDhfMTgz/MDAxNzkxNDM3ODU0MzY0.F9n1Qt3DqM1iC4csjRDZSGDJjwph9aElEXYNRFRqmQsg.Z5aQCpf071hpNimihtB_ODS3iJvIE5PxKZPfnG3x7O4g.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Thu, 08 Oct 2026 14:48:59 +0900</pubDate>
                 <tag><![CDATA[Marvell,MRVL,Investor,Day]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[News]]></category>
-                <title><![CDATA[DARPA QBI Stage C 발표 — 재수에 성공한 Atom, 다중 베팅하는 Microsoft, 그리고 Diraq의 시간표]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224434955271?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224434955271</guid>
-                
-                <description><![CDATA[✅ 드디어 DARPA QBI Stage C 발표 2026년 10월 7일 미국 국방고등연구계획국(DARPA)의 Quantum Benchmarking Initiative(QBI) Stage C 진출 소식이 발표되었다. 이번에 발표한 기업은 IonQ, IBM, Atom Computing, Diraq 총 4개다. 이들은 앞서 2025년 11월 Stage B에 진출한 11개 기업에 포함되어 있었다. 당시 Stage B 진출 기업의 기술적 특징과 경쟁 구도는 이미 자세히 다루었으므로 이번 글에서는 반복하지 않겠다. 또한 PsiQuantum과 Microsoft가 US2QC를 통해 이미 Stage C에 상당하는 최종 검증 단계에 진입했다는 사실도 지난 7월 글에서 설명한 바 있다. 이번 발표에서 내가 가장 주목한 것은 단순히 어떤 기업이 진출했느냐가 아니다....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDhfMjM2/MDAxNzkxNDIyMDY5MTA3.nxO_iw0k8E-kTTDnY6T2WZ4Q6xZJa_eh3IYJRzzqrA4g.hbmDz-2j3CzChXPyEINkrgmPolapYQ2C4eaIN3Xy74Qg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Thu, 08 Oct 2026 10:17:26 +0900</pubDate>
-                <tag><![CDATA[DARPA,QBI,StageC,IonQ,IBM,AtomComputing,Diraq]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

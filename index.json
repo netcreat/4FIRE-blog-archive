@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 781,
+  "totalArchivedPosts": 782,
   "posts": [
+    {
+      "date": "2026-11-02",
+      "published": "2026-11-02T18:19:27+11:00",
+      "title": "양자컴퓨터가 발전하면 모든 암호가 깨질까요? — 입문편",
+      "logNo": "224462391443",
+      "source": "https://blog.naver.com/4-fire/224462391443?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-02-224462391443.md",
+      "content_source": "naver_post",
+      "characters": 5644
+    },
     {
       "date": "2026-11-01",
       "published": "2026-11-01T18:32:20+11:00",
