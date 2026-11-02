@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-02T10:37:36+00:00_
+_Automatically generated: 2026-11-02T12:39:30+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,7 +14,7 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 782 | 106 | 676 | 0 | 0 |
+| All | 782 | 107 | 675 | 0 | 0 |
 | Recent 90 days (2026-08-04 → 2026-11-02) | 164 | 81 | 83 | 0 | 0 |
 
 ## Latest 30 Naver posts

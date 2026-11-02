@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-02T10:37:36+00:00_
+_Automatically generated: 2026-11-02T12:39:30+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,7 +10,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 782 | 106 | 676 | 0 | 0 |
+| All | 782 | 107 | 675 | 0 | 0 |
 | Recent 90 days (2026-08-04 → 2026-11-02) | 164 | 81 | 83 | 0 | 0 |
 
 ## Recent 90 days
@@ -184,7 +184,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **676**
+Total missing: **675**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
@@ -339,7 +339,6 @@ Total missing: **676**
 | 2026-05-27 | [유럽 시장을 절대 간과해서는 안 되는 이유 (2) — 국가별 전략](posts/2026/2026-05-27-224298220473.md) | ❌ Missing | — | `224298220473` |
 | 2026-05-27 | [유럽 시장을 절대 간과해서는 안 되는 이유 (1) — 유럽의 우주·양자·AI 주권 전략](posts/2026/2026-05-27-224297955197.md) | ❌ Missing | — | `224297955197` |
 | 2026-05-26 | [Satellogic(SATL) — 단순 위성 이미지 회사가 아니라, 국가의 ‘눈’을 만들어주는 회사](posts/2026/2026-05-26-224297055830.md) | ❌ Missing | — | `224297055830` |
-| 2026-05-25 | [IonQ는 왜 갑자기 PQC를 이야기하기 시작했을까?](posts/2026/2026-05-25-224296206770.md) | ❌ Missing | — | `224296206770` |
 | 2026-05-24 | [투자 심리 분석 (3) - 난 -90%도 버텼다](posts/2026/2026-05-24-224295060675.md) | ❌ Missing | — | `224295060675` |
 | 2026-05-23 | [투자 심리 분석 (2) - 사람들은 왜 평단을 자랑하는가](posts/2026/2026-05-23-224294568562.md) | ❌ Missing | — | `224294568562` |
 | 2026-05-23 | [SpaceX S-1 분석 — 우주기업을 넘어 AI·통신 인프라 제국으로 (4)](posts/2026/2026-05-23-224294400533.md) | ❌ Missing | — | `224294400533` |
@@ -1122,7 +1121,7 @@ _Not calculated because the public sitemap fetch failed._
 | 2026-05-27 | [유럽 시장을 절대 간과해서는 안 되는 이유 (2) — 국가별 전략](posts/2026/2026-05-27-224298220473.md) | ❌ Missing | — | `224298220473` |
 | 2026-05-27 | [유럽 시장을 절대 간과해서는 안 되는 이유 (1) — 유럽의 우주·양자·AI 주권 전략](posts/2026/2026-05-27-224297955197.md) | ❌ Missing | — | `224297955197` |
 | 2026-05-26 | [Satellogic(SATL) — 단순 위성 이미지 회사가 아니라, 국가의 ‘눈’을 만들어주는 회사](posts/2026/2026-05-26-224297055830.md) | ❌ Missing | — | `224297055830` |
-| 2026-05-25 | [IonQ는 왜 갑자기 PQC를 이야기하기 시작했을까?](posts/2026/2026-05-25-224296206770.md) | ❌ Missing | — | `224296206770` |
+| 2026-05-25 | [IonQ는 왜 갑자기 PQC를 이야기하기 시작했을까?](posts/2026/2026-05-25-224296206770.md) | ✅ Published | [Why Did IonQ Suddenly Start Talking About PQC?](https://netcreat.substack.com/p/why-did-ionq-suddenly-start-talking) | `224296206770` |
 | 2026-05-24 | [투자 심리 분석 (3) - 난 -90%도 버텼다](posts/2026/2026-05-24-224295060675.md) | ❌ Missing | — | `224295060675` |
 | 2026-05-23 | [투자 심리 분석 (2) - 사람들은 왜 평단을 자랑하는가](posts/2026/2026-05-23-224294568562.md) | ❌ Missing | — | `224294568562` |
 | 2026-05-23 | [SpaceX S-1 분석 — 우주기업을 넘어 AI·통신 인프라 제국으로 (4)](posts/2026/2026-05-23-224294400533.md) | ❌ Missing | — | `224294400533` |

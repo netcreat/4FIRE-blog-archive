@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T10:37:36+00:00",
+  "generated_at": "2026-11-02T12:39:30+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 782,
-    "published": 106,
-    "missing": 676,
+    "published": 107,
+    "missing": 675,
     "skip": 0,
     "check": 0
   },
@@ -4262,10 +4262,18 @@
         "url": "https://blog.naver.com/4-fire/224296206770",
         "github_archive": "posts/2026/2026-05-25-224296206770.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Why Did IonQ Suddenly Start Talking About PQC?",
+          "url": "https://netcreat.substack.com/p/why-did-ionq-suddenly-start-talking",
+          "published_date": "2026-11-02",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
