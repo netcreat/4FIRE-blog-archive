@@ -1191,6 +1191,17 @@
           "published_date": "2026-11-02"
         }
       ]
+    },
+    "224296206770": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Why Did IonQ Suddenly Start Talking About PQC?",
+          "url": "https://netcreat.substack.com/p/why-did-ionq-suddenly-start-talking",
+          "published_date": "2026-11-02"
+        }
+      ]
     }
   }
 }
