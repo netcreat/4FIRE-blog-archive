@@ -1180,6 +1180,17 @@
           "published_date": "2026-11-02"
         }
       ]
+    },
+    "224462391443": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Will Quantum Computers Break All Encryption? — A Beginner’s Guide",
+          "url": "https://netcreat.substack.com/p/will-quantum-computers-break-all",
+          "published_date": "2026-11-02"
+        }
+      ]
     }
   }
 }
