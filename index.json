@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 783,
+  "totalArchivedPosts": 784,
   "posts": [
+    {
+      "date": "2026-11-04",
+      "published": "2026-11-04T08:00:00+11:00",
+      "title": "양자보안 심화 (2) — AES 비밀키의 공유와 보호: USB·QKD·OTP·Hybrid PQC, HNDL과 키 관리",
+      "logNo": "224463838699",
+      "source": "https://blog.naver.com/4-fire/224463838699?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-04-224463838699.md",
+      "content_source": "naver_post",
+      "characters": 14893
+    },
     {
       "date": "2026-11-03",
       "published": "2026-11-03T09:00:00+11:00",

@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-03T19:05:08+00:00_
+_Automatically generated: 2026-11-03T21:55:58+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 783 | 108 | 675 | 0 | 0 |
-| Recent 90 days (2026-08-05 → 2026-11-03) | 165 | 82 | 83 | 0 | 0 |
+| All | 784 | 108 | 676 | 0 | 0 |
+| Recent 90 days (2026-08-06 → 2026-11-04) | 165 | 82 | 83 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-04 | [양자보안 심화 (2) — AES 비밀키의 공유와 보호: USB·QKD·OTP·Hybrid PQC, HNDL과 키 관리](posts/2026/2026-11-04-224463838699.md) | ❌ Missing | — | `224463838699` |
 | 2026-11-03 | [양자보안 심화 (1) — RSA·ECC·PQC·AES: 전자서명, 키 설정, 데이터 암호화와 양자 내성](posts/2026/2026-11-03-224462489845.md) | ✅ Published | [Quantum Security Deep Dive (1) — RSA, ECC, PQC, and AES: Digital Signatures, Key Establishment, Data Encryption, and Quantum Resistance](https://netcreat.substack.com/p/quantum-security-deep-dive-1-rsa) | `224462489845` |
 | 2026-11-02 | [양자컴퓨터가 발전하면 모든 암호가 깨질까요? — 입문편](posts/2026/2026-11-02-224462391443.md) | ✅ Published | [Will Quantum Computers Break All Encryption? — A Beginner’s Guide](https://netcreat.substack.com/p/will-quantum-computers-break-all) | `224462391443` |
 | 2026-11-01 | [QSPM의 진짜 기술적 경쟁력은 탐지 센서가 아니라 배포 구조에 있는가?](posts/2026/2026-11-01-224461209664.md) | ✅ Published | [Is QSPM's Real Competitive Advantage in Deployment Architecture Rather Than Detection Sensors?](https://netcreat.substack.com/p/is-qspms-real-competitive-advantage) | `224461209664` |
@@ -181,14 +182,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-08-06 | [IonQ가 인수한 Nexus Photonics는 무엇을 만드는가 — 양자컴퓨터의 광학계를 칩으로 바꾸는 회사](posts/2026/2026-08-06-224370343979.md) | ✅ Published | [What Does Nexus Photonics, Acquired by IonQ, Actually Build?](https://netcreat.substack.com/p/what-does-nexus-photonics-acquired) | `224370343979` |
 | 2026-08-06 | [IonQ’s Space Division,  NRO Radar Commercial Augmentation(RCA) 계약 수주](posts/2026/2026-08-06-224370224534.md) | ❌ Missing | — | `224370224534` |
 | 2026-08-06 | [DARPA, IonQ로부터 차세대 원자시계 제조 계약, 그리고 그 이면의 중요 내용](posts/2026/2026-08-06-224370109407.md) | ❌ Missing | — | `224370109407` |
-| 2026-08-05 | [Sandia는 IonQ에 무엇을 줄 수 있을까?](posts/2026/2026-08-05-224369235540.md) | ❌ Missing | — | `224369235540` |
 
 ## Missing from Substack
 
-Total missing: **675**
+Total missing: **676**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-04 | [양자보안 심화 (2) — AES 비밀키의 공유와 보호: USB·QKD·OTP·Hybrid PQC, HNDL과 키 관리](posts/2026/2026-11-04-224463838699.md) | ❌ Missing | — | `224463838699` |
 | 2026-10-29 | [QKD 기술 분류와 주요 기업의 제품 전략](posts/2026/2026-10-29-224456777014.md) | ❌ Missing | — | `224456777014` |
 | 2026-10-28 | [NIST PQC 전환 지침 최종 확정](posts/2026/2026-10-28-224457006220.md) | ❌ Missing | — | `224457006220` |
 | 2026-10-28 | [BB84의 키 확립부터 공개키 암호화와 실제 데이터 보호까지](posts/2026/2026-10-28-224456705898.md) | ❌ Missing | — | `224456705898` |
@@ -872,10 +873,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 783 Naver posts</summary>
+<summary>Show all 784 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-04 | [양자보안 심화 (2) — AES 비밀키의 공유와 보호: USB·QKD·OTP·Hybrid PQC, HNDL과 키 관리](posts/2026/2026-11-04-224463838699.md) | ❌ Missing | — | `224463838699` |
 | 2026-11-03 | [양자보안 심화 (1) — RSA·ECC·PQC·AES: 전자서명, 키 설정, 데이터 암호화와 양자 내성](posts/2026/2026-11-03-224462489845.md) | ✅ Published | [Quantum Security Deep Dive (1) — RSA, ECC, PQC, and AES: Digital Signatures, Key Establishment, Data Encryption, and Quantum Resistance](https://netcreat.substack.com/p/quantum-security-deep-dive-1-rsa) | `224462489845` |
 | 2026-11-02 | [양자컴퓨터가 발전하면 모든 암호가 깨질까요? — 입문편](posts/2026/2026-11-02-224462391443.md) | ✅ Published | [Will Quantum Computers Break All Encryption? — A Beginner’s Guide](https://netcreat.substack.com/p/will-quantum-computers-break-all) | `224462391443` |
 | 2026-11-01 | [QSPM의 진짜 기술적 경쟁력은 탐지 센서가 아니라 배포 구조에 있는가?](posts/2026/2026-11-01-224461209664.md) | ✅ Published | [Is QSPM's Real Competitive Advantage in Deployment Architecture Rather Than Detection Sensors?](https://netcreat.substack.com/p/is-qspms-real-competitive-advantage) | `224461209664` |

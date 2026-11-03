@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-03T19:05:08+00:00_
+_Automatically generated: 2026-11-03T21:55:58+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 783 | 108 | 675 | 0 | 0 |
-| Recent 90 days (2026-08-05 → 2026-11-03) | 165 | 82 | 83 | 0 | 0 |
+| All | 784 | 108 | 676 | 0 | 0 |
+| Recent 90 days (2026-08-06 → 2026-11-04) | 165 | 82 | 83 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-04 | [양자보안 심화 (2) — AES 비밀키의 공유와 보호: USB·QKD·OTP·Hybrid PQC, HNDL과 키 관리](posts/2026/2026-11-04-224463838699.md) | ❌ Missing | — | `224463838699` |
 | 2026-11-03 | [양자보안 심화 (1) — RSA·ECC·PQC·AES: 전자서명, 키 설정, 데이터 암호화와 양자 내성](posts/2026/2026-11-03-224462489845.md) | ✅ Published | [Quantum Security Deep Dive (1) — RSA, ECC, PQC, and AES: Digital Signatures, Key Establishment, Data Encryption, and Quantum Resistance](https://netcreat.substack.com/p/quantum-security-deep-dive-1-rsa) | `224462489845` |
 | 2026-11-02 | [양자컴퓨터가 발전하면 모든 암호가 깨질까요? — 입문편](posts/2026/2026-11-02-224462391443.md) | ✅ Published | [Will Quantum Computers Break All Encryption? — A Beginner’s Guide](https://netcreat.substack.com/p/will-quantum-computers-break-all) | `224462391443` |
 | 2026-11-01 | [QSPM의 진짜 기술적 경쟁력은 탐지 센서가 아니라 배포 구조에 있는가?](posts/2026/2026-11-01-224461209664.md) | ✅ Published | [Is QSPM's Real Competitive Advantage in Deployment Architecture Rather Than Detection Sensors?](https://netcreat.substack.com/p/is-qspms-real-competitive-advantage) | `224461209664` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-16 | [IonQ 3차례 유상증자 분석 — HCM은 주식을 팔고 워런트로 얼마나 벌 수 있을까?](posts/2026/2026-10-16-224443846709.md) | ❌ Missing | — | `224443846709` |
 | 2026-10-16 | [Cashless Exercise라는 옵션](posts/2026/2026-10-16-224443610974.md) | ✅ Published | [The Cashless Exercise Option](https://substack.com/home/post/p-220641243) | `224443610974` |
 | 2026-10-15 | [IonQ의 세 차례 유상증자: HCM이 얻은 옵션 가치와 기존 주주의 주당 손익](posts/2026/2026-10-15-224442909980.md) | ✅ Published | [IonQ’s Three Equity Offerings: HCM’s Option Value and the Per-Share Impact on Existing Shareholders](https://netcreat.substack.com/p/ionqs-three-equity-offerings-hcms) | `224442909980` |
-| 2026-10-15 | [IonQ는 왜 지금 또 20억 달러를 조달했을까?](posts/2026/2026-10-15-224442006517.md) | ✅ Published | [Why Is IonQ Raising Another $2 Billion Now?](https://netcreat.substack.com/p/why-is-ionq-raising-another-2-billion) | `224442006517` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).
