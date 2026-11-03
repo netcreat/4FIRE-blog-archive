@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T04:00:57+00:00",
+  "generated_at": "2026-11-03T06:20:19+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 783,
-    "published": 107,
-    "missing": 676,
+    "published": 108,
+    "missing": 675,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-08-05",
     "end": "2026-11-03",
     "total": 165,
-    "published": 81,
-    "missing": 84,
+    "published": 82,
+    "missing": 83,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224462489845?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-11-03-224462489845.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Quantum Security Deep Dive (1) — RSA, ECC, PQC, and AES: Digital Signatures, Key Establishment, Data Encryption, and Quantum Resistance",
+          "url": "https://netcreat.substack.com/p/quantum-security-deep-dive-1-rsa",
+          "published_date": "2026-11-03",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {

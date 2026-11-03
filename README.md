@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-03T04:00:57+00:00_
+_Automatically generated: 2026-11-03T06:20:19+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,14 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 783 | 107 | 676 | 0 | 0 |
-| Recent 90 days (2026-08-05 → 2026-11-03) | 165 | 81 | 84 | 0 | 0 |
+| All | 783 | 108 | 675 | 0 | 0 |
+| Recent 90 days (2026-08-05 → 2026-11-03) | 165 | 82 | 83 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-11-03 | [양자보안 심화 (1) — RSA·ECC·PQC·AES: 전자서명, 키 설정, 데이터 암호화와 양자 내성](posts/2026/2026-11-03-224462489845.md) | ❌ Missing | — | `224462489845` |
+| 2026-11-03 | [양자보안 심화 (1) — RSA·ECC·PQC·AES: 전자서명, 키 설정, 데이터 암호화와 양자 내성](posts/2026/2026-11-03-224462489845.md) | ✅ Published | [Quantum Security Deep Dive (1) — RSA, ECC, PQC, and AES: Digital Signatures, Key Establishment, Data Encryption, and Quantum Resistance](https://netcreat.substack.com/p/quantum-security-deep-dive-1-rsa) | `224462489845` |
 | 2026-11-02 | [양자컴퓨터가 발전하면 모든 암호가 깨질까요? — 입문편](posts/2026/2026-11-02-224462391443.md) | ✅ Published | [Will Quantum Computers Break All Encryption? — A Beginner’s Guide](https://netcreat.substack.com/p/will-quantum-computers-break-all) | `224462391443` |
 | 2026-11-01 | [QSPM의 진짜 기술적 경쟁력은 탐지 센서가 아니라 배포 구조에 있는가?](posts/2026/2026-11-01-224461209664.md) | ✅ Published | [Is QSPM's Real Competitive Advantage in Deployment Architecture Rather Than Detection Sensors?](https://netcreat.substack.com/p/is-qspms-real-competitive-advantage) | `224461209664` |
 | 2026-11-01 | [PQC 탐지, 스위치가 열쇠가 될까요?](posts/2026/2026-11-01-224461135839.md) | ✅ Published | [PQC Detection: Could Existing Switches Be the Key?](https://netcreat.substack.com/p/pqc-detection-could-existing-switches) | `224461135839` |
