@@ -1202,6 +1202,17 @@
           "published_date": "2026-11-02"
         }
       ]
+    },
+    "224462489845": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Quantum Security Deep Dive (1) — RSA, ECC, PQC, and AES: Digital Signatures, Key Establishment, Data Encryption, and Quantum Resistance",
+          "url": "https://netcreat.substack.com/p/quantum-security-deep-dive-1-rsa",
+          "published_date": "2026-11-03"
+        }
+      ]
     }
   }
 }
