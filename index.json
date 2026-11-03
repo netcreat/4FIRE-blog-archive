@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 782,
+  "totalArchivedPosts": 783,
   "posts": [
+    {
+      "date": "2026-11-03",
+      "published": "2026-11-03T09:00:00+11:00",
+      "title": "양자보안 심화 (1) — RSA·ECC·PQC·AES: 전자서명, 키 설정, 데이터 암호화와 양자 내성",
+      "logNo": "224462489845",
+      "source": "https://blog.naver.com/4-fire/224462489845?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-03-224462489845.md",
+      "content_source": "naver_post",
+      "characters": 9993
+    },
     {
       "date": "2026-11-02",
       "published": "2026-11-02T18:19:27+11:00",

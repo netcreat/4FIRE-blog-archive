@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T21:52:38+00:00",
+  "generated_at": "2026-11-03T01:15:54+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 782,
+    "total": 783,
     "published": 107,
-    "missing": 675,
+    "missing": 676,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-08-04",
-    "end": "2026-11-02",
-    "total": 164,
+    "start": "2026-08-05",
+    "end": "2026-11-03",
+    "total": 165,
     "published": 81,
-    "missing": 83,
+    "missing": 84,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-03",
+        "title": "양자보안 심화 (1) — RSA·ECC·PQC·AES: 전자서명, 키 설정, 데이터 암호화와 양자 내성",
+        "logNo": "224462489845",
+        "url": "https://blog.naver.com/4-fire/224462489845?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-03-224462489845.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-02",
