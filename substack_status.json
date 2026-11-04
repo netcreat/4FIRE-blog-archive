@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T17:15:55+00:00",
+  "generated_at": "2026-11-04T23:40:35+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 786,
+    "total": 787,
     "published": 110,
-    "missing": 676,
+    "missing": 677,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-08-06",
-    "end": "2026-11-04",
-    "total": 167,
-    "published": 84,
-    "missing": 83,
+    "start": "2026-08-07",
+    "end": "2026-11-05",
+    "total": 165,
+    "published": 83,
+    "missing": 82,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-05",
+        "title": "양자보안 심화 (3) — Zero Trust와 마이크로세그멘테이션",
+        "logNo": "224463866066",
+        "url": "https://blog.naver.com/4-fire/224463866066?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-05-224463866066.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-04",

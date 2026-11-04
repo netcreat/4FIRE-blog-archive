@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-04T17:15:55+00:00_
+_Automatically generated: 2026-11-04T23:40:35+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 786 | 110 | 676 | 0 | 0 |
-| Recent 90 days (2026-08-06 → 2026-11-04) | 167 | 84 | 83 | 0 | 0 |
+| All | 787 | 110 | 677 | 0 | 0 |
+| Recent 90 days (2026-08-07 → 2026-11-05) | 165 | 83 | 82 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-05 | [양자보안 심화 (3) — Zero Trust와 마이크로세그멘테이션](posts/2026/2026-11-05-224463866066.md) | ❌ Missing | — | `224463866066` |
 | 2026-11-04 | [EQC는 레이저를 줄였는데, 왜 SP90 광도파로 손실이 중요할까?](posts/2026/2026-11-04-224464875535.md) | ❌ Missing | — | `224464875535` |
 | 2026-11-04 | [CHOGM 2026과 IonQ](posts/2026/2026-11-04-224464700618.md) | ❌ Missing | — | `224464700618` |
 | 2026-11-04 | [양자보안 심화 (2) — AES 비밀키의 공유와 보호: USB·QKD·OTP·Hybrid PQC, HNDL과 키 관리](posts/2026/2026-11-04-224463838699.md) | ✅ Published | [Quantum Security Deep Dive (2) — Sharing and Protecting AES Secret Keys: USB, QKD, OTP, Hybrid PQC, HNDL, and Key Management](https://netcreat.substack.com/p/quantum-security-deep-dive-2-sharing) | `224463838699` |
@@ -181,16 +182,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-08-07 | [2026년 2분기 실적 발표 - RED WIRE](posts/2026/2026-08-07-224371410187.md) | ❌ Missing | — | `224371410187` |
 | 2026-08-07 | [DARPA 원자 시계 계약 업데이트](posts/2026/2026-08-07-224371133438.md) | ❌ Missing | — | `224371133438` |
 | 2026-08-07 | [IonQ 2026년 2분기 실적 분석](posts/2026/2026-08-07-224371082562.md) | ❌ Missing | — | `224371082562` |
-| 2026-08-06 | [IonQ가 인수한 Nexus Photonics는 무엇을 만드는가 — 양자컴퓨터의 광학계를 칩으로 바꾸는 회사](posts/2026/2026-08-06-224370343979.md) | ✅ Published | [What Does Nexus Photonics, Acquired by IonQ, Actually Build?](https://netcreat.substack.com/p/what-does-nexus-photonics-acquired) | `224370343979` |
-| 2026-08-06 | [IonQ’s Space Division,  NRO Radar Commercial Augmentation(RCA) 계약 수주](posts/2026/2026-08-06-224370224534.md) | ❌ Missing | — | `224370224534` |
-| 2026-08-06 | [DARPA, IonQ로부터 차세대 원자시계 제조 계약, 그리고 그 이면의 중요 내용](posts/2026/2026-08-06-224370109407.md) | ❌ Missing | — | `224370109407` |
 
 ## Missing from Substack
 
-Total missing: **676**
+Total missing: **677**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-05 | [양자보안 심화 (3) — Zero Trust와 마이크로세그멘테이션](posts/2026/2026-11-05-224463866066.md) | ❌ Missing | — | `224463866066` |
 | 2026-11-04 | [EQC는 레이저를 줄였는데, 왜 SP90 광도파로 손실이 중요할까?](posts/2026/2026-11-04-224464875535.md) | ❌ Missing | — | `224464875535` |
 | 2026-11-04 | [CHOGM 2026과 IonQ](posts/2026/2026-11-04-224464700618.md) | ❌ Missing | — | `224464700618` |
 | 2026-10-29 | [QKD 기술 분류와 주요 기업의 제품 전략](posts/2026/2026-10-29-224456777014.md) | ❌ Missing | — | `224456777014` |
@@ -875,10 +874,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 786 Naver posts</summary>
+<summary>Show all 787 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-05 | [양자보안 심화 (3) — Zero Trust와 마이크로세그멘테이션](posts/2026/2026-11-05-224463866066.md) | ❌ Missing | — | `224463866066` |
 | 2026-11-04 | [EQC는 레이저를 줄였는데, 왜 SP90 광도파로 손실이 중요할까?](posts/2026/2026-11-04-224464875535.md) | ❌ Missing | — | `224464875535` |
 | 2026-11-04 | [CHOGM 2026과 IonQ](posts/2026/2026-11-04-224464700618.md) | ❌ Missing | — | `224464700618` |
 | 2026-11-04 | [양자보안 심화 (2) — AES 비밀키의 공유와 보호: USB·QKD·OTP·Hybrid PQC, HNDL과 키 관리](posts/2026/2026-11-04-224463838699.md) | ✅ Published | [Quantum Security Deep Dive (2) — Sharing and Protecting AES Secret Keys: USB, QKD, OTP, Hybrid PQC, HNDL, and Key Management](https://netcreat.substack.com/p/quantum-security-deep-dive-2-sharing) | `224463838699` |

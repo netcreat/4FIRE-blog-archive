@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Thu, 05 Nov 2026 02:15:23 +0900</pubDate>
+            <pubDate>Thu, 05 Nov 2026 08:40:04 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Series]]></category>
+                <title><![CDATA[양자보안 심화 (3) — Zero Trust와 마이크로세그멘테이션]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224463866066?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224463866066</guid>
+                
+                <description><![CDATA[✅ 양자보안 심화 (3) — Zero Trust와 마이크로세그멘테이션: 암호를 풀지 않고도 침해한다 아무리 강한 AES-256과 PQC를 적용하더라도 공격자가 정상적인 사용자 계정을 탈취하거나 이미 감염된 서버에 접근하면 암호를 해독할 필요가 없다. 이번 편에서는 암호화와 별도로 Zero Trust·마이크로세그멘테이션·EDR·NDR 등이 필요한 이유를 실제 네트워크 동작 관점에서 살펴보겠다. ✅ 1. 공격자는 암호를 풀지 않고도 데이터를 훔칠 수 있다 병원 네트워크를 예로 들어 보겠다. 모든 통신을 ML-KEM과 AES-256으로 보호했더라도 직원 계정이 탈취되거나 애플리케이션 서버가 감염되면 공격자는 합법적인 권한을 흉내 내 평문 환자정보를 요청할 수....... <img src="https://blogthumb.pstatic.net/MjAyNjExMDNfODYg/MDAxNzkzNzAzMDE2Nzkx.KkNkQM_ACWLct3s85wAyHmUO8_zjOZeHuqcyV5FKDl0g.XMrs1EYhbB864ZRB5KgDnwWmA23yuJp5kfgMJTohzgAg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Thu, 05 Nov 2026 06:10:00 +0900</pubDate>
+                <tag><![CDATA[양자보안,ZeroTrust,MicroSegmentation]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ GlobalFoundries와 TSMC의 20억 달러 계약, 그리고 POET의 광학 인터포저 2026년 10월 8일, GlobalFoundries(GF)가 TSMC와 20억 달러 규모의 실리콘 인터포저(Silicon Interposer) 제조 계약을 체결했다. https://gf.com/news-and-events/news/globalfoundries-reaches-agreement-to-establish-us-based-supply-of-silicon-interposers-for-advanced-ai-packaging/ 이 소식은 단순히 GF가 새로운 고객을 확보했다는 의미를 넘어선다. 세계 최대 첨단 반도체 파운드리인 TSMC가 경쟁사인 GF에 AI 패키징의 핵심 부품 제조를 맡긴다는 점에서 흥미롭다. 최근 GF는 Marvell, Quantinuum, Xanadu, SMART Photonics, Monolithic Power Systems 등과....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDlfMTAy/MDAxNzkxNTAyNDc2Njk0.vjF31mL07l1lkqkvG75juRq4QorAbmDpPUxy2CKOQKAg.04erTGvH35KYsWumItBmknpFrv6uEAUK-t-OktvjVKog.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Fri, 09 Oct 2026 08:50:14 +0900</pubDate>
                 <tag><![CDATA[GFS,TSM,Interposer,CoWos,Silicon,Optical,POET]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[News]]></category>
-                <title><![CDATA[미국 국방부, 양자컴퓨팅에 3억 5천만 달러 투입 — DARPA Stage C와 PsiQuantum 대출, 그리고 국가 양자전략의 변화]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224435960562?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224435960562</guid>
-                
-                <description><![CDATA[✅ 미국 국방부, $350M 규모의 양자컴퓨팅 지원 발표 2026년 10월 8일, 미국 국방부(Department of War)는 양자컴퓨팅 분야에 총 3억 5,000만 달러($350M) 규모의 신규 지원 및 프로그램 업데이트를 발표했다. https://www.war.gov/News/Releases/Release/Article/4622109/department-of-war-announces-350-million-in-quantum-computing-initiatives/ 이번 발표는 단순히 양자컴퓨터 연구개발 예산을 추가한 것이 아니다. 미국의 국가안보에 활용할 수 있는 양자컴퓨터를 확보하기 위해 기술 검증, 제조 기반 확충, 실제 군사적 활용 분야 발굴을 함께 추진한다는 내용이다. 하루 전인 10월 7일에는 DARPA가 Quantum Benchmarking Initiative(QB....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDlfMzIg/MDAxNzkxNTAwNTUxMTU4.XAbsGmzBf6D23PR9XuvI_d_5LE_DyXBJlVCnsKbmSeog.DNe74Y-i2MydcYHYzz7wzEqZQaj_rbqb_XV60HlabFMg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Fri, 09 Oct 2026 08:03:53 +0900</pubDate>
-                <tag><![CDATA[DOW,DARPA,Psiquantum]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

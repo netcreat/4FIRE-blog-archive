@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 786,
+  "totalArchivedPosts": 787,
   "posts": [
+    {
+      "date": "2026-11-05",
+      "published": "2026-11-05T08:10:00+11:00",
+      "title": "양자보안 심화 (3) — Zero Trust와 마이크로세그멘테이션",
+      "logNo": "224463866066",
+      "source": "https://blog.naver.com/4-fire/224463866066?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-05-224463866066.md",
+      "content_source": "naver_post",
+      "characters": 7479
+    },
     {
       "date": "2026-11-04",
       "published": "2026-11-04T18:46:12+11:00",
