@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-04T04:04:17+00:00_
+_Automatically generated: 2026-11-04T05:56:29+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,14 +10,15 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 784 | 108 | 676 | 0 | 0 |
-| Recent 90 days (2026-08-06 → 2026-11-04) | 165 | 82 | 83 | 0 | 0 |
+| All | 785 | 110 | 675 | 0 | 0 |
+| Recent 90 days (2026-08-06 → 2026-11-04) | 166 | 84 | 82 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-11-04 | [양자보안 심화 (2) — AES 비밀키의 공유와 보호: USB·QKD·OTP·Hybrid PQC, HNDL과 키 관리](posts/2026/2026-11-04-224463838699.md) | ❌ Missing | — | `224463838699` |
+| 2026-11-04 | [CHOGM 2026과 IonQ](posts/2026/2026-11-04-224464700618.md) | ❌ Missing | — | `224464700618` |
+| 2026-11-04 | [양자보안 심화 (2) — AES 비밀키의 공유와 보호: USB·QKD·OTP·Hybrid PQC, HNDL과 키 관리](posts/2026/2026-11-04-224463838699.md) | ✅ Published | [Quantum Security Deep Dive (2) — Sharing and Protecting AES Secret Keys: USB, QKD, OTP, Hybrid PQC, HNDL, and Key Management](https://netcreat.substack.com/p/quantum-security-deep-dive-2-sharing) | `224463838699` |
 | 2026-11-03 | [양자보안 심화 (1) — RSA·ECC·PQC·AES: 전자서명, 키 설정, 데이터 암호화와 양자 내성](posts/2026/2026-11-03-224462489845.md) | ✅ Published | [Quantum Security Deep Dive (1) — RSA, ECC, PQC, and AES: Digital Signatures, Key Establishment, Data Encryption, and Quantum Resistance](https://netcreat.substack.com/p/quantum-security-deep-dive-1-rsa) | `224462489845` |
 | 2026-11-02 | [양자컴퓨터가 발전하면 모든 암호가 깨질까요? — 입문편](posts/2026/2026-11-02-224462391443.md) | ✅ Published | [Will Quantum Computers Break All Encryption? — A Beginner’s Guide](https://netcreat.substack.com/p/will-quantum-computers-break-all) | `224462391443` |
 | 2026-11-01 | [QSPM의 진짜 기술적 경쟁력은 탐지 센서가 아니라 배포 구조에 있는가?](posts/2026/2026-11-01-224461209664.md) | ✅ Published | [Is QSPM's Real Competitive Advantage in Deployment Architecture Rather Than Detection Sensors?](https://netcreat.substack.com/p/is-qspms-real-competitive-advantage) | `224461209664` |
@@ -28,7 +29,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-10-29 | [영국 Quantum Leap과 우주 양자 로드맵](posts/2026/2026-10-29-224457341737.md) | ✅ Published | [The UK's Quantum Leap and Its Space Quantum Roadmap](https://netcreat.substack.com/p/the-uks-quantum-leap-and-its-space) | `224457341737` |
 | 2026-10-29 | [QKD 기술 분류와 주요 기업의 제품 전략](posts/2026/2026-10-29-224456777014.md) | ❌ Missing | — | `224456777014` |
 | 2026-10-28 | [NIST PQC 전환 지침 최종 확정](posts/2026/2026-10-28-224457006220.md) | ❌ Missing | — | `224457006220` |
-| 2026-10-28 | [BB84의 키 확립부터 공개키 암호화와 실제 데이터 보호까지](posts/2026/2026-10-28-224456705898.md) | ❌ Missing | — | `224456705898` |
+| 2026-10-28 | [BB84의 키 확립부터 공개키 암호화와 실제 데이터 보호까지](posts/2026/2026-10-28-224456705898.md) | ✅ Published | [From BB84 Key Establishment to Public-Key Cryptography and Real-World Data Protection](https://netcreat.substack.com/p/from-bb84-key-establishment-to-public) | `224456705898` |
 | 2026-10-27 | [QKD는 어떻게 비밀키를 공유할까요?](posts/2026/2026-10-27-224455866257.md) | ❌ Missing | — | `224455866257` |
 | 2026-10-27 | [IonQ, AFRL에서 $7.5M 후속 자금 확보](posts/2026/2026-10-27-224455854435.md) | ✅ Published | [IonQ Secures $7.5 Million in Follow-On Funding from AFRL](https://netcreat.substack.com/p/ionq-secures-75-million-in-follow) | `224455854435` |
 | 2026-10-27 | [Intel이 Classiq을 인수합니다](posts/2026/2026-10-27-224454942010.md) | ✅ Published | [Intel Is Acquiring Classiq](https://netcreat.substack.com/p/intel-is-acquiring-classiq-a-quantum) | `224454942010` |
@@ -185,14 +186,13 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **676**
+Total missing: **675**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-11-04 | [양자보안 심화 (2) — AES 비밀키의 공유와 보호: USB·QKD·OTP·Hybrid PQC, HNDL과 키 관리](posts/2026/2026-11-04-224463838699.md) | ❌ Missing | — | `224463838699` |
+| 2026-11-04 | [CHOGM 2026과 IonQ](posts/2026/2026-11-04-224464700618.md) | ❌ Missing | — | `224464700618` |
 | 2026-10-29 | [QKD 기술 분류와 주요 기업의 제품 전략](posts/2026/2026-10-29-224456777014.md) | ❌ Missing | — | `224456777014` |
 | 2026-10-28 | [NIST PQC 전환 지침 최종 확정](posts/2026/2026-10-28-224457006220.md) | ❌ Missing | — | `224457006220` |
-| 2026-10-28 | [BB84의 키 확립부터 공개키 암호화와 실제 데이터 보호까지](posts/2026/2026-10-28-224456705898.md) | ❌ Missing | — | `224456705898` |
 | 2026-10-27 | [QKD는 어떻게 비밀키를 공유할까요?](posts/2026/2026-10-27-224455866257.md) | ❌ Missing | — | `224455866257` |
 | 2026-10-26 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요? - 심화편](posts/2026/2026-10-26-224453312491.md) | ❌ Missing | — | `224453312491` |
 | 2026-10-25 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요?](posts/2026/2026-10-25-224453237227.md) | ❌ Missing | — | `224453237227` |
@@ -873,11 +873,12 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 784 Naver posts</summary>
+<summary>Show all 785 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-11-04 | [양자보안 심화 (2) — AES 비밀키의 공유와 보호: USB·QKD·OTP·Hybrid PQC, HNDL과 키 관리](posts/2026/2026-11-04-224463838699.md) | ❌ Missing | — | `224463838699` |
+| 2026-11-04 | [CHOGM 2026과 IonQ](posts/2026/2026-11-04-224464700618.md) | ❌ Missing | — | `224464700618` |
+| 2026-11-04 | [양자보안 심화 (2) — AES 비밀키의 공유와 보호: USB·QKD·OTP·Hybrid PQC, HNDL과 키 관리](posts/2026/2026-11-04-224463838699.md) | ✅ Published | [Quantum Security Deep Dive (2) — Sharing and Protecting AES Secret Keys: USB, QKD, OTP, Hybrid PQC, HNDL, and Key Management](https://netcreat.substack.com/p/quantum-security-deep-dive-2-sharing) | `224463838699` |
 | 2026-11-03 | [양자보안 심화 (1) — RSA·ECC·PQC·AES: 전자서명, 키 설정, 데이터 암호화와 양자 내성](posts/2026/2026-11-03-224462489845.md) | ✅ Published | [Quantum Security Deep Dive (1) — RSA, ECC, PQC, and AES: Digital Signatures, Key Establishment, Data Encryption, and Quantum Resistance](https://netcreat.substack.com/p/quantum-security-deep-dive-1-rsa) | `224462489845` |
 | 2026-11-02 | [양자컴퓨터가 발전하면 모든 암호가 깨질까요? — 입문편](posts/2026/2026-11-02-224462391443.md) | ✅ Published | [Will Quantum Computers Break All Encryption? — A Beginner’s Guide](https://netcreat.substack.com/p/will-quantum-computers-break-all) | `224462391443` |
 | 2026-11-01 | [QSPM의 진짜 기술적 경쟁력은 탐지 센서가 아니라 배포 구조에 있는가?](posts/2026/2026-11-01-224461209664.md) | ✅ Published | [Is QSPM's Real Competitive Advantage in Deployment Architecture Rather Than Detection Sensors?](https://netcreat.substack.com/p/is-qspms-real-competitive-advantage) | `224461209664` |
@@ -888,7 +889,7 @@ _Not calculated because the public sitemap fetch failed._
 | 2026-10-29 | [영국 Quantum Leap과 우주 양자 로드맵](posts/2026/2026-10-29-224457341737.md) | ✅ Published | [The UK's Quantum Leap and Its Space Quantum Roadmap](https://netcreat.substack.com/p/the-uks-quantum-leap-and-its-space) | `224457341737` |
 | 2026-10-29 | [QKD 기술 분류와 주요 기업의 제품 전략](posts/2026/2026-10-29-224456777014.md) | ❌ Missing | — | `224456777014` |
 | 2026-10-28 | [NIST PQC 전환 지침 최종 확정](posts/2026/2026-10-28-224457006220.md) | ❌ Missing | — | `224457006220` |
-| 2026-10-28 | [BB84의 키 확립부터 공개키 암호화와 실제 데이터 보호까지](posts/2026/2026-10-28-224456705898.md) | ❌ Missing | — | `224456705898` |
+| 2026-10-28 | [BB84의 키 확립부터 공개키 암호화와 실제 데이터 보호까지](posts/2026/2026-10-28-224456705898.md) | ✅ Published | [From BB84 Key Establishment to Public-Key Cryptography and Real-World Data Protection](https://netcreat.substack.com/p/from-bb84-key-establishment-to-public) | `224456705898` |
 | 2026-10-27 | [QKD는 어떻게 비밀키를 공유할까요?](posts/2026/2026-10-27-224455866257.md) | ❌ Missing | — | `224455866257` |
 | 2026-10-27 | [IonQ, AFRL에서 $7.5M 후속 자금 확보](posts/2026/2026-10-27-224455854435.md) | ✅ Published | [IonQ Secures $7.5 Million in Follow-On Funding from AFRL](https://netcreat.substack.com/p/ionq-secures-75-million-in-follow) | `224455854435` |
 | 2026-10-27 | [Intel이 Classiq을 인수합니다](posts/2026/2026-10-27-224454942010.md) | ✅ Published | [Intel Is Acquiring Classiq](https://netcreat.substack.com/p/intel-is-acquiring-classiq-a-quantum) | `224454942010` |

@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Wed, 04 Nov 2026 13:03:47 +0900</pubDate>
+            <pubDate>Wed, 04 Nov 2026 14:55:58 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[CHOGM 2026과 IonQ]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224464700618?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224464700618</guid>
+                
+                <description><![CDATA[✅ 영연방 정상회의, FormationQ, 그리고 양자 산업의 경제적 기회 작성 기준: 2026년 11월 4일. CHOGM 2026 및 Commonwealth Business Forum(CBF) 공식 자료, Cambridge·King’s Foundation·IonQ 발표, 미국 SEC 신고서를 토대로 분석한다. 이 글은 ① 공식 확인 사실 ② 합리적인 사업 시나리오 ③ 계약 및 매출 미확인 사항을 구분한다. 행사가 끝나더라도 즉시 IonQ 계약이 체결된 것으로 해석해서는 안 된다. ✅ 1. CHOGM과 CBF는 무슨 행사인가? CHOGM(Commonwealth Heads of Government Meeting)은 영연방 56개 회원국이 2년마다 개최하는 정부수반회의다. 2026년 11월 1~4일 앤티가 바부다 세인트존스에서 열렸다. CBF(Commonwealth Busi....... <img src="https://blogthumb.pstatic.net/MjAyNjExMDRfNjYg/MDAxNzkzNzcwNTU0NjI3.S2WKCnx1OM9rapqM9NuYa6pvjM05gsjywpIcQ9yFK_wg.nOcmsZ2jErzOwG5sB4LlFd7ritoK8xOKmrdUJmvefgsg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Wed, 04 Nov 2026 14:31:10 +0900</pubDate>
+                <tag><![CDATA[IonQ,CHOGM,FormationQ,CBF]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 1. Capella Space의 새로운 발표 — 위성을 바꾸지 않고 더 빨라졌다 2026년 10월 8일, IonQ의 자회사 Capella Space가 흥미로운 기술 개선 성과를 공개했다. https://www.capellaspace.com/resources/optimizing-the-entire-path-from-orbit-to-delivery 이번 발표는 새로운 SAR 위성을 발사하거나 고성능 레이더를 개발했다는 이야기가 아니다. 기존 위성과 지상 인프라의 통신 설정, 데이터 처리 소프트웨어, 네트워크 운영을 최적화해 영상 전달시간을 줄인 것이 핵심이다. Capella가 최근 30일간 실제 촬영 데이터를 분석한 결과는 다음과 같다. 여기서 지연시간(Latency)은 SAR 영상이 촬영된 시점부터 고객에게 전달되는 시점까지를 의....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDlfMTQg/MDAxNzkxNDk3OTM1NTM4.JhHw7hrVnMWkbdkysWOm7YPWa7njjbVsetUPKlSpFlUg.tqnNcS7X2dd2Oked6K3xjORpByWAGRTmBHnusPOXarsg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Fri, 09 Oct 2026 07:19:42 +0900</pubDate>
                 <tag><![CDATA[IonQ,Capella,MODCOD,KSAT]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Semiconductor]]></category>
-                <title><![CDATA[GlobalFoundries Investor Day 2026 — 광학·전력·양자·IP를 선택한 파운드리]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224435624365?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224435624365</guid>
-                
-                <description><![CDATA[✅ GlobalFoundries Investor Day 2026 — 미세공정 경쟁을 넘어 광학·전력·양자·IP까지, GF의 새로운 성장 전략 2026년 5월 7일, GlobalFoundries(GF)는 Investor Day를 통해 향후 2030년까지의 기술 로드맵과 사업 확장 전략, 재무 목표를 공개했다. 이번 발표 자료는 총 101페이지에 달하며, 반도체 산업이 AI를 중심으로 재편되는 과정에서 GF가 어떤 위치를 차지하려는지를 구체적으로 보여준다. 이전에 분석했던 Marvell Investor Day가 AI 데이터센터의 연결성과 데이터 이동에 초점을 맞췄다면, 이번 GF 발표는 이러한 기술을 제조하고 상용화하는 파운드리의 관점에서 접근한다. 특히 GF는 첨단 로직 공정의 미세화 경쟁에 직접 참여하....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDhfMjQ1/MDAxNzkxNDU5NzEzODQ3.IJsoirn31DY_oKWSKTGek83bsXdiAyc-WpKUmnpn7fwg.4INvsMx2d03YQBMbefrxzOhmouyGFro-9lA1dphtYTgg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Thu, 08 Oct 2026 20:59:04 +0900</pubDate>
-                <tag><![CDATA[GFS,Investor,Day]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

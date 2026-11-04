@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 784,
+  "totalArchivedPosts": 785,
   "posts": [
+    {
+      "date": "2026-11-04",
+      "published": "2026-11-04T16:31:10+11:00",
+      "title": "CHOGM 2026과 IonQ",
+      "logNo": "224464700618",
+      "source": "https://blog.naver.com/4-fire/224464700618?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-04-224464700618.md",
+      "content_source": "naver_post",
+      "characters": 17847
+    },
     {
       "date": "2026-11-04",
       "published": "2026-11-04T08:00:00+11:00",
