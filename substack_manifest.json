@@ -1213,6 +1213,28 @@
           "published_date": "2026-11-03"
         }
       ]
+    },
+    "224456705898": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "From BB84 Key Establishment to Public-Key Cryptography and Real-World Data Protection",
+          "url": "https://netcreat.substack.com/p/from-bb84-key-establishment-to-public",
+          "published_date": "2026-11-04"
+        }
+      ]
+    },
+    "224463838699": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Quantum Security Deep Dive (2) — Sharing and Protecting AES Secret Keys: USB, QKD, OTP, Hybrid PQC, HNDL, and Key Management",
+          "url": "https://netcreat.substack.com/p/quantum-security-deep-dive-2-sharing",
+          "published_date": "2026-11-04"
+        }
+      ]
     }
   }
 }
