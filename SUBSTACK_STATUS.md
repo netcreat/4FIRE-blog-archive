@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-04T07:28:50+00:00_
+_Automatically generated: 2026-11-04T17:15:55+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 785 | 110 | 675 | 0 | 0 |
-| Recent 90 days (2026-08-06 → 2026-11-04) | 166 | 84 | 82 | 0 | 0 |
+| All | 786 | 110 | 676 | 0 | 0 |
+| Recent 90 days (2026-08-06 → 2026-11-04) | 167 | 84 | 83 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-04 | [EQC는 레이저를 줄였는데, 왜 SP90 광도파로 손실이 중요할까?](posts/2026/2026-11-04-224464875535.md) | ❌ Missing | — | `224464875535` |
 | 2026-11-04 | [CHOGM 2026과 IonQ](posts/2026/2026-11-04-224464700618.md) | ❌ Missing | — | `224464700618` |
 | 2026-11-04 | [양자보안 심화 (2) — AES 비밀키의 공유와 보호: USB·QKD·OTP·Hybrid PQC, HNDL과 키 관리](posts/2026/2026-11-04-224463838699.md) | ✅ Published | [Quantum Security Deep Dive (2) — Sharing and Protecting AES Secret Keys: USB, QKD, OTP, Hybrid PQC, HNDL, and Key Management](https://netcreat.substack.com/p/quantum-security-deep-dive-2-sharing) | `224463838699` |
 | 2026-11-03 | [양자보안 심화 (1) — RSA·ECC·PQC·AES: 전자서명, 키 설정, 데이터 암호화와 양자 내성](posts/2026/2026-11-03-224462489845.md) | ✅ Published | [Quantum Security Deep Dive (1) — RSA, ECC, PQC, and AES: Digital Signatures, Key Establishment, Data Encryption, and Quantum Resistance](https://netcreat.substack.com/p/quantum-security-deep-dive-1-rsa) | `224462489845` |
@@ -186,10 +187,11 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **675**
+Total missing: **676**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-04 | [EQC는 레이저를 줄였는데, 왜 SP90 광도파로 손실이 중요할까?](posts/2026/2026-11-04-224464875535.md) | ❌ Missing | — | `224464875535` |
 | 2026-11-04 | [CHOGM 2026과 IonQ](posts/2026/2026-11-04-224464700618.md) | ❌ Missing | — | `224464700618` |
 | 2026-10-29 | [QKD 기술 분류와 주요 기업의 제품 전략](posts/2026/2026-10-29-224456777014.md) | ❌ Missing | — | `224456777014` |
 | 2026-10-28 | [NIST PQC 전환 지침 최종 확정](posts/2026/2026-10-28-224457006220.md) | ❌ Missing | — | `224457006220` |
@@ -873,10 +875,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 785 Naver posts</summary>
+<summary>Show all 786 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-04 | [EQC는 레이저를 줄였는데, 왜 SP90 광도파로 손실이 중요할까?](posts/2026/2026-11-04-224464875535.md) | ❌ Missing | — | `224464875535` |
 | 2026-11-04 | [CHOGM 2026과 IonQ](posts/2026/2026-11-04-224464700618.md) | ❌ Missing | — | `224464700618` |
 | 2026-11-04 | [양자보안 심화 (2) — AES 비밀키의 공유와 보호: USB·QKD·OTP·Hybrid PQC, HNDL과 키 관리](posts/2026/2026-11-04-224463838699.md) | ✅ Published | [Quantum Security Deep Dive (2) — Sharing and Protecting AES Secret Keys: USB, QKD, OTP, Hybrid PQC, HNDL, and Key Management](https://netcreat.substack.com/p/quantum-security-deep-dive-2-sharing) | `224463838699` |
 | 2026-11-03 | [양자보안 심화 (1) — RSA·ECC·PQC·AES: 전자서명, 키 설정, 데이터 암호화와 양자 내성](posts/2026/2026-11-03-224462489845.md) | ✅ Published | [Quantum Security Deep Dive (1) — RSA, ECC, PQC, and AES: Digital Signatures, Key Establishment, Data Encryption, and Quantum Resistance](https://netcreat.substack.com/p/quantum-security-deep-dive-1-rsa) | `224462489845` |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T07:28:50+00:00",
+  "generated_at": "2026-11-04T17:15:55+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 785,
+    "total": 786,
     "published": 110,
-    "missing": 675,
+    "missing": 676,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,29 @@
     "days": 90,
     "start": "2026-08-06",
     "end": "2026-11-04",
-    "total": 166,
+    "total": 167,
     "published": 84,
-    "missing": 82,
+    "missing": 83,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-04",
+        "title": "EQC는 레이저를 줄였는데, 왜 SP90 광도파로 손실이 중요할까?",
+        "logNo": "224464875535",
+        "url": "https://blog.naver.com/4-fire/224464875535?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-04-224464875535.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-04",

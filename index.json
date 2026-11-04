@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 785,
+  "totalArchivedPosts": 786,
   "posts": [
+    {
+      "date": "2026-11-04",
+      "published": "2026-11-04T18:46:12+11:00",
+      "title": "EQC는 레이저를 줄였는데, 왜 SP90 광도파로 손실이 중요할까?",
+      "logNo": "224464875535",
+      "source": "https://blog.naver.com/4-fire/224464875535?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-04-224464875535.md",
+      "content_source": "naver_post",
+      "characters": 13472
+    },
     {
       "date": "2026-11-04",
       "published": "2026-11-04T16:31:10+11:00",

@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Wed, 04 Nov 2026 16:28:22 +0900</pubDate>
+            <pubDate>Thu, 05 Nov 2026 02:15:23 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[EQC는 레이저를 줄였는데, 왜 SP90 광도파로 손실이 중요할까?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224464875535?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224464875535</guid>
+                
+                <description><![CDATA[✅ Superion 256에서 10K까지 IonQ의 새로운 Superion QPU는 EQC(Electronic Qubit Control)로 양자 게이트를 전자적으로 구동한다. 그렇다면 레이저와 광도파로는 더 이상 필요하지 않을까? 그렇지 않다. 양자 게이트를 제어하는 것과 이온을 냉각·초기화·판독하고 광자를 전달하는 것은 서로 다른 문제다. EQC가 전자를 담당하더라도 후자의 광학 기능은 남는다. SkyWater는 SP90에서 493nm·650nm·1762nm 파장의 SiN 광도파로 손실을 공개했다. 특히 493nm의 1.56dB/cm라는 수치는 눈에 띈다. 다만 이 수치가 Superion 256의 실제 게이트 충실도 저하를 의미하지는 않는다. 이 글은 공식 발표, 특허, 학술 실험, 계산에 기반한 시나리오를 구분....... <img src="https://blogthumb.pstatic.net/MjAyNjExMDRfMjMx/MDAxNzkzNzc2OTU4NjEx.PLhH6L0jmAeWSzNt8zHjjHG7A0djDoRqWkh7OCgDRM0g.41wsBWV_qL4fS8hIJtW-voP691rC61Y8FfRkR5GTGrEg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Wed, 04 Nov 2026 16:46:12 +0900</pubDate>
+                <tag><![CDATA[IonQ,SP90,광도파로,손실률]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 미국 국방부, $350M 규모의 양자컴퓨팅 지원 발표 2026년 10월 8일, 미국 국방부(Department of War)는 양자컴퓨팅 분야에 총 3억 5,000만 달러($350M) 규모의 신규 지원 및 프로그램 업데이트를 발표했다. https://www.war.gov/News/Releases/Release/Article/4622109/department-of-war-announces-350-million-in-quantum-computing-initiatives/ 이번 발표는 단순히 양자컴퓨터 연구개발 예산을 추가한 것이 아니다. 미국의 국가안보에 활용할 수 있는 양자컴퓨터를 확보하기 위해 기술 검증, 제조 기반 확충, 실제 군사적 활용 분야 발굴을 함께 추진한다는 내용이다. 하루 전인 10월 7일에는 DARPA가 Quantum Benchmarking Initiative(QB....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDlfMzIg/MDAxNzkxNTAwNTUxMTU4.XAbsGmzBf6D23PR9XuvI_d_5LE_DyXBJlVCnsKbmSeog.DNe74Y-i2MydcYHYzz7wzEqZQaj_rbqb_XV60HlabFMg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Fri, 09 Oct 2026 08:03:53 +0900</pubDate>
                 <tag><![CDATA[DOW,DARPA,Psiquantum]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[구름을 뚫지 못하는 레이저로 어떻게 우주 양자통신을 할까? — Capella, Skyloom, Starlink 그리고 IonQ의 QKD 전략]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224435941091?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224435941091</guid>
-                
-                <description><![CDATA[✅ 1. Capella Space의 새로운 발표 — 위성을 바꾸지 않고 더 빨라졌다 2026년 10월 8일, IonQ의 자회사 Capella Space가 흥미로운 기술 개선 성과를 공개했다. https://www.capellaspace.com/resources/optimizing-the-entire-path-from-orbit-to-delivery 이번 발표는 새로운 SAR 위성을 발사하거나 고성능 레이더를 개발했다는 이야기가 아니다. 기존 위성과 지상 인프라의 통신 설정, 데이터 처리 소프트웨어, 네트워크 운영을 최적화해 영상 전달시간을 줄인 것이 핵심이다. Capella가 최근 30일간 실제 촬영 데이터를 분석한 결과는 다음과 같다. 여기서 지연시간(Latency)은 SAR 영상이 촬영된 시점부터 고객에게 전달되는 시점까지를 의....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDlfMTQg/MDAxNzkxNDk3OTM1NTM4.JhHw7hrVnMWkbdkysWOm7YPWa7njjbVsetUPKlSpFlUg.tqnNcS7X2dd2Oked6K3xjORpByWAGRTmBHnusPOXarsg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Fri, 09 Oct 2026 07:19:42 +0900</pubDate>
-                <tag><![CDATA[IonQ,Capella,MODCOD,KSAT]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>
