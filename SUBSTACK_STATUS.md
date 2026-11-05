@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-05T12:31:35+00:00_
+_Automatically generated: 2026-11-05T14:16:56+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,16 +10,16 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 790 | 111 | 679 | 0 | 0 |
-| Recent 90 days (2026-08-07 → 2026-11-05) | 168 | 84 | 84 | 0 | 0 |
+| All | 790 | 113 | 677 | 0 | 0 |
+| Recent 90 days (2026-08-07 → 2026-11-05) | 168 | 86 | 82 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-11-05 | [IonQ, Elisity 인수완료와 그 의미 최최최종](posts/2026/2026-11-05-224466403070.md) | ❌ Missing | — | `224466403070` |
+| 2026-11-05 | [IonQ, Elisity 인수완료와 그 의미 최최최종](posts/2026/2026-11-05-224466403070.md) | ✅ Published | [IonQ Completes Its Acquisition of Elisity: What It Really Means — The Definitive Analysis](https://netcreat.substack.com/p/ionq-completes-its-acquisition-of) | `224466403070` |
 | 2026-11-05 | [SpaceX, 미국 지상 5G망까지 구축한다](posts/2026/2026-11-05-224466086340.md) | ❌ Missing | — | `224466086340` |
-| 2026-11-05 | [양자보안 심화 (4) — IonQ는 왜 QSPM·QKD·HSM·Elisity에 주목할까?](posts/2026/2026-11-05-224463889105.md) | ❌ Missing | — | `224463889105` |
+| 2026-11-05 | [양자보안 심화 (4) — IonQ는 왜 QSPM·QKD·HSM·Elisity에 주목할까?](posts/2026/2026-11-05-224463889105.md) | ✅ Published | [Quantum Security Deep Dive (4) — Why Is IonQ Focusing on QSPM, QKD, HSMs, and Elisity?](https://netcreat.substack.com/p/quantum-security-deep-dive-4-why) | `224463889105` |
 | 2026-11-05 | [양자보안 심화 (3) — Zero Trust와 마이크로세그멘테이션](posts/2026/2026-11-05-224463866066.md) | ✅ Published | [Quantum Security Deep Dive (3) — Zero Trust and Microsegmentation: Breaching Systems Without Breaking Encryption](https://netcreat.substack.com/p/quantum-security-deep-dive-3-zero) | `224463866066` |
 | 2026-11-04 | [EQC는 레이저를 줄였는데, 왜 SP90 광도파로 손실이 중요할까?](posts/2026/2026-11-04-224464875535.md) | ❌ Missing | — | `224464875535` |
 | 2026-11-04 | [CHOGM 2026과 IonQ](posts/2026/2026-11-04-224464700618.md) | ❌ Missing | — | `224464700618` |
@@ -188,13 +188,11 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **679**
+Total missing: **677**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-11-05 | [IonQ, Elisity 인수완료와 그 의미 최최최종](posts/2026/2026-11-05-224466403070.md) | ❌ Missing | — | `224466403070` |
 | 2026-11-05 | [SpaceX, 미국 지상 5G망까지 구축한다](posts/2026/2026-11-05-224466086340.md) | ❌ Missing | — | `224466086340` |
-| 2026-11-05 | [양자보안 심화 (4) — IonQ는 왜 QSPM·QKD·HSM·Elisity에 주목할까?](posts/2026/2026-11-05-224463889105.md) | ❌ Missing | — | `224463889105` |
 | 2026-11-04 | [EQC는 레이저를 줄였는데, 왜 SP90 광도파로 손실이 중요할까?](posts/2026/2026-11-04-224464875535.md) | ❌ Missing | — | `224464875535` |
 | 2026-11-04 | [CHOGM 2026과 IonQ](posts/2026/2026-11-04-224464700618.md) | ❌ Missing | — | `224464700618` |
 | 2026-10-29 | [QKD 기술 분류와 주요 기업의 제품 전략](posts/2026/2026-10-29-224456777014.md) | ❌ Missing | — | `224456777014` |
@@ -883,9 +881,9 @@ _Not calculated because the public sitemap fetch failed._
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-11-05 | [IonQ, Elisity 인수완료와 그 의미 최최최종](posts/2026/2026-11-05-224466403070.md) | ❌ Missing | — | `224466403070` |
+| 2026-11-05 | [IonQ, Elisity 인수완료와 그 의미 최최최종](posts/2026/2026-11-05-224466403070.md) | ✅ Published | [IonQ Completes Its Acquisition of Elisity: What It Really Means — The Definitive Analysis](https://netcreat.substack.com/p/ionq-completes-its-acquisition-of) | `224466403070` |
 | 2026-11-05 | [SpaceX, 미국 지상 5G망까지 구축한다](posts/2026/2026-11-05-224466086340.md) | ❌ Missing | — | `224466086340` |
-| 2026-11-05 | [양자보안 심화 (4) — IonQ는 왜 QSPM·QKD·HSM·Elisity에 주목할까?](posts/2026/2026-11-05-224463889105.md) | ❌ Missing | — | `224463889105` |
+| 2026-11-05 | [양자보안 심화 (4) — IonQ는 왜 QSPM·QKD·HSM·Elisity에 주목할까?](posts/2026/2026-11-05-224463889105.md) | ✅ Published | [Quantum Security Deep Dive (4) — Why Is IonQ Focusing on QSPM, QKD, HSMs, and Elisity?](https://netcreat.substack.com/p/quantum-security-deep-dive-4-why) | `224463889105` |
 | 2026-11-05 | [양자보안 심화 (3) — Zero Trust와 마이크로세그멘테이션](posts/2026/2026-11-05-224463866066.md) | ✅ Published | [Quantum Security Deep Dive (3) — Zero Trust and Microsegmentation: Breaching Systems Without Breaking Encryption](https://netcreat.substack.com/p/quantum-security-deep-dive-3-zero) | `224463866066` |
 | 2026-11-04 | [EQC는 레이저를 줄였는데, 왜 SP90 광도파로 손실이 중요할까?](posts/2026/2026-11-04-224464875535.md) | ❌ Missing | — | `224464875535` |
 | 2026-11-04 | [CHOGM 2026과 IonQ](posts/2026/2026-11-04-224464700618.md) | ❌ Missing | — | `224464700618` |
