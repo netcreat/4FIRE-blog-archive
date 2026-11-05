@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:48:32+00:00",
+  "generated_at": "2026-11-05T10:04:09+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,8 +24,8 @@
     }
   },
   "summary": {
-    "total": 787,
-    "published": 110,
+    "total": 788,
+    "published": 111,
     "missing": 677,
     "skip": 0,
     "check": 0
@@ -34,8 +34,8 @@
     "days": 90,
     "start": "2026-08-07",
     "end": "2026-11-05",
-    "total": 165,
-    "published": 83,
+    "total": 166,
+    "published": 84,
     "missing": 82,
     "skip": 0,
     "check": 0
@@ -46,15 +46,37 @@
     {
       "naver": {
         "published_date": "2026-11-05",
-        "title": "양자보안 심화 (3) — Zero Trust와 마이크로세그멘테이션",
-        "logNo": "224463866066",
-        "url": "https://blog.naver.com/4-fire/224463866066?fromRss=true&trackingCode=rss",
-        "github_archive": "posts/2026/2026-11-05-224463866066.md"
+        "title": "SpaceX, 미국 지상 5G망까지 구축한다",
+        "logNo": "224466086340",
+        "url": "https://blog.naver.com/4-fire/224466086340?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-05-224466086340.md"
       },
       "status": "missing",
       "status_label": "❌ Missing",
       "relationship": null,
       "substack": [],
+      "reason": null
+    },
+    {
+      "naver": {
+        "published_date": "2026-11-05",
+        "title": "양자보안 심화 (3) — Zero Trust와 마이크로세그멘테이션",
+        "logNo": "224463866066",
+        "url": "https://blog.naver.com/4-fire/224463866066?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-05-224463866066.md"
+      },
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Quantum Security Deep Dive (3) — Zero Trust and Microsegmentation: Breaching Systems Without Breaking Encryption",
+          "url": "https://netcreat.substack.com/p/quantum-security-deep-dive-3-zero",
+          "published_date": "2026-11-05",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {

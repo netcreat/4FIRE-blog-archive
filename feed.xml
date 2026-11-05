@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Thu, 05 Nov 2026 15:48:02 +0900</pubDate>
+            <pubDate>Thu, 05 Nov 2026 19:03:37 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Networking]]></category>
+                <title><![CDATA[SpaceX, 미국 지상 5G망까지 구축한다]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224466086340?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224466086340</guid>
+                
+                <description><![CDATA[✅ Starlink·ASTS의 과거 분석을 다시 쓰다 2026년 11월 4일 SpaceX가 Qualcomm Dragonwing 플랫폼을 채택해 미국 전국 규모의 지상 5G 네트워크를 구축하겠다고 발표했다. 2027년부터 착수해 다년간 수만 개 기지국 사이트에 배치하는 계획이다. 이번 뉴스는 단순한 칩 구매나 위성 증설이 아니다. 우리가 기존에 Starlink Direct-to-Cell(D2C)을 분석할 때 사용한 ‘지상망의 음영지역을 보완하는 위성망’이라는 틀에 SpaceX가 직접 운영할 지상 접속망이 추가됐다는 뜻이다. 그렇다고 이미 미국 전체 기지국을 확보했거나 6G·AI-RAN 도입을 확정했다는 의미는 아니다. 공식 확정, 언론 보도, 기업 로드맵, 필자의 추론을 구분해 살펴본다. ✅....... <img src="https://blogthumb.pstatic.net/MjAyNjExMDVfOTYg/MDAxNzkzODYwNTQ4OTgx.G9kStWJ27htlCuAiuw4XeIJU8AWHDtXGZbphJbpUjccg.uZz2SRZwZ9udX9Pi7yMi3D3JbBKGtbSph0QIv1FrYuog.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Thu, 05 Nov 2026 15:58:44 +0900</pubDate>
+                <tag><![CDATA[SpaceX,SPCX,Qualcomm,QCOM,RAN,D2C]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 또 다른 Oxford Ionics나 SkyWater가 필요할까? 양자컴퓨터가 제대로 작동하기 위해서는 세 가지 기본 조건이 필요하다. 높은 물리 큐비트 충실도(Fidelity), 충분한 물리 큐비트 수(Scalability), 그리고 신뢰할 수 있는 논리 큐비트를 만드는 양자 오류정정(QEC) 기술이다. IonQ는 이 세 가지 조건을 충족하기 위해 지난 몇 년간 상당히 공격적인 전략을 펼쳤다. Oxford Ionics를 인수하여 Electronic Qubit Control(EQC)이라는 고충실도 제어 기술을 확보했고, SkyWater를 인수하여 반도체 기반 제조와 대량생산의 기반을 갖췄다. 또한 Microsoft 출신의 Nicolas Delfosse를 비롯한 오류정정 연구진을 통해 qLDPC 코드, 실시간 디코더, Wal....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDlfMTMz/MDAxNzkxNTQyMjY1Nzgx.s6q32ChMcYF8JBosJ-ETSC1L4kVEvBudpNGLaq-rdOMg.Tl2CwFjyAjlNRuALHS2xOebffQpaxSH0Z1Qtf6D5risg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Fri, 09 Oct 2026 19:41:08 +0900</pubDate>
                 <tag><![CDATA[IonQ,FTQC]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Semiconductor]]></category>
-                <title><![CDATA[인터포저가 바꾸는 반도체 생태계]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224435985869?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224435985869</guid>
-                
-                <description><![CDATA[✅ GlobalFoundries와 TSMC의 20억 달러 계약, 그리고 POET의 광학 인터포저 2026년 10월 8일, GlobalFoundries(GF)가 TSMC와 20억 달러 규모의 실리콘 인터포저(Silicon Interposer) 제조 계약을 체결했다. https://gf.com/news-and-events/news/globalfoundries-reaches-agreement-to-establish-us-based-supply-of-silicon-interposers-for-advanced-ai-packaging/ 이 소식은 단순히 GF가 새로운 고객을 확보했다는 의미를 넘어선다. 세계 최대 첨단 반도체 파운드리인 TSMC가 경쟁사인 GF에 AI 패키징의 핵심 부품 제조를 맡긴다는 점에서 흥미롭다. 최근 GF는 Marvell, Quantinuum, Xanadu, SMART Photonics, Monolithic Power Systems 등과....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDlfMTAy/MDAxNzkxNTAyNDc2Njk0.vjF31mL07l1lkqkvG75juRq4QorAbmDpPUxy2CKOQKAg.04erTGvH35KYsWumItBmknpFrv6uEAUK-t-OktvjVKog.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Fri, 09 Oct 2026 08:50:14 +0900</pubDate>
-                <tag><![CDATA[GFS,TSM,Interposer,CoWos,Silicon,Optical,POET]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

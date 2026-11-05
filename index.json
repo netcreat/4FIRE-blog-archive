@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 787,
+  "totalArchivedPosts": 788,
   "posts": [
+    {
+      "date": "2026-11-05",
+      "published": "2026-11-05T17:58:44+11:00",
+      "title": "SpaceX, 미국 지상 5G망까지 구축한다",
+      "logNo": "224466086340",
+      "source": "https://blog.naver.com/4-fire/224466086340?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-05-224466086340.md",
+      "content_source": "naver_post",
+      "characters": 20724
+    },
     {
       "date": "2026-11-05",
       "published": "2026-11-05T08:10:00+11:00",
