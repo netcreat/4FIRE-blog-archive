@@ -1246,6 +1246,28 @@
           "published_date": "2026-11-05"
         }
       ]
+    },
+    "224463889105": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Quantum Security Deep Dive (4) — Why Is IonQ Focusing on QSPM, QKD, HSMs, and Elisity?",
+          "url": "https://netcreat.substack.com/p/quantum-security-deep-dive-4-why",
+          "published_date": "2026-11-06"
+        }
+      ]
+    },
+    "224466403070": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "IonQ Completes Its Acquisition of Elisity: What It Really Means — The Definitive Analysis",
+          "url": "https://netcreat.substack.com/p/ionq-completes-its-acquisition-of",
+          "published_date": "2026-11-06"
+        }
+      ]
     }
   }
 }
