@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T10:04:09+00:00",
+  "generated_at": "2026-11-05T12:31:35+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 788,
+    "total": 790,
     "published": 111,
-    "missing": 677,
+    "missing": 679,
     "skip": 0,
     "check": 0
   },
@@ -34,9 +34,9 @@
     "days": 90,
     "start": "2026-08-07",
     "end": "2026-11-05",
-    "total": 166,
+    "total": 168,
     "published": 84,
-    "missing": 82,
+    "missing": 84,
     "skip": 0,
     "check": 0
   },
@@ -46,10 +46,38 @@
     {
       "naver": {
         "published_date": "2026-11-05",
+        "title": "IonQ, Elisity 인수완료와 그 의미 최최최종",
+        "logNo": "224466403070",
+        "url": "https://blog.naver.com/4-fire/224466403070?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-05-224466403070.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
+    {
+      "naver": {
+        "published_date": "2026-11-05",
         "title": "SpaceX, 미국 지상 5G망까지 구축한다",
         "logNo": "224466086340",
         "url": "https://blog.naver.com/4-fire/224466086340?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-11-05-224466086340.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
+    {
+      "naver": {
+        "published_date": "2026-11-05",
+        "title": "양자보안 심화 (4) — IonQ는 왜 QSPM·QKD·HSM·Elisity에 주목할까?",
+        "logNo": "224463889105",
+        "url": "https://blog.naver.com/4-fire/224463889105?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-05-224463889105.md"
       },
       "status": "missing",
       "status_label": "❌ Missing",

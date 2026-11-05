@@ -21,7 +21,35 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Thu, 05 Nov 2026 19:03:37 +0900</pubDate>
+            <pubDate>Thu, 05 Nov 2026 21:31:03 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Series]]></category>
+                <title><![CDATA[양자보안 심화 (4) — IonQ는 왜 QSPM·QKD·HSM·Elisity에 주목할까?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224463889105?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224463889105</guid>
+                <description><![CDATA[✅ 양자보안 심화 (4) — IonQ는 왜 QSPM·QKD·HSM·Elisity에 주목할까? QKM과 Crypto Agility의 경제학 앞선 1~3편에서 암호 알고리즘·키 분배·HNDL·키 관리·Zero Trust의 역할을 살펴봤다. 이제 이 기술들이 IonQ의 기업 보안 전략과 어떻게 연결되는지 분석할 차례다. 이번 편의 질문: IonQ는 왜 새로운 대칭키 암호를 만드는 대신 QKD, 암호 사용현황 관리(QSPM), 키 관리·정책 연결, Elisity의 기업 네트워크 접근통제 기술을 확보하려 할까? ✅ 1. Crypto Agility·QSPM이 지속적인 보안 관리에 필요한 이유 PQC가 앞으로도 계속 안전할 수 있다는 가능성과 별개로 관리 플랫폼은 필요하다. 암호가 안전해도 잘못된 구성, 취약한 인증서, 키.......]]></description>
+                
+                <pubDate>Thu, 05 Nov 2026 21:30:29 +0900</pubDate>
+                <tag><![CDATA[양자보안,QSPM,QKD,HSM,MicroSegment,Crypto,Agility]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ, Elisity 인수완료와 그 의미 최최최종]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224466403070?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224466403070</guid>
+                
+                <description><![CDATA[✅ QSPM과 Quantum Posture는 무엇을 바꾸는가? 2026년 11월 5일 기준. IonQ는 11월 4일 Elisity 인수 완료를 발표했고, 같은 날 Elisity CEO James Winebrenner는 인수 이후의 PQC(양자내성암호) 전환 지원 방향을 직접 설명했다. 이번 발표의 핵심은 단순히 Zero Trust 제품을 인수했다는 사실이 아니다. 암호화 취약성 파악 → 자산·서비스 맥락 연결 → 전환 우선순위 결정 → 전환 중 접근 통제라는 업무 흐름을 하나의 보안 전략으로 묶으려 한다는 점이다. 특히 IonQ QSPM(Quantum Security Posture Management), Elisity Quantum Posture, 2027년 상반기 계획된 Cryptographic Inventory & Posture Intelligence를 서로 구분해서 이....... <img src="https://blogthumb.pstatic.net/MjAyNjExMDVfMjM0/MDAxNzkzODc3NDUzNTk4.dB4CCb4twu_UgGtP4l7UoPXtpQxLfhfXn_8y9fbHlQYg.l_p5eXnU5KA7buvMFrPUbx4FlCTdeD-3pLvsE2Ezos8g.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Thu, 05 Nov 2026 20:55:44 +0900</pubDate>
+                <tag><![CDATA[IonQ,Elisty,인수완료,QSPM]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -691,34 +719,6 @@
                 <description><![CDATA[✅ NVIDIA가 탐내는 Reflection AI 2026년 10월 5일, 미국의 AI 스타트업 Reflection AI가 첫 번째 대형 오픈 가중치 모델인 Beam을 공개했다. https://reflection.ai/blog/introducing-beam 그리고 불과 5일 뒤인 10월 10일, NVIDIA가 Reflection AI를 인수하거나 투자 지분을 확대하는 방안을 논의하고 있다는 보도가 나왔다. Reflection AI는 창업한 지 약 2년 반밖에 되지 않은 기업이다. 그러나 2025년 10월 이미 $8B의 기업가치를 인정받았고, 2026년에는 $25B의 투자 전 기업가치(Pre-money Valuation)로 자금을 조달했다. 그렇다면 이 회사는 도대체 무엇을 가지고 있는 것일까? 가장 흥미로운 점은 NVIDIA가 인수를 검토하는 기업의 기....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTFfOCAg/MDAxNzkxNzA0MTM0OTg0.lERVRgGJlB4SnPwIvPEpuOACZT5hjSQ0KUJCBcq3ucAg.9U6zwJ1iIJ6CFlD0mdM89uXqK3OkraDydTbccVBydTIg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Sun, 11 Oct 2026 17:19:23 +0900</pubDate>
                 <tag><![CDATA[ReflectionAI,NVIDIA,Beam]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[News]]></category>
-                <title><![CDATA[백악관의 $6B 과학투자 발표: 새 예산은 얼마이고, 어디로 가는가?]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224437337550?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224437337550</guid>
-                <description><![CDATA[✅ 이번 백악관 발표에서 무엇이 새롭고, 무엇이 기존 사업의 연장인가 백악관은 2026년 10월 8일 Science: A New Golden Age 행사에서 정부·기업·대학·기부재단을 아우르는 $6B 이상의 과학 투자 패키지를 발표했다. https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-trump-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century 양자컴퓨팅뿐 아니라 연구용 AI, 자동 실험실, 바이오 데이터, 연구조직과 인재 양성까지 포함하는 광범위한 내용이다. 발표 규모를 정확히 이해하려면 각 금액의 성격부터 구분해야 한다. 새롭게 공개된 사업과 민간 공약, 이미 진행 중인 프로그램의 후속 선정, 기존.......]]></description>
-                
-                <pubDate>Sat, 10 Oct 2026 19:40:52 +0900</pubDate>
-                <tag><![CDATA[백악관,New,Golden,Age,NSF,DOE,Science]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[아이온큐의 다음 빅 허들은 무엇인가?]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224436465772?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224436465772</guid>
-                
-                <description><![CDATA[✅ 또 다른 Oxford Ionics나 SkyWater가 필요할까? 양자컴퓨터가 제대로 작동하기 위해서는 세 가지 기본 조건이 필요하다. 높은 물리 큐비트 충실도(Fidelity), 충분한 물리 큐비트 수(Scalability), 그리고 신뢰할 수 있는 논리 큐비트를 만드는 양자 오류정정(QEC) 기술이다. IonQ는 이 세 가지 조건을 충족하기 위해 지난 몇 년간 상당히 공격적인 전략을 펼쳤다. Oxford Ionics를 인수하여 Electronic Qubit Control(EQC)이라는 고충실도 제어 기술을 확보했고, SkyWater를 인수하여 반도체 기반 제조와 대량생산의 기반을 갖췄다. 또한 Microsoft 출신의 Nicolas Delfosse를 비롯한 오류정정 연구진을 통해 qLDPC 코드, 실시간 디코더, Wal....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMDlfMTMz/MDAxNzkxNTQyMjY1Nzgx.s6q32ChMcYF8JBosJ-ETSC1L4kVEvBudpNGLaq-rdOMg.Tl2CwFjyAjlNRuALHS2xOebffQpaxSH0Z1Qtf6D5risg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Fri, 09 Oct 2026 19:41:08 +0900</pubDate>
-                <tag><![CDATA[IonQ,FTQC]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

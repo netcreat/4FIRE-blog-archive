@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-05T10:04:09+00:00_
+_Automatically generated: 2026-11-05T12:31:35+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,14 +14,16 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 788 | 111 | 677 | 0 | 0 |
-| Recent 90 days (2026-08-07 → 2026-11-05) | 166 | 84 | 82 | 0 | 0 |
+| All | 790 | 111 | 679 | 0 | 0 |
+| Recent 90 days (2026-08-07 → 2026-11-05) | 168 | 84 | 84 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-05 | [IonQ, Elisity 인수완료와 그 의미 최최최종](posts/2026/2026-11-05-224466403070.md) | ❌ Missing | — | `224466403070` |
 | 2026-11-05 | [SpaceX, 미국 지상 5G망까지 구축한다](posts/2026/2026-11-05-224466086340.md) | ❌ Missing | — | `224466086340` |
+| 2026-11-05 | [양자보안 심화 (4) — IonQ는 왜 QSPM·QKD·HSM·Elisity에 주목할까?](posts/2026/2026-11-05-224463889105.md) | ❌ Missing | — | `224463889105` |
 | 2026-11-05 | [양자보안 심화 (3) — Zero Trust와 마이크로세그멘테이션](posts/2026/2026-11-05-224463866066.md) | ✅ Published | [Quantum Security Deep Dive (3) — Zero Trust and Microsegmentation: Breaching Systems Without Breaking Encryption](https://netcreat.substack.com/p/quantum-security-deep-dive-3-zero) | `224463866066` |
 | 2026-11-04 | [EQC는 레이저를 줄였는데, 왜 SP90 광도파로 손실이 중요할까?](posts/2026/2026-11-04-224464875535.md) | ❌ Missing | — | `224464875535` |
 | 2026-11-04 | [CHOGM 2026과 IonQ](posts/2026/2026-11-04-224464700618.md) | ❌ Missing | — | `224464700618` |
@@ -49,7 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-20 | [Quantinuum의 논리 오류율 10배 개선의 의미?](posts/2026/2026-10-20-224447108213.md) | ✅ Published | [What Does Quantinuum's 10× Reduction in Logical Error Rate Really Mean?](https://netcreat.substack.com/p/what-does-quantinuums-10-reduction) | `224447108213` |
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — Quantum Position Verification(QPV)](posts/2026/2026-10-19-224446825415.md) | ❌ Missing | — | `224446825415` |
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — 양자 네트워크 전송 인프라를 어떻게 봐야 하나](posts/2026/2026-10-19-224446785603.md) | ✅ Published | [Cisco Quantum Summit 2026 Day 1 — How Should We Evaluate Quantum Network Transmission Infrastructure?](https://netcreat.substack.com/p/cisco-quantum-summit-2026-day-1-how) | `224446785603` |
-| 2026-10-18 | [Cisco Quantum Summit 2026 Day 1 — 패널 토론](posts/2026/2026-10-18-224445836524.md) | ❌ Missing | — | `224445836524` |
-| 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt](posts/2026/2026-10-17-224444857373.md) | ✅ Published | [Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt](https://netcreat.substack.com/p/cisco-quantum-summit-2026-day-2-psiquantum) | `224444857373` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

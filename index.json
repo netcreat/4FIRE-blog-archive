@@ -2,8 +2,28 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 788,
+  "totalArchivedPosts": 790,
   "posts": [
+    {
+      "date": "2026-11-05",
+      "published": "2026-11-05T23:30:29+11:00",
+      "title": "양자보안 심화 (4) — IonQ는 왜 QSPM·QKD·HSM·Elisity에 주목할까?",
+      "logNo": "224463889105",
+      "source": "https://blog.naver.com/4-fire/224463889105?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-05-224463889105.md",
+      "content_source": "naver_post",
+      "characters": 14361
+    },
+    {
+      "date": "2026-11-05",
+      "published": "2026-11-05T22:55:44+11:00",
+      "title": "IonQ, Elisity 인수완료와 그 의미 최최최종",
+      "logNo": "224466403070",
+      "source": "https://blog.naver.com/4-fire/224466403070?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-05-224466403070.md",
+      "content_source": "naver_post",
+      "characters": 12514
+    },
     {
       "date": "2026-11-05",
       "published": "2026-11-05T17:58:44+11:00",
