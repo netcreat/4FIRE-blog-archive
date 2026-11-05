@@ -1235,6 +1235,17 @@
           "published_date": "2026-11-04"
         }
       ]
+    },
+    "224463866066": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Quantum Security Deep Dive (3) — Zero Trust and Microsegmentation: Breaching Systems Without Breaking Encryption",
+          "url": "https://netcreat.substack.com/p/quantum-security-deep-dive-3-zero",
+          "published_date": "2026-11-05"
+        }
+      ]
     }
   }
 }
