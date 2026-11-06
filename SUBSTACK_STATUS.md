@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-06T06:48:14+00:00_
+_Automatically generated: 2026-11-06T12:57:53+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,14 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 791 | 113 | 678 | 0 | 0 |
-| Recent 90 days (2026-08-08 → 2026-11-06) | 166 | 86 | 80 | 0 | 0 |
+| All | 791 | 114 | 677 | 0 | 0 |
+| Recent 90 days (2026-08-08 → 2026-11-06) | 166 | 87 | 79 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-11-06 | [IonQ 2026년 3분기 실적 분석](posts/2026/2026-11-06-224467136215.md) | ❌ Missing | — | `224467136215` |
+| 2026-11-06 | [IonQ 2026년 3분기 실적 분석](posts/2026/2026-11-06-224467136215.md) | ✅ Published | [IonQ Q3 2026: Deep Dive into Financials, Superion, SkyWater, Security and the Earnings Call](https://netcreat.substack.com/p/ionq-q3-2026) | `224467136215` |
 | 2026-11-05 | [IonQ, Elisity 인수완료와 그 의미 최최최종](posts/2026/2026-11-05-224466403070.md) | ✅ Published | [IonQ Completes Its Acquisition of Elisity: What It Really Means — The Definitive Analysis](https://netcreat.substack.com/p/ionq-completes-its-acquisition-of) | `224466403070` |
 | 2026-11-05 | [SpaceX, 미국 지상 5G망까지 구축한다](posts/2026/2026-11-05-224466086340.md) | ❌ Missing | — | `224466086340` |
 | 2026-11-05 | [양자보안 심화 (4) — IonQ는 왜 QSPM·QKD·HSM·Elisity에 주목할까?](posts/2026/2026-11-05-224463889105.md) | ✅ Published | [Quantum Security Deep Dive (4) — Why Is IonQ Focusing on QSPM, QKD, HSMs, and Elisity?](https://netcreat.substack.com/p/quantum-security-deep-dive-4-why) | `224463889105` |
@@ -186,11 +186,10 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **678**
+Total missing: **677**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-11-06 | [IonQ 2026년 3분기 실적 분석](posts/2026/2026-11-06-224467136215.md) | ❌ Missing | — | `224467136215` |
 | 2026-11-05 | [SpaceX, 미국 지상 5G망까지 구축한다](posts/2026/2026-11-05-224466086340.md) | ❌ Missing | — | `224466086340` |
 | 2026-11-04 | [EQC는 레이저를 줄였는데, 왜 SP90 광도파로 손실이 중요할까?](posts/2026/2026-11-04-224464875535.md) | ❌ Missing | — | `224464875535` |
 | 2026-11-04 | [CHOGM 2026과 IonQ](posts/2026/2026-11-04-224464700618.md) | ❌ Missing | — | `224464700618` |
@@ -880,7 +879,7 @@ _Not calculated because the public sitemap fetch failed._
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-11-06 | [IonQ 2026년 3분기 실적 분석](posts/2026/2026-11-06-224467136215.md) | ❌ Missing | — | `224467136215` |
+| 2026-11-06 | [IonQ 2026년 3분기 실적 분석](posts/2026/2026-11-06-224467136215.md) | ✅ Published | [IonQ Q3 2026: Deep Dive into Financials, Superion, SkyWater, Security and the Earnings Call](https://netcreat.substack.com/p/ionq-q3-2026) | `224467136215` |
 | 2026-11-05 | [IonQ, Elisity 인수완료와 그 의미 최최최종](posts/2026/2026-11-05-224466403070.md) | ✅ Published | [IonQ Completes Its Acquisition of Elisity: What It Really Means — The Definitive Analysis](https://netcreat.substack.com/p/ionq-completes-its-acquisition-of) | `224466403070` |
 | 2026-11-05 | [SpaceX, 미국 지상 5G망까지 구축한다](posts/2026/2026-11-05-224466086340.md) | ❌ Missing | — | `224466086340` |
 | 2026-11-05 | [양자보안 심화 (4) — IonQ는 왜 QSPM·QKD·HSM·Elisity에 주목할까?](posts/2026/2026-11-05-224463889105.md) | ✅ Published | [Quantum Security Deep Dive (4) — Why Is IonQ Focusing on QSPM, QKD, HSMs, and Elisity?](https://netcreat.substack.com/p/quantum-security-deep-dive-4-why) | `224463889105` |

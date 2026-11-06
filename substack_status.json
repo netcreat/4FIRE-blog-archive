@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T06:48:14+00:00",
+  "generated_at": "2026-11-06T12:57:53+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 791,
-    "published": 113,
-    "missing": 678,
+    "published": 114,
+    "missing": 677,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-08-08",
     "end": "2026-11-06",
     "total": 166,
-    "published": 86,
-    "missing": 80,
+    "published": 87,
+    "missing": 79,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224467136215?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-11-06-224467136215.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "IonQ Q3 2026: Deep Dive into Financials, Superion, SkyWater, Security and the Earnings Call",
+          "url": "https://netcreat.substack.com/p/ionq-q3-2026",
+          "published_date": "2026-11-06",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
