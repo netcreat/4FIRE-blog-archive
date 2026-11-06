@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Fri, 06 Nov 2026 08:38:38 +0900</pubDate>
+            <pubDate>Fri, 06 Nov 2026 15:47:42 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ 2026년 3분기 실적 분석]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224467136215?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224467136215</guid>
+                
+                <description><![CDATA[✅ IonQ 2026년 3분기: 10-Q·8-K·S-8·투자자 발표·84분 어닝콜 통합 심층 분석 작성 기준: 2026년 11월 6일. 2026년 9월 30일 종료 분기 실적과 11월 5일까지 발표된 공시·사업 업데이트를 정리한다. 분석 초점: 매출 성장의 실제 구성, 신규 수주와 RPO, Superion 256 양산 및 NVIDIA, 국방·우주·센싱, SkyWater의 제조 경쟁력, Elisity 보안사업, 수익성·주식 희석을 하나의 구조로 연결한다. 표기 원칙: 확정 실적·공시 사실, 경영진 발언·가이던스, 분석적 해석·가능성을 구분한다. 특히 최대 계약 상한, MOU, 구매옵션을 확정 수주에 합산하지 않는다. 참고: 원문 자료는 글 마지막에 연결했다. 블로그 독자가 수치를 직접 검증할 수 있도록....... <img src="https://blogthumb.pstatic.net/MjAyNjExMDZfMjA5/MDAxNzkzOTI1Nzk5MTA4.J-S_5pbsgLG1kl7eW8lymdA6p6DCVtRSNkCCgGRNHIgg.-KNK45XaYfbf1oQMODMA0ItTiUcVkzBYBwigM8aR4X8g.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Fri, 06 Nov 2026 13:40:21 +0900</pubDate>
+                <tag><![CDATA[IonQ,실적분석]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ NVIDIA는 이미 한 번, ‘GPU 밖의 병목’을 사서 성공했다 최근 NVIDIA의 인수·투자 전략을 보기 전에 반드시 짚어야 할 사례가 있다. 바로 Mellanox 인수다. NVIDIA는 2019년 Mellanox를 약 $6.9B에 인수하기로 했고, 2020년 거래를 완료했다. Mellanox는 InfiniBand, 고속 Ethernet, ConnectX 네트워크 어댑터 등 HPC와 데이터센터용 고성능 네트워크 기술을 보유하고 있었다. https://nvidianews.nvidia.com/news/nvidia-to-acquire-mellanox-for-6-9-billion 당시 NVIDIA가 본 것은 단순한 네트워크 사업이 아니었다. GPU가 아무리 빨라도 GPU와 GPU, 서버와 서버 사이에서 데이터가 제대로 이동하지 못하면 전체 AI 시스템이 느려진다. M....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTFfMTMg/MDAxNzkxNzIwNjEyOTU3.pA7-WMqv2F8CQZdPetgA-yG4oSHdcn2ak5NvfsQJUQwg.MMs0BhFxvhLwaWl29ky20hwmvVNjPgXn7Wf0BDbqSMog.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Sun, 11 Oct 2026 21:13:44 +0900</pubDate>
                 <tag><![CDATA[NVIDIA,NVDA,투자,인수,Jensen,Huang,병목]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Investing]]></category>
-                <title><![CDATA[AlphaGo 개발자들이 만든 Beam, 그리고 $25B AI 기업의 가치]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224438085225?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224438085225</guid>
-                
-                <description><![CDATA[✅ NVIDIA가 탐내는 Reflection AI 2026년 10월 5일, 미국의 AI 스타트업 Reflection AI가 첫 번째 대형 오픈 가중치 모델인 Beam을 공개했다. https://reflection.ai/blog/introducing-beam 그리고 불과 5일 뒤인 10월 10일, NVIDIA가 Reflection AI를 인수하거나 투자 지분을 확대하는 방안을 논의하고 있다는 보도가 나왔다. Reflection AI는 창업한 지 약 2년 반밖에 되지 않은 기업이다. 그러나 2025년 10월 이미 $8B의 기업가치를 인정받았고, 2026년에는 $25B의 투자 전 기업가치(Pre-money Valuation)로 자금을 조달했다. 그렇다면 이 회사는 도대체 무엇을 가지고 있는 것일까? 가장 흥미로운 점은 NVIDIA가 인수를 검토하는 기업의 기....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTFfOCAg/MDAxNzkxNzA0MTM0OTg0.lERVRgGJlB4SnPwIvPEpuOACZT5hjSQ0KUJCBcq3ucAg.9U6zwJ1iIJ6CFlD0mdM89uXqK3OkraDydTbccVBydTIg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Sun, 11 Oct 2026 17:19:23 +0900</pubDate>
-                <tag><![CDATA[ReflectionAI,NVIDIA,Beam]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

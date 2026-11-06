@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 790,
+  "totalArchivedPosts": 791,
   "posts": [
+    {
+      "date": "2026-11-06",
+      "published": "2026-11-06T15:40:21+11:00",
+      "title": "IonQ 2026년 3분기 실적 분석",
+      "logNo": "224467136215",
+      "source": "https://blog.naver.com/4-fire/224467136215?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-06-224467136215.md",
+      "content_source": "naver_post",
+      "characters": 29988
+    },
     {
       "date": "2026-11-05",
       "published": "2026-11-05T23:30:29+11:00",

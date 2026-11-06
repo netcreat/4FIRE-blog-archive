@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T23:39:07+00:00",
+  "generated_at": "2026-11-06T06:48:14+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 790,
+    "total": 791,
     "published": 113,
-    "missing": 677,
+    "missing": 678,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-08-07",
-    "end": "2026-11-05",
-    "total": 168,
+    "start": "2026-08-08",
+    "end": "2026-11-06",
+    "total": 166,
     "published": 86,
-    "missing": 82,
+    "missing": 80,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-06",
+        "title": "IonQ 2026년 3분기 실적 분석",
+        "logNo": "224467136215",
+        "url": "https://blog.naver.com/4-fire/224467136215?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-06-224467136215.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-05",
