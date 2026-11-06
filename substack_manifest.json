@@ -1268,6 +1268,17 @@
           "published_date": "2026-11-06"
         }
       ]
+    },
+    "224467136215": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "IonQ Q3 2026: Deep Dive into Financials, Superion, SkyWater, Security and the Earnings Call",
+          "url": "https://netcreat.substack.com/p/ionq-q3-2026",
+          "published_date": "2026-11-06"
+        }
+      ]
     }
   }
 }
