@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 791,
+  "totalArchivedPosts": 792,
   "posts": [
+    {
+      "date": "2026-11-07",
+      "published": "2026-11-07T16:34:51+11:00",
+      "title": "IonQ의 매출 성장은 비용을 앞지르고 있는가?",
+      "logNo": "224468288302",
+      "source": "https://blog.naver.com/4-fire/224468288302?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-07-224468288302.md",
+      "content_source": "naver_post",
+      "characters": 11161
+    },
     {
       "date": "2026-11-06",
       "published": "2026-11-06T15:40:21+11:00",
