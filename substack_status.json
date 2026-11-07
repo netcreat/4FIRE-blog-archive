@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T05:59:25+00:00",
+  "generated_at": "2026-11-07T07:56:28+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 792,
-    "published": 114,
-    "missing": 678,
+    "published": 115,
+    "missing": 677,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-08-09",
     "end": "2026-11-07",
     "total": 162,
-    "published": 87,
-    "missing": 75,
+    "published": 88,
+    "missing": 74,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224468288302?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-11-07-224468288302.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Is IonQ’s Revenue Growth Outpacing Its Costs?",
+          "url": "https://netcreat.substack.com/p/is-ionqs-revenue-growth-outpacing",
+          "published_date": "2026-11-07",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {

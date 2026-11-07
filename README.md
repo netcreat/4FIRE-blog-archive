@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-07T05:59:25+00:00_
+_Automatically generated: 2026-11-07T07:56:28+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,14 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 792 | 114 | 678 | 0 | 0 |
-| Recent 90 days (2026-08-09 → 2026-11-07) | 162 | 87 | 75 | 0 | 0 |
+| All | 792 | 115 | 677 | 0 | 0 |
+| Recent 90 days (2026-08-09 → 2026-11-07) | 162 | 88 | 74 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-11-07 | [IonQ의 매출 성장은 비용을 앞지르고 있는가?](posts/2026/2026-11-07-224468288302.md) | ❌ Missing | — | `224468288302` |
+| 2026-11-07 | [IonQ의 매출 성장은 비용을 앞지르고 있는가?](posts/2026/2026-11-07-224468288302.md) | ✅ Published | [Is IonQ’s Revenue Growth Outpacing Its Costs?](https://netcreat.substack.com/p/is-ionqs-revenue-growth-outpacing) | `224468288302` |
 | 2026-11-06 | [IonQ 2026년 3분기 실적 분석](posts/2026/2026-11-06-224467136215.md) | ✅ Published | [IonQ Q3 2026: Deep Dive into Financials, Superion, SkyWater, Security and the Earnings Call](https://netcreat.substack.com/p/ionq-q3-2026) | `224467136215` |
 | 2026-11-05 | [IonQ, Elisity 인수완료와 그 의미 최최최종](posts/2026/2026-11-05-224466403070.md) | ✅ Published | [IonQ Completes Its Acquisition of Elisity: What It Really Means — The Definitive Analysis](https://netcreat.substack.com/p/ionq-completes-its-acquisition-of) | `224466403070` |
 | 2026-11-05 | [SpaceX, 미국 지상 5G망까지 구축한다](posts/2026/2026-11-05-224466086340.md) | ❌ Missing | — | `224466086340` |
