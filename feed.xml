@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Sun, 08 Nov 2026 19:24:09 +0900</pubDate>
+            <pubDate>Mon, 09 Nov 2026 02:56:03 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224469525830?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224469525830</guid>
+                
+                <description><![CDATA[✅ IonQ의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미 이번 글은 2026년 3분기 실적을 다시 요약하거나 매출과 비용의 성장률을 재분석하는 글이 아니다. 이 내용은 이미 발행한 IonQ의 매출 성장은 비용을 앞지르고 있는가?에서 자세히 다뤘다. 실적발표의 세부 내용, GAAP·Non-GAAP 숫자 및 공시 배경은 IonQ 2026년 3분기 실적 분석을 참고하면 된다. 여기서는 같은 10개 차트가 주식 희석, 주당 성장, 현금, 계약 파이프라인, 주가와 시가총액에 관해 무엇을 말하는지에 집중한다. 특히 주가는 기업의 재무 수치를 실시간으로 따라가는 값이 아니다. 같은 분기의 재무 지표와 주가를 나란히 비교하더라도 인과관계나 저평가....... <img src="https://blogthumb.pstatic.net/MjAyNjExMDhfMTEy/MDAxNzk0MTQxMzI0MDky.2kya592CNHXf-9NoglxIklGfnriwDHtzGSEa4dQqAyog.dxXl87tV6NbZ-59BDrTQSBNrb3xbEOl3IAkVrOIEqewg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sun, 08 Nov 2026 21:47:57 +0900</pubDate>
+                <tag><![CDATA[IonQ,기업가치,주식희석]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 양자컴퓨터가 아닌 보안의 통제권을 사다 2026년 10월 12일, IonQ가 사이버보안 기업 Elisity를 최대 13억 달러에 인수하는 계약을 발표했다. https://www.ionq.com/news/ionq-to-acquire-elisity-to-accelerate-zero-trust-for-the-quantum-era Oxford Ionics를 통해 양자컴퓨터의 핵심 기술을 확보하고, SkyWater를 통해 반도체 제조 역량까지 확보한 IonQ가 이번에는 전통적인 기업 사이버보안 시장으로 눈을 돌린 것이다. 그런데 이번 인수는 앞선 두 건과 성격이 상당히 다르다. Oxford Ionics는 IonQ의 양자컴퓨터 성능과 확장성을 직접 개선할 수 있는 기업이었다. SkyWater는 양자칩의 설계·제조·패키징을 내재화하고 공급망을 통제하....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTJfOTAg/MDAxNzkxODExMjA3NDk3._MJsiaRaKQ0oWfAJ2nzZrlTPCrR9bMMq5kDI9i84muEg.v5PAKDJoTDcdq04aJ9FMLjXbZZ1FhrtrJDaHgf5uY94g.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Mon, 12 Oct 2026 22:21:30 +0900</pubDate>
                 <tag><![CDATA[IonQ,Elisity,13억]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Computing]]></category>
-                <title><![CDATA[AMD의 82억 달러 베팅 — 페이페이 리, World Labs, 그리고 AI가 언어를 넘어 현실 세계로 향하는 이유]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224439327263?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224439327263</guid>
-                
-                <description><![CDATA[✅ 서론 AMD가 World Labs 인수를 발표한 지 어느덧 2주가 지났다. 2026년 9월 28일, AMD는 세계적인 인공지능 연구자 페이페이 리(Fei-Fei Li)가 이끄는 World Labs를 82억 달러($8.2B)에 인수하기로 합의했다고 발표했다. 9월 26일 체결된 계약에 따르면 인수대금은 전액 AMD 주식으로 지급되며, 규제 승인 등을 거쳐 2026년 말 거래를 마무리할 예정이다. 인수가 완료되면 페이페이 리는 AMD의 Executive Vice President 겸 Chief Scientist로 합류하여 CEO 리사 수(Lisa Su)에게 직접 보고하게 된다. 반도체 기업이 AI 스타트업을 인수하는 일은 새삼스럽지 않다. 그러나 이번 거래에는 조금 다른 의미가 숨어 있다. World Labs는 반도체 설....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTJfMTY3/MDAxNzkxNzk3MzQ3MDg2.j35_53GenTql31KKZyCsMgqnGXQIQH6zOk9noM37-oog._QuHo14mOHaQiB4IXDxRbB0dTDRahRy1ho8lTl08GiIg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Mon, 12 Oct 2026 18:59:34 +0900</pubDate>
-                <tag><![CDATA[AMD,FeiFeiLi,LisaSu,WorldLabs]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

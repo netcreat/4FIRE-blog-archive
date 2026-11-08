@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-08T10:24:38+00:00_
+_Automatically generated: 2026-11-08T17:56:34+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 792 | 115 | 677 | 0 | 0 |
-| Recent 90 days (2026-08-09 → 2026-11-07) | 162 | 88 | 74 | 0 | 0 |
+| All | 793 | 115 | 678 | 0 | 0 |
+| Recent 90 days (2026-08-10 → 2026-11-08) | 162 | 88 | 74 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-08 | [IonQ의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미](posts/2026/2026-11-08-224469525830.md) | ❌ Missing | — | `224469525830` |
 | 2026-11-07 | [IonQ의 매출 성장은 비용을 앞지르고 있는가?](posts/2026/2026-11-07-224468288302.md) | ✅ Published | [Is IonQ’s Revenue Growth Outpacing Its Costs?](https://netcreat.substack.com/p/is-ionqs-revenue-growth-outpacing) | `224468288302` |
 | 2026-11-06 | [IonQ 2026년 3분기 실적 분석](posts/2026/2026-11-06-224467136215.md) | ✅ Published | [IonQ Q3 2026: Deep Dive into Financials, Superion, SkyWater, Security and the Earnings Call](https://netcreat.substack.com/p/ionq-q3-2026) | `224467136215` |
 | 2026-11-05 | [IonQ, Elisity 인수완료와 그 의미 최최최종](posts/2026/2026-11-05-224466403070.md) | ✅ Published | [IonQ Completes Its Acquisition of Elisity: What It Really Means — The Definitive Analysis](https://netcreat.substack.com/p/ionq-completes-its-acquisition-of) | `224466403070` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-25 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요?](posts/2026/2026-10-25-224453237227.md) | ❌ Missing | — | `224453237227` |
 | 2026-10-23 | [양자컴퓨터가 해킹당한다면? - 심화편](posts/2026/2026-10-23-224450875880.md) | ✅ Published | [What If a Quantum Computer Were Hacked? — An In-Depth Analysis](https://netcreat.substack.com/p/what-if-a-quantum-computer-were-hacked) | `224450875880` |
 | 2026-10-22 | [양자컴퓨터가 해킹당한다면?](posts/2026/2026-10-22-224450586859.md) | ❌ Missing | — | `224450586859` |
-| 2026-10-20 | [Quantinuum의 논리 오류율 10배 개선의 의미?](posts/2026/2026-10-20-224447108213.md) | ✅ Published | [What Does Quantinuum's 10× Reduction in Logical Error Rate Really Mean?](https://netcreat.substack.com/p/what-does-quantinuums-10-reduction) | `224447108213` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

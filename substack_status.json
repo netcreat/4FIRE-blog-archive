@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T10:24:38+00:00",
+  "generated_at": "2026-11-08T17:56:34+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,16 +24,16 @@
     }
   },
   "summary": {
-    "total": 792,
+    "total": 793,
     "published": 115,
-    "missing": 677,
+    "missing": 678,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-08-09",
-    "end": "2026-11-07",
+    "start": "2026-08-10",
+    "end": "2026-11-08",
     "total": 162,
     "published": 88,
     "missing": 74,
@@ -43,6 +43,20 @@
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-08",
+        "title": "IonQ의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미",
+        "logNo": "224469525830",
+        "url": "https://blog.naver.com/4-fire/224469525830?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-08-224469525830.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-07",

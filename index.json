@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 792,
+  "totalArchivedPosts": 793,
   "posts": [
+    {
+      "date": "2026-11-08",
+      "published": "2026-11-08T23:47:57+11:00",
+      "title": "IonQ의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미",
+      "logNo": "224469525830",
+      "source": "https://blog.naver.com/4-fire/224469525830?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-08-224469525830.md",
+      "content_source": "naver_post",
+      "characters": 10285
+    },
     {
       "date": "2026-11-07",
       "published": "2026-11-07T16:34:51+11:00",
