@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T17:56:34+00:00",
+  "generated_at": "2026-11-08T20:59:55+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 793,
-    "published": 115,
-    "missing": 678,
+    "published": 116,
+    "missing": 677,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-08-10",
     "end": "2026-11-08",
     "total": 162,
-    "published": 88,
-    "missing": 74,
+    "published": 89,
+    "missing": 73,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224469525830?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-11-08-224469525830.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "IonQ’s Share Dilution and Valuation — What 10 Charts Reveal About Growth",
+          "url": "https://netcreat.substack.com/p/ionqs-share-dilution-and-valuation",
+          "published_date": "2026-11-09",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
