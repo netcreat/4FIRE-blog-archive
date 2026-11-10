@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Tue, 10 Nov 2026 04:49:51 +0900</pubDate>
+            <pubDate>Tue, 10 Nov 2026 12:34:49 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Golden Dome]]></category>
+                <title><![CDATA[Rocket Lab 2026년 3분기 실적 심층 분석]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224471235967?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224471235967</guid>
+                
+                <description><![CDATA[✅ 외형 성장, 우주 시스템, Neutron 수주, 그리고 희석 실적 대상 기간은 2026년 7월 1일~9월 30일이며, 발표일은 미국 현지 2026년 11월 9일이다. 11월 실적발표에 포함된 3분기 이후 사업 업데이트는 별도로 구분했다. 핵심 요약: 매출 $267.8M으로 전년 동기 대비 72.7% 증가했고, Backlog은 $3.573B를 기록했다. 3분기 영업현금흐름은 +$7.15M이지만 영업손실은 확대됐으며, 대규모 ATM 증자로 주식 수 역시 크게 증가했다. Neutron 추가 발표: 3분기 신규 발사 8건·$515M 초과, 다섯 고객·기관, 기본 발사 가격 $55M → $70M 인상을 확인했다. 11월 9일 주가 +10.91%는 정규장 상승이고 계약 보도자료는 장 마감 후 공개되어 인과관계를 단....... <img src="https://blogthumb.pstatic.net/MjAyNjExMTBfOTcg/MDAxNzk0MjY5MzQzOTA3.Eafc-9AOYFiStpt6_6epW5gsxdqZNaZpb_TQVWvdq14g.9x0AK9BcRPHUXlURe20O2WzNpTBoP6GAAbnCw1q4X-Yg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Tue, 10 Nov 2026 09:12:14 +0900</pubDate>
+                <tag><![CDATA[RocketLab,RKLB,3분기,실적]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 제로트러스트의 본질 — 침입자를 막는 것보다 자유롭게 움직이지 못하게 하는 것 앞서 「IonQ는 왜 Elisity에 13억 달러를 베팅했을까?」라는 글에서 IonQ의 인수 배경과 전략적 의미를 살펴보았다. 그렇다면 Elisity는 실제로 어떤 기술을 보유하고 있으며, 기존 보안 솔루션과 무엇이 다를까? 이를 이해하기 위해서는 먼저 Zero Trust(제로트러스트)라는 보안 원칙부터 살펴볼 필요가 있다. 이번 글에서는 기술적인 구조를 깊이 파고들기보다는 제로트러스트가 왜 등장했고, 기존 보안과 무엇이 다르며, Elisity가 그 안에서 어떤 역할을 하는지 살펴보기로 한다. ✅ 1. 기존 네트워크 보안은 무엇을 신뢰했는가?  외부 침입을 막는 경....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTNfMTQz/MDAxNzkxODUyNTUzOTQ0.dhQAFXO7rcPLI7mZMzAKH5vdhPCu_KCFY1IvEKcwngQg._HBZUbNMlEqGsrVQujby3i7fvTI1eRsQBSIRAFkvvBsg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Tue, 13 Oct 2026 10:11:24 +0900</pubDate>
                 <tag><![CDATA[Elisity,ZeroTrust,Microsegmentation]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[IonQ는 왜 Elisity에 13억 달러를 베팅했을까?]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224439505882?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224439505882</guid>
-                
-                <description><![CDATA[✅ 양자컴퓨터가 아닌 보안의 통제권을 사다 2026년 10월 12일, IonQ가 사이버보안 기업 Elisity를 최대 13억 달러에 인수하는 계약을 발표했다. https://www.ionq.com/news/ionq-to-acquire-elisity-to-accelerate-zero-trust-for-the-quantum-era Oxford Ionics를 통해 양자컴퓨터의 핵심 기술을 확보하고, SkyWater를 통해 반도체 제조 역량까지 확보한 IonQ가 이번에는 전통적인 기업 사이버보안 시장으로 눈을 돌린 것이다. 그런데 이번 인수는 앞선 두 건과 성격이 상당히 다르다. Oxford Ionics는 IonQ의 양자컴퓨터 성능과 확장성을 직접 개선할 수 있는 기업이었다. SkyWater는 양자칩의 설계·제조·패키징을 내재화하고 공급망을 통제하....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTJfOTAg/MDAxNzkxODExMjA3NDk3._MJsiaRaKQ0oWfAJ2nzZrlTPCrR9bMMq5kDI9i84muEg.v5PAKDJoTDcdq04aJ9FMLjXbZZ1FhrtrJDaHgf5uY94g.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Mon, 12 Oct 2026 22:21:30 +0900</pubDate>
-                <tag><![CDATA[IonQ,Elisity,13억]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T19:50:21+00:00",
+  "generated_at": "2026-11-10T03:35:23+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,16 +24,16 @@
     }
   },
   "summary": {
-    "total": 793,
+    "total": 794,
     "published": 116,
-    "missing": 677,
+    "missing": 678,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-08-10",
-    "end": "2026-11-08",
+    "start": "2026-08-12",
+    "end": "2026-11-10",
     "total": 162,
     "published": 89,
     "missing": 73,
@@ -43,6 +43,20 @@
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-10",
+        "title": "Rocket Lab 2026년 3분기 실적 심층 분석",
+        "logNo": "224471235967",
+        "url": "https://blog.naver.com/4-fire/224471235967?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-10-224471235967.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-08",

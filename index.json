@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 793,
+  "totalArchivedPosts": 794,
   "posts": [
+    {
+      "date": "2026-11-10",
+      "published": "2026-11-10T11:12:14+11:00",
+      "title": "Rocket Lab 2026년 3분기 실적 심층 분석",
+      "logNo": "224471235967",
+      "source": "https://blog.naver.com/4-fire/224471235967?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-10-224471235967.md",
+      "content_source": "naver_post",
+      "characters": 16056
+    },
     {
       "date": "2026-11-08",
       "published": "2026-11-08T23:47:57+11:00",
