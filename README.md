@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-10T03:35:23+00:00_
+_Automatically generated: 2026-11-10T14:55:05+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 794 | 116 | 678 | 0 | 0 |
-| Recent 90 days (2026-08-12 → 2026-11-10) | 162 | 89 | 73 | 0 | 0 |
+| All | 795 | 116 | 679 | 0 | 0 |
+| Recent 90 days (2026-08-12 → 2026-11-10) | 163 | 89 | 74 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-10 | [Rocket Lab의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미](posts/2026/2026-11-10-224471814561.md) | ❌ Missing | — | `224471814561` |
 | 2026-11-10 | [Rocket Lab 2026년 3분기 실적 심층 분석](posts/2026/2026-11-10-224471235967.md) | ❌ Missing | — | `224471235967` |
 | 2026-11-08 | [IonQ의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미](posts/2026/2026-11-08-224469525830.md) | ✅ Published | [IonQ’s Share Dilution and Valuation — What 10 Charts Reveal About Growth](https://netcreat.substack.com/p/ionqs-share-dilution-and-valuation) | `224469525830` |
 | 2026-11-07 | [IonQ의 매출 성장은 비용을 앞지르고 있는가?](posts/2026/2026-11-07-224468288302.md) | ✅ Published | [Is IonQ’s Revenue Growth Outpacing Its Costs?](https://netcreat.substack.com/p/is-ionqs-revenue-growth-outpacing) | `224468288302` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-26 | [왜 IonQ에는 하필, Skywater 여야만 했을까?](posts/2026/2026-10-26-224454437483.md) | ✅ Published | [Why Did IonQ Have to Choose SkyWater?](https://netcreat.substack.com/p/why-did-ionq-have-to-choose-skywater) | `224454437483` |
 | 2026-10-26 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요? - 심화편](posts/2026/2026-10-26-224453312491.md) | ❌ Missing | — | `224453312491` |
 | 2026-10-25 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요?](posts/2026/2026-10-25-224453237227.md) | ❌ Missing | — | `224453237227` |
-| 2026-10-23 | [양자컴퓨터가 해킹당한다면? - 심화편](posts/2026/2026-10-23-224450875880.md) | ✅ Published | [What If a Quantum Computer Were Hacked? — An In-Depth Analysis](https://netcreat.substack.com/p/what-if-a-quantum-computer-were-hacked) | `224450875880` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

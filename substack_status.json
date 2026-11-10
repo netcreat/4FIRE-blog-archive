@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T03:35:23+00:00",
+  "generated_at": "2026-11-10T14:55:05+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 794,
+    "total": 795,
     "published": 116,
-    "missing": 678,
+    "missing": 679,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,29 @@
     "days": 90,
     "start": "2026-08-12",
     "end": "2026-11-10",
-    "total": 162,
+    "total": 163,
     "published": 89,
-    "missing": 73,
+    "missing": 74,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-10",
+        "title": "Rocket Lab의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미",
+        "logNo": "224471814561",
+        "url": "https://blog.naver.com/4-fire/224471814561?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-10-224471814561.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-10",

@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 794,
+  "totalArchivedPosts": 795,
   "posts": [
+    {
+      "date": "2026-11-10",
+      "published": "2026-11-10T18:31:38+11:00",
+      "title": "Rocket Lab의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미",
+      "logNo": "224471814561",
+      "source": "https://blog.naver.com/4-fire/224471814561?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-10-224471814561.md",
+      "content_source": "naver_post",
+      "characters": 11574
+    },
     {
       "date": "2026-11-10",
       "published": "2026-11-10T11:12:14+11:00",

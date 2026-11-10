@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Tue, 10 Nov 2026 12:34:49 +0900</pubDate>
+            <pubDate>Tue, 10 Nov 2026 23:54:34 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Golden Dome]]></category>
+                <title><![CDATA[Rocket Lab의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224471814561?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224471814561</guid>
+                
+                <description><![CDATA[✅ Rocket Lab의 주식 희석과 기업가치 — 10개 차트로 보는 성장과 주주의 몫 이번 글은 Rocket Lab의 2026년 3분기 실적을 단순히 나열하는 글이 아니다. IonQ의 주식 희석과 기업가치 — 10개 차트에서 사용한 같은 분석 틀로, Rocket Lab의 성장과 기존 주주에게 돌아가는 가치를 함께 살펴본다. 2026년 3분기 실적에 대한 분석은 Rocket Lab 2026년 3분기 실적 심층 분석 을 참고하자. 분석 질문은 세 가지다. 기업 매출이 늘어나는 속도가 보통주 수 증가를 앞지르는가? 손실 감소가 실제 현금 창출로 이어지는가? 그리고 시가총액에 반영된 미래 기대를 실적으로 얼마나 뒷받침하는가? 차트는 2023년 1분기부터 2026년 3분기까지의 분기 자....... <img src="https://blogthumb.pstatic.net/MjAyNjExMTBfMjA3/MDAxNzk0Mjk1Mzk5MDk2.mmOHu0FjCpA3ZF0lHmlruPHxltrRb-6j_v6SKBGl4RMg.TFTD8tQDENX0pzTL2yFoae595-Ygw2tDLRcngvdCRlAg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Tue, 10 Nov 2026 16:31:38 +0900</pubDate>
+                <tag><![CDATA[RocketLab,RKLB]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ Elisity의 아키텍처 — 기존 스위치가 보안 장비로 변신하는 방법 지난 1편에서는 제로트러스트(Zero Trust)의 기본 원칙과 마이크로세그멘테이션(Microsegmentation)이 무엇인지 살펴보았다. 제로트러스트의 핵심은 기업 네트워크에 접속했다는 이유만으로 모든 자원에 대한 접근을 허용하지 않는다는 것이다. 그렇다면 이러한 원칙을 실제 네트워크에서는 어떻게 구현할 수 있을까? 모든 PC와 서버에 보안 소프트웨어를 설치해야 할까? 아니면 새로운 보안 장비를 구입해 스위치와 서버 사이에 추가해야 할까? Elisity가 제시하는 방식은 조금 다르다. 기존 네트워크 스위치를 보안 정책의 집행 지점으로 활용하고, 중앙 클라우드에서 장치....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTNfMTcy/MDAxNzkxODU0NjIwOTYw.N8lgPy0xz-EtRauP6dr3EM1QjHR6xCBniSMHpPQxk1Ag.bVYsNrni4bTfUu-V7T9HbUh1IhC_Uf9Gzc8cfXTbu-Qg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Tue, 13 Oct 2026 10:49:12 +0900</pubDate>
                 <tag><![CDATA[Elisity,CCC,VE,VEN]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Series]]></category>
-                <title><![CDATA[Elisity 기술 심층 분석 (1) — Zero Trust와 Microsegmentation의 이해]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224439947359?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224439947359</guid>
-                
-                <description><![CDATA[✅ 제로트러스트의 본질 — 침입자를 막는 것보다 자유롭게 움직이지 못하게 하는 것 앞서 「IonQ는 왜 Elisity에 13억 달러를 베팅했을까?」라는 글에서 IonQ의 인수 배경과 전략적 의미를 살펴보았다. 그렇다면 Elisity는 실제로 어떤 기술을 보유하고 있으며, 기존 보안 솔루션과 무엇이 다를까? 이를 이해하기 위해서는 먼저 Zero Trust(제로트러스트)라는 보안 원칙부터 살펴볼 필요가 있다. 이번 글에서는 기술적인 구조를 깊이 파고들기보다는 제로트러스트가 왜 등장했고, 기존 보안과 무엇이 다르며, Elisity가 그 안에서 어떤 역할을 하는지 살펴보기로 한다. ✅ 1. 기존 네트워크 보안은 무엇을 신뢰했는가?  외부 침입을 막는 경....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTNfMTQz/MDAxNzkxODUyNTUzOTQ0.dhQAFXO7rcPLI7mZMzAKH5vdhPCu_KCFY1IvEKcwngQg._HBZUbNMlEqGsrVQujby3i7fvTI1eRsQBSIRAFkvvBsg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Tue, 13 Oct 2026 10:11:24 +0900</pubDate>
-                <tag><![CDATA[Elisity,ZeroTrust,Microsegmentation]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

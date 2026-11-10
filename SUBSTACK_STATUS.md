@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-10T03:35:23+00:00_
+_Automatically generated: 2026-11-10T14:55:05+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 794 | 116 | 678 | 0 | 0 |
-| Recent 90 days (2026-08-12 → 2026-11-10) | 162 | 89 | 73 | 0 | 0 |
+| All | 795 | 116 | 679 | 0 | 0 |
+| Recent 90 days (2026-08-12 → 2026-11-10) | 163 | 89 | 74 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-10 | [Rocket Lab의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미](posts/2026/2026-11-10-224471814561.md) | ❌ Missing | — | `224471814561` |
 | 2026-11-10 | [Rocket Lab 2026년 3분기 실적 심층 분석](posts/2026/2026-11-10-224471235967.md) | ❌ Missing | — | `224471235967` |
 | 2026-11-08 | [IonQ의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미](posts/2026/2026-11-08-224469525830.md) | ✅ Published | [IonQ’s Share Dilution and Valuation — What 10 Charts Reveal About Growth](https://netcreat.substack.com/p/ionqs-share-dilution-and-valuation) | `224469525830` |
 | 2026-11-07 | [IonQ의 매출 성장은 비용을 앞지르고 있는가?](posts/2026/2026-11-07-224468288302.md) | ✅ Published | [Is IonQ’s Revenue Growth Outpacing Its Costs?](https://netcreat.substack.com/p/is-ionqs-revenue-growth-outpacing) | `224468288302` |
@@ -182,10 +183,11 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **678**
+Total missing: **679**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-10 | [Rocket Lab의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미](posts/2026/2026-11-10-224471814561.md) | ❌ Missing | — | `224471814561` |
 | 2026-11-10 | [Rocket Lab 2026년 3분기 실적 심층 분석](posts/2026/2026-11-10-224471235967.md) | ❌ Missing | — | `224471235967` |
 | 2026-11-05 | [SpaceX, 미국 지상 5G망까지 구축한다](posts/2026/2026-11-05-224466086340.md) | ❌ Missing | — | `224466086340` |
 | 2026-11-04 | [EQC는 레이저를 줄였는데, 왜 SP90 광도파로 손실이 중요할까?](posts/2026/2026-11-04-224464875535.md) | ❌ Missing | — | `224464875535` |
@@ -872,10 +874,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 794 Naver posts</summary>
+<summary>Show all 795 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-10 | [Rocket Lab의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미](posts/2026/2026-11-10-224471814561.md) | ❌ Missing | — | `224471814561` |
 | 2026-11-10 | [Rocket Lab 2026년 3분기 실적 심층 분석](posts/2026/2026-11-10-224471235967.md) | ❌ Missing | — | `224471235967` |
 | 2026-11-08 | [IonQ의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미](posts/2026/2026-11-08-224469525830.md) | ✅ Published | [IonQ’s Share Dilution and Valuation — What 10 Charts Reveal About Growth](https://netcreat.substack.com/p/ionqs-share-dilution-and-valuation) | `224469525830` |
 | 2026-11-07 | [IonQ의 매출 성장은 비용을 앞지르고 있는가?](posts/2026/2026-11-07-224468288302.md) | ✅ Published | [Is IonQ’s Revenue Growth Outpacing Its Costs?](https://netcreat.substack.com/p/is-ionqs-revenue-growth-outpacing) | `224468288302` |
