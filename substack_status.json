@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T06:23:13+00:00",
+  "generated_at": "2026-11-11T17:08:39+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 795,
+    "total": 796,
     "published": 116,
-    "missing": 679,
+    "missing": 680,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-08-12",
-    "end": "2026-11-10",
-    "total": 163,
+    "start": "2026-08-13",
+    "end": "2026-11-11",
+    "total": 161,
     "published": 89,
-    "missing": 74,
+    "missing": 72,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-11",
+        "title": "IonQ PriorTilt 논문 심층 분석",
+        "logNo": "224473447121",
+        "url": "https://blog.naver.com/4-fire/224473447121?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-11-224473447121.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-10",

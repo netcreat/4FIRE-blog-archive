@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-11T06:23:13+00:00_
+_Automatically generated: 2026-11-11T17:08:39+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 795 | 116 | 679 | 0 | 0 |
-| Recent 90 days (2026-08-12 → 2026-11-10) | 163 | 89 | 74 | 0 | 0 |
+| All | 796 | 116 | 680 | 0 | 0 |
+| Recent 90 days (2026-08-13 → 2026-11-11) | 161 | 89 | 72 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-11 | [IonQ PriorTilt 논문 심층 분석](posts/2026/2026-11-11-224473447121.md) | ❌ Missing | — | `224473447121` |
 | 2026-11-10 | [Rocket Lab의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미](posts/2026/2026-11-10-224471814561.md) | ❌ Missing | — | `224471814561` |
 | 2026-11-10 | [Rocket Lab 2026년 3분기 실적 심층 분석](posts/2026/2026-11-10-224471235967.md) | ❌ Missing | — | `224471235967` |
 | 2026-11-08 | [IonQ의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미](posts/2026/2026-11-08-224469525830.md) | ✅ Published | [IonQ’s Share Dilution and Valuation — What 10 Charts Reveal About Growth](https://netcreat.substack.com/p/ionqs-share-dilution-and-valuation) | `224469525830` |
@@ -177,16 +178,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-08-14 | [SpaceX의 SDN에서 SEP·EST·Space-BACN·NEBULA까지 — 미 우주군이 만드는 개방형 우주 인터넷](posts/2026/2026-08-14-224378508682.md) | ❌ Missing | — | `224378508682` |
 | 2026-08-14 | [AI의 다음 병목은 돈이다 — NVIDIA는 GPU를 새로운 금융자산으로 만들고 있다](posts/2026/2026-08-14-224378121078.md) | ❌ Missing | — | `224378121078` |
 | 2026-08-13 | [2026년 AFRL 계약 가능성은 얼마나 될까?](posts/2026/2026-08-13-224377889717.md) | ❌ Missing | — | `224377889717` |
-| 2026-08-12 | [Quantinuum 실적발표와 논리큐비트에 대한 분석](posts/2026/2026-08-12-224376725746.md) | ❌ Missing | — | `224376725746` |
-| 2026-08-12 | [IonQ 2026년 2분기 실적 분석 (2)](posts/2026/2026-08-12-224376386695.md) | ❌ Missing | — | `224376386695` |
-| 2026-08-12 | ["The Full Platform" written by Hanna Suds](posts/2026/2026-08-12-224376242783.md) | ❌ Missing | — | `224376242783` |
 
 ## Missing from Substack
 
-Total missing: **679**
+Total missing: **680**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-11 | [IonQ PriorTilt 논문 심층 분석](posts/2026/2026-11-11-224473447121.md) | ❌ Missing | — | `224473447121` |
 | 2026-11-10 | [Rocket Lab의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미](posts/2026/2026-11-10-224471814561.md) | ❌ Missing | — | `224471814561` |
 | 2026-11-10 | [Rocket Lab 2026년 3분기 실적 심층 분석](posts/2026/2026-11-10-224471235967.md) | ❌ Missing | — | `224471235967` |
 | 2026-11-05 | [SpaceX, 미국 지상 5G망까지 구축한다](posts/2026/2026-11-05-224466086340.md) | ❌ Missing | — | `224466086340` |
@@ -874,10 +873,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 795 Naver posts</summary>
+<summary>Show all 796 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-11 | [IonQ PriorTilt 논문 심층 분석](posts/2026/2026-11-11-224473447121.md) | ❌ Missing | — | `224473447121` |
 | 2026-11-10 | [Rocket Lab의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미](posts/2026/2026-11-10-224471814561.md) | ❌ Missing | — | `224471814561` |
 | 2026-11-10 | [Rocket Lab 2026년 3분기 실적 심층 분석](posts/2026/2026-11-10-224471235967.md) | ❌ Missing | — | `224471235967` |
 | 2026-11-08 | [IonQ의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미](posts/2026/2026-11-08-224469525830.md) | ✅ Published | [IonQ’s Share Dilution and Valuation — What 10 Charts Reveal About Growth](https://netcreat.substack.com/p/ionqs-share-dilution-and-valuation) | `224469525830` |

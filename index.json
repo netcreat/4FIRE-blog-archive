@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 795,
+  "totalArchivedPosts": 796,
   "posts": [
+    {
+      "date": "2026-11-11",
+      "published": "2026-11-11T23:26:59+11:00",
+      "title": "IonQ PriorTilt 논문 심층 분석",
+      "logNo": "224473447121",
+      "source": "https://blog.naver.com/4-fire/224473447121?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-11-224473447121.md",
+      "content_source": "naver_post",
+      "characters": 18092
+    },
     {
       "date": "2026-11-10",
       "published": "2026-11-10T18:31:38+11:00",
