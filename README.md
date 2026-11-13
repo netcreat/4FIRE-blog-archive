@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-13T01:50:54+00:00_
+_Automatically generated: 2026-11-13T10:59:57+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 796 | 116 | 680 | 0 | 0 |
-| Recent 90 days (2026-08-13 → 2026-11-11) | 161 | 89 | 72 | 0 | 0 |
+| All | 797 | 116 | 681 | 0 | 0 |
+| Recent 90 days (2026-08-15 → 2026-11-13) | 159 | 89 | 70 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-13 | [IBM의 520큐비트 발표 — 입문편](posts/2026/2026-11-13-224475720321.md) | ❌ Missing | — | `224475720321` |
 | 2026-11-11 | [IonQ PriorTilt 논문 심층 분석](posts/2026/2026-11-11-224473447121.md) | ❌ Missing | — | `224473447121` |
 | 2026-11-10 | [Rocket Lab의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미](posts/2026/2026-11-10-224471814561.md) | ❌ Missing | — | `224471814561` |
 | 2026-11-10 | [Rocket Lab 2026년 3분기 실적 심층 분석](posts/2026/2026-11-10-224471235967.md) | ❌ Missing | — | `224471235967` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-27 | [Intel이 Classiq을 인수합니다](posts/2026/2026-10-27-224454942010.md) | ✅ Published | [Intel Is Acquiring Classiq](https://netcreat.substack.com/p/intel-is-acquiring-classiq-a-quantum) | `224454942010` |
 | 2026-10-27 | [IonQ는 왜 Elisity에 최대 13억 달러를 지불 했을까?](posts/2026/2026-10-27-224454479969.md) | ✅ Published | [Why Did IonQ Agree to Pay Up to $1.3 Billion for Elisity?](https://netcreat.substack.com/p/why-did-ionq-agree-to-pay-up-to-13) | `224454479969` |
 | 2026-10-26 | [왜 IonQ에는 하필, Skywater 여야만 했을까?](posts/2026/2026-10-26-224454437483.md) | ✅ Published | [Why Did IonQ Have to Choose SkyWater?](https://netcreat.substack.com/p/why-did-ionq-have-to-choose-skywater) | `224454437483` |
-| 2026-10-26 | [우주에 인터넷을 깔기 시작했습니다. 그런데 누가 통신료를 받게 될까요? - 심화편](posts/2026/2026-10-26-224453312491.md) | ❌ Missing | — | `224453312491` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T01:50:54+00:00",
+  "generated_at": "2026-11-13T10:59:57+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 796,
+    "total": 797,
     "published": 116,
-    "missing": 680,
+    "missing": 681,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-08-13",
-    "end": "2026-11-11",
-    "total": 161,
+    "start": "2026-08-15",
+    "end": "2026-11-13",
+    "total": 159,
     "published": 89,
-    "missing": 72,
+    "missing": 70,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-13",
+        "title": "IBM의 520큐비트 발표 — 입문편",
+        "logNo": "224475720321",
+        "url": "https://blog.naver.com/4-fire/224475720321?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-13-224475720321.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-11",

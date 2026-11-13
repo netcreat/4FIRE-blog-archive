@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-13T01:50:54+00:00_
+_Automatically generated: 2026-11-13T10:59:57+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 796 | 116 | 680 | 0 | 0 |
-| Recent 90 days (2026-08-13 → 2026-11-11) | 161 | 89 | 72 | 0 | 0 |
+| All | 797 | 116 | 681 | 0 | 0 |
+| Recent 90 days (2026-08-15 → 2026-11-13) | 159 | 89 | 70 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-13 | [IBM의 520큐비트 발표 — 입문편](posts/2026/2026-11-13-224475720321.md) | ❌ Missing | — | `224475720321` |
 | 2026-11-11 | [IonQ PriorTilt 논문 심층 분석](posts/2026/2026-11-11-224473447121.md) | ❌ Missing | — | `224473447121` |
 | 2026-11-10 | [Rocket Lab의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미](posts/2026/2026-11-10-224471814561.md) | ❌ Missing | — | `224471814561` |
 | 2026-11-10 | [Rocket Lab 2026년 3분기 실적 심층 분석](posts/2026/2026-11-10-224471235967.md) | ❌ Missing | — | `224471235967` |
@@ -175,16 +176,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-08-15 | [SSC의 SB-AMTI와 SDN의 두 프로젝트가 시사하는 것은?](posts/2026/2026-08-15-224379707179.md) | ❌ Missing | — | `224379707179` |
 | 2026-08-15 | [EPB, NIST, DOE 그리고 IonQ가 Chattanooga에서 만드는 ‘도시 규모의 양자 실험실’](posts/2026/2026-08-15-224379600560.md) | ❌ Missing | — | `224379600560` |
 | 2026-08-15 | [주요 양자 법안과 로비 현황](posts/2026/2026-08-15-224379347410.md) | ❌ Missing | — | `224379347410` |
-| 2026-08-14 | [SpaceX의 SDN에서 SEP·EST·Space-BACN·NEBULA까지 — 미 우주군이 만드는 개방형 우주 인터넷](posts/2026/2026-08-14-224378508682.md) | ❌ Missing | — | `224378508682` |
-| 2026-08-14 | [AI의 다음 병목은 돈이다 — NVIDIA는 GPU를 새로운 금융자산으로 만들고 있다](posts/2026/2026-08-14-224378121078.md) | ❌ Missing | — | `224378121078` |
-| 2026-08-13 | [2026년 AFRL 계약 가능성은 얼마나 될까?](posts/2026/2026-08-13-224377889717.md) | ❌ Missing | — | `224377889717` |
 
 ## Missing from Substack
 
-Total missing: **680**
+Total missing: **681**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-13 | [IBM의 520큐비트 발표 — 입문편](posts/2026/2026-11-13-224475720321.md) | ❌ Missing | — | `224475720321` |
 | 2026-11-11 | [IonQ PriorTilt 논문 심층 분석](posts/2026/2026-11-11-224473447121.md) | ❌ Missing | — | `224473447121` |
 | 2026-11-10 | [Rocket Lab의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미](posts/2026/2026-11-10-224471814561.md) | ❌ Missing | — | `224471814561` |
 | 2026-11-10 | [Rocket Lab 2026년 3분기 실적 심층 분석](posts/2026/2026-11-10-224471235967.md) | ❌ Missing | — | `224471235967` |
@@ -873,10 +872,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 796 Naver posts</summary>
+<summary>Show all 797 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-13 | [IBM의 520큐비트 발표 — 입문편](posts/2026/2026-11-13-224475720321.md) | ❌ Missing | — | `224475720321` |
 | 2026-11-11 | [IonQ PriorTilt 논문 심층 분석](posts/2026/2026-11-11-224473447121.md) | ❌ Missing | — | `224473447121` |
 | 2026-11-10 | [Rocket Lab의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미](posts/2026/2026-11-10-224471814561.md) | ❌ Missing | — | `224471814561` |
 | 2026-11-10 | [Rocket Lab 2026년 3분기 실적 심층 분석](posts/2026/2026-11-10-224471235967.md) | ❌ Missing | — | `224471235967` |

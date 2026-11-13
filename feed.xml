@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Fri, 13 Nov 2026 10:50:25 +0900</pubDate>
+            <pubDate>Fri, 13 Nov 2026 19:59:26 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Superconductor]]></category>
+                <title><![CDATA[IBM의 520큐비트 발표 — 입문편]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224475720321?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224475720321</guid>
+                
+                <description><![CDATA[✅ IBM이 발표한 520큐비트, 그래서 무엇이 달라지는 걸까요? 2026년 11월 11일, IBM이 새로운 양자컴퓨터 칩을 발표했습니다. 지금은 120개의 큐비트로 계산하지만, 2027년에는 520개로 늘리겠다는 내용입니다. [1] 큐비트는 양자컴퓨터가 계산할 때 사용하는 기본 단위입니다. 일반 컴퓨터의 비트와 비슷한 역할을 하지만, 정보를 다루는 방식은 다릅니다. 앞으로는 520개짜리 칩 두 개를 연결해 총 1,040개 큐비트로 계산하는 것이 목표입니다. 현재 1,040개가 작동한다는 뜻은 아닙니다. 이번 글에서는 양자 기술을 처음 접한 분들도 이해할 수 있도록 핵심만 설명하겠습니다. 다른 회사와의 경쟁력 비교는 다음 글에서 다루겠습니다. ✅ 1. ....... <img src="https://blogthumb.pstatic.net/MjAyNjExMTNfMTM0/MDAxNzk0NTQ5ODg4MDUw.jUd6sMPOCjjdTwFmvBnqI5HK-7ln1YoQuLaJrW84p1Eg.D8qLWOY_j-JfcyTHxoNcuAWkCU9q1DebUe2W7af55jwg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Fri, 13 Nov 2026 15:06:40 +0900</pubDate>
+                <tag><![CDATA[IBM,Nighthawk,520]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -704,20 +718,6 @@
                 
                 <description><![CDATA[✅ 랜섬웨어에 감염되어도 확산하지 못한다 — Elisity의 동적 마이크로세그멘테이션 지난 3편에서는 Elisity가 네트워크 스위치에서 수집한 Telemetry를 IdentityGraph와 AI를 이용해 어떻게 분석하는지 살펴보았다. Elisity는 장비의 정체를 파악하고, 각 장비가 어떤 서버와 어떤 프로토콜로 통신하는지 분석하며, 이를 기반으로 접근제어 정책을 수립한다. 그렇다면 이러한 정보는 실제 보안 사고에서 어떤 역할을 할까? 가령 한 직원의 PC가 랜섬웨어에 감염되었다고 가정해 보자. 공격자는 해당 PC에서 파일서버, 데이터베이스, 도메인 컨트롤러를 탐색하고 접근 권한을 확대하려 할 수 있다. 기존 보안 시스템은 이러한 공격을 탐지하고 차....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTNfNjIg/MDAxNzkxODU4MTczMDUz.F7sd-VDC5WksWNeNRGpAKcPW8fNMbETMmoDMbYNDoeMg.vM8-u6FHceTG9kDDBrnY-KLrm4Zr71AxvTfXAjAXeF8g.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Tue, 13 Oct 2026 11:47:06 +0900</pubDate>
-                <tag><![CDATA[Elisity]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Series]]></category>
-                <title><![CDATA[Elisity 기술 심층 분석 (3) — 네트워크 데이터 수집 · 장치 식별 · AI 기반 분석]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224440028682?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224440028682</guid>
-                
-                <description><![CDATA[✅ Elisity는 무엇을 보고 어떻게 판단하는가? — Telemetry, IdentityGraph 그리고 AI 지난 2편에서는 Elisity의 전체 아키텍처와 Cloud Control Center(CCC), Virtual Edge(VE), Virtual Edge Node(VEN)의 역할을 살펴보았다. 기존 기업 네트워크의 스위치를 VEN으로 활용하고, VE를 통해 수집한 정보를 중앙 클라우드의 CCC와 교환하는 구조였다. 그렇다면 VEN은 실제로 어떤 정보를 수집하고, VE와 CCC는 그 데이터를 이용해 무엇을 판단할까? 우리가 흔히 사용하는 보안 시스템처럼 악성코드나 랜섬웨어를 식별하는 것일까? 아니면 정상적인 통신 관계를 파악해 허용하지 않은 접근을 제한하는 것일까? 결론부터 말하면 Elisity의 핵심은 공....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTNfMTk3/MDAxNzkxODU3OTIzMDUw.oNnCfGAbgDLi53yjfJJrrleiHeSp_MWBDTwAeT5FHgUg.tFM9adNtkmmnne7KthffSjgkmApRxqp_C8Y2e1g_i64g.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Tue, 13 Oct 2026 11:17:39 +0900</pubDate>
                 <tag><![CDATA[Elisity]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
