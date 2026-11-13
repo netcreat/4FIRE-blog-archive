@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-13T10:59:57+00:00_
+_Automatically generated: 2026-11-13T19:43:50+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 797 | 116 | 681 | 0 | 0 |
-| Recent 90 days (2026-08-15 → 2026-11-13) | 159 | 89 | 70 | 0 | 0 |
+| All | 798 | 116 | 682 | 0 | 0 |
+| Recent 90 days (2026-08-15 → 2026-11-13) | 160 | 89 | 71 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-13 | [IBM Nighthawk r3 전격 공개](posts/2026/2026-11-13-224475723315.md) | ❌ Missing | — | `224475723315` |
 | 2026-11-13 | [IBM의 520큐비트 발표 — 입문편](posts/2026/2026-11-13-224475720321.md) | ❌ Missing | — | `224475720321` |
 | 2026-11-11 | [IonQ PriorTilt 논문 심층 분석](posts/2026/2026-11-11-224473447121.md) | ❌ Missing | — | `224473447121` |
 | 2026-11-10 | [Rocket Lab의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미](posts/2026/2026-11-10-224471814561.md) | ❌ Missing | — | `224471814561` |
@@ -179,10 +180,11 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **681**
+Total missing: **682**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-13 | [IBM Nighthawk r3 전격 공개](posts/2026/2026-11-13-224475723315.md) | ❌ Missing | — | `224475723315` |
 | 2026-11-13 | [IBM의 520큐비트 발표 — 입문편](posts/2026/2026-11-13-224475720321.md) | ❌ Missing | — | `224475720321` |
 | 2026-11-11 | [IonQ PriorTilt 논문 심층 분석](posts/2026/2026-11-11-224473447121.md) | ❌ Missing | — | `224473447121` |
 | 2026-11-10 | [Rocket Lab의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미](posts/2026/2026-11-10-224471814561.md) | ❌ Missing | — | `224471814561` |
@@ -872,10 +874,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 797 Naver posts</summary>
+<summary>Show all 798 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-13 | [IBM Nighthawk r3 전격 공개](posts/2026/2026-11-13-224475723315.md) | ❌ Missing | — | `224475723315` |
 | 2026-11-13 | [IBM의 520큐비트 발표 — 입문편](posts/2026/2026-11-13-224475720321.md) | ❌ Missing | — | `224475720321` |
 | 2026-11-11 | [IonQ PriorTilt 논문 심층 분석](posts/2026/2026-11-11-224473447121.md) | ❌ Missing | — | `224473447121` |
 | 2026-11-10 | [Rocket Lab의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미](posts/2026/2026-11-10-224471814561.md) | ❌ Missing | — | `224471814561` |

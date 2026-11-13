@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T10:59:57+00:00",
+  "generated_at": "2026-11-13T19:43:50+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 797,
+    "total": 798,
     "published": 116,
-    "missing": 681,
+    "missing": 682,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,29 @@
     "days": 90,
     "start": "2026-08-15",
     "end": "2026-11-13",
-    "total": 159,
+    "total": 160,
     "published": 89,
-    "missing": 70,
+    "missing": 71,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-13",
+        "title": "IBM Nighthawk r3 전격 공개",
+        "logNo": "224475723315",
+        "url": "https://blog.naver.com/4-fire/224475723315?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-13-224475723315.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-13",

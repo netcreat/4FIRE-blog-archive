@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Fri, 13 Nov 2026 19:59:26 +0900</pubDate>
+            <pubDate>Sat, 14 Nov 2026 04:43:19 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Superconductor]]></category>
+                <title><![CDATA[IBM Nighthawk r3 전격 공개]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224475723315?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224475723315</guid>
+                
+                <description><![CDATA[✅ 520큐비트, 1,040큐비트 연결 계획, Starling 로드맵과 경쟁 기술 비교 2026년 11월 11일, IBM은 Quantum Developer Conference에서 차세대 초전도 프로세서 Nighthawk r3를 발표했다. 2027년 520개 프로그래밍 가능 큐비트를 탑재한 칩 2개를 연결해 1,040큐비트 시스템을 구성한다는 목표다. [1][2] 이번 발표는 단순히 큐비트 수가 늘었다는 뉴스가 아니다. IBM은 기존의 120큐비트 칩 여러 개를 연결하는 전략에서 520큐비트 대형 칩 두 개를 연결하는 구조로 방향을 수정했다. 동시에 2029년까지 200개 논리 큐비트·1억 회 양자 연산을 목표로 하는 Starling 오류정정 시스템의 연구 진척도 공개했다. 다만 Nighthawk r3, 연결형 1,040큐....... <img src="https://blogthumb.pstatic.net/MjAyNjExMTNfMTAy/MDAxNzk0NTQzNjY4ODgz.t_WOHac0XxXdZrD7mW9nOOl_L7ojeZIzRvuoxiWK-nEg.RA9NTHtoNRsJDkb_MOlByawkDJowcwsoTE13XRbgNnsg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Fri, 13 Nov 2026 15:08:40 +0900</pubDate>
+                <tag><![CDATA[IBM,Nighthawk,r3]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ Elisity의 진짜 경쟁자는 누구인가? — Zero Trust에서 PQC까지, 차세대 보안 시장의 기술 경쟁 2026년 10월 13일 기준 지난 4편에서는 Elisity가 기존 네트워크의 스위치를 활용해 장비의 신원을 식별하고, 통신 관계를 분석하며, 마이크로세그멘테이션 정책으로 공격자의 내부 이동을 제한하는 과정을 살펴보았다. 이러한 아키텍처는 분명 매력적이다. 기존 스위치를 활용할 수 있고, 단말마다 별도 에이전트를 설치하지 않아도 되기 때문이다. 하지만 시장에는 Elisity 외에도 Illumio, Akamai Guardicore, Zero Networks, ColorTokens, Cisco 등 여러 마이크로세그멘테이션 기업이 존재한다. 더욱 흥미로운 것은 제로트러스트 시장에 이미....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTNfMTgx/MDAxNzkxODU5OTY3Nzgy.6PMrh1RBmIEHhbiXf_1Z6wap75tEpvfMi-2IzUDgt1gg.ddqu0gCb_7TQ28fywO6Upa_IBq7lVCXsuX5Dn79TzcYg.PNG/wide_infographic_image._overall_a_clean_modern_i.png?type=s3" />]]></description>
                 <pubDate>Tue, 13 Oct 2026 12:38:43 +0900</pubDate>
                 <tag><![CDATA[Elisity,IonQ,Cloudflare,Fortinet,PaloAlto,Akamai,Zscaler,Cisco,Illumio,ColorTokens]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Series]]></category>
-                <title><![CDATA[Elisity 기술 심층 분석 (4) — Zero Trust · Dynamic Policy · EDR Integration · Lateral Movement]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224440063909?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224440063909</guid>
-                
-                <description><![CDATA[✅ 랜섬웨어에 감염되어도 확산하지 못한다 — Elisity의 동적 마이크로세그멘테이션 지난 3편에서는 Elisity가 네트워크 스위치에서 수집한 Telemetry를 IdentityGraph와 AI를 이용해 어떻게 분석하는지 살펴보았다. Elisity는 장비의 정체를 파악하고, 각 장비가 어떤 서버와 어떤 프로토콜로 통신하는지 분석하며, 이를 기반으로 접근제어 정책을 수립한다. 그렇다면 이러한 정보는 실제 보안 사고에서 어떤 역할을 할까? 가령 한 직원의 PC가 랜섬웨어에 감염되었다고 가정해 보자. 공격자는 해당 PC에서 파일서버, 데이터베이스, 도메인 컨트롤러를 탐색하고 접근 권한을 확대하려 할 수 있다. 기존 보안 시스템은 이러한 공격을 탐지하고 차....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTNfNjIg/MDAxNzkxODU4MTczMDUz.F7sd-VDC5WksWNeNRGpAKcPW8fNMbETMmoDMbYNDoeMg.vM8-u6FHceTG9kDDBrnY-KLrm4Zr71AxvTfXAjAXeF8g.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Tue, 13 Oct 2026 11:47:06 +0900</pubDate>
-                <tag><![CDATA[Elisity]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

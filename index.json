@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 797,
+  "totalArchivedPosts": 798,
   "posts": [
+    {
+      "date": "2026-11-13",
+      "published": "2026-11-13T17:08:40+11:00",
+      "title": "IBM Nighthawk r3 전격 공개",
+      "logNo": "224475723315",
+      "source": "https://blog.naver.com/4-fire/224475723315?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-13-224475723315.md",
+      "content_source": "naver_post",
+      "characters": 23936
+    },
     {
       "date": "2026-11-13",
       "published": "2026-11-13T17:06:40+11:00",
