@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-14T10:27:38+00:00_
+_Automatically generated: 2026-11-14T18:03:00+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 800 | 116 | 684 | 0 | 0 |
-| Recent 90 days (2026-08-16 → 2026-11-14) | 159 | 89 | 70 | 0 | 0 |
+| All | 801 | 116 | 685 | 0 | 0 |
+| Recent 90 days (2026-08-16 → 2026-11-14) | 160 | 89 | 71 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-14 | [IonQ 임원 보상은 적절한가? 연봉·성과급·RSU·PSU의 신·구 경영진 비교](posts/2026/2026-11-14-224477127723.md) | ❌ Missing | — | `224477127723` |
 | 2026-11-14 | [IonQ CFO·COO Inder Singh 퇴임](posts/2026/2026-11-14-224476946010.md) | ❌ Missing | — | `224476946010` |
 | 2026-11-14 | [IBM vs IonQ 2026–2033+ 로드맵 심층 비교](posts/2026/2026-11-14-224476241770.md) | ❌ Missing | — | `224476241770` |
 | 2026-11-13 | [IBM Nighthawk r3 전격 공개](posts/2026/2026-11-13-224475723315.md) | ❌ Missing | — | `224475723315` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-28 | [NIST PQC 전환 지침 최종 확정](posts/2026/2026-10-28-224457006220.md) | ❌ Missing | — | `224457006220` |
 | 2026-10-28 | [BB84의 키 확립부터 공개키 암호화와 실제 데이터 보호까지](posts/2026/2026-10-28-224456705898.md) | ✅ Published | [From BB84 Key Establishment to Public-Key Cryptography and Real-World Data Protection](https://netcreat.substack.com/p/from-bb84-key-establishment-to-public) | `224456705898` |
 | 2026-10-27 | [QKD는 어떻게 비밀키를 공유할까요?](posts/2026/2026-10-27-224455866257.md) | ❌ Missing | — | `224455866257` |
-| 2026-10-27 | [IonQ, AFRL에서 $7.5M 후속 자금 확보](posts/2026/2026-10-27-224455854435.md) | ✅ Published | [IonQ Secures $7.5 Million in Follow-On Funding from AFRL](https://netcreat.substack.com/p/ionq-secures-75-million-in-follow) | `224455854435` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

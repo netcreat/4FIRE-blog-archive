@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Sat, 14 Nov 2026 19:27:07 +0900</pubDate>
+            <pubDate>Sun, 15 Nov 2026 03:02:29 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ 임원 보상은 적절한가? 연봉·성과급·RSU·PSU의 신·구 경영진 비교]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224477127723?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224477127723</guid>
+                <description><![CDATA[✅ 연봉·성과급·정기 PSU와 타사 비교 IonQ의 2025년 신임 경영진 보상은 공시상 총액이 매우 크지만, 상당 부분은 3년치 조건부 PSU의 회계상 평가액과 일회성 영입·이직 보전 RSU다. 공시 총액을 1년 실제 수령액으로 해석하면 결론이 왜곡된다. 이 글에서는 ① 연봉·연간 성과급 ② 일회성 보상을 제외한 정기 장기보상 ③ PSU 지급 주식 수 ④ 구 경영진·비슷한 시기 상장한 기술기업 비교 순으로 분석한다. 분석 기준: 2025 회계연도, 2026년 공개된 SEC Proxy Statement. 모든 금액은 미국 달러(USD)이며, 확인된 사실과 비교 계산을 구분한다. ✅ 1. 보상 항목을 먼저 구분해야 한다 PSU는 성과 100% 달성을 가정해 설정한 목표 주식보상.......]]></description>
+                
+                <pubDate>Sat, 14 Nov 2026 20:05:58 +0900</pubDate>
+                <tag><![CDATA[Ionq,PSU,RSU,LTI]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 코닝은 단순한 광섬유 회사가 아니다. 코닝(Corning)을 AI 데이터센터용 광섬유 회사로만 보면 전체 그림의 상당 부분을 놓치게 된다. 코닝은 Hemlock Semiconductor의 초고순도 polysilicon부터 Advanced Packaging용 Glass Carrier, 차세대 Glass Core, 현재의 FAU(Fiber Array Unit), 미래의 GlassBridge까지 서로 다른 반도체·광학 공급망 층에 걸쳐 있다. 다만 이 사업들은 모두 같은 단계에 있지 않다. Hemlock·Glass Carrier·FAU는 이미 상용 영역이고, Glass Core와 GlassBridge는 차세대 성장 옵션에 가깝다. 따라서 코닝의 핵심을 ‘Glass Substrate 시장 지배자’라고 단정하기보다, 반도체 원재료·패키징·광연결의 여러 병목에 동....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTRfMTYg/MDAxNzkxOTYwMzc4NTkw.jc5nHcJhcpnlFXIWNs0na6kpAb061fEhpkNQ7TsNbzMg.NB9_shGNg4o891RhGDBwI1mHW5SMSOAA_xaTH5vZs9Mg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Wed, 14 Oct 2026 15:50:40 +0900</pubDate>
                 <tag><![CDATA[코닝,Corning,GlassBridge]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[IonQ의 보안 퍼즐은 완성됐는가? — Elisity의 Zero Trust와 IDQ의 양자 보안, 그리고 남은 공백]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224441409780?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224441409780</guid>
-                
-                <description><![CDATA[✅ IonQ의 보안 퍼즐은 완성됐는가? — Elisity의 Zero Trust와 IDQ의 양자 보안, 그리고 남은 공백 Elisity의 마이크로세그멘테이션은 기업내부의 모든 리소스가 동일한 레벨의 방어력을 가지는게 의미가 없고, 현실적으로도 불가능하기 때문에 기업내부를 격실로 분리하여 방어력을 높이는 것이 대표적인 목적이라고 할 수 있다. 그렇다면 Elisity가 기업 내부 LAN과 데이터센터의 접근을 통제하고, ID Quantique(IDQ)가 지점 간 WAN의 통신을 양자 내성 기술로 보호한다면 IonQ는 내부에서 외부까지 보안 체계를 갖추는 것일까? 표면적으로는 그럴듯하다. 그러나 Elisity는 단순한 LAN 전용 제품이 아니고, IDQ 역시 WAN 암호화 장비만 만드는....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTRfMjM1/MDAxNzkxOTUyMTI3NzUw._vVD_R-qnR6ovnS-DihxISPSOieAu419F3V9VcDvatEg.vq2zOXxoBUOKOb8CFSc0frk2hdFMkg59kDYpyKH83Bgg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Wed, 14 Oct 2026 14:29:25 +0900</pubDate>
-                <tag><![CDATA[IonQ,Elisity,보안,신원보안,단말보안,애플리케이션보안,데이터보안,네트워크보안,통합관제]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

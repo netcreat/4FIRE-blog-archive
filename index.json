@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 800,
+  "totalArchivedPosts": 801,
   "posts": [
+    {
+      "date": "2026-11-14",
+      "published": "2026-11-14T22:05:58+11:00",
+      "title": "IonQ 임원 보상은 적절한가? 연봉·성과급·RSU·PSU의 신·구 경영진 비교",
+      "logNo": "224477127723",
+      "source": "https://blog.naver.com/4-fire/224477127723?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-14-224477127723.md",
+      "content_source": "naver_post",
+      "characters": 14328
+    },
     {
       "date": "2026-11-14",
       "published": "2026-11-14T18:21:47+11:00",
