@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-14T01:27:38+00:00_
+_Automatically generated: 2026-11-14T10:27:38+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 799 | 116 | 683 | 0 | 0 |
-| Recent 90 days (2026-08-16 → 2026-11-14) | 158 | 89 | 69 | 0 | 0 |
+| All | 800 | 116 | 684 | 0 | 0 |
+| Recent 90 days (2026-08-16 → 2026-11-14) | 159 | 89 | 70 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-14 | [IonQ CFO·COO Inder Singh 퇴임](posts/2026/2026-11-14-224476946010.md) | ❌ Missing | — | `224476946010` |
 | 2026-11-14 | [IBM vs IonQ 2026–2033+ 로드맵 심층 비교](posts/2026/2026-11-14-224476241770.md) | ❌ Missing | — | `224476241770` |
 | 2026-11-13 | [IBM Nighthawk r3 전격 공개](posts/2026/2026-11-13-224475723315.md) | ❌ Missing | — | `224475723315` |
 | 2026-11-13 | [IBM의 520큐비트 발표 — 입문편](posts/2026/2026-11-13-224475720321.md) | ❌ Missing | — | `224475720321` |
@@ -178,10 +179,11 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **683**
+Total missing: **684**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-14 | [IonQ CFO·COO Inder Singh 퇴임](posts/2026/2026-11-14-224476946010.md) | ❌ Missing | — | `224476946010` |
 | 2026-11-14 | [IBM vs IonQ 2026–2033+ 로드맵 심층 비교](posts/2026/2026-11-14-224476241770.md) | ❌ Missing | — | `224476241770` |
 | 2026-11-13 | [IBM Nighthawk r3 전격 공개](posts/2026/2026-11-13-224475723315.md) | ❌ Missing | — | `224475723315` |
 | 2026-11-13 | [IBM의 520큐비트 발표 — 입문편](posts/2026/2026-11-13-224475720321.md) | ❌ Missing | — | `224475720321` |
@@ -873,10 +875,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 799 Naver posts</summary>
+<summary>Show all 800 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-14 | [IonQ CFO·COO Inder Singh 퇴임](posts/2026/2026-11-14-224476946010.md) | ❌ Missing | — | `224476946010` |
 | 2026-11-14 | [IBM vs IonQ 2026–2033+ 로드맵 심층 비교](posts/2026/2026-11-14-224476241770.md) | ❌ Missing | — | `224476241770` |
 | 2026-11-13 | [IBM Nighthawk r3 전격 공개](posts/2026/2026-11-13-224475723315.md) | ❌ Missing | — | `224475723315` |
 | 2026-11-13 | [IBM의 520큐비트 발표 — 입문편](posts/2026/2026-11-13-224475720321.md) | ❌ Missing | — | `224475720321` |

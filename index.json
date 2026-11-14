@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 799,
+  "totalArchivedPosts": 800,
   "posts": [
+    {
+      "date": "2026-11-14",
+      "published": "2026-11-14T18:21:47+11:00",
+      "title": "IonQ CFO·COO Inder Singh 퇴임",
+      "logNo": "224476946010",
+      "source": "https://blog.naver.com/4-fire/224476946010?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-14-224476946010.md",
+      "content_source": "naver_post",
+      "characters": 18611
+    },
     {
       "date": "2026-11-14",
       "published": "2026-11-14T10:00:00+11:00",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T01:27:38+00:00",
+  "generated_at": "2026-11-14T10:27:38+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 799,
+    "total": 800,
     "published": 116,
-    "missing": 683,
+    "missing": 684,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,29 @@
     "days": 90,
     "start": "2026-08-16",
     "end": "2026-11-14",
-    "total": 158,
+    "total": 159,
     "published": 89,
-    "missing": 69,
+    "missing": 70,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-14",
+        "title": "IonQ CFO·COO Inder Singh 퇴임",
+        "logNo": "224476946010",
+        "url": "https://blog.naver.com/4-fire/224476946010?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-14-224476946010.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-14",

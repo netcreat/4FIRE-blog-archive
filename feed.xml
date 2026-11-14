@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Sat, 14 Nov 2026 10:27:08 +0900</pubDate>
+            <pubDate>Sat, 14 Nov 2026 19:27:07 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ CFO·COO Inder Singh 퇴임]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224476946010?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224476946010</guid>
+                
+                <description><![CDATA[✅ 9월 1일 355,094주 매도계획이 말해주는 것 2026년 11월 14일 기준 분석. 인더 싱(Inder M. Singh)의 경영진 퇴임 발표를 2026년 9월 1일의 Rule 10b5-1 거래계획, RSU 베스팅 일정, 실제 Form 4 세금 납부 거래, IonQ 퇴직보상계약과 함께 대조했다. 핵심: 355,094주는 이미 행사·현금화한 주식이 아니라, 거래계획 기간인 2027년 말까지 베스팅될 것으로 예상되는 RSU의 세전 총수량이다. 정확히 80,147주와 274,947주의 합계로 계산된다. 쟁점: 계획 채택일이 9월 8일 Investor Day 이전이고 약 70일 뒤 Inder가 직책에서 물러난 것은 사실이다. 그러나 이것만으로 계획된 퇴임, 회사 주도 해고, 건강 문제를 입증할 수 없다. 자료의 성격....... <img src="https://blogthumb.pstatic.net/MjAyNjExMTRfNTEg/MDAxNzk0NjM4NzExODUx._PHK8Cz_lkapMdu8hRL9zQMfX26e4D2s7cseRmkvT8sg.C6vF79aJx3iPlBgQUN1niwG5-Dzcraus9tVEhEPGzigg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sat, 14 Nov 2026 16:21:47 +0900</pubDate>
+                <tag><![CDATA[IonQ,InderSingh,CFO,COO]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ IonQ의 보안 퍼즐은 완성됐는가? — Elisity의 Zero Trust와 IDQ의 양자 보안, 그리고 남은 공백 Elisity의 마이크로세그멘테이션은 기업내부의 모든 리소스가 동일한 레벨의 방어력을 가지는게 의미가 없고, 현실적으로도 불가능하기 때문에 기업내부를 격실로 분리하여 방어력을 높이는 것이 대표적인 목적이라고 할 수 있다. 그렇다면 Elisity가 기업 내부 LAN과 데이터센터의 접근을 통제하고, ID Quantique(IDQ)가 지점 간 WAN의 통신을 양자 내성 기술로 보호한다면 IonQ는 내부에서 외부까지 보안 체계를 갖추는 것일까? 표면적으로는 그럴듯하다. 그러나 Elisity는 단순한 LAN 전용 제품이 아니고, IDQ 역시 WAN 암호화 장비만 만드는....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTRfMjM1/MDAxNzkxOTUyMTI3NzUw._vVD_R-qnR6ovnS-DihxISPSOieAu419F3V9VcDvatEg.vq2zOXxoBUOKOb8CFSc0frk2hdFMkg59kDYpyKH83Bgg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Wed, 14 Oct 2026 14:29:25 +0900</pubDate>
                 <tag><![CDATA[IonQ,Elisity,보안,신원보안,단말보안,애플리케이션보안,데이터보안,네트워크보안,통합관제]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[IonQ, Elisity 인수에 관한 8-K 공지]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224440626371?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224440626371</guid>
-                
-                <description><![CDATA[https://d18rn0p25nwr6d.cloudfront.net/CIK-0001824920/52c7dbe6-1823-4968-890a-7957cfd9b073.pdf ✅ 핵심 인수 조건 여기서 14억 달러는 인수대금 13억 달러에 별도의 직원 보상 1억 달러를 합한 수치다. 전액이 주주에게 지급되는 인수가격은 아니다. 또한 기본 인수가격에는 2026년 7월 31일 이후 발생한 특정 가치유출(leakage)을 차감하는 조항이 적용된다. 따라서 실제 지급액은 계약 조건에 따라 달라질 수 있다. ✅ 성과급 1억 5,000만 달러의 지급 조건 계약서의 Exhibit I을 보면, 추가 인수대금은 두 차례의 매출 실적에 따라 지급된다. 여기에는 흥미로운 세 가지 조건이 있다. 첫째, 목표 매출에 미달하더라도 성과급이 전부 사라....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTNfNDMg/MDAxNzkxODkxMzIxMzU1.A8QsPF0RYehvbDcbZjm7c5MPUyqP3o70vA_MQosVpTkg.ISxelL7Tlakdscj36EogJ2HbJnpdQOVST1uU0-qe8aMg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Tue, 13 Oct 2026 20:35:55 +0900</pubDate>
-                <tag><![CDATA[8K,IonQ,Elisity]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>
