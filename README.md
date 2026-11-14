@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-13T19:43:50+00:00_
+_Automatically generated: 2026-11-14T01:27:38+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 798 | 116 | 682 | 0 | 0 |
-| Recent 90 days (2026-08-15 → 2026-11-13) | 160 | 89 | 71 | 0 | 0 |
+| All | 799 | 116 | 683 | 0 | 0 |
+| Recent 90 days (2026-08-16 → 2026-11-14) | 158 | 89 | 69 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-14 | [IBM vs IonQ 2026–2033+ 로드맵 심층 비교](posts/2026/2026-11-14-224476241770.md) | ❌ Missing | — | `224476241770` |
 | 2026-11-13 | [IBM Nighthawk r3 전격 공개](posts/2026/2026-11-13-224475723315.md) | ❌ Missing | — | `224475723315` |
 | 2026-11-13 | [IBM의 520큐비트 발표 — 입문편](posts/2026/2026-11-13-224475720321.md) | ❌ Missing | — | `224475720321` |
 | 2026-11-11 | [IonQ PriorTilt 논문 심층 분석](posts/2026/2026-11-11-224473447121.md) | ❌ Missing | — | `224473447121` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-27 | [QKD는 어떻게 비밀키를 공유할까요?](posts/2026/2026-10-27-224455866257.md) | ❌ Missing | — | `224455866257` |
 | 2026-10-27 | [IonQ, AFRL에서 $7.5M 후속 자금 확보](posts/2026/2026-10-27-224455854435.md) | ✅ Published | [IonQ Secures $7.5 Million in Follow-On Funding from AFRL](https://netcreat.substack.com/p/ionq-secures-75-million-in-follow) | `224455854435` |
 | 2026-10-27 | [Intel이 Classiq을 인수합니다](posts/2026/2026-10-27-224454942010.md) | ✅ Published | [Intel Is Acquiring Classiq](https://netcreat.substack.com/p/intel-is-acquiring-classiq-a-quantum) | `224454942010` |
-| 2026-10-27 | [IonQ는 왜 Elisity에 최대 13억 달러를 지불 했을까?](posts/2026/2026-10-27-224454479969.md) | ✅ Published | [Why Did IonQ Agree to Pay Up to $1.3 Billion for Elisity?](https://netcreat.substack.com/p/why-did-ionq-agree-to-pay-up-to-13) | `224454479969` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

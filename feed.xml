@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Sat, 14 Nov 2026 04:43:19 +0900</pubDate>
+            <pubDate>Sat, 14 Nov 2026 10:27:08 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Superconductor]]></category>
+                <title><![CDATA[IBM vs IonQ 2026–2033+ 로드맵 심층 비교]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224476241770?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224476241770</guid>
+                
+                <description><![CDATA[✅ 충실도, 논리 큐비트와 진짜 확장성의 승부 2026년 11월 11일, IBM이 Nighthawk r3와 2029년 Starling 개발 현황을 공개했다. Nighthawk r3는 칩당 520개 프로그래밍 가능 큐비트, 두 칩을 결합한 1,040큐비트 시스템을 2027년에 목표로 한다. Starling은 2029년 논리 큐비트 200개에서 1억 회 연산을 목표로 한다. [1][2] IonQ 역시 2026년 Superion 256을 발표하고, 2027년 10,000개 물리 큐비트·800개 논리 큐비트, 2030년 200만 물리 큐비트·8만 논리 큐비트라는 훨씬 공격적인 로드맵을 제시했다. [3][4] 핵심 질문은 단순한 큐비트 수의 우열이 아니다. IBM은 극저온·칩 연결·오류정정·실시간 디코더를 해결해야 하고, IonQ는 대규모 이....... <img src="https://blogthumb.pstatic.net/MjAyNjExMTNfMjY2/MDAxNzk0NTcyMjA4NzMw.UyIE_tQAPx548hhREmjn4N7ptmV6ma7Xj7DYSOQU20Ug.JfoboNpCpZZ-onkdfG4JyR1vdNRmg8_3uwxZpfFfsFog.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sat, 14 Nov 2026 08:00:00 +0900</pubDate>
+                <tag><![CDATA[IBM,Nighthawk,Starling]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[https://d18rn0p25nwr6d.cloudfront.net/CIK-0001824920/52c7dbe6-1823-4968-890a-7957cfd9b073.pdf ✅ 핵심 인수 조건 여기서 14억 달러는 인수대금 13억 달러에 별도의 직원 보상 1억 달러를 합한 수치다. 전액이 주주에게 지급되는 인수가격은 아니다. 또한 기본 인수가격에는 2026년 7월 31일 이후 발생한 특정 가치유출(leakage)을 차감하는 조항이 적용된다. 따라서 실제 지급액은 계약 조건에 따라 달라질 수 있다. ✅ 성과급 1억 5,000만 달러의 지급 조건 계약서의 Exhibit I을 보면, 추가 인수대금은 두 차례의 매출 실적에 따라 지급된다. 여기에는 흥미로운 세 가지 조건이 있다. 첫째, 목표 매출에 미달하더라도 성과급이 전부 사라....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTNfNDMg/MDAxNzkxODkxMzIxMzU1.A8QsPF0RYehvbDcbZjm7c5MPUyqP3o70vA_MQosVpTkg.ISxelL7Tlakdscj36EogJ2HbJnpdQOVST1uU0-qe8aMg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Tue, 13 Oct 2026 20:35:55 +0900</pubDate>
                 <tag><![CDATA[8K,IonQ,Elisity]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Series]]></category>
-                <title><![CDATA[Elisity 기술 심층 분석 (5) — Microsegmentation · Agentless · PQC · QKD · Zero Trust]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224440118264?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224440118264</guid>
-                
-                <description><![CDATA[✅ Elisity의 진짜 경쟁자는 누구인가? — Zero Trust에서 PQC까지, 차세대 보안 시장의 기술 경쟁 2026년 10월 13일 기준 지난 4편에서는 Elisity가 기존 네트워크의 스위치를 활용해 장비의 신원을 식별하고, 통신 관계를 분석하며, 마이크로세그멘테이션 정책으로 공격자의 내부 이동을 제한하는 과정을 살펴보았다. 이러한 아키텍처는 분명 매력적이다. 기존 스위치를 활용할 수 있고, 단말마다 별도 에이전트를 설치하지 않아도 되기 때문이다. 하지만 시장에는 Elisity 외에도 Illumio, Akamai Guardicore, Zero Networks, ColorTokens, Cisco 등 여러 마이크로세그멘테이션 기업이 존재한다. 더욱 흥미로운 것은 제로트러스트 시장에 이미....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTNfMTgx/MDAxNzkxODU5OTY3Nzgy.6PMrh1RBmIEHhbiXf_1Z6wap75tEpvfMi-2IzUDgt1gg.ddqu0gCb_7TQ28fywO6Upa_IBq7lVCXsuX5Dn79TzcYg.PNG/wide_infographic_image._overall_a_clean_modern_i.png?type=s3" />]]></description>
-                <pubDate>Tue, 13 Oct 2026 12:38:43 +0900</pubDate>
-                <tag><![CDATA[Elisity,IonQ,Cloudflare,Fortinet,PaloAlto,Akamai,Zscaler,Cisco,Illumio,ColorTokens]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

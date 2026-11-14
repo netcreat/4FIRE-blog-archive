@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 798,
+  "totalArchivedPosts": 799,
   "posts": [
+    {
+      "date": "2026-11-14",
+      "published": "2026-11-14T10:00:00+11:00",
+      "title": "IBM vs IonQ 2026–2033+ 로드맵 심층 비교",
+      "logNo": "224476241770",
+      "source": "https://blog.naver.com/4-fire/224476241770?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-14-224476241770.md",
+      "content_source": "naver_post",
+      "characters": 18159
+    },
     {
       "date": "2026-11-13",
       "published": "2026-11-13T17:08:40+11:00",

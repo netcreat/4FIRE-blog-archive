@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T19:43:50+00:00",
+  "generated_at": "2026-11-14T01:27:38+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 798,
+    "total": 799,
     "published": 116,
-    "missing": 682,
+    "missing": 683,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-08-15",
-    "end": "2026-11-13",
-    "total": 160,
+    "start": "2026-08-16",
+    "end": "2026-11-14",
+    "total": 158,
     "published": 89,
-    "missing": 71,
+    "missing": 69,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-14",
+        "title": "IBM vs IonQ 2026–2033+ 로드맵 심층 비교",
+        "logNo": "224476241770",
+        "url": "https://blog.naver.com/4-fire/224476241770?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-14-224476241770.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-13",

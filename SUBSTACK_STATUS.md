@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-13T19:43:50+00:00_
+_Automatically generated: 2026-11-14T01:27:38+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 798 | 116 | 682 | 0 | 0 |
-| Recent 90 days (2026-08-15 → 2026-11-13) | 160 | 89 | 71 | 0 | 0 |
+| All | 799 | 116 | 683 | 0 | 0 |
+| Recent 90 days (2026-08-16 → 2026-11-14) | 158 | 89 | 69 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-14 | [IBM vs IonQ 2026–2033+ 로드맵 심층 비교](posts/2026/2026-11-14-224476241770.md) | ❌ Missing | — | `224476241770` |
 | 2026-11-13 | [IBM Nighthawk r3 전격 공개](posts/2026/2026-11-13-224475723315.md) | ❌ Missing | — | `224475723315` |
 | 2026-11-13 | [IBM의 520큐비트 발표 — 입문편](posts/2026/2026-11-13-224475720321.md) | ❌ Missing | — | `224475720321` |
 | 2026-11-11 | [IonQ PriorTilt 논문 심층 분석](posts/2026/2026-11-11-224473447121.md) | ❌ Missing | — | `224473447121` |
@@ -174,16 +175,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-08-18 | [이온트랩에서의 두 개의 강한 레이저, 왜 EQC로 대체되었나?](posts/2026/2026-08-18-224382009594.md) | ❌ Missing | — | `224382009594` |
 | 2026-08-16 | [MOU 한 줄 뒤의 퍼즐: IonQ와 Anduril은 무엇을 함께 만들려는가?](posts/2026/2026-08-16-224380629028.md) | ✅ Published | [The Puzzle Behind a One-Line MOU: What Are IonQ and Anduril Trying to Build Together?](https://netcreat.substack.com/p/the-puzzle-behind-a-one-line-mou) | `224380629028` |
 | 2026-08-16 | [13F로 들여다 본 IonQ에 대한 기관 투자자의 입장 26Q2](posts/2026/2026-08-16-224380236048.md) | ❌ Missing | — | `224380236048` |
-| 2026-08-15 | [SSC의 SB-AMTI와 SDN의 두 프로젝트가 시사하는 것은?](posts/2026/2026-08-15-224379707179.md) | ❌ Missing | — | `224379707179` |
-| 2026-08-15 | [EPB, NIST, DOE 그리고 IonQ가 Chattanooga에서 만드는 ‘도시 규모의 양자 실험실’](posts/2026/2026-08-15-224379600560.md) | ❌ Missing | — | `224379600560` |
-| 2026-08-15 | [주요 양자 법안과 로비 현황](posts/2026/2026-08-15-224379347410.md) | ❌ Missing | — | `224379347410` |
 
 ## Missing from Substack
 
-Total missing: **682**
+Total missing: **683**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-14 | [IBM vs IonQ 2026–2033+ 로드맵 심층 비교](posts/2026/2026-11-14-224476241770.md) | ❌ Missing | — | `224476241770` |
 | 2026-11-13 | [IBM Nighthawk r3 전격 공개](posts/2026/2026-11-13-224475723315.md) | ❌ Missing | — | `224475723315` |
 | 2026-11-13 | [IBM의 520큐비트 발표 — 입문편](posts/2026/2026-11-13-224475720321.md) | ❌ Missing | — | `224475720321` |
 | 2026-11-11 | [IonQ PriorTilt 논문 심층 분석](posts/2026/2026-11-11-224473447121.md) | ❌ Missing | — | `224473447121` |
@@ -874,10 +873,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 798 Naver posts</summary>
+<summary>Show all 799 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-14 | [IBM vs IonQ 2026–2033+ 로드맵 심층 비교](posts/2026/2026-11-14-224476241770.md) | ❌ Missing | — | `224476241770` |
 | 2026-11-13 | [IBM Nighthawk r3 전격 공개](posts/2026/2026-11-13-224475723315.md) | ❌ Missing | — | `224475723315` |
 | 2026-11-13 | [IBM의 520큐비트 발표 — 입문편](posts/2026/2026-11-13-224475720321.md) | ❌ Missing | — | `224475720321` |
 | 2026-11-11 | [IonQ PriorTilt 논문 심층 분석](posts/2026/2026-11-11-224473447121.md) | ❌ Missing | — | `224473447121` |
