@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T06:31:35+00:00",
+  "generated_at": "2026-11-16T19:37:44+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,18 +24,18 @@
     }
   },
   "summary": {
-    "total": 801,
+    "total": 802,
     "published": 116,
-    "missing": 685,
+    "missing": 686,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-08-16",
-    "end": "2026-11-14",
-    "total": 160,
-    "published": 89,
+    "start": "2026-08-18",
+    "end": "2026-11-16",
+    "total": 159,
+    "published": 88,
     "missing": 71,
     "skip": 0,
     "check": 0
@@ -43,6 +43,20 @@
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-16",
+        "title": "라우터 한 대가 아니라 장애 격리 실패가 남긴 질문",
+        "logNo": "224479524660",
+        "url": "https://blog.naver.com/4-fire/224479524660?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-16-224479524660.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-14",

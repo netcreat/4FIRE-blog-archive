@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-16T06:31:35+00:00_
+_Automatically generated: 2026-11-16T19:37:44+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 801 | 116 | 685 | 0 | 0 |
-| Recent 90 days (2026-08-16 → 2026-11-14) | 160 | 89 | 71 | 0 | 0 |
+| All | 802 | 116 | 686 | 0 | 0 |
+| Recent 90 days (2026-08-18 → 2026-11-16) | 159 | 88 | 71 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-16 | [라우터 한 대가 아니라 장애 격리 실패가 남긴 질문](posts/2026/2026-11-16-224479524660.md) | ❌ Missing | — | `224479524660` |
 | 2026-11-14 | [IonQ 임원 보상은 적절한가? 연봉·성과급·RSU·PSU의 신·구 경영진 비교](posts/2026/2026-11-14-224477127723.md) | ❌ Missing | — | `224477127723` |
 | 2026-11-14 | [IonQ CFO·COO Inder Singh 퇴임](posts/2026/2026-11-14-224476946010.md) | ❌ Missing | — | `224476946010` |
 | 2026-11-14 | [IBM vs IonQ 2026–2033+ 로드맵 심층 비교](posts/2026/2026-11-14-224476241770.md) | ❌ Missing | — | `224476241770` |
@@ -175,15 +176,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-08-18 | [백악관이 바라보는 미래 핵심기술: AI·바이오·퀀텀과 Transformative ET](posts/2026/2026-08-18-224382475558.md) | ❌ Missing | — | `224382475558` |
 | 2026-08-18 | [NSF, $1.5B 이상의 Foundational Research Funding 발표](posts/2026/2026-08-18-224382322149.md) | ❌ Missing | — | `224382322149` |
 | 2026-08-18 | [이온트랩에서의 두 개의 강한 레이저, 왜 EQC로 대체되었나?](posts/2026/2026-08-18-224382009594.md) | ❌ Missing | — | `224382009594` |
-| 2026-08-16 | [MOU 한 줄 뒤의 퍼즐: IonQ와 Anduril은 무엇을 함께 만들려는가?](posts/2026/2026-08-16-224380629028.md) | ✅ Published | [The Puzzle Behind a One-Line MOU: What Are IonQ and Anduril Trying to Build Together?](https://netcreat.substack.com/p/the-puzzle-behind-a-one-line-mou) | `224380629028` |
-| 2026-08-16 | [13F로 들여다 본 IonQ에 대한 기관 투자자의 입장 26Q2](posts/2026/2026-08-16-224380236048.md) | ❌ Missing | — | `224380236048` |
 
 ## Missing from Substack
 
-Total missing: **685**
+Total missing: **686**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-16 | [라우터 한 대가 아니라 장애 격리 실패가 남긴 질문](posts/2026/2026-11-16-224479524660.md) | ❌ Missing | — | `224479524660` |
 | 2026-11-14 | [IonQ 임원 보상은 적절한가? 연봉·성과급·RSU·PSU의 신·구 경영진 비교](posts/2026/2026-11-14-224477127723.md) | ❌ Missing | — | `224477127723` |
 | 2026-11-14 | [IonQ CFO·COO Inder Singh 퇴임](posts/2026/2026-11-14-224476946010.md) | ❌ Missing | — | `224476946010` |
 | 2026-11-14 | [IBM vs IonQ 2026–2033+ 로드맵 심층 비교](posts/2026/2026-11-14-224476241770.md) | ❌ Missing | — | `224476241770` |
@@ -877,10 +877,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 801 Naver posts</summary>
+<summary>Show all 802 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-16 | [라우터 한 대가 아니라 장애 격리 실패가 남긴 질문](posts/2026/2026-11-16-224479524660.md) | ❌ Missing | — | `224479524660` |
 | 2026-11-14 | [IonQ 임원 보상은 적절한가? 연봉·성과급·RSU·PSU의 신·구 경영진 비교](posts/2026/2026-11-14-224477127723.md) | ❌ Missing | — | `224477127723` |
 | 2026-11-14 | [IonQ CFO·COO Inder Singh 퇴임](posts/2026/2026-11-14-224476946010.md) | ❌ Missing | — | `224476946010` |
 | 2026-11-14 | [IBM vs IonQ 2026–2033+ 로드맵 심층 비교](posts/2026/2026-11-14-224476241770.md) | ❌ Missing | — | `224476241770` |

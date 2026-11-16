@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Mon, 16 Nov 2026 15:31:06 +0900</pubDate>
+            <pubDate>Tue, 17 Nov 2026 04:37:14 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[라우터 한 대가 아니라 장애 격리 실패가 남긴 질문]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224479524660?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224479524660</guid>
+                
+                <description><![CDATA[✅ FAA 전국 항공 운항 중단 2026년 11월 16일 기준 분석. 11월 13일 미국 FAA는 전국 출발 항공편의 운항을 일시 중단했다. 통신망의 이상이 여러 항로관제센터에 영향을 주었기 때문이다. 핵심은 “광케이블 전환 작업 중 신형 라우터를 연결했다”라는 사건 자체보다, 원격 시설의 비정상적인 동작이 국가 공통 통신 기반에 어떻게 전파됐고 왜 충분히 격리되지 않았는가라는 질문이다. 이번 글은 확인된 사실, 기술적 가설, 제안 가능한 해결책을 분리한다. IonQ의 Elisity를 비롯한 보안·통신 기술도 실제 지원 범위 안에서 평가한다. 이 글은 FAA·미 교통부·장비사·사업자 공식 자료와 언론 보도에 기반한 독립 분석이며, FAA 공식 사고 원....... <img src="https://blogthumb.pstatic.net/MjAyNjExMTZfMTk4/MDAxNzk0ODI0NDc4NjQ2.uhJ-KSUbBAQkQhngl4VRHBqb64D-6M5wM3WXdPm1Qm0g.y1IGPrhVPdtU1VYW5YcTTevk-4QJPvZr6EGXqBP6WU0g.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Mon, 16 Nov 2026 19:46:16 +0900</pubDate>
+                <tag><![CDATA[FAA,IonQ,Elisity,FTI,FENS,BNATCS]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[2026년 10월 7일 Cisco Quantum Summit Day 2에서 미히르 바스카(Mihir Bhaskar) 박사는 Distributed Quantum Computing at IonQ를 주제로 발표했다. Lightsynq 공동창업자이자 IonQ의 양자 인터커넥트 연구를 이끌어 온 그는 당시 SkyWater의 Quantum Technologies 부문 SVP·GM으로서, 이온트랩 연산기와 다이아몬드 양자 메모리를 결합한 최신 성과를 설명했다. 이 발표의 출발점은 양자컴퓨터 내부의 Qubit 수를 늘리는 Scale-up만으로 충분한가라는 질문이다. 장기적으로는 모듈형 QPU들을 광학 네트워크로 연결하는 Scale-out도 필요하며, 여기서는 원격 Bell Pair의 생성 속도·충실도·제어 지연·제조 수율이 성능을 결정한다. 주의할 점: 1....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTRfODYg/MDAxNzkxOTcwNjc1NzAx.M4qmDKgjLSHbyxSqSJZ1YQwVKPmvcyxkq63Yfos7HuIg.q932UHcHSpIuWUmkYqYmsDbfWTFzJYTa3kNAd1gCMKAg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Wed, 14 Oct 2026 23:00:21 +0900</pubDate>
                 <tag><![CDATA[IonQ,FTQC,Cisco,Quantum,Summit,Mihir,Bhaskar,Fidelity,100kHz,다채널,제조수율]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Semiconductor]]></category>
-                <title><![CDATA[코닝을 유리회사로만 보면 놓치는 것 — 반도체 원재료부터 Glass Core·GlassBridge까지]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224441507057?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224441507057</guid>
-                
-                <description><![CDATA[✅ 코닝은 단순한 광섬유 회사가 아니다. 코닝(Corning)을 AI 데이터센터용 광섬유 회사로만 보면 전체 그림의 상당 부분을 놓치게 된다. 코닝은 Hemlock Semiconductor의 초고순도 polysilicon부터 Advanced Packaging용 Glass Carrier, 차세대 Glass Core, 현재의 FAU(Fiber Array Unit), 미래의 GlassBridge까지 서로 다른 반도체·광학 공급망 층에 걸쳐 있다. 다만 이 사업들은 모두 같은 단계에 있지 않다. Hemlock·Glass Carrier·FAU는 이미 상용 영역이고, Glass Core와 GlassBridge는 차세대 성장 옵션에 가깝다. 따라서 코닝의 핵심을 ‘Glass Substrate 시장 지배자’라고 단정하기보다, 반도체 원재료·패키징·광연결의 여러 병목에 동....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTRfMTYg/MDAxNzkxOTYwMzc4NTkw.jc5nHcJhcpnlFXIWNs0na6kpAb061fEhpkNQ7TsNbzMg.NB9_shGNg4o891RhGDBwI1mHW5SMSOAA_xaTH5vZs9Mg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Wed, 14 Oct 2026 15:50:40 +0900</pubDate>
-                <tag><![CDATA[코닝,Corning,GlassBridge]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

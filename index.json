@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 801,
+  "totalArchivedPosts": 802,
   "posts": [
+    {
+      "date": "2026-11-16",
+      "published": "2026-11-16T21:46:16+11:00",
+      "title": "라우터 한 대가 아니라 장애 격리 실패가 남긴 질문",
+      "logNo": "224479524660",
+      "source": "https://blog.naver.com/4-fire/224479524660?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-16-224479524660.md",
+      "content_source": "naver_post",
+      "characters": 20098
+    },
     {
       "date": "2026-11-14",
       "published": "2026-11-14T22:05:58+11:00",
