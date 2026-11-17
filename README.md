@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-17T03:55:13+00:00_
+_Automatically generated: 2026-11-17T16:00:51+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 802 | 116 | 686 | 0 | 0 |
-| Recent 90 days (2026-08-18 → 2026-11-16) | 159 | 88 | 71 | 0 | 0 |
+| All | 803 | 116 | 687 | 0 | 0 |
+| Recent 90 days (2026-08-19 → 2026-11-17) | 156 | 88 | 68 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-17 | [IonQ 2026년 3분기 기관투자자 13F 분석](posts/2026/2026-11-17-224480855724.md) | ❌ Missing | — | `224480855724` |
 | 2026-11-16 | [라우터 한 대가 아니라 장애 격리 실패가 남긴 질문](posts/2026/2026-11-16-224479524660.md) | ❌ Missing | — | `224479524660` |
 | 2026-11-14 | [IonQ 임원 보상은 적절한가? 연봉·성과급·RSU·PSU의 신·구 경영진 비교](posts/2026/2026-11-14-224477127723.md) | ❌ Missing | — | `224477127723` |
 | 2026-11-14 | [IonQ CFO·COO Inder Singh 퇴임](posts/2026/2026-11-14-224476946010.md) | ❌ Missing | — | `224476946010` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-10-29 | [영국 Quantum Leap과 우주 양자 로드맵](posts/2026/2026-10-29-224457341737.md) | ✅ Published | [The UK's Quantum Leap and Its Space Quantum Roadmap](https://netcreat.substack.com/p/the-uks-quantum-leap-and-its-space) | `224457341737` |
 | 2026-10-29 | [QKD 기술 분류와 주요 기업의 제품 전략](posts/2026/2026-10-29-224456777014.md) | ❌ Missing | — | `224456777014` |
 | 2026-10-28 | [NIST PQC 전환 지침 최종 확정](posts/2026/2026-10-28-224457006220.md) | ❌ Missing | — | `224457006220` |
-| 2026-10-28 | [BB84의 키 확립부터 공개키 암호화와 실제 데이터 보호까지](posts/2026/2026-10-28-224456705898.md) | ✅ Published | [From BB84 Key Establishment to Public-Key Cryptography and Real-World Data Protection](https://netcreat.substack.com/p/from-bb84-key-establishment-to-public) | `224456705898` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T03:55:13+00:00",
+  "generated_at": "2026-11-17T16:00:51+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 802,
+    "total": 803,
     "published": 116,
-    "missing": 686,
+    "missing": 687,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-08-18",
-    "end": "2026-11-16",
-    "total": 159,
+    "start": "2026-08-19",
+    "end": "2026-11-17",
+    "total": 156,
     "published": 88,
-    "missing": 71,
+    "missing": 68,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-17",
+        "title": "IonQ 2026년 3분기 기관투자자 13F 분석",
+        "logNo": "224480855724",
+        "url": "https://blog.naver.com/4-fire/224480855724?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-17-224480855724.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-16",

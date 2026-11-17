@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-17T03:55:13+00:00_
+_Automatically generated: 2026-11-17T16:00:51+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 802 | 116 | 686 | 0 | 0 |
-| Recent 90 days (2026-08-18 → 2026-11-16) | 159 | 88 | 71 | 0 | 0 |
+| All | 803 | 116 | 687 | 0 | 0 |
+| Recent 90 days (2026-08-19 → 2026-11-17) | 156 | 88 | 68 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-17 | [IonQ 2026년 3분기 기관투자자 13F 분석](posts/2026/2026-11-17-224480855724.md) | ❌ Missing | — | `224480855724` |
 | 2026-11-16 | [라우터 한 대가 아니라 장애 격리 실패가 남긴 질문](posts/2026/2026-11-16-224479524660.md) | ❌ Missing | — | `224479524660` |
 | 2026-11-14 | [IonQ 임원 보상은 적절한가? 연봉·성과급·RSU·PSU의 신·구 경영진 비교](posts/2026/2026-11-14-224477127723.md) | ❌ Missing | — | `224477127723` |
 | 2026-11-14 | [IonQ CFO·COO Inder Singh 퇴임](posts/2026/2026-11-14-224476946010.md) | ❌ Missing | — | `224476946010` |
@@ -172,17 +173,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-08-19 | [IonQ는 왜 EU Institutions & Benelux 총괄을 영입했나](posts/2026/2026-08-19-224383643146.md) | ❌ Missing | — | `224383643146` |
 | 2026-08-19 | [5% 금리 시대의 도래: 정부부채, 미국 국채, 그리고 투자자의 새로운 생존 전략](posts/2026/2026-08-19-224383579346.md) | ❌ Missing | — | `224383579346` |
 | 2026-08-19 | [IonQ가 캐나다 FABrIC에 들어갔다: CMC, Quantum Sandbox](posts/2026/2026-08-19-224383005977.md) | ❌ Missing | — | `224383005977` |
-| 2026-08-18 | [Rocket Lab은 어떻게 미 우주군의 위성 플랫폼 공급자로 침투하고 있는가](posts/2026/2026-08-18-224382656802.md) | ❌ Missing | — | `224382656802` |
-| 2026-08-18 | [백악관이 바라보는 미래 핵심기술: AI·바이오·퀀텀과 Transformative ET](posts/2026/2026-08-18-224382475558.md) | ❌ Missing | — | `224382475558` |
-| 2026-08-18 | [NSF, $1.5B 이상의 Foundational Research Funding 발표](posts/2026/2026-08-18-224382322149.md) | ❌ Missing | — | `224382322149` |
-| 2026-08-18 | [이온트랩에서의 두 개의 강한 레이저, 왜 EQC로 대체되었나?](posts/2026/2026-08-18-224382009594.md) | ❌ Missing | — | `224382009594` |
 
 ## Missing from Substack
 
-Total missing: **686**
+Total missing: **687**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-17 | [IonQ 2026년 3분기 기관투자자 13F 분석](posts/2026/2026-11-17-224480855724.md) | ❌ Missing | — | `224480855724` |
 | 2026-11-16 | [라우터 한 대가 아니라 장애 격리 실패가 남긴 질문](posts/2026/2026-11-16-224479524660.md) | ❌ Missing | — | `224479524660` |
 | 2026-11-14 | [IonQ 임원 보상은 적절한가? 연봉·성과급·RSU·PSU의 신·구 경영진 비교](posts/2026/2026-11-14-224477127723.md) | ❌ Missing | — | `224477127723` |
 | 2026-11-14 | [IonQ CFO·COO Inder Singh 퇴임](posts/2026/2026-11-14-224476946010.md) | ❌ Missing | — | `224476946010` |
@@ -877,10 +875,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 802 Naver posts</summary>
+<summary>Show all 803 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-17 | [IonQ 2026년 3분기 기관투자자 13F 분석](posts/2026/2026-11-17-224480855724.md) | ❌ Missing | — | `224480855724` |
 | 2026-11-16 | [라우터 한 대가 아니라 장애 격리 실패가 남긴 질문](posts/2026/2026-11-16-224479524660.md) | ❌ Missing | — | `224479524660` |
 | 2026-11-14 | [IonQ 임원 보상은 적절한가? 연봉·성과급·RSU·PSU의 신·구 경영진 비교](posts/2026/2026-11-14-224477127723.md) | ❌ Missing | — | `224477127723` |
 | 2026-11-14 | [IonQ CFO·COO Inder Singh 퇴임](posts/2026/2026-11-14-224476946010.md) | ❌ Missing | — | `224476946010` |

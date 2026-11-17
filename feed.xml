@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Tue, 17 Nov 2026 12:54:45 +0900</pubDate>
+            <pubDate>Wed, 18 Nov 2026 01:00:19 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ 2026년 3분기 기관투자자 13F 분석]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224480855724?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224480855724</guid>
+                
+                <description><![CDATA[✅ 86계단 상승과 136계단 하락, 기관들은 실제로 얼마나 사고팔았나? 2026년 3분기 IonQ 기관투자자 자료에서 가장 눈에 띄는 수치는 기관 보유주식 -15.97%와 계산상 보유비율 55.47% → 43.43%다. 그러나 이 두 수치만으로 기관투자자들이 일제히 이탈했다고 결론 내릴 수는 없다. 이번 분석에서는 Q2·Q3 상위 200개 기관의 순위 이동, Nasdaq 기관별 보고자료의 실제 보유주식 증감, 그리고 신규 매수·재진입·Top 200 진입·목록 이탈을 각각 구분했다. 분석 기준: 2026년 11월 17일에 정리된 Nasdaq Q2·Q3 자료 및 자체 기관명 표준화 시트. 기관명 기반 비교 결과이며 기관별 CIK 전수 검증과는 다를 수 있다.  핵심 결론을 먼저 정리하....... <img src="https://blogthumb.pstatic.net/MjAyNjExMTdfMTA0/MDAxNzk0OTA2ODU1MjYx.Qo1_PrRABwXikfgzHtnno9QOmjGHnNabbOf55sHZZykg.x0ud-bi8dV7zLViHbtqEuThb2VV5T2D-Ov6YAY7QV8Yg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Tue, 17 Nov 2026 18:15:08 +0900</pubDate>
+                <tag><![CDATA[IonQ,13F]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ HCM 워런트·현금 사용·해외 투자 약속으로 검증한다 2026년 10월 14일, IonQ는 20억 달러($2B) 규모의 증자 발행가격을 발표했다. 2025년 7월과 10월에 이어 Heights Capital Management(HCM) 계열이 참여하는 세 번째 대규모 거래다. 불과 이틀 전인 10월 12일에는 기업보안업체 Elisity를 최대 13억 달러에 인수한다고 발표했다. 그런데 이 인수는 전액 주식대가를 기본으로 한다. 신규 현금 20억 달러를 Elisity 인수대금으로 지급하기 위한 거래는 아니다. 더구나 IonQ는 2026년 2분기 실적발표에서 SkyWater 인수를 반영한 뒤에도 현금·현금성자산·투자자산이 약 20억 달러 남는다고 밝혔다. 그렇다면 왜 하필 주가 $40 부근에서, 지난해....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTVfMTUx/MDAxNzkxOTkzMjYwODMw.LUNTZQ9Xpr9BIFCVDvD23ntIini7dQbyxTkZDUG6N9Qg.r4ISptrhVXsc14h-7U3GWsn3TYYwJrwk8CphZk3OKX0g.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Thu, 15 Oct 2026 00:57:07 +0900</pubDate>
                 <tag><![CDATA[IonQ,HCM,증자,2B,워런트]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Series]]></category>
-                <title><![CDATA[Cisco Quantum Summit 2026 Day 2 — IonQ, Mihir Bhaskar, 1kHz 이후의 진짜 과제]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224441914933?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224441914933</guid>
-                
-                <description><![CDATA[2026년 10월 7일 Cisco Quantum Summit Day 2에서 미히르 바스카(Mihir Bhaskar) 박사는 Distributed Quantum Computing at IonQ를 주제로 발표했다. Lightsynq 공동창업자이자 IonQ의 양자 인터커넥트 연구를 이끌어 온 그는 당시 SkyWater의 Quantum Technologies 부문 SVP·GM으로서, 이온트랩 연산기와 다이아몬드 양자 메모리를 결합한 최신 성과를 설명했다. 이 발표의 출발점은 양자컴퓨터 내부의 Qubit 수를 늘리는 Scale-up만으로 충분한가라는 질문이다. 장기적으로는 모듈형 QPU들을 광학 네트워크로 연결하는 Scale-out도 필요하며, 여기서는 원격 Bell Pair의 생성 속도·충실도·제어 지연·제조 수율이 성능을 결정한다. 주의할 점: 1....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTRfODYg/MDAxNzkxOTcwNjc1NzAx.M4qmDKgjLSHbyxSqSJZ1YQwVKPmvcyxkq63Yfos7HuIg.q932UHcHSpIuWUmkYqYmsDbfWTFzJYTa3kNAd1gCMKAg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Wed, 14 Oct 2026 23:00:21 +0900</pubDate>
-                <tag><![CDATA[IonQ,FTQC,Cisco,Quantum,Summit,Mihir,Bhaskar,Fidelity,100kHz,다채널,제조수율]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>
