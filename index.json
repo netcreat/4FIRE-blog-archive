@@ -2,8 +2,28 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 803,
+  "totalArchivedPosts": 805,
   "posts": [
+    {
+      "date": "2026-11-18",
+      "published": "2026-11-18T09:51:00+11:00",
+      "title": "IONQ 주가를 움직이는 것은 무엇인가",
+      "logNo": "224481483550",
+      "source": "https://blog.naver.com/4-fire/224481483550?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-18-224481483550.md",
+      "content_source": "naver_post",
+      "characters": 11574
+    },
+    {
+      "date": "2026-11-18",
+      "published": "2026-11-18T09:40:00+11:00",
+      "title": "IBM·Fermilab·NVIDIA 공동 설계 플랫폼과 13,000배 QEC 디코더의 진짜 의미",
+      "logNo": "224481079676",
+      "source": "https://blog.naver.com/4-fire/224481079676?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-18-224481079676.md",
+      "content_source": "naver_post",
+      "characters": 16167
+    },
     {
       "date": "2026-11-17",
       "published": "2026-11-17T20:15:08+11:00",

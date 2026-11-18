@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T16:00:51+00:00",
+  "generated_at": "2026-11-18T00:58:29+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,53 @@
     }
   },
   "summary": {
-    "total": 803,
+    "total": 805,
     "published": 116,
-    "missing": 687,
+    "missing": 689,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-08-19",
-    "end": "2026-11-17",
-    "total": 156,
+    "start": "2026-08-20",
+    "end": "2026-11-18",
+    "total": 154,
     "published": 88,
-    "missing": 68,
+    "missing": 66,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-18",
+        "title": "IONQ 주가를 움직이는 것은 무엇인가",
+        "logNo": "224481483550",
+        "url": "https://blog.naver.com/4-fire/224481483550?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-18-224481483550.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
+    {
+      "naver": {
+        "published_date": "2026-11-18",
+        "title": "IBM·Fermilab·NVIDIA 공동 설계 플랫폼과 13,000배 QEC 디코더의 진짜 의미",
+        "logNo": "224481079676",
+        "url": "https://blog.naver.com/4-fire/224481079676?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-18-224481079676.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-17",

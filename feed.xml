@@ -21,7 +21,35 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Wed, 18 Nov 2026 01:00:19 +0900</pubDate>
+            <pubDate>Wed, 18 Nov 2026 09:57:57 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IONQ 주가를 움직이는 것은 무엇인가]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224481483550?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224481483550</guid>
+                
+                <description><![CDATA[✅ 양자 섹터 동조화와 희석의 실제 영향 아이온큐(IONQ)의 주가 하락을 유상증자와 기업 인수에 따른 희석만으로 설명할 수 있을까? 이를 판단하기 위해 IONQ와 다른 양자컴퓨팅 기업·시장 지표의 일별 수익률 상관관계를 분석하고, 네 기업의 장기 발행주식 수 변화를 SEC 공시로 비교했다. 분석 결과, 최근 60거래일 동안 IONQ는 RGTI·QBTS·QUBT와 매우 높은 동조성을 보였고, 반면 각 기업의 장기 누적 발행주식 수 증가율은 크게 달랐다. 핵심 결론은 희석이 중요하지 않다는 것이 아니다. 희석은 분명히 기존 주주의 소유 지분에 영향을 주지만, 최근 양자주들의 공통적인 주가 방향을 희석만으로 설명하기 어렵다는 것이다. 분석 기준일은....... <img src="https://blogthumb.pstatic.net/MjAyNjExMThfMTUy/MDAxNzk0OTUzNTMzODY4.fHp-8gs894E3PT-sFTNU7qwass3mpkP1pYBj-OnOBKYg.Vc_Skj9pyQb3yQATajSgDwYUHYNVJOQhbF1PDThAfdIg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Wed, 18 Nov 2026 07:51:00 +0900</pubDate>
+                <tag><![CDATA[IonQ,희석,상관관계]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Superconductor]]></category>
+                <title><![CDATA[IBM·Fermilab·NVIDIA 공동 설계 플랫폼과 13,000배 QEC 디코더의 진짜 의미]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224481079676?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224481079676</guid>
+                
+                <description><![CDATA[✅ 들어가며 — 양자컴퓨터 경쟁이 QPU 밖으로 확장되고 있다 2026년 11월 16일 IBM은 Fermilab·NVIDIA와 함께 모듈형 양자컴퓨터를 위한 공동 설계(Co-design) 플랫폼을 추진한다고 발표했다. 이와 함께 양자컴퓨터의 슈퍼컴퓨팅 자원 관리, IBM·RIKEN의 과학 계산 성과가 공개됐고, NVIDIA는 별도로 새로운 QEC 디코더 연구를 발표했다. 겉으로는 서로 다른 발표지만 공통된 메시지는 명확하다. 양자컴퓨터의 발전을 가로막는 문제는 큐비트 숫자만이 아니라 모듈 간 통신, 양자정보 저장, 실시간 디코딩, 고전 연산 자원과의 통합이라는 점이다. 이번 글에서는 그 새로운 발표와 디코딩 기술을 분석한다. IBM Nighthawk r3·Starling의 기존 로....... <img src="https://blogthumb.pstatic.net/MjAyNjExMTdfMzcg/MDAxNzk0OTE3NzA5ODIy.qZksMmk_Wkrfs5leTWTJKg-28vulb2HTLd4gudJhUaMg.19Bw7_412jRIfqjsnt06ZUU8gdlDn9fiLii5D6uFDUQg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Wed, 18 Nov 2026 07:40:00 +0900</pubDate>
+                <tag><![CDATA[IBM,Fermilab,NVIDIA,TCBP,JOBS]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -691,34 +719,6 @@
                 
                 <pubDate>Fri, 16 Oct 2026 12:41:15 +0900</pubDate>
                 <tag><![CDATA[IonQ,Cashless,Exercise]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[IonQ의 세 차례 유상증자: HCM이 얻은 옵션 가치와 기존 주주의 주당 손익]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224442909980?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224442909980</guid>
-                
-                <description><![CDATA[✅ IonQ의 세 차례 유상증자: HCM이 얻은 옵션 가치와 기존 주주의 주당 손익 핵심 질문: 시장가격보다 높은 주식 발행가격이 추가로 제공한 7년 만기 워런트 2개의 경제적 가치를 상쇄하는가? 분석 대상: 2025년 7월 Series A, 2025년 10월 Series B, 2026년 10월 Series C 증자. SEC 공시의 실제 가격·주식 수·행사가격을 사용한다. 결론의 경계: 블랙–숄즈는 계약 시점 옵션의 이론가치를 비교하는 출발점이지만, 조달 자금의 사업 성과와 투자자·회사·주주의 최종 손익을 확정하지는 않는다. ✅ 1. 주당 주가 손익, 지분율, 희석 비용은 서로 다른 지표다  주당 가치의 정의 기존 주주가 가진 1주 자체의 시장가치는 시나리오 주가 P다....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTVfMjY0/MDAxNzkyMDUwNTAyMjIw.PwhLpktmEhhIirpjIp2x-RTBiLzL2jWbNZDov8J50Hwg.nwdsLwGT3qDov0YR4u9yRhJurRLOsBn3V9ZmeD5bcMYg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Thu, 15 Oct 2026 19:21:47 +0900</pubDate>
-                <tag><![CDATA[IonQ,HCM]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[IonQ는 왜 지금 또 20억 달러를 조달했을까?]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224442006517?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224442006517</guid>
-                
-                <description><![CDATA[✅ HCM 워런트·현금 사용·해외 투자 약속으로 검증한다 2026년 10월 14일, IonQ는 20억 달러($2B) 규모의 증자 발행가격을 발표했다. 2025년 7월과 10월에 이어 Heights Capital Management(HCM) 계열이 참여하는 세 번째 대규모 거래다. 불과 이틀 전인 10월 12일에는 기업보안업체 Elisity를 최대 13억 달러에 인수한다고 발표했다. 그런데 이 인수는 전액 주식대가를 기본으로 한다. 신규 현금 20억 달러를 Elisity 인수대금으로 지급하기 위한 거래는 아니다. 더구나 IonQ는 2026년 2분기 실적발표에서 SkyWater 인수를 반영한 뒤에도 현금·현금성자산·투자자산이 약 20억 달러 남는다고 밝혔다. 그렇다면 왜 하필 주가 $40 부근에서, 지난해....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTVfMTUx/MDAxNzkxOTkzMjYwODMw.LUNTZQ9Xpr9BIFCVDvD23ntIini7dQbyxTkZDUG6N9Qg.r4ISptrhVXsc14h-7U3GWsn3TYYwJrwk8CphZk3OKX0g.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Thu, 15 Oct 2026 00:57:07 +0900</pubDate>
-                <tag><![CDATA[IonQ,HCM,증자,2B,워런트]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

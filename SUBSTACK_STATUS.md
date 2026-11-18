@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-17T16:00:51+00:00_
+_Automatically generated: 2026-11-18T00:58:29+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,15 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 803 | 116 | 687 | 0 | 0 |
-| Recent 90 days (2026-08-19 → 2026-11-17) | 156 | 88 | 68 | 0 | 0 |
+| All | 805 | 116 | 689 | 0 | 0 |
+| Recent 90 days (2026-08-20 → 2026-11-18) | 154 | 88 | 66 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-18 | [IONQ 주가를 움직이는 것은 무엇인가](posts/2026/2026-11-18-224481483550.md) | ❌ Missing | — | `224481483550` |
+| 2026-11-18 | [IBM·Fermilab·NVIDIA 공동 설계 플랫폼과 13,000배 QEC 디코더의 진짜 의미](posts/2026/2026-11-18-224481079676.md) | ❌ Missing | — | `224481079676` |
 | 2026-11-17 | [IonQ 2026년 3분기 기관투자자 13F 분석](posts/2026/2026-11-17-224480855724.md) | ❌ Missing | — | `224480855724` |
 | 2026-11-16 | [라우터 한 대가 아니라 장애 격리 실패가 남긴 질문](posts/2026/2026-11-16-224479524660.md) | ❌ Missing | — | `224479524660` |
 | 2026-11-14 | [IonQ 임원 보상은 적절한가? 연봉·성과급·RSU·PSU의 신·구 경영진 비교](posts/2026/2026-11-14-224477127723.md) | ❌ Missing | — | `224477127723` |
@@ -169,17 +171,15 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-08-21 | [IonQ Investor Day 참석](posts/2026/2026-08-21-224385867140.md) | ❌ Missing | — | `224385867140` |
 | 2026-08-21 | [미국은 이제 우주를 ‘교통망’으로 만든다: Golden Age of Space Transportation과 Rocket Lab의 기회](posts/2026/2026-08-21-224385501538.md) | ❌ Missing | — | `224385501538` |
 | 2026-08-20 | [FABrIC, Lisa Lambert, 그리고 캐나다 전략](posts/2026/2026-08-20-224384466783.md) | ❌ Missing | — | `224384466783` |
-| 2026-08-19 | [미국 재무부의 카드 돌려막기](posts/2026/2026-08-19-224383778385.md) | ❌ Missing | — | `224383778385` |
-| 2026-08-19 | [IonQ는 왜 EU Institutions & Benelux 총괄을 영입했나](posts/2026/2026-08-19-224383643146.md) | ❌ Missing | — | `224383643146` |
-| 2026-08-19 | [5% 금리 시대의 도래: 정부부채, 미국 국채, 그리고 투자자의 새로운 생존 전략](posts/2026/2026-08-19-224383579346.md) | ❌ Missing | — | `224383579346` |
-| 2026-08-19 | [IonQ가 캐나다 FABrIC에 들어갔다: CMC, Quantum Sandbox](posts/2026/2026-08-19-224383005977.md) | ❌ Missing | — | `224383005977` |
 
 ## Missing from Substack
 
-Total missing: **687**
+Total missing: **689**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-18 | [IONQ 주가를 움직이는 것은 무엇인가](posts/2026/2026-11-18-224481483550.md) | ❌ Missing | — | `224481483550` |
+| 2026-11-18 | [IBM·Fermilab·NVIDIA 공동 설계 플랫폼과 13,000배 QEC 디코더의 진짜 의미](posts/2026/2026-11-18-224481079676.md) | ❌ Missing | — | `224481079676` |
 | 2026-11-17 | [IonQ 2026년 3분기 기관투자자 13F 분석](posts/2026/2026-11-17-224480855724.md) | ❌ Missing | — | `224480855724` |
 | 2026-11-16 | [라우터 한 대가 아니라 장애 격리 실패가 남긴 질문](posts/2026/2026-11-16-224479524660.md) | ❌ Missing | — | `224479524660` |
 | 2026-11-14 | [IonQ 임원 보상은 적절한가? 연봉·성과급·RSU·PSU의 신·구 경영진 비교](posts/2026/2026-11-14-224477127723.md) | ❌ Missing | — | `224477127723` |
@@ -875,10 +875,12 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 803 Naver posts</summary>
+<summary>Show all 805 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-18 | [IONQ 주가를 움직이는 것은 무엇인가](posts/2026/2026-11-18-224481483550.md) | ❌ Missing | — | `224481483550` |
+| 2026-11-18 | [IBM·Fermilab·NVIDIA 공동 설계 플랫폼과 13,000배 QEC 디코더의 진짜 의미](posts/2026/2026-11-18-224481079676.md) | ❌ Missing | — | `224481079676` |
 | 2026-11-17 | [IonQ 2026년 3분기 기관투자자 13F 분석](posts/2026/2026-11-17-224480855724.md) | ❌ Missing | — | `224480855724` |
 | 2026-11-16 | [라우터 한 대가 아니라 장애 격리 실패가 남긴 질문](posts/2026/2026-11-16-224479524660.md) | ❌ Missing | — | `224479524660` |
 | 2026-11-14 | [IonQ 임원 보상은 적절한가? 연봉·성과급·RSU·PSU의 신·구 경영진 비교](posts/2026/2026-11-14-224477127723.md) | ❌ Missing | — | `224477127723` |
