@@ -1301,6 +1301,29 @@
           "published_date": "2026-11-06"
         }
       ]
+    },
+    "224445836524": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "Cisco Quantum Summit 2026 Day 2 — Panel Discussion",
+          "url": "https://netcreat.substack.com/p/cisco-quantum-summit-2026-day-2-panel",
+          "published_date": "2026-10-18"
+        }
+      ],
+      "auto_match": {
+        "method": "shared_sources_and_identifiers",
+        "score": 120,
+        "matched_at": "2026-11-19T20:38:40+00:00",
+        "shared_urls": [
+          "https://research.cisco.com/quantum-summit/oct2026"
+        ],
+        "shared_identifiers": [
+          "FTQC",
+          "QPU"
+        ]
+      }
     }
   }
 }

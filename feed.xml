@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Thu, 19 Nov 2026 20:40:51 +0900</pubDate>
+            <pubDate>Fri, 20 Nov 2026 05:38:26 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Computing]]></category>
+                <title><![CDATA[AI 모델을 반도체로 만드는 시대, AMD는 무엇을 노리는가?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224483933214?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224483933214</guid>
+                
+                <description><![CDATA[✅ Taalas 심층 분석 2026년 11월 19일 기준. Taalas의 기술, AMD의 인수, 모델 라이선스, 경쟁 구도와 투자 관점을 통합 정리한다. 핵심 질문: 범용 GPU에서 실행하던 AI 모델을 특정 칩에 고정하면 무엇을 얻고 무엇을 잃는가? 공식 발표·기업 자체 벤치마크·필자의 기술적 해석과 가설을 구분한다. ✅ 1. Taalas는 어떤 회사인가? Taalas는 2023년 설립된 캐나다 토론토 기반의 AI 반도체 기업으로, 학습된 AI 모델에 최적화한 특수 목적 추론 실리콘을 개발한다. 핵심 철학은 “The Model is the Computer”이다. 범용 칩 위에서 모델을 실행하는 대신, 모델 자체를 반도체 설계의 출발점으로 삼는다. 공동 창업자 겸 CEO Ljubisa Bajic는 Te....... <img src="https://blogthumb.pstatic.net/MjAyNjExMTlfMzMg/MDAxNzk1MDkyNTE5ODg3.sxWcPgKnACuU8d36muyo6-f4cHDloeYKArvzUhK9aWsg.s-s0gMcEtT5mNV5Ly-OLcuty5a5g9INmhc8aQHAF87Eg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Thu, 19 Nov 2026 21:55:55 +0900</pubDate>
+                <tag><![CDATA[Taalas,AMD]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 1. 이번 발표의 핵심 메시지 행사: Cisco Quantum Summit 2026 Day 2, 2026년 10월 7일. 발표자: Pete Shadbolt, PsiQuantum 공동창업자 겸 최고과학책임자(CSO). 첫째, 상용 FTQC는 다수의 칩과 모듈을 연결하는 시스템 문제가 된다. IBM, IonQ, Pascal, PsiQuantum의 확장형 아키텍처를 나란히 소개하면서, 단일 칩의 큐비트 수만으로는 상업적으로 유용한 연산 능력을 확보하기 어렵다고 설명한다. 둘째, 광자 양자컴퓨팅의 핵심은 광학적 손실을 낮추면서 다수의 광학 부품을 고수율로 생산하는 데 있다. 광자 발생·분배·경로 선택·Fusion·검출을 하나의 통합 제조 플랫폼으로 가져가는 방향이다. 셋째, PsiQuantum이 구축한 고속 광스위....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMThfMTk4/MDAxNzkyMjg0NzM3Mzk0.PXvDbqcJQbMBLUu_8J0lRUM-4-_qXsTObImMIdznY_Ag.dfwKtyoauI2GV-HHAZMR8uZgIPZPvQKeXUefNIqjmIcg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Sat, 17 Oct 2026 18:41:02 +0900</pubDate>
                 <tag><![CDATA[Cisco,Quantum,Summit,2026,PsiQuantum,Pete,Shadbolt]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Series]]></category>
-                <title><![CDATA[Cisco Quantum Summit 2026 Day 2 — 패널 토론]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224444553990?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224444553990</guid>
-                
-                <description><![CDATA[2026년 10월 7일 개최된 Cisco Quantum Summit Day 2의 패널 토론(영상 약 03:32:04~04:14:18)을 요약했다. ✅ 1. 공식 프로그램의 Day 2 패널 명단과 실제 진행자 ✅ 2. 각 기업이 서로 다른 숫자를 발표하는데, 기술 발전을 판단할 단일 지표는 무엇인가?  03:33~03:39 — Logical Qubit 수만으로는 부족하다 Pranav Gokhale (Infleqtion): 계산의 폭을 나타내는 Logical Qubit 수와 계산의 깊이·규모를 나타내는 Logical Operations(QOPS)를 함께 봐야 한다. 하드웨어 방식에 따라 다른 구축 비용도 빠질 수 없다. Patrick Rall (IBM): Logical Gate라는 단일 범주도 균질하지 않다. T Gate 수, Bell Pair 소비량, 실행하는 데 걸리는 실....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTdfMTQg/MDAxNzkyMjAwMjU5Nzk1.pyjXUIwXIWEDXYnPNknsUO-fauZ1q4D3ZRpOJj4pKl4g.hiTXzdrwMsxwK2o754EZm6xCx9DxpefkhndbOtSoT7cg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Sat, 17 Oct 2026 11:37:24 +0900</pubDate>
-                <tag><![CDATA[Cisco,Quantum,Submmit,2026]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

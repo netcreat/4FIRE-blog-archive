@@ -2,25 +2,24 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-19T11:41:21+00:00_
+_Automatically generated: 2026-11-19T20:38:41+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
 [View the full status report](SUBSTACK_STATUS.md) · [Substack publication](https://netcreat.substack.com/) · [Naver blog](https://blog.naver.com/4-fire)
 
-> ⚠️ Live public Substack link discovery was unavailable in the latest run; confirmed manual mappings remain included.
-
 ## Summary
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 807 | 116 | 691 | 0 | 0 |
-| Recent 90 days (2026-08-21 → 2026-11-19) | 155 | 88 | 67 | 0 | 0 |
+| All | 808 | 114 | 691 | 0 | 3 |
+| Recent 90 days (2026-08-21 → 2026-11-19) | 156 | 86 | 67 | 0 | 3 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-19 | [AI 모델을 반도체로 만드는 시대, AMD는 무엇을 노리는가?](posts/2026/2026-11-19-224483933214.md) | ❌ Missing | — | `224483933214` |
 | 2026-11-19 | [IonQ의 국제 양자보안망 전략](posts/2026/2026-11-19-224483612297.md) | ❌ Missing | — | `224483612297` |
 | 2026-11-19 | [IonQ, 미국 국가안보의 핵심 인물들을 모으다](posts/2026/2026-11-19-224483141600.md) | ❌ Missing | — | `224483141600` |
 | 2026-11-18 | [IONQ 주가를 움직이는 것은 무엇인가](posts/2026/2026-11-18-224481483550.md) | ❌ Missing | — | `224481483550` |
@@ -50,6 +49,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-11-01 | [QSPM의 진짜 기술적 경쟁력은 탐지 센서가 아니라 배포 구조에 있는가?](posts/2026/2026-11-01-224461209664.md) | ✅ Published | [Is QSPM's Real Competitive Advantage in Deployment Architecture Rather Than Detection Sensors?](https://netcreat.substack.com/p/is-qspms-real-competitive-advantage) | `224461209664` |
 | 2026-11-01 | [PQC 탐지, 스위치가 열쇠가 될까요?](posts/2026/2026-11-01-224461135839.md) | ✅ Published | [PQC Detection: Could Existing Switches Be the Key?](https://netcreat.substack.com/p/pqc-detection-could-existing-switches) | `224461135839` |
 | 2026-11-01 | [IonQ의 Elisity 인수 평가 - 최최종](posts/2026/2026-11-01-224460878662.md) | ✅ Published | [Is IonQ Paying Too Much for Elisity?](https://netcreat.substack.com/p/is-ionq-paying-too-much-for-elisity) | `224460878662` |
-| 2026-10-30 | [IonQ의 SkyWater SP90 심층 분석](posts/2026/2026-10-30-224459237269.md) | ✅ Published | [IonQ’s SkyWater SP90: Inside the Quantum Photonics Platform](https://netcreat.substack.com/p/ionqs-skywater-sp90-inside-the-quantum) | `224459237269` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 807,
+  "totalArchivedPosts": 808,
   "posts": [
+    {
+      "date": "2026-11-19",
+      "published": "2026-11-19T23:55:55+11:00",
+      "title": "AI 모델을 반도체로 만드는 시대, AMD는 무엇을 노리는가?",
+      "logNo": "224483933214",
+      "source": "https://blog.naver.com/4-fire/224483933214?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-19-224483933214.md",
+      "content_source": "naver_post",
+      "characters": 11390
+    },
     {
       "date": "2026-11-19",
       "published": "2026-11-19T18:54:37+11:00",
