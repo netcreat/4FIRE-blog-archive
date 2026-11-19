@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-19T02:34:57+00:00_
+_Automatically generated: 2026-11-19T11:41:21+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 806 | 116 | 690 | 0 | 0 |
-| Recent 90 days (2026-08-21 → 2026-11-19) | 154 | 88 | 66 | 0 | 0 |
+| All | 807 | 116 | 691 | 0 | 0 |
+| Recent 90 days (2026-08-21 → 2026-11-19) | 155 | 88 | 67 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-19 | [IonQ의 국제 양자보안망 전략](posts/2026/2026-11-19-224483612297.md) | ❌ Missing | — | `224483612297` |
 | 2026-11-19 | [IonQ, 미국 국가안보의 핵심 인물들을 모으다](posts/2026/2026-11-19-224483141600.md) | ❌ Missing | — | `224483141600` |
 | 2026-11-18 | [IONQ 주가를 움직이는 것은 무엇인가](posts/2026/2026-11-18-224481483550.md) | ❌ Missing | — | `224481483550` |
 | 2026-11-18 | [IBM·Fermilab·NVIDIA 공동 설계 플랫폼과 13,000배 QEC 디코더의 진짜 의미](posts/2026/2026-11-18-224481079676.md) | ❌ Missing | — | `224481079676` |
@@ -174,10 +175,11 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **690**
+Total missing: **691**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-19 | [IonQ의 국제 양자보안망 전략](posts/2026/2026-11-19-224483612297.md) | ❌ Missing | — | `224483612297` |
 | 2026-11-19 | [IonQ, 미국 국가안보의 핵심 인물들을 모으다](posts/2026/2026-11-19-224483141600.md) | ❌ Missing | — | `224483141600` |
 | 2026-11-18 | [IONQ 주가를 움직이는 것은 무엇인가](posts/2026/2026-11-18-224481483550.md) | ❌ Missing | — | `224481483550` |
 | 2026-11-18 | [IBM·Fermilab·NVIDIA 공동 설계 플랫폼과 13,000배 QEC 디코더의 진짜 의미](posts/2026/2026-11-18-224481079676.md) | ❌ Missing | — | `224481079676` |
@@ -876,10 +878,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 806 Naver posts</summary>
+<summary>Show all 807 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-19 | [IonQ의 국제 양자보안망 전략](posts/2026/2026-11-19-224483612297.md) | ❌ Missing | — | `224483612297` |
 | 2026-11-19 | [IonQ, 미국 국가안보의 핵심 인물들을 모으다](posts/2026/2026-11-19-224483141600.md) | ❌ Missing | — | `224483141600` |
 | 2026-11-18 | [IONQ 주가를 움직이는 것은 무엇인가](posts/2026/2026-11-18-224481483550.md) | ❌ Missing | — | `224481483550` |
 | 2026-11-18 | [IBM·Fermilab·NVIDIA 공동 설계 플랫폼과 13,000배 QEC 디코더의 진짜 의미](posts/2026/2026-11-18-224481079676.md) | ❌ Missing | — | `224481079676` |

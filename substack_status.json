@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T02:34:57+00:00",
+  "generated_at": "2026-11-19T11:41:21+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 806,
+    "total": 807,
     "published": 116,
-    "missing": 690,
+    "missing": 691,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,29 @@
     "days": 90,
     "start": "2026-08-21",
     "end": "2026-11-19",
-    "total": 154,
+    "total": 155,
     "published": 88,
-    "missing": 66,
+    "missing": 67,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-19",
+        "title": "IonQ의 국제 양자보안망 전략",
+        "logNo": "224483612297",
+        "url": "https://blog.naver.com/4-fire/224483612297?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-19-224483612297.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-19",

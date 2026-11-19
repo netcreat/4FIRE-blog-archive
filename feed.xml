@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Thu, 19 Nov 2026 11:34:27 +0900</pubDate>
+            <pubDate>Thu, 19 Nov 2026 20:40:51 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ의 국제 양자보안망 전략]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224483612297?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224483612297</guid>
+                
+                <description><![CDATA[✅ QKD–PQC 연결과 Q-KMS의 진짜 경쟁력 2026년 11월 19일, SK브로드밴드는 부산–싱가포르 SJC2 해저케이블을 활용한 국제 양자보안 시험망 구축 계획을 발표했다. 국내와 싱가포르 현지에서는 QKD(양자키분배), 장거리 해저케이블에서는 PQC(양자내성암호)를 활용해 하나의 보안 네트워크로 연동하는 구상이다. 아이온큐(IonQ)가 NIA 및 SK브로드밴드와 함께 싱가포르를 방문해 기술 협의에 참여했다는 점이 눈에 띈다. 다만 SK브로드밴드의 사업 수행기관 선정과 아이온큐의 신규 장비 공급 계약 확정은 서로 다른 사실이다. 이번 사안을 기술적으로 이해하기 위한 핵심 질문은 두 가지다. 서로 다른 QKD·PQC 보안 구간을 어떻게 연결하는가....... <img src="https://blogthumb.pstatic.net/MjAyNjExMTlfMjg1/MDAxNzk1MDc0MTIwNTQ3.8dxVN3J63MYm0MKcp_wV8HjYFO-zuMb3Xxvw_S0mVx0g.QBkDgTJ4tRWynbZ10VpfMD0prJkFbX8x36UxqbB95kgg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Thu, 19 Nov 2026 16:54:37 +0900</pubDate>
+                <tag><![CDATA[IonQ,QKD,PQC,QKMS]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[2026년 10월 7일 개최된 Cisco Quantum Summit Day 2의 패널 토론(영상 약 03:32:04~04:14:18)을 요약했다. ✅ 1. 공식 프로그램의 Day 2 패널 명단과 실제 진행자 ✅ 2. 각 기업이 서로 다른 숫자를 발표하는데, 기술 발전을 판단할 단일 지표는 무엇인가?  03:33~03:39 — Logical Qubit 수만으로는 부족하다 Pranav Gokhale (Infleqtion): 계산의 폭을 나타내는 Logical Qubit 수와 계산의 깊이·규모를 나타내는 Logical Operations(QOPS)를 함께 봐야 한다. 하드웨어 방식에 따라 다른 구축 비용도 빠질 수 없다. Patrick Rall (IBM): Logical Gate라는 단일 범주도 균질하지 않다. T Gate 수, Bell Pair 소비량, 실행하는 데 걸리는 실....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTdfMTQg/MDAxNzkyMjAwMjU5Nzk1.pyjXUIwXIWEDXYnPNknsUO-fauZ1q4D3ZRpOJj4pKl4g.hiTXzdrwMsxwK2o754EZm6xCx9DxpefkhndbOtSoT7cg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Sat, 17 Oct 2026 11:37:24 +0900</pubDate>
                 <tag><![CDATA[Cisco,Quantum,Submmit,2026]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[IonQ 3차례 유상증자 분석 — HCM은 주식을 팔고 워런트로 얼마나 벌 수 있을까?]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224443846709?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224443846709</guid>
-                <description><![CDATA[✅ IonQ 3차례 유상증자 비교 — 실제 급락일 매도를 가정하면 수익은 얼마일까? IonQ는 2025년 7월(Series A), 2025년 10월(Series B), 2026년 10월(Series C) 각각 보통주, 선납형 워런트(Pre-funded Warrant), 추가 워런트를 결합한 자금조달을 발표했다. Series A는 2025년 7월 11일 $41.81, Series B는 2025년 10월 16일 $65.59에 보통주와 선납형 워런트 전환 주식을 모두 매도했다고 고정 가정한다. HCM측의 2025년 3분기·4분기 13F에 IONQ 보통주가 나타나지 않는다. HCM이 받은 보통주의 매도를 의무적으로 지연시키는 락업은 확인되지 않았다. 두 증자의 완료일로부터 정확히 2거래일 뒤에 각각 -8.97%, -9.42%의 급락이 나타났다. 따.......]]></description>
-                
-                <pubDate>Fri, 16 Oct 2026 16:14:59 +0900</pubDate>
-                <tag><![CDATA[IonQ,유상증자,HCM,수익률]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>
