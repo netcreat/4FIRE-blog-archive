@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-18T20:32:00+00:00_
+_Automatically generated: 2026-11-19T02:34:57+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 805 | 116 | 689 | 0 | 0 |
-| Recent 90 days (2026-08-20 → 2026-11-18) | 154 | 88 | 66 | 0 | 0 |
+| All | 806 | 116 | 690 | 0 | 0 |
+| Recent 90 days (2026-08-21 → 2026-11-19) | 154 | 88 | 66 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-19 | [IonQ, 미국 국가안보의 핵심 인물들을 모으다](posts/2026/2026-11-19-224483141600.md) | ❌ Missing | — | `224483141600` |
 | 2026-11-18 | [IONQ 주가를 움직이는 것은 무엇인가](posts/2026/2026-11-18-224481483550.md) | ❌ Missing | — | `224481483550` |
 | 2026-11-18 | [IBM·Fermilab·NVIDIA 공동 설계 플랫폼과 13,000배 QEC 디코더의 진짜 의미](posts/2026/2026-11-18-224481079676.md) | ❌ Missing | — | `224481079676` |
 | 2026-11-17 | [IonQ 2026년 3분기 기관투자자 13F 분석](posts/2026/2026-11-17-224480855724.md) | ❌ Missing | — | `224480855724` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-11-01 | [IonQ의 Elisity 인수 평가 - 최최종](posts/2026/2026-11-01-224460878662.md) | ✅ Published | [Is IonQ Paying Too Much for Elisity?](https://netcreat.substack.com/p/is-ionq-paying-too-much-for-elisity) | `224460878662` |
 | 2026-10-30 | [IonQ의 SkyWater SP90 심층 분석](posts/2026/2026-10-30-224459237269.md) | ✅ Published | [IonQ’s SkyWater SP90: Inside the Quantum Photonics Platform](https://netcreat.substack.com/p/ionqs-skywater-sp90-inside-the-quantum) | `224459237269` |
 | 2026-10-30 | [마이크로세그멘테이션 7대 기술과 경쟁사 총정리](posts/2026/2026-10-30-224458689317.md) | ✅ Published | [Seven Core Microsegmentation Technologies: A Comprehensive Comparison of Elisity and Its Competitors](https://netcreat.substack.com/p/seven-core-microsegmentation-technologies) | `224458689317` |
-| 2026-10-29 | [영국 Quantum Leap과 우주 양자 로드맵](posts/2026/2026-10-29-224457341737.md) | ✅ Published | [The UK's Quantum Leap and Its Space Quantum Roadmap](https://netcreat.substack.com/p/the-uks-quantum-leap-and-its-space) | `224457341737` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

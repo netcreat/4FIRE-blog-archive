@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 805,
+  "totalArchivedPosts": 806,
   "posts": [
+    {
+      "date": "2026-11-19",
+      "published": "2026-11-19T12:58:54+11:00",
+      "title": "IonQ, 미국 국가안보의 핵심 인물들을 모으다",
+      "logNo": "224483141600",
+      "source": "https://blog.naver.com/4-fire/224483141600?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-19-224483141600.md",
+      "content_source": "naver_post",
+      "characters": 16321
+    },
     {
       "date": "2026-11-18",
       "published": "2026-11-18T09:51:00+11:00",

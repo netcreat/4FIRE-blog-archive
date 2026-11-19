@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:32:00+00:00",
+  "generated_at": "2026-11-19T02:34:57+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,16 +24,16 @@
     }
   },
   "summary": {
-    "total": 805,
+    "total": 806,
     "published": 116,
-    "missing": 689,
+    "missing": 690,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-08-20",
-    "end": "2026-11-18",
+    "start": "2026-08-21",
+    "end": "2026-11-19",
     "total": 154,
     "published": 88,
     "missing": 66,
@@ -43,6 +43,20 @@
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-19",
+        "title": "IonQ, 미국 국가안보의 핵심 인물들을 모으다",
+        "logNo": "224483141600",
+        "url": "https://blog.naver.com/4-fire/224483141600?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-19-224483141600.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-18",

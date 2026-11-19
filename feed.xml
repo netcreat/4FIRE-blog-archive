@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Thu, 19 Nov 2026 05:31:32 +0900</pubDate>
+            <pubDate>Thu, 19 Nov 2026 11:34:27 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ, 미국 국가안보의 핵심 인물들을 모으다]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224483141600?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224483141600</guid>
+                
+                <description><![CDATA[✅ IonQ Federal Advisory Board — 8명의 이력을 파헤쳐 보니 NSA·DIA·DARPA·미 육군·Lockheed Martin·Leidos. 이들의 공통점은 무엇일까? 2026년 11월 17일 IonQ는 미국 연방정부 사업을 지원하는 Federal Advisory Board의 구성을 공식 발표했다. 8명의 자문위원 명단에는 전직 NSA 부국장, DIA 국장, DARPA 국장, 미 육군 4성 장군, 글로벌 방산기업의 최고경영진까지 포함되어 있다. 각 인물의 과거 경력을 자세히 조사하면 단순히 유명 인사를 영입한 것 이상의 의미가 드러난다. 이들은 기술을 연구하고, 국가안보 정책을 수립하고, 대규모 국방사업을 운영하고, 신기술을 실제 군사 시스템에 도입해 본 사람들이다. 이 글에서는 확인된 경....... <img src="https://blogthumb.pstatic.net/MjAyNjExMTlfMTIx/MDAxNzk1MDUzMTQzMzcw.jMVZU5lHbi5yzqVIrDgtWdlcdYXlo7zgS-7WAsg04yAg.Q2Rhp0cupamkxVtKRBFTPWYMmzTVaL8cMEix0ELnvxcg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Thu, 19 Nov 2026 10:58:54 +0900</pubDate>
+                <tag><![CDATA[IonQ,Federal,Advisory,Board]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 
                 <pubDate>Fri, 16 Oct 2026 16:14:59 +0900</pubDate>
                 <tag><![CDATA[IonQ,유상증자,HCM,수익률]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[Cashless Exercise라는 옵션]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224443610974?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224443610974</guid>
-                <description><![CDATA[✅ IonQ의 세 차례 유상증자: Cashless Exercise가 줄일 수 있는 기존 주주 지분율 희석 후속 분석: https://blog.naver.com/4-fire/224442909980(2026년 10월 15일)에서 현금 행사만 가정했던 내용을 보완한다. 기존 글에서는 Heights Capital Management(HCM)가 받은 Series A·B·C 추가 워런트가 전부 현금 행사되면 IonQ가 막대한 추가 현금을 확보하고 그만큼 신주가 발행된다고 계산했다. 하지만 SEC 계약에는 Cashless Exercise(현금 없는 행사)라는 선택지가 있다. 이 방식을 적용하면 회사는 추가 행사대금을 받지 않는 대신, 훨씬 적은 주식을 발행할 수 있다. 이 글의 초점은 “HCM의 워런트 행사차익과 이론적 경제가치는 기본적으로.......]]></description>
-                
-                <pubDate>Fri, 16 Oct 2026 12:41:15 +0900</pubDate>
-                <tag><![CDATA[IonQ,Cashless,Exercise]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>
