@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-20T02:20:06+00:00_
+_Automatically generated: 2026-11-20T11:41:15+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 810 | 117 | 693 | 0 | 0 |
-| Recent 90 days (2026-08-22 → 2026-11-20) | 156 | 89 | 67 | 0 | 0 |
+| All | 811 | 117 | 694 | 0 | 0 |
+| Recent 90 days (2026-08-22 → 2026-11-20) | 157 | 89 | 68 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-20 | [IONQ 주가는 왜 10월부터 계속 하락하는가?](posts/2026/2026-11-20-224484932877.md) | ❌ Missing | — | `224484932877` |
 | 2026-11-20 | [(설령)IONQ를 믿어도 IONX는 다르게 접근해야 한다](posts/2026/2026-11-20-224484434423.md) | ❌ Missing | — | `224484434423` |
 | 2026-11-20 | [NVIDIA, Slurm에 QPU를 편입하다 — 그 이면에 담긴 두 가지 의미](posts/2026/2026-11-20-224484048655.md) | ❌ Missing | — | `224484048655` |
 | 2026-11-19 | [AI 모델을 반도체로 만드는 시대, AMD는 무엇을 노리는가?](posts/2026/2026-11-19-224483933214.md) | ❌ Missing | — | `224483933214` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-11-04 | [양자보안 심화 (2) — AES 비밀키의 공유와 보호: USB·QKD·OTP·Hybrid PQC, HNDL과 키 관리](posts/2026/2026-11-04-224463838699.md) | ✅ Published | [Quantum Security Deep Dive (2) — Sharing and Protecting AES Secret Keys: USB, QKD, OTP, Hybrid PQC, HNDL, and Key Management](https://netcreat.substack.com/p/quantum-security-deep-dive-2-sharing) | `224463838699` |
 | 2026-11-03 | [양자보안 심화 (1) — RSA·ECC·PQC·AES: 전자서명, 키 설정, 데이터 암호화와 양자 내성](posts/2026/2026-11-03-224462489845.md) | ✅ Published | [Quantum Security Deep Dive (1) — RSA, ECC, PQC, and AES: Digital Signatures, Key Establishment, Data Encryption, and Quantum Resistance](https://netcreat.substack.com/p/quantum-security-deep-dive-1-rsa) | `224462489845` |
 | 2026-11-02 | [양자컴퓨터가 발전하면 모든 암호가 깨질까요? — 입문편](posts/2026/2026-11-02-224462391443.md) | ✅ Published | [Will Quantum Computers Break All Encryption? — A Beginner’s Guide](https://netcreat.substack.com/p/will-quantum-computers-break-all) | `224462391443` |
-| 2026-11-01 | [QSPM의 진짜 기술적 경쟁력은 탐지 센서가 아니라 배포 구조에 있는가?](posts/2026/2026-11-01-224461209664.md) | ✅ Published | [Is QSPM's Real Competitive Advantage in Deployment Architecture Rather Than Detection Sensors?](https://netcreat.substack.com/p/is-qspms-real-competitive-advantage) | `224461209664` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

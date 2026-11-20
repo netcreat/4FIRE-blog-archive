@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 810,
+  "totalArchivedPosts": 811,
   "posts": [
+    {
+      "date": "2026-11-20",
+      "published": "2026-11-20T18:45:39+11:00",
+      "title": "IONQ 주가는 왜 10월부터 계속 하락하는가?",
+      "logNo": "224484932877",
+      "source": "https://blog.naver.com/4-fire/224484932877?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-20-224484932877.md",
+      "content_source": "naver_post",
+      "characters": 16886
+    },
     {
       "date": "2026-11-20",
       "published": "2026-11-20T12:21:42+11:00",

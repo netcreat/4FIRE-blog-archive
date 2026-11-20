@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-20T02:20:06+00:00_
+_Automatically generated: 2026-11-20T11:41:15+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 810 | 117 | 693 | 0 | 0 |
-| Recent 90 days (2026-08-22 → 2026-11-20) | 156 | 89 | 67 | 0 | 0 |
+| All | 811 | 117 | 694 | 0 | 0 |
+| Recent 90 days (2026-08-22 → 2026-11-20) | 157 | 89 | 68 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-20 | [IONQ 주가는 왜 10월부터 계속 하락하는가?](posts/2026/2026-11-20-224484932877.md) | ❌ Missing | — | `224484932877` |
 | 2026-11-20 | [(설령)IONQ를 믿어도 IONX는 다르게 접근해야 한다](posts/2026/2026-11-20-224484434423.md) | ❌ Missing | — | `224484434423` |
 | 2026-11-20 | [NVIDIA, Slurm에 QPU를 편입하다 — 그 이면에 담긴 두 가지 의미](posts/2026/2026-11-20-224484048655.md) | ❌ Missing | — | `224484048655` |
 | 2026-11-19 | [AI 모델을 반도체로 만드는 시대, AMD는 무엇을 노리는가?](posts/2026/2026-11-19-224483933214.md) | ❌ Missing | — | `224483933214` |
@@ -176,10 +177,11 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **693**
+Total missing: **694**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-20 | [IONQ 주가는 왜 10월부터 계속 하락하는가?](posts/2026/2026-11-20-224484932877.md) | ❌ Missing | — | `224484932877` |
 | 2026-11-20 | [(설령)IONQ를 믿어도 IONX는 다르게 접근해야 한다](posts/2026/2026-11-20-224484434423.md) | ❌ Missing | — | `224484434423` |
 | 2026-11-20 | [NVIDIA, Slurm에 QPU를 편입하다 — 그 이면에 담긴 두 가지 의미](posts/2026/2026-11-20-224484048655.md) | ❌ Missing | — | `224484048655` |
 | 2026-11-19 | [AI 모델을 반도체로 만드는 시대, AMD는 무엇을 노리는가?](posts/2026/2026-11-19-224483933214.md) | ❌ Missing | — | `224483933214` |
@@ -881,10 +883,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 810 Naver posts</summary>
+<summary>Show all 811 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-20 | [IONQ 주가는 왜 10월부터 계속 하락하는가?](posts/2026/2026-11-20-224484932877.md) | ❌ Missing | — | `224484932877` |
 | 2026-11-20 | [(설령)IONQ를 믿어도 IONX는 다르게 접근해야 한다](posts/2026/2026-11-20-224484434423.md) | ❌ Missing | — | `224484434423` |
 | 2026-11-20 | [NVIDIA, Slurm에 QPU를 편입하다 — 그 이면에 담긴 두 가지 의미](posts/2026/2026-11-20-224484048655.md) | ❌ Missing | — | `224484048655` |
 | 2026-11-19 | [AI 모델을 반도체로 만드는 시대, AMD는 무엇을 노리는가?](posts/2026/2026-11-19-224483933214.md) | ❌ Missing | — | `224483933214` |

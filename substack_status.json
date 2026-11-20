@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T02:20:06+00:00",
+  "generated_at": "2026-11-20T11:41:15+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,9 +24,9 @@
     }
   },
   "summary": {
-    "total": 810,
+    "total": 811,
     "published": 117,
-    "missing": 693,
+    "missing": 694,
     "skip": 0,
     "check": 0
   },
@@ -34,15 +34,29 @@
     "days": 90,
     "start": "2026-08-22",
     "end": "2026-11-20",
-    "total": 156,
+    "total": 157,
     "published": 89,
-    "missing": 67,
+    "missing": 68,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-20",
+        "title": "IONQ 주가는 왜 10월부터 계속 하락하는가?",
+        "logNo": "224484932877",
+        "url": "https://blog.naver.com/4-fire/224484932877?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-20-224484932877.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-20",
