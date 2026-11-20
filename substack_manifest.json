@@ -1324,6 +1324,24 @@
           "QPU"
         ]
       }
+    },
+    "224484048655": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "양자컴퓨터도 이제 슈퍼컴퓨터의 일부가 됩니다 — NVIDIA 발표의 두 가지 의미",
+          "url": "https://netcreat.substack.com/p/nvidia",
+          "published_date": "2026-11-19"
+        }
+      ],
+      "auto_match": {
+        "method": "direct_naver_logNo",
+        "score": 10000,
+        "matched_at": "2026-11-20T20:22:04+00:00",
+        "shared_urls": [],
+        "shared_identifiers": []
+      }
     }
   }
 }

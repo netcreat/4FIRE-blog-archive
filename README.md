@@ -2,20 +2,18 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-20T11:41:15+00:00_
+_Automatically generated: 2026-11-20T20:22:05+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
 [View the full status report](SUBSTACK_STATUS.md) · [Substack publication](https://netcreat.substack.com/) · [Naver blog](https://blog.naver.com/4-fire)
 
-> ⚠️ Live public Substack link discovery was unavailable in the latest run; confirmed manual mappings remain included.
-
 ## Summary
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 811 | 117 | 694 | 0 | 0 |
-| Recent 90 days (2026-08-22 → 2026-11-20) | 157 | 89 | 68 | 0 | 0 |
+| All | 811 | 115 | 693 | 0 | 3 |
+| Recent 90 days (2026-08-22 → 2026-11-20) | 157 | 87 | 67 | 0 | 3 |
 
 ## Latest 30 Naver posts
 
@@ -23,7 +21,7 @@ Track Naver posts and their English Substack editions. **The table below is upda
 |---|---|---|---|---|
 | 2026-11-20 | [IONQ 주가는 왜 10월부터 계속 하락하는가?](posts/2026/2026-11-20-224484932877.md) | ❌ Missing | — | `224484932877` |
 | 2026-11-20 | [(설령)IONQ를 믿어도 IONX는 다르게 접근해야 한다](posts/2026/2026-11-20-224484434423.md) | ❌ Missing | — | `224484434423` |
-| 2026-11-20 | [NVIDIA, Slurm에 QPU를 편입하다 — 그 이면에 담긴 두 가지 의미](posts/2026/2026-11-20-224484048655.md) | ❌ Missing | — | `224484048655` |
+| 2026-11-20 | [NVIDIA, Slurm에 QPU를 편입하다 — 그 이면에 담긴 두 가지 의미](posts/2026/2026-11-20-224484048655.md) | ✅ Published | [양자컴퓨터도 이제 슈퍼컴퓨터의 일부가 됩니다 — NVIDIA 발표의 두 가지 의미](https://netcreat.substack.com/p/nvidia) | `224484048655` |
 | 2026-11-19 | [AI 모델을 반도체로 만드는 시대, AMD는 무엇을 노리는가?](posts/2026/2026-11-19-224483933214.md) | ❌ Missing | — | `224483933214` |
 | 2026-11-19 | [IonQ의 국제 양자보안망 전략](posts/2026/2026-11-19-224483612297.md) | ❌ Missing | — | `224483612297` |
 | 2026-11-19 | [IonQ, 미국 국가안보의 핵심 인물들을 모으다](posts/2026/2026-11-19-224483141600.md) | ❌ Missing | — | `224483141600` |
