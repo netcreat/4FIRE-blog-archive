@@ -21,7 +21,35 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Sat, 21 Nov 2026 20:03:04 +0900</pubDate>
+            <pubDate>Sun, 22 Nov 2026 04:16:12 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ가 커질수록 누가 더 이익을 얻는가?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224486437455?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224486437455</guid>
+                <description><![CDATA[✅ dMY 인맥·50억 달러 증자·이해관계의 비대칭 이 글은 IonQ의 양자컴퓨터 기술력을 평가하는 글이 아니다. 최근 기업 확장을 추진하는 사람들의 경제적 목표와, 그 확장에 자본을 제공하는 기존 주주들의 목표가 실제로 얼마나 일치하는지 검토하는 글이다. 출발점은 세 가지 사실이다. ① dMY 공동창업자인 Niccolo de Masi가 IonQ의 CEO이자 이사회 의장을 맡고 있다. ② dMY 공동창업자 Harry You가 추진한 Horizon Quantum과 Berto–AMPERA 거래에 IonQ가 투자했다. ③ IonQ는 2025~2026년 Heights Capital Management(HCM) 관련 세 차례 거래로 총 약 50억 달러를 조달하면서 대규모 장기 워런트도 발행했다. 기업을 키우기 위한 자본조달.......]]></description>
+                
+                <pubDate>Sat, 21 Nov 2026 23:19:33 +0900</pubDate>
+                <tag><![CDATA[IonQ]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[AMPERA 심층 분석]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224486354850?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224486354850</guid>
+                
+                <description><![CDATA[✅ IonQ의 2,500만 달러 투자부터 가스·폐열발전, 토륨 미임계 원자로와 경쟁사까지 분석 기준일: 2026년 11월 21일. SEC 공시와 지금까지 검토한 기술·사업·경쟁력 분석을 통합한 글이다. 분석 범위: Berto–AMPERA SPAC 합병, IonQ PIPE 투자, Harry You 및 Horizon Quantum 사례, PowerNOW·sPower·NuclearNEXT, 토륨 및 미임계의 물리, 가스·폐열발전 사업성, 원자로 경쟁기업, 기술·재무적 리스크. 검증 원칙: SEC 및 기업이 밝힌 목표치, 별도 실증된 성과, 계산상 가정과 개인적인 분석을 엄격하게 구분한다. 회사가 제시하는 LCOE(Levelized Cost of Energy - 균등화 발전원가)와 상용화 목표는 실제 달성 수치가 아니다. ✅ 1. IonQ와 AM....... <img src="https://blogthumb.pstatic.net/MjAyNjExMjFfMTA4/MDAxNzk1MjY0Mjc3ODIy.fo-F3aF1893aRiq4FoGKcRIu6xnkAfqSd-N7bcWKWnMg.fNSesmaHzJT6a9WF_Nqil7WdH49dM3JY1fPKQab_y0Ag.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sat, 21 Nov 2026 21:44:13 +0900</pubDate>
+                <tag><![CDATA[IonQ,Ampera,Berto,SPAC,TACO,AMPR]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -691,34 +719,6 @@
                 
                 <pubDate>Thu, 22 Oct 2026 21:50:31 +0900</pubDate>
                 <tag><![CDATA[양자컴퓨터,해킹,보안]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Quantinuum]]></category>
-                <title><![CDATA[Quantinuum의 논리 오류율 10배 개선의 의미?]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224447108213?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224447108213</guid>
-                
-                <description><![CDATA[✅ IonQ의 고충실도·대량생산 전략과 비교하면? 2026년 10월 19일 Quantinuum은 Helios 양자컴퓨터에서 99.9995%의 논리 메모리 충실도(Logical Memory Fidelity)를 달성했다고 발표했다. 지난 9월 Helix Code로 세운 자사의 기록보다 오류율을 약 10배 낮췄으며, Code Distance가 증가할 때 논리 오류가 평균 12분의 1로 감소하는 결과도 제시했다. 이 발표를 보고 몇 가지 의문이 생겼다. Quantinuum은 왜 부호화 효율이 높은 BB 계열 qLDPC 대신 Color Code를 사용했을까? 발표에 등장하는 Λ=12는 어떤 의미이며, IonQ에도 이에 대응하는 실험 결과가 있을까? Quantinuum의 99.9995%와 IonQ의 99.99% 또는 99.995%를 직접 비교할 수 있....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTlfMTUz/MDAxNzkyNDE4NzAyMDU3.-d8QwwBw_hFAYBcWpPLcuu8k1P3nMcO-m-xLveMgkEog.jklVocsbUfsLx2vlBfS4WSPgAex44U9zw_rFBgMsthUg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Mon, 19 Oct 2026 23:23:25 +0900</pubDate>
-                <tag><![CDATA[Quantinuum]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Series]]></category>
-                <title><![CDATA[Cisco Quantum Summit 2026 Day 1 — Quantum Position Verification(QPV)]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224446825415?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224446825415</guid>
-                
-                <description><![CDATA[✅ Quantum Position Verification(QPV) — 양자 인터넷의 첫 킬러앱이 될 수 있을까? 2026년 10월 Cisco Quantum Summit Day 1에서 JPMorgan Chase의 Kaushik Chakraborty는 「Quantum Position Verification: Physics-Backed Location Attestation for Metro-Scale Quantum Networks」를 발표했다. 앞선 Qunnect의 Mehdi Namazi도 이를 실제 양자 네트워크 응용으로 소개했고, 패널에서는 Boeing의 Makan Mohageg이 사용자에게 정량화 가능한 가치를 제공할 수 있는 기술이라고 평가했다. QPV(Quantum Position Verification, 양자 위치 검증)는 상대방이 주장한 장소에서 실제로 응답했는지 검증하는 기술이다. GPS처럼 현재 좌표를 계산하는....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMTlfOTkg/MDAxNzkyNDAwODgxNTQ5.uoehbOILRkY201QprFagOc7WcpjV_u4PsBQm2pbp58kg.BecIBwjosxUx0kk65qqCweWs4LxYw3okKc2cBvD1Z60g.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Mon, 19 Oct 2026 18:23:06 +0900</pubDate>
-                <tag><![CDATA[Cisco,Quantum,summit,2026,QPV,CVPV]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

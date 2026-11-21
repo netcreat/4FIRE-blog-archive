@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-21T11:03:34+00:00_
+_Automatically generated: 2026-11-21T19:16:44+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,15 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 811 | 118 | 693 | 0 | 0 |
-| Recent 90 days (2026-08-22 → 2026-11-20) | 157 | 90 | 67 | 0 | 0 |
+| All | 813 | 118 | 695 | 0 | 0 |
+| Recent 90 days (2026-08-24 → 2026-11-22) | 156 | 89 | 67 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-22 | [IonQ가 커질수록 누가 더 이익을 얻는가?](posts/2026/2026-11-22-224486437455.md) | ❌ Missing | — | `224486437455` |
+| 2026-11-21 | [AMPERA 심층 분석](posts/2026/2026-11-21-224486354850.md) | ❌ Missing | — | `224486354850` |
 | 2026-11-20 | [IONQ 주가는 왜 10월부터 계속 하락하는가?](posts/2026/2026-11-20-224484932877.md) | ❌ Missing | — | `224484932877` |
 | 2026-11-20 | [(설령)IONQ를 믿어도 IONX는 다르게 접근해야 한다](posts/2026/2026-11-20-224484434423.md) | ❌ Missing | — | `224484434423` |
 | 2026-11-20 | [NVIDIA, Slurm에 QPU를 편입하다 — 그 이면에 담긴 두 가지 의미](posts/2026/2026-11-20-224484048655.md) | ✅ Published | [양자컴퓨터도 이제 슈퍼컴퓨터의 일부가 됩니다 — NVIDIA 발표의 두 가지 의미](https://netcreat.substack.com/p/nvidia) | `224484048655` |
@@ -171,16 +173,15 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-08-26 | [다체 얽힘과 DARPA의 MeasQuIT, 그리고 IonQ](posts/2026/2026-08-26-224391224410.md) | ❌ Missing | — | `224391224410` |
 | 2026-08-25 | [IonQ, 이사회에 2명의 새로운 인물을 추가하다](posts/2026/2026-08-25-224390174091.md) | ❌ Missing | — | `224390174091` |
 | 2026-08-25 | [G7, 금융 시스템의 양자 시대 전환을 시작하다](posts/2026/2026-08-25-224390117777.md) | ❌ Missing | — | `224390117777` |
-| 2026-08-23 | [우리 집 배터리도 작은 발전소가 되었다 (VPP)](posts/2026/2026-08-23-224387608597.md) | ❌ Missing | — | `224387608597` |
-| 2026-08-23 | [왜 IonQ는 지금 ‘Many-Body’에 집중하는가?](posts/2026/2026-08-23-224387439036.md) | ✅ Published | [Why Is IonQ Suddenly Focusing on “Many-Body”?](https://netcreat.substack.com/p/why-is-ionq-suddenly-focusing-on) | `224387439036` |
-| 2026-08-22 | [칩에서 회사까지: IonQ를 관통하는 Walking Cat Architecture](posts/2026/2026-08-22-224386904490.md) | ❌ Missing | — | `224386904490` |
 
 ## Missing from Substack
 
-Total missing: **693**
+Total missing: **695**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-22 | [IonQ가 커질수록 누가 더 이익을 얻는가?](posts/2026/2026-11-22-224486437455.md) | ❌ Missing | — | `224486437455` |
+| 2026-11-21 | [AMPERA 심층 분석](posts/2026/2026-11-21-224486354850.md) | ❌ Missing | — | `224486354850` |
 | 2026-11-20 | [IONQ 주가는 왜 10월부터 계속 하락하는가?](posts/2026/2026-11-20-224484932877.md) | ❌ Missing | — | `224484932877` |
 | 2026-11-20 | [(설령)IONQ를 믿어도 IONX는 다르게 접근해야 한다](posts/2026/2026-11-20-224484434423.md) | ❌ Missing | — | `224484434423` |
 | 2026-11-19 | [AI 모델을 반도체로 만드는 시대, AMD는 무엇을 노리는가?](posts/2026/2026-11-19-224483933214.md) | ❌ Missing | — | `224483933214` |
@@ -882,10 +883,12 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 811 Naver posts</summary>
+<summary>Show all 813 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-22 | [IonQ가 커질수록 누가 더 이익을 얻는가?](posts/2026/2026-11-22-224486437455.md) | ❌ Missing | — | `224486437455` |
+| 2026-11-21 | [AMPERA 심층 분석](posts/2026/2026-11-21-224486354850.md) | ❌ Missing | — | `224486354850` |
 | 2026-11-20 | [IONQ 주가는 왜 10월부터 계속 하락하는가?](posts/2026/2026-11-20-224484932877.md) | ❌ Missing | — | `224484932877` |
 | 2026-11-20 | [(설령)IONQ를 믿어도 IONX는 다르게 접근해야 한다](posts/2026/2026-11-20-224484434423.md) | ❌ Missing | — | `224484434423` |
 | 2026-11-20 | [NVIDIA, Slurm에 QPU를 편입하다 — 그 이면에 담긴 두 가지 의미](posts/2026/2026-11-20-224484048655.md) | ✅ Published | [양자컴퓨터도 이제 슈퍼컴퓨터의 일부가 됩니다 — NVIDIA 발표의 두 가지 의미](https://netcreat.substack.com/p/nvidia) | `224484048655` |

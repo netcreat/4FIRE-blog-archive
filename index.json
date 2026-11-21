@@ -2,8 +2,28 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 811,
+  "totalArchivedPosts": 813,
   "posts": [
+    {
+      "date": "2026-11-22",
+      "published": "2026-11-22T01:19:33+11:00",
+      "title": "IonQ가 커질수록 누가 더 이익을 얻는가?",
+      "logNo": "224486437455",
+      "source": "https://blog.naver.com/4-fire/224486437455?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-22-224486437455.md",
+      "content_source": "naver_post",
+      "characters": 18242
+    },
+    {
+      "date": "2026-11-21",
+      "published": "2026-11-21T23:44:13+11:00",
+      "title": "AMPERA 심층 분석",
+      "logNo": "224486354850",
+      "source": "https://blog.naver.com/4-fire/224486354850?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-21-224486354850.md",
+      "content_source": "naver_post",
+      "characters": 31185
+    },
     {
       "date": "2026-11-20",
       "published": "2026-11-20T18:45:39+11:00",
