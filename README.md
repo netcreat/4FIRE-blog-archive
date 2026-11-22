@@ -2,20 +2,18 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-21T19:16:44+00:00_
+_Automatically generated: 2026-11-22T01:20:34+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
 [View the full status report](SUBSTACK_STATUS.md) · [Substack publication](https://netcreat.substack.com/) · [Naver blog](https://blog.naver.com/4-fire)
 
-> ⚠️ Live public Substack link discovery was unavailable in the latest run; confirmed manual mappings remain included.
-
 ## Summary
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 813 | 118 | 695 | 0 | 0 |
-| Recent 90 days (2026-08-24 → 2026-11-22) | 156 | 89 | 67 | 0 | 0 |
+| All | 813 | 115 | 695 | 0 | 3 |
+| Recent 90 days (2026-08-24 → 2026-11-22) | 156 | 86 | 67 | 0 | 3 |
 
 ## Latest 30 Naver posts
 

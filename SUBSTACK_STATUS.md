@@ -1,17 +1,15 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-21T19:16:44+00:00_
+_Automatically generated: 2026-11-22T01:20:34+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
-
-> ⚠️ Substack public sitemap could not be fetched during this run. Existing manifest mappings were kept, but live public-link validation was skipped.
 
 ## Summary
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 813 | 118 | 695 | 0 | 0 |
-| Recent 90 days (2026-08-24 → 2026-11-22) | 156 | 89 | 67 | 0 | 0 |
+| All | 813 | 115 | 695 | 0 | 3 |
+| Recent 90 days (2026-08-24 → 2026-11-22) | 156 | 86 | 67 | 0 | 3 |
 
 ## Recent 90 days
 
@@ -72,9 +70,9 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — 양자 네트워크 전송 인프라를 어떻게 봐야 하나](posts/2026/2026-10-19-224446785603.md) | ✅ Published | [Cisco Quantum Summit 2026 Day 1 — How Should We Evaluate Quantum Network Transmission Infrastructure?](https://netcreat.substack.com/p/cisco-quantum-summit-2026-day-1-how) | `224446785603` |
 | 2026-10-18 | [Cisco Quantum Summit 2026 Day 1 — 패널 토론](posts/2026/2026-10-18-224445836524.md) | ✅ Published | [Cisco Quantum Summit 2026 Day 2 — Panel Discussion](https://netcreat.substack.com/p/cisco-quantum-summit-2026-day-2-panel) | `224445836524` |
 | 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt](posts/2026/2026-10-17-224444857373.md) | ✅ Published | [Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt](https://netcreat.substack.com/p/cisco-quantum-summit-2026-day-2-psiquantum) | `224444857373` |
-| 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — 패널 토론](posts/2026/2026-10-17-224444553990.md) | ✅ Published | [Cisco Quantum Summit 2026 Day 2 — Panel Discussion](https://substack.com/home/post/p-220947419) | `224444553990` |
+| 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — 패널 토론](posts/2026/2026-10-17-224444553990.md) | ⚠️ Check | [Cisco Quantum Summit 2026 Day 2 — Panel Discussion](https://substack.com/home/post/p-220947419) | `224444553990` |
 | 2026-10-16 | [IonQ 3차례 유상증자 분석 — HCM은 주식을 팔고 워런트로 얼마나 벌 수 있을까?](posts/2026/2026-10-16-224443846709.md) | ❌ Missing | — | `224443846709` |
-| 2026-10-16 | [Cashless Exercise라는 옵션](posts/2026/2026-10-16-224443610974.md) | ✅ Published | [The Cashless Exercise Option](https://substack.com/home/post/p-220641243) | `224443610974` |
+| 2026-10-16 | [Cashless Exercise라는 옵션](posts/2026/2026-10-16-224443610974.md) | ⚠️ Check | [The Cashless Exercise Option](https://substack.com/home/post/p-220641243) | `224443610974` |
 | 2026-10-15 | [IonQ의 세 차례 유상증자: HCM이 얻은 옵션 가치와 기존 주주의 주당 손익](posts/2026/2026-10-15-224442909980.md) | ✅ Published | [IonQ’s Three Equity Offerings: HCM’s Option Value and the Per-Share Impact on Existing Shareholders](https://netcreat.substack.com/p/ionqs-three-equity-offerings-hcms) | `224442909980` |
 | 2026-10-15 | [IonQ는 왜 지금 또 20억 달러를 조달했을까?](posts/2026/2026-10-15-224442006517.md) | ✅ Published | [Why Is IonQ Raising Another $2 Billion Now?](https://netcreat.substack.com/p/why-is-ionq-raising-another-2-billion) | `224442006517` |
 | 2026-10-15 | [Cisco Quantum Summit 2026 Day 2 — IonQ, Mihir Bhaskar, 1kHz 이후의 진짜 과제](posts/2026/2026-10-15-224441914933.md) | ✅ Published | [IonQ's Distributed FTQC: The Real Challenge Beyond 1 kHz](https://netcreat.substack.com/p/ionqs-distributed-ftqc-the-real-challenge) | `224441914933` |
@@ -93,7 +91,7 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-10-10 | [백악관의 $6B 과학투자 발표: 새 예산은 얼마이고, 어디로 가는가?](posts/2026/2026-10-10-224437337550.md) | ✅ Published | [The White House's $6 Billion Science Investment Announcement: How Much Is New, and Where Will It Go?](https://netcreat.substack.com/p/the-white-houses-6-billion-science) | `224437337550` |
 | 2026-10-09 | [아이온큐의 다음 빅 허들은 무엇인가?](posts/2026/2026-10-09-224436465772.md) | ✅ Published | [What Is IonQ’s Next Big Hurdle?](https://netcreat.substack.com/p/what-is-ionqs-next-big-hurdle) | `224436465772` |
 | 2026-10-09 | [인터포저가 바꾸는 반도체 생태계](posts/2026/2026-10-09-224435985869.md) | ✅ Published | [How Interposers Are Reshaping the Semiconductor Ecosystem](https://netcreat.substack.com/p/how-interposers-are-reshaping-the) | `224435985869` |
-| 2026-10-09 | [미국 국방부, 양자컴퓨팅에 3억 5천만 달러 투입 — DARPA Stage C와 PsiQuantum 대출, 그리고 국가 양자전략의 변화](posts/2026/2026-10-09-224435960562.md) | ✅ Published | [The Pentagon’s $350 Million Quantum Push — DARPA Stage C, PsiQuantum’s Loan, and a Shift in U.S. Quantum Strategy](https://substack.com/home/post/p-219518246) | `224435960562` |
+| 2026-10-09 | [미국 국방부, 양자컴퓨팅에 3억 5천만 달러 투입 — DARPA Stage C와 PsiQuantum 대출, 그리고 국가 양자전략의 변화](posts/2026/2026-10-09-224435960562.md) | ⚠️ Check | [The Pentagon’s $350 Million Quantum Push — DARPA Stage C, PsiQuantum’s Loan, and a Shift in U.S. Quantum Strategy](https://substack.com/home/post/p-219518246) | `224435960562` |
 | 2026-10-09 | [구름을 뚫지 못하는 레이저로 어떻게 우주 양자통신을 할까? — Capella, Skyloom, Starlink 그리고 IonQ의 QKD 전략](posts/2026/2026-10-09-224435941091.md) | ✅ Published | [How Can Space Quantum Communications Work If Lasers Cannot Penetrate Clouds? — Capella, Skyloom, Starlink, and IonQ's QKD Strategy](https://netcreat.substack.com/p/how-can-space-quantum-communications) | `224435941091` |
 | 2026-10-08 | [GlobalFoundries Investor Day 2026 — 광학·전력·양자·IP를 선택한 파운드리](posts/2026/2026-10-08-224435624365.md) | ❌ Missing | — | `224435624365` |
 | 2026-10-08 | [EUV 없는 반도체 혁명 — Kepler Computing의 강유전체 메모리, GlobalFoundries 그리고 머스크의 Terafab](posts/2026/2026-10-08-224435475308.md) | ✅ Published | [A Semiconductor Revolution Without EUV — Kepler Computing, Ferroelectric Memory, GlobalFoundries, and Musk's Terafab](https://netcreat.substack.com/p/a-semiconductor-revolution-without) | `224435475308` |
@@ -878,7 +876,15 @@ Total missing: **695**
 
 ## Unmatched public Substack posts
 
-_Not calculated because the public sitemap fetch failed._
+These are public Substack posts that exist in the sitemap but are not referenced by any Naver `logNo` in the manifest.
+
+| Substack post | Public sitemap year |
+|---|---|
+| [☕ Supporters' Lounge 오픈](https://netcreat.substack.com/p/supporters-lounge) | 2026 |
+| [The Pentagon’s $350 Million Quantum Push — DARPA Stage C, PsiQuantum’s Loan, and a Shift in U.S. Quantum Strategy](https://netcreat.substack.com/p/the-pentagons-350-million-quantum) | 2026 |
+| [The Cashless Exercise Option](https://netcreat.substack.com/p/the-cashless-exercise-option) | 2026 |
+| [IONQ, 얼마나 하락한 것인가?](https://netcreat.substack.com/p/ionq) | 2026 |
+| [Elisity Technical Deep Dive (3) — Network Data Collection, Device Identification, and AI-Driven Analysis](https://netcreat.substack.com/p/elisity-technical-deep-dive-3-network) | 2026 |
 
 ## Full Naver archive
 
@@ -942,9 +948,9 @@ _Not calculated because the public sitemap fetch failed._
 | 2026-10-19 | [Cisco Quantum Summit 2026 Day 1 — 양자 네트워크 전송 인프라를 어떻게 봐야 하나](posts/2026/2026-10-19-224446785603.md) | ✅ Published | [Cisco Quantum Summit 2026 Day 1 — How Should We Evaluate Quantum Network Transmission Infrastructure?](https://netcreat.substack.com/p/cisco-quantum-summit-2026-day-1-how) | `224446785603` |
 | 2026-10-18 | [Cisco Quantum Summit 2026 Day 1 — 패널 토론](posts/2026/2026-10-18-224445836524.md) | ✅ Published | [Cisco Quantum Summit 2026 Day 2 — Panel Discussion](https://netcreat.substack.com/p/cisco-quantum-summit-2026-day-2-panel) | `224445836524` |
 | 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt](posts/2026/2026-10-17-224444857373.md) | ✅ Published | [Cisco Quantum Summit 2026 Day 2 — PsiQuantum, Pete Shadbolt](https://netcreat.substack.com/p/cisco-quantum-summit-2026-day-2-psiquantum) | `224444857373` |
-| 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — 패널 토론](posts/2026/2026-10-17-224444553990.md) | ✅ Published | [Cisco Quantum Summit 2026 Day 2 — Panel Discussion](https://substack.com/home/post/p-220947419) | `224444553990` |
+| 2026-10-17 | [Cisco Quantum Summit 2026 Day 2 — 패널 토론](posts/2026/2026-10-17-224444553990.md) | ⚠️ Check | [Cisco Quantum Summit 2026 Day 2 — Panel Discussion](https://substack.com/home/post/p-220947419) | `224444553990` |
 | 2026-10-16 | [IonQ 3차례 유상증자 분석 — HCM은 주식을 팔고 워런트로 얼마나 벌 수 있을까?](posts/2026/2026-10-16-224443846709.md) | ❌ Missing | — | `224443846709` |
-| 2026-10-16 | [Cashless Exercise라는 옵션](posts/2026/2026-10-16-224443610974.md) | ✅ Published | [The Cashless Exercise Option](https://substack.com/home/post/p-220641243) | `224443610974` |
+| 2026-10-16 | [Cashless Exercise라는 옵션](posts/2026/2026-10-16-224443610974.md) | ⚠️ Check | [The Cashless Exercise Option](https://substack.com/home/post/p-220641243) | `224443610974` |
 | 2026-10-15 | [IonQ의 세 차례 유상증자: HCM이 얻은 옵션 가치와 기존 주주의 주당 손익](posts/2026/2026-10-15-224442909980.md) | ✅ Published | [IonQ’s Three Equity Offerings: HCM’s Option Value and the Per-Share Impact on Existing Shareholders](https://netcreat.substack.com/p/ionqs-three-equity-offerings-hcms) | `224442909980` |
 | 2026-10-15 | [IonQ는 왜 지금 또 20억 달러를 조달했을까?](posts/2026/2026-10-15-224442006517.md) | ✅ Published | [Why Is IonQ Raising Another $2 Billion Now?](https://netcreat.substack.com/p/why-is-ionq-raising-another-2-billion) | `224442006517` |
 | 2026-10-15 | [Cisco Quantum Summit 2026 Day 2 — IonQ, Mihir Bhaskar, 1kHz 이후의 진짜 과제](posts/2026/2026-10-15-224441914933.md) | ✅ Published | [IonQ's Distributed FTQC: The Real Challenge Beyond 1 kHz](https://netcreat.substack.com/p/ionqs-distributed-ftqc-the-real-challenge) | `224441914933` |
@@ -963,7 +969,7 @@ _Not calculated because the public sitemap fetch failed._
 | 2026-10-10 | [백악관의 $6B 과학투자 발표: 새 예산은 얼마이고, 어디로 가는가?](posts/2026/2026-10-10-224437337550.md) | ✅ Published | [The White House's $6 Billion Science Investment Announcement: How Much Is New, and Where Will It Go?](https://netcreat.substack.com/p/the-white-houses-6-billion-science) | `224437337550` |
 | 2026-10-09 | [아이온큐의 다음 빅 허들은 무엇인가?](posts/2026/2026-10-09-224436465772.md) | ✅ Published | [What Is IonQ’s Next Big Hurdle?](https://netcreat.substack.com/p/what-is-ionqs-next-big-hurdle) | `224436465772` |
 | 2026-10-09 | [인터포저가 바꾸는 반도체 생태계](posts/2026/2026-10-09-224435985869.md) | ✅ Published | [How Interposers Are Reshaping the Semiconductor Ecosystem](https://netcreat.substack.com/p/how-interposers-are-reshaping-the) | `224435985869` |
-| 2026-10-09 | [미국 국방부, 양자컴퓨팅에 3억 5천만 달러 투입 — DARPA Stage C와 PsiQuantum 대출, 그리고 국가 양자전략의 변화](posts/2026/2026-10-09-224435960562.md) | ✅ Published | [The Pentagon’s $350 Million Quantum Push — DARPA Stage C, PsiQuantum’s Loan, and a Shift in U.S. Quantum Strategy](https://substack.com/home/post/p-219518246) | `224435960562` |
+| 2026-10-09 | [미국 국방부, 양자컴퓨팅에 3억 5천만 달러 투입 — DARPA Stage C와 PsiQuantum 대출, 그리고 국가 양자전략의 변화](posts/2026/2026-10-09-224435960562.md) | ⚠️ Check | [The Pentagon’s $350 Million Quantum Push — DARPA Stage C, PsiQuantum’s Loan, and a Shift in U.S. Quantum Strategy](https://substack.com/home/post/p-219518246) | `224435960562` |
 | 2026-10-09 | [구름을 뚫지 못하는 레이저로 어떻게 우주 양자통신을 할까? — Capella, Skyloom, Starlink 그리고 IonQ의 QKD 전략](posts/2026/2026-10-09-224435941091.md) | ✅ Published | [How Can Space Quantum Communications Work If Lasers Cannot Penetrate Clouds? — Capella, Skyloom, Starlink, and IonQ's QKD Strategy](https://netcreat.substack.com/p/how-can-space-quantum-communications) | `224435941091` |
 | 2026-10-08 | [GlobalFoundries Investor Day 2026 — 광학·전력·양자·IP를 선택한 파운드리](posts/2026/2026-10-08-224435624365.md) | ❌ Missing | — | `224435624365` |
 | 2026-10-08 | [EUV 없는 반도체 혁명 — Kepler Computing의 강유전체 메모리, GlobalFoundries 그리고 머스크의 Terafab](posts/2026/2026-10-08-224435475308.md) | ✅ Published | [A Semiconductor Revolution Without EUV — Kepler Computing, Ferroelectric Memory, GlobalFoundries, and Musk's Terafab](https://netcreat.substack.com/p/a-semiconductor-revolution-without) | `224435475308` |
