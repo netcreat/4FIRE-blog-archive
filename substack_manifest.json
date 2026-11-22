@@ -1342,6 +1342,17 @@
         "shared_urls": [],
         "shared_identifiers": []
       }
+    },
+    "224486437455": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "As IonQ Grows, Who Benefits the Most?",
+          "url": "https://netcreat.substack.com/p/as-ionq-grows-who-benefits-the-most",
+          "published_date": "2026-11-22"
+        }
+      ]
     }
   }
 }
