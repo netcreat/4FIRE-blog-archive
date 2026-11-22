@@ -2,24 +2,26 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-22T01:20:34+00:00_
+_Automatically generated: 2026-11-22T05:09:21+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
 [View the full status report](SUBSTACK_STATUS.md) · [Substack publication](https://netcreat.substack.com/) · [Naver blog](https://blog.naver.com/4-fire)
 
+> ⚠️ Live public Substack link discovery was unavailable in the latest run; confirmed manual mappings remain included.
+
 ## Summary
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 813 | 115 | 695 | 0 | 3 |
-| Recent 90 days (2026-08-24 → 2026-11-22) | 156 | 86 | 67 | 0 | 3 |
+| All | 813 | 119 | 694 | 0 | 0 |
+| Recent 90 days (2026-08-24 → 2026-11-22) | 156 | 90 | 66 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-11-22 | [IonQ가 커질수록 누가 더 이익을 얻는가?](posts/2026/2026-11-22-224486437455.md) | ❌ Missing | — | `224486437455` |
+| 2026-11-22 | [IonQ가 커질수록 누가 더 이익을 얻는가?](posts/2026/2026-11-22-224486437455.md) | ✅ Published | [As IonQ Grows, Who Benefits the Most?](https://netcreat.substack.com/p/as-ionq-grows-who-benefits-the-most) | `224486437455` |
 | 2026-11-21 | [AMPERA 심층 분석](posts/2026/2026-11-21-224486354850.md) | ❌ Missing | — | `224486354850` |
 | 2026-11-20 | [IONQ 주가는 왜 10월부터 계속 하락하는가?](posts/2026/2026-11-20-224484932877.md) | ❌ Missing | — | `224484932877` |
 | 2026-11-20 | [(설령)IONQ를 믿어도 IONX는 다르게 접근해야 한다](posts/2026/2026-11-20-224484434423.md) | ❌ Missing | — | `224484434423` |
