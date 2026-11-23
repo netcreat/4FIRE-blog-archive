@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T01:44:54+00:00",
+  "generated_at": "2026-11-23T09:52:06+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 813,
+    "total": 814,
     "published": 119,
-    "missing": 694,
+    "missing": 695,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-08-24",
-    "end": "2026-11-22",
-    "total": 156,
+    "start": "2026-08-25",
+    "end": "2026-11-23",
+    "total": 157,
     "published": 90,
-    "missing": 66,
+    "missing": 67,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-23",
+        "title": "IonQ 워런트의 진짜 위험과 주주의 몫",
+        "logNo": "224488652843",
+        "url": "https://blog.naver.com/4-fire/224488652843?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-23-224488652843.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-22",

@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Mon, 23 Nov 2026 10:44:25 +0900</pubDate>
+            <pubDate>Mon, 23 Nov 2026 18:51:35 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ 워런트의 진짜 위험과 주주의 몫]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224488652843?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224488652843</guid>
+                
+                <description><![CDATA[✅ 발행일 평가에서 2033년 주당가치까지 IonQ는 2025년 7월·10월, 2026년 10월 세 차례에 걸쳐 총 약 50억 달러($5B)를 조달했다. 세 번 모두 보통주 1주 상당과 별도의 7년 만기 추가 워런트 2개를 결합하는 구조였다. 회사의 규모가 커지는 것과 기존 주식 1주의 가치가 커지는 것은 동일하지 않다. 기존 글 「IonQ의 세 차례 유상증자: HCM이 얻은 옵션 가치와 기존 주주의 주당 손익」에서는 계약조건·공통 60% 변동성·주당 희석의 기본 원리를 다뤘고, 「IonQ 3차례 유상증자 분석 — HCM은 주식을 팔고 워런트로 얼마나 벌 수 있을까?」에서는 가상의 주식 조기매각·미래 행사 손익을 다뤘다. 본문에서 필요한 기초만 다시 연결하고 상세....... <img src="https://blogthumb.pstatic.net/MjAyNjExMjNfMjAg/MDAxNzk1NDA2MTQ4NTY1.niZodysakytneEJ3XMJGSQSdU2IgXeJGPZ7HUinFqnIg.4yOkGcu96hEYLdqRLR7G9ceKel9qxaqbvEffI9RELh4g.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Mon, 23 Nov 2026 17:18:33 +0900</pubDate>
+                <tag><![CDATA[IonQ,워런트]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 
                 <pubDate>Fri, 23 Oct 2026 07:27:38 +0900</pubDate>
                 <tag><![CDATA[PQC,QKD,Zero,Trust]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Shorts]]></category>
-                <title><![CDATA[양자컴퓨터가 해킹당한다면?]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224450586859?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224450586859</guid>
-                <description><![CDATA[✅ 세상의 암호를 깨는 양자컴퓨터, 그런데 누군가 그 컴퓨터를 해킹한다면? 어느 날, 인류가 마침내 기존의 강력한 암호를 해독할 수 있는 양자컴퓨터를 개발했다고 가정해 보겠습니다. 은행과 정부기관은 비상이 걸릴 것입니다. 지금까지 안전하다고 믿었던 RSA 같은 암호가 더 이상 안전하지 않을 수 있기 때문입니다. 그런데 여기서 이상한 생각이 하나 듭니다. "그렇게 강력한 양자컴퓨터를 누군가 해킹해서 자기 마음대로 사용한다면 어떻게 될까요?" 사실 양자컴퓨터도 일반 컴퓨터의 도움을 받아 작동합니다. 인터넷으로 명령을 전달하고, 계산을 제어하고, 결과를 받아오는 과정에는 기존 서버와 소프트웨어가 사용됩니다. 따.......]]></description>
-                
-                <pubDate>Thu, 22 Oct 2026 21:50:31 +0900</pubDate>
-                <tag><![CDATA[양자컴퓨터,해킹,보안]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-23T01:44:54+00:00_
+_Automatically generated: 2026-11-23T09:52:06+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 813 | 119 | 694 | 0 | 0 |
-| Recent 90 days (2026-08-24 → 2026-11-22) | 156 | 90 | 66 | 0 | 0 |
+| All | 814 | 119 | 695 | 0 | 0 |
+| Recent 90 days (2026-08-25 → 2026-11-23) | 157 | 90 | 67 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-23 | [IonQ 워런트의 진짜 위험과 주주의 몫](posts/2026/2026-11-23-224488652843.md) | ❌ Missing | — | `224488652843` |
 | 2026-11-22 | [IonQ가 커질수록 누가 더 이익을 얻는가?](posts/2026/2026-11-22-224486437455.md) | ✅ Published | [As IonQ Grows, Who Benefits the Most?](https://netcreat.substack.com/p/as-ionq-grows-who-benefits-the-most) | `224486437455` |
 | 2026-11-21 | [AMPERA 심층 분석](posts/2026/2026-11-21-224486354850.md) | ❌ Missing | — | `224486354850` |
 | 2026-11-20 | [IONQ 주가는 왜 10월부터 계속 하락하는가?](posts/2026/2026-11-20-224484932877.md) | ❌ Missing | — | `224484932877` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-11-05 | [양자보안 심화 (3) — Zero Trust와 마이크로세그멘테이션](posts/2026/2026-11-05-224463866066.md) | ✅ Published | [Quantum Security Deep Dive (3) — Zero Trust and Microsegmentation: Breaching Systems Without Breaking Encryption](https://netcreat.substack.com/p/quantum-security-deep-dive-3-zero) | `224463866066` |
 | 2026-11-04 | [EQC는 레이저를 줄였는데, 왜 SP90 광도파로 손실이 중요할까?](posts/2026/2026-11-04-224464875535.md) | ❌ Missing | — | `224464875535` |
 | 2026-11-04 | [CHOGM 2026과 IonQ](posts/2026/2026-11-04-224464700618.md) | ❌ Missing | — | `224464700618` |
-| 2026-11-04 | [양자보안 심화 (2) — AES 비밀키의 공유와 보호: USB·QKD·OTP·Hybrid PQC, HNDL과 키 관리](posts/2026/2026-11-04-224463838699.md) | ✅ Published | [Quantum Security Deep Dive (2) — Sharing and Protecting AES Secret Keys: USB, QKD, OTP, Hybrid PQC, HNDL, and Key Management](https://netcreat.substack.com/p/quantum-security-deep-dive-2-sharing) | `224463838699` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).
