@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-23T09:52:06+00:00_
+_Automatically generated: 2026-11-23T11:00:02+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,16 +14,16 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 814 | 119 | 695 | 0 | 0 |
-| Recent 90 days (2026-08-25 → 2026-11-23) | 157 | 90 | 67 | 0 | 0 |
+| All | 814 | 121 | 693 | 0 | 0 |
+| Recent 90 days (2026-08-25 → 2026-11-23) | 157 | 92 | 65 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-11-23 | [IonQ 워런트의 진짜 위험과 주주의 몫](posts/2026/2026-11-23-224488652843.md) | ❌ Missing | — | `224488652843` |
+| 2026-11-23 | [IonQ 워런트의 진짜 위험과 주주의 몫](posts/2026/2026-11-23-224488652843.md) | ✅ Published | [IonQ 워런트의 진짜 위험과 주주의 몫](https://netcreat.substack.com/p/ionq-fec) | `224488652843` |
 | 2026-11-22 | [IonQ가 커질수록 누가 더 이익을 얻는가?](posts/2026/2026-11-22-224486437455.md) | ✅ Published | [As IonQ Grows, Who Benefits the Most?](https://netcreat.substack.com/p/as-ionq-grows-who-benefits-the-most) | `224486437455` |
-| 2026-11-21 | [AMPERA 심층 분석](posts/2026/2026-11-21-224486354850.md) | ❌ Missing | — | `224486354850` |
+| 2026-11-21 | [AMPERA 심층 분석](posts/2026/2026-11-21-224486354850.md) | ✅ Published | [AMPERA 심층 분석](https://netcreat.substack.com/p/ampera-ionq-2500) | `224486354850` |
 | 2026-11-20 | [IONQ 주가는 왜 10월부터 계속 하락하는가?](posts/2026/2026-11-20-224484932877.md) | ❌ Missing | — | `224484932877` |
 | 2026-11-20 | [(설령)IONQ를 믿어도 IONX는 다르게 접근해야 한다](posts/2026/2026-11-20-224484434423.md) | ❌ Missing | — | `224484434423` |
 | 2026-11-20 | [NVIDIA, Slurm에 QPU를 편입하다 — 그 이면에 담긴 두 가지 의미](posts/2026/2026-11-20-224484048655.md) | ✅ Published | [양자컴퓨터도 이제 슈퍼컴퓨터의 일부가 됩니다 — NVIDIA 발표의 두 가지 의미](https://netcreat.substack.com/p/nvidia) | `224484048655` |

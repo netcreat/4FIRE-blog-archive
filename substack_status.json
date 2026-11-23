@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T09:52:06+00:00",
+  "generated_at": "2026-11-23T11:00:02+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 814,
-    "published": 119,
-    "missing": 695,
+    "published": 121,
+    "missing": 693,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-08-25",
     "end": "2026-11-23",
     "total": 157,
-    "published": 90,
-    "missing": 67,
+    "published": 92,
+    "missing": 65,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224488652843?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-11-23-224488652843.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "IonQ 워런트의 진짜 위험과 주주의 몫",
+          "url": "https://netcreat.substack.com/p/ionq-fec",
+          "published_date": "2026-11-23",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
@@ -87,10 +95,18 @@
         "url": "https://blog.naver.com/4-fire/224486354850?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-11-21-224486354850.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "AMPERA 심층 분석",
+          "url": "https://netcreat.substack.com/p/ampera-ionq-2500",
+          "published_date": "2026-11-23",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
