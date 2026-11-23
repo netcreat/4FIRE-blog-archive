@@ -1353,6 +1353,32 @@
           "published_date": "2026-11-22"
         }
       ]
+    },
+    "224486354850": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "AMPERA 심층 분석",
+          "url": "https://netcreat.substack.com/p/ampera-ionq-2500",
+          "published_date": "2026-11-23",
+          "language": "ko",
+          "format": "summary"
+        }
+      ]
+    },
+    "224488652843": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "IonQ 워런트의 진짜 위험과 주주의 몫",
+          "url": "https://netcreat.substack.com/p/ionq-fec",
+          "published_date": "2026-11-23",
+          "language": "ko",
+          "format": "summary"
+        }
+      ]
     }
   }
 }
