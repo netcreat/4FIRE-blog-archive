@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T02:13:22+00:00",
+  "generated_at": "2026-11-24T13:44:47+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 814,
+    "total": 815,
     "published": 121,
-    "missing": 693,
+    "missing": 694,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-08-25",
-    "end": "2026-11-23",
-    "total": 157,
+    "start": "2026-08-26",
+    "end": "2026-11-24",
+    "total": 156,
     "published": 92,
-    "missing": 65,
+    "missing": 64,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-24",
+        "title": "IonQ가 노리는 또 다른 시장",
+        "logNo": "224490293977",
+        "url": "https://blog.naver.com/4-fire/224490293977?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-24-224490293977.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-23",

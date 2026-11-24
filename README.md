@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-24T02:13:22+00:00_
+_Automatically generated: 2026-11-24T13:44:47+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 814 | 121 | 693 | 0 | 0 |
-| Recent 90 days (2026-08-25 → 2026-11-23) | 157 | 92 | 65 | 0 | 0 |
+| All | 815 | 121 | 694 | 0 | 0 |
+| Recent 90 days (2026-08-26 → 2026-11-24) | 156 | 92 | 64 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-24 | [IonQ가 노리는 또 다른 시장](posts/2026/2026-11-24-224490293977.md) | ❌ Missing | — | `224490293977` |
 | 2026-11-23 | [IonQ 워런트의 진짜 위험과 주주의 몫](posts/2026/2026-11-23-224488652843.md) | ✅ Published | [IonQ 워런트의 진짜 위험과 주주의 몫](https://netcreat.substack.com/p/ionq-fec) | `224488652843` |
 | 2026-11-22 | [IonQ가 커질수록 누가 더 이익을 얻는가?](posts/2026/2026-11-22-224486437455.md) | ✅ Published | [As IonQ Grows, Who Benefits the Most?](https://netcreat.substack.com/p/as-ionq-grows-who-benefits-the-most) | `224486437455` |
 | 2026-11-21 | [AMPERA 심층 분석](posts/2026/2026-11-21-224486354850.md) | ✅ Published | [AMPERA 심층 분석](https://netcreat.substack.com/p/ampera-ionq-2500) | `224486354850` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-11-05 | [양자보안 심화 (4) — IonQ는 왜 QSPM·QKD·HSM·Elisity에 주목할까?](posts/2026/2026-11-05-224463889105.md) | ✅ Published | [Quantum Security Deep Dive (4) — Why Is IonQ Focusing on QSPM, QKD, HSMs, and Elisity?](https://netcreat.substack.com/p/quantum-security-deep-dive-4-why) | `224463889105` |
 | 2026-11-05 | [양자보안 심화 (3) — Zero Trust와 마이크로세그멘테이션](posts/2026/2026-11-05-224463866066.md) | ✅ Published | [Quantum Security Deep Dive (3) — Zero Trust and Microsegmentation: Breaching Systems Without Breaking Encryption](https://netcreat.substack.com/p/quantum-security-deep-dive-3-zero) | `224463866066` |
 | 2026-11-04 | [EQC는 레이저를 줄였는데, 왜 SP90 광도파로 손실이 중요할까?](posts/2026/2026-11-04-224464875535.md) | ❌ Missing | — | `224464875535` |
-| 2026-11-04 | [CHOGM 2026과 IonQ](posts/2026/2026-11-04-224464700618.md) | ❌ Missing | — | `224464700618` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

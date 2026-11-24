@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Tue, 24 Nov 2026 11:12:54 +0900</pubDate>
+            <pubDate>Tue, 24 Nov 2026 22:44:17 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ가 노리는 또 다른 시장]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224490293977?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224490293977</guid>
+                
+                <description><![CDATA[✅ 양자보안, GPS 없는 정밀 시간, 그리고 미국 정부 조달 2026년 11월 23일 IonQ는 양자보안, GPS 단절 시 시간 유지, 연방정부 계약업체의 PQC 전환이라는 세 주제의 블로그를 공개했다. 세 글은 신규 수주 발표가 아니라 잠재 고객이 요구사항을 정의하도록 돕는 기술·정책 설명이다. 이미 다룬 기술은 기존 글로 연결하고, 이번 공개 자료에서 특히 주목할 부분과 사업적 함의를 분석한다. ✅ 1. PQC와 QKD — 경쟁 관계가 아니라 서로 다른 실패 모드 기존 RSA·ECC의 취약점, AES와 키 설정의 차이, HNDL은 이미 상세히 다뤘다. 양자보안 심화 (1) — RSA·ECC·PQC·AES / 양자보안 심화 (2) — AES 비밀키의 공유와 보호 이번 글의 핵심은 PQ....... <img src="https://blogthumb.pstatic.net/MjAyNjExMjRfNCAg/MDAxNzk1NTEzMTExMDYx.AQvbp37KGuwYxTb8HxTb8BFK2xMdRcAP8NHCjh3OJv0g.T1reswc40mgXvzxEwPE7sNvKvNih7QdtxFaA6zO9Mr4g.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Tue, 24 Nov 2026 18:40:07 +0900</pubDate>
+                <tag><![CDATA[IonQ,Blog,PQC,PNT]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ Maxwell에서 시작된 의외의 연결: NASA, Rocket Lab, Viasat, ESA, Kepler 그리고 IonQ 2026년 10월 20일, SpaceX의 Falcon 9 로켓이 여러 위성을 싣고 우주로 향했습니다. 이날 발사 목록에는 최근 살펴봤던 Capella Space의 Acadia-11과 Acadia-12도 포함되어 있었습니다. 그런데 목록을 살펴보다가 흥미로운 이름 하나를 발견했습니다. Maxwell. 처음에는 평범한 소형위성인 줄 알았습니다. 하지만 관계를 따라가다 보니 예상하지 못했던 기업들이 등장했습니다. 위성을 제작한 회사는 Rocket Lab, 임무를 주관하는 회사는 Viasat, 최종 고객은 NASA였습니다. 발사는 SpaceX가 담당했습니다. 그런데 Maxwell은 지구를 관측하거나 인터넷 서....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMjVfMTE2/MDAxNzkyOTE4NTQ4Nzkz.SWIOII2zXPoNfSSQX-HAo2IdhagoRY8f1iCH3ggBHt8g.Cj-IIGJqf425qlo-xX4lZ_KjUfh-1aKnrQWH0mFe_r8g.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Sun, 25 Oct 2026 18:00:56 +0900</pubDate>
                 <tag><![CDATA[Maxwell,Viasat,RocketLabs]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[양자컴퓨터가 해킹당한다면? - 심화편]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224450875880?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224450875880</guid>
-                <description><![CDATA[✅ 세상의 암호를 깨는 양자컴퓨터, 그런데 그 컴퓨터가 해킹당한다면? 어느 날, 전 세계에 속보가 전해진다. “기존 RSA 암호를 실용적으로 해독할 수 있는 양자컴퓨터가 등장했다.” 은행과 정부기관은 오래된 암호 시스템을 걱정하기 시작한다. 그런데 누군가 더 불편한 질문을 던진다. “잠깐, 그 양자컴퓨터를 해커가 차지하면 어떻게 될까?” 세상의 금고를 열 수 있는 기계를 만드는 것도 문제지만, 그 기계를 누가 사용할 수 있는지 통제하는 문제는 또 다르다. 이 이야기를 따라가면 PQC, QKD, AES, OTP가 각각 무엇을 보호하고 무엇을 보호하지 못하는지 자연스럽게 드러난다. 현재 시점의 구분: RSA-2048을 실용적으로 해독하는 대규.......]]></description>
-                
-                <pubDate>Fri, 23 Oct 2026 07:27:38 +0900</pubDate>
-                <tag><![CDATA[PQC,QKD,Zero,Trust]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-24T02:13:22+00:00_
+_Automatically generated: 2026-11-24T13:44:47+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 814 | 121 | 693 | 0 | 0 |
-| Recent 90 days (2026-08-25 → 2026-11-23) | 157 | 92 | 65 | 0 | 0 |
+| All | 815 | 121 | 694 | 0 | 0 |
+| Recent 90 days (2026-08-26 → 2026-11-24) | 156 | 92 | 64 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-24 | [IonQ가 노리는 또 다른 시장](posts/2026/2026-11-24-224490293977.md) | ❌ Missing | — | `224490293977` |
 | 2026-11-23 | [IonQ 워런트의 진짜 위험과 주주의 몫](posts/2026/2026-11-23-224488652843.md) | ✅ Published | [IonQ 워런트의 진짜 위험과 주주의 몫](https://netcreat.substack.com/p/ionq-fec) | `224488652843` |
 | 2026-11-22 | [IonQ가 커질수록 누가 더 이익을 얻는가?](posts/2026/2026-11-22-224486437455.md) | ✅ Published | [As IonQ Grows, Who Benefits the Most?](https://netcreat.substack.com/p/as-ionq-grows-who-benefits-the-most) | `224486437455` |
 | 2026-11-21 | [AMPERA 심층 분석](posts/2026/2026-11-21-224486354850.md) | ✅ Published | [AMPERA 심층 분석](https://netcreat.substack.com/p/ampera-ionq-2500) | `224486354850` |
@@ -172,15 +173,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-08-27 | [Real-time decoder for a MegaQuOp quantum computer using a single CPU 분석](posts/2026/2026-08-27-224392429894.md) | ❌ Missing | — | `224392429894` |
 | 2026-08-26 | [ARTES 4.0과 IonQ의 기회](posts/2026/2026-08-26-224391330748.md) | ❌ Missing | — | `224391330748` |
 | 2026-08-26 | [다체 얽힘과 DARPA의 MeasQuIT, 그리고 IonQ](posts/2026/2026-08-26-224391224410.md) | ❌ Missing | — | `224391224410` |
-| 2026-08-25 | [IonQ, 이사회에 2명의 새로운 인물을 추가하다](posts/2026/2026-08-25-224390174091.md) | ❌ Missing | — | `224390174091` |
-| 2026-08-25 | [G7, 금융 시스템의 양자 시대 전환을 시작하다](posts/2026/2026-08-25-224390117777.md) | ❌ Missing | — | `224390117777` |
 
 ## Missing from Substack
 
-Total missing: **693**
+Total missing: **694**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-24 | [IonQ가 노리는 또 다른 시장](posts/2026/2026-11-24-224490293977.md) | ❌ Missing | — | `224490293977` |
 | 2026-11-20 | [IONQ 주가는 왜 10월부터 계속 하락하는가?](posts/2026/2026-11-20-224484932877.md) | ❌ Missing | — | `224484932877` |
 | 2026-11-20 | [(설령)IONQ를 믿어도 IONX는 다르게 접근해야 한다](posts/2026/2026-11-20-224484434423.md) | ❌ Missing | — | `224484434423` |
 | 2026-11-19 | [AI 모델을 반도체로 만드는 시대, AMD는 무엇을 노리는가?](posts/2026/2026-11-19-224483933214.md) | ❌ Missing | — | `224483933214` |
@@ -882,10 +882,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 814 Naver posts</summary>
+<summary>Show all 815 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-24 | [IonQ가 노리는 또 다른 시장](posts/2026/2026-11-24-224490293977.md) | ❌ Missing | — | `224490293977` |
 | 2026-11-23 | [IonQ 워런트의 진짜 위험과 주주의 몫](posts/2026/2026-11-23-224488652843.md) | ✅ Published | [IonQ 워런트의 진짜 위험과 주주의 몫](https://netcreat.substack.com/p/ionq-fec) | `224488652843` |
 | 2026-11-22 | [IonQ가 커질수록 누가 더 이익을 얻는가?](posts/2026/2026-11-22-224486437455.md) | ✅ Published | [As IonQ Grows, Who Benefits the Most?](https://netcreat.substack.com/p/as-ionq-grows-who-benefits-the-most) | `224486437455` |
 | 2026-11-21 | [AMPERA 심층 분석](posts/2026/2026-11-21-224486354850.md) | ✅ Published | [AMPERA 심층 분석](https://netcreat.substack.com/p/ampera-ionq-2500) | `224486354850` |

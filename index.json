@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 814,
+  "totalArchivedPosts": 815,
   "posts": [
+    {
+      "date": "2026-11-24",
+      "published": "2026-11-24T20:40:07+11:00",
+      "title": "IonQ가 노리는 또 다른 시장",
+      "logNo": "224490293977",
+      "source": "https://blog.naver.com/4-fire/224490293977?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-24-224490293977.md",
+      "content_source": "naver_post",
+      "characters": 7898
+    },
     {
       "date": "2026-11-23",
       "published": "2026-11-23T19:18:33+11:00",
