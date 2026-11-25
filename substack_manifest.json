@@ -1379,6 +1379,19 @@
           "format": "summary"
         }
       ]
+    },
+    "224491867477": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "IonQ의 GRAVMAP — GPS가 사라져도 길을 찾는 양자 기술",
+          "url": "https://netcreat.substack.com/p/ionq-gravmap-gps",
+          "published_date": "2026-11-25",
+          "language": "ko",
+          "format": "summary"
+        }
+      ]
     }
   }
 }
