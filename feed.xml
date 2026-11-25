@@ -21,16 +21,16 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Wed, 25 Nov 2026 18:37:03 +0900</pubDate>
+            <pubDate>Wed, 25 Nov 2026 19:04:06 +0900</pubDate>
 
             <item>
                 <author>4-fire</author>
                 <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[IonQ의 GRAVMAP]]></title>
+                <title><![CDATA[IonQ의 양자 중력계의 원리와 DARPA의 전략]]></title>
                 <link><![CDATA[https://blog.naver.com/4-fire/224491867477?fromRss=true&trackingCode=rss]]></link>
                 <guid>https://blog.naver.com/4-fire/224491867477</guid>
                 
-                <description><![CDATA[✅ GPS가 없어도 항법을 유지하는 양자 중력계의 원리와 DARPA의 전략 2026년 11월 24일, IonQ는 자회사 Vector Atomic이 DARPA의 GRAVMAP 사업에서 Phase II Option을 수주했다고 발표했다. [1] 이번 발표를 이해하려면 단순한 계약 규모보다 양자 중력계가 무엇을 측정하는지, 항공기에서 왜 구현하기 어려운지, GPS 재밍 시 어떤 역할을 수행하는지를 살펴봐야 한다. 핵심은 양자컴퓨터와 별개로 양자센싱 기술이 실제 제품과 국방 플랫폼으로 발전하고 있다는 점이다. ✅ 1. GRAVMAP 계약의 실체 GRAVMAP은 Gravimeter using Rubidium Atoms with Vibration-immunity for Maritime and Airborne Platforms의 약자다. 루비듐 원자를 이용해 해....... <img src="https://blogthumb.pstatic.net/MjAyNjExMjVfMjEw/MDAxNzk1NTk3NTA0OTY5.QnNlv2_AAuQietdThJPH_UdB4ICWfUQC26Q_KRuOoZwg.si1A35hfqqPvhN0zQjgRzLZ8NQJsNUxHP8M7Mm63UbIg.PNG/image.png?type=s3" />]]></description>
+                <description><![CDATA[✅ GPS가 없어도 항법을 유지하는 양자 중력계 (GRAVMAP)의 원리와 DARPA의 전략 2026년 11월 24일, IonQ는 자회사 Vector Atomic이 DARPA의 GRAVMAP 사업에서 Phase II Option을 수주했다고 발표했다. [1] 이번 발표를 이해하려면 단순한 계약 규모보다 양자 중력계가 무엇을 측정하는지, 항공기에서 왜 구현하기 어려운지, GPS 재밍 시 어떤 역할을 수행하는지를 살펴봐야 한다. 핵심은 양자컴퓨터와 별개로 양자센싱 기술이 실제 제품과 국방 플랫폼으로 발전하고 있다는 점이다. ✅ 1. GRAVMAP 계약의 실체 GRAVMAP은 Gravimeter using Rubidium Atoms with Vibration-immunity for Maritime and Airborne Platforms의 약자다. 루비듐 원자를....... <img src="https://blogthumb.pstatic.net/MjAyNjExMjVfMjEw/MDAxNzk1NTk3NTA0OTY5.QnNlv2_AAuQietdThJPH_UdB4ICWfUQC26Q_KRuOoZwg.si1A35hfqqPvhN0zQjgRzLZ8NQJsNUxHP8M7Mm63UbIg.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Wed, 25 Nov 2026 18:36:10 +0900</pubDate>
                 <tag><![CDATA[IonQ,GRAVMAP,VectorAtomic,PNT]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>

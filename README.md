@@ -2,24 +2,26 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-25T09:37:18+00:00_
+_Automatically generated: 2026-11-25T10:04:35+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
 [View the full status report](SUBSTACK_STATUS.md) · [Substack publication](https://netcreat.substack.com/) · [Naver blog](https://blog.naver.com/4-fire)
 
+> ⚠️ Live public Substack link discovery was unavailable in the latest run; confirmed manual mappings remain included.
+
 ## Summary
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 817 | 118 | 696 | 0 | 3 |
-| Recent 90 days (2026-08-27 → 2026-11-25) | 156 | 89 | 64 | 0 | 3 |
+| All | 817 | 122 | 695 | 0 | 0 |
+| Recent 90 days (2026-08-27 → 2026-11-25) | 156 | 93 | 63 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
-| 2026-11-25 | [IonQ의 GRAVMAP](posts/2026/2026-11-25-224491867477.md) | ❌ Missing | — | `224491867477` |
+| 2026-11-25 | [IonQ의 양자 중력계의 원리와 DARPA의 전략](posts/2026/2026-11-25-224491867477.md) | ✅ Published | [IonQ의 GRAVMAP — GPS가 사라져도 길을 찾는 양자 기술](https://netcreat.substack.com/p/ionq-gravmap-gps) | `224491867477` |
 | 2026-11-25 | [IonQ 워런트의 진짜 위험과 주주의 몫 (2)](posts/2026/2026-11-25-224491244916.md) | ❌ Missing | — | `224491244916` |
 | 2026-11-24 | [IonQ가 노리는 또 다른 시장](posts/2026/2026-11-24-224490293977.md) | ❌ Missing | — | `224490293977` |
 | 2026-11-23 | [IonQ 워런트의 진짜 위험과 주주의 몫 (1)](posts/2026/2026-11-23-224488652843.md) | ✅ Published | [IonQ 워런트의 진짜 위험과 주주의 몫](https://netcreat.substack.com/p/ionq-fec) | `224488652843` |

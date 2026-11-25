@@ -1,89 +1,68 @@
 {
-  "generated_at": "2026-11-25T09:37:18+00:00",
+  "generated_at": "2026-11-25T10:04:35+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
     "substack_base_url": "https://netcreat.substack.com",
     "substack_sitemap": {
-      "ok": true,
+      "ok": false,
       "root_url": "https://netcreat.substack.com/sitemap",
-      "year_pages": [
-        "https://netcreat.substack.com/sitemap/2026"
-      ],
-      "sources_used": [
-        "https://netcreat.substack.com/sitemap.xml",
-        "https://netcreat.substack.com/sitemap",
-        "https://netcreat.substack.com/sitemap/2026",
-        "https://netcreat.substack.com/archive?sort=new",
-        "https://netcreat.substack.com",
-        "https://netcreat.substack.com/feed"
-      ],
+      "year_pages": [],
+      "sources_used": [],
       "errors": [
-        "posts API: Could not fetch JSON https://netcreat.substack.com/api/v1/posts?limit=100&offset=0: 400 Client Error: Bad Request for url: https://netcreat.substack.com/api/v1/posts?limit=100&offset=0",
-        "https://netcreat.substack.com/sitemap/2025: Could not fetch https://netcreat.substack.com/sitemap/2025: 404 Client Error: Not Found for url: https://netcreat.substack.com/sitemap/2025",
-        "https://netcreat.substack.com/sitemap/2024: Could not fetch https://netcreat.substack.com/sitemap/2024: 404 Client Error: Not Found for url: https://netcreat.substack.com/sitemap/2024"
+        "sitemap.xml: Could not fetch https://netcreat.substack.com/sitemap.xml: 403 Client Error: Forbidden for url: https://netcreat.substack.com/sitemap.xml",
+        "posts API: Could not fetch JSON https://netcreat.substack.com/api/v1/posts?limit=100&offset=0: 403 Client Error: Forbidden for url: https://netcreat.substack.com/api/v1/posts?limit=100&offset=0",
+        "root sitemap: Could not fetch https://netcreat.substack.com/sitemap: 403 Client Error: Forbidden for url: https://netcreat.substack.com/sitemap",
+        "https://netcreat.substack.com/sitemap/2026: Could not fetch https://netcreat.substack.com/sitemap/2026: 403 Client Error: Forbidden for url: https://netcreat.substack.com/sitemap/2026",
+        "https://netcreat.substack.com/sitemap/2025: Could not fetch https://netcreat.substack.com/sitemap/2025: 403 Client Error: Forbidden for url: https://netcreat.substack.com/sitemap/2025",
+        "https://netcreat.substack.com/sitemap/2024: Could not fetch https://netcreat.substack.com/sitemap/2024: 403 Client Error: Forbidden for url: https://netcreat.substack.com/sitemap/2024",
+        "https://netcreat.substack.com/archive?sort=new: Could not fetch https://netcreat.substack.com/archive?sort=new: 403 Client Error: Forbidden for url: https://netcreat.substack.com/archive?sort=new",
+        "https://netcreat.substack.com: Could not fetch https://netcreat.substack.com: 403 Client Error: Forbidden for url: https://netcreat.substack.com/",
+        "feed: Could not fetch RSS https://netcreat.substack.com/feed: 403 Client Error: Forbidden for url: https://netcreat.substack.com/feed"
       ],
-      "error": null
+      "error": "sitemap.xml: Could not fetch https://netcreat.substack.com/sitemap.xml: 403 Client Error: Forbidden for url: https://netcreat.substack.com/sitemap.xml; posts API: Could not fetch JSON https://netcreat.substack.com/api/v1/posts?limit=100&offset=0: 403 Client Error: Forbidden for url: https://netcreat.substack.com/api/v1/posts?limit=100&offset=0; root sitemap: Could not fetch https://netcreat.substack.com/sitemap: 403 Client Error: Forbidden for url: https://netcreat.substack.com/sitemap; https://netcreat.substack.com/sitemap/2026: Could not fetch https://netcreat.substack.com/sitemap/2026: 403 Client Error: Forbidden for url: https://netcreat.substack.com/sitemap/2026; https://netcreat.substack.com/sitemap/2025: Could not fetch https://netcreat.substack.com/sitemap/2025: 403 Client Error: Forbidden for url: https://netcreat.substack.com/sitemap/2025; https://netcreat.substack.com/sitemap/2024: Could not fetch https://netcreat.substack.com/sitemap/2024: 403 Client Error: Forbidden for url: https://netcreat.substack.com/sitemap/2024; https://netcreat.substack.com/archive?sort=new: Could not fetch https://netcreat.substack.com/archive?sort=new: 403 Client Error: Forbidden for url: https://netcreat.substack.com/archive?sort=new; https://netcreat.substack.com: Could not fetch https://netcreat.substack.com: 403 Client Error: Forbidden for url: https://netcreat.substack.com/; feed: Could not fetch RSS https://netcreat.substack.com/feed: 403 Client Error: Forbidden for url: https://netcreat.substack.com/feed"
     }
   },
   "summary": {
     "total": 817,
-    "published": 118,
-    "missing": 696,
+    "published": 122,
+    "missing": 695,
     "skip": 0,
-    "check": 3
+    "check": 0
   },
   "recent_summary": {
     "days": 90,
     "start": "2026-08-27",
     "end": "2026-11-25",
     "total": 156,
-    "published": 89,
-    "missing": 64,
+    "published": 93,
+    "missing": 63,
     "skip": 0,
-    "check": 3
+    "check": 0
   },
   "auto_matches": [],
-  "unmatched_substack_posts": [
-    {
-      "title": "☕ Supporters' Lounge 오픈",
-      "url": "https://netcreat.substack.com/p/supporters-lounge",
-      "sitemap_year": "2026"
-    },
-    {
-      "title": "The Pentagon’s $350 Million Quantum Push — DARPA Stage C, PsiQuantum’s Loan, and a Shift in U.S. Quantum Strategy",
-      "url": "https://netcreat.substack.com/p/the-pentagons-350-million-quantum",
-      "sitemap_year": "2026"
-    },
-    {
-      "title": "The Cashless Exercise Option",
-      "url": "https://netcreat.substack.com/p/the-cashless-exercise-option",
-      "sitemap_year": "2026"
-    },
-    {
-      "title": "IONQ, 얼마나 하락한 것인가?",
-      "url": "https://netcreat.substack.com/p/ionq",
-      "sitemap_year": "2026"
-    },
-    {
-      "title": "Elisity Technical Deep Dive (3) — Network Data Collection, Device Identification, and AI-Driven Analysis",
-      "url": "https://netcreat.substack.com/p/elisity-technical-deep-dive-3-network",
-      "sitemap_year": "2026"
-    }
-  ],
+  "unmatched_substack_posts": [],
   "posts": [
     {
       "naver": {
         "published_date": "2026-11-25",
-        "title": "IonQ의 GRAVMAP",
+        "title": "IonQ의 양자 중력계의 원리와 DARPA의 전략",
         "logNo": "224491867477",
         "url": "https://blog.naver.com/4-fire/224491867477?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-11-25-224491867477.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "IonQ의 GRAVMAP — GPS가 사라져도 길을 찾는 양자 기술",
+          "url": "https://netcreat.substack.com/p/ionq-gravmap-gps",
+          "published_date": "2026-11-25",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
@@ -131,7 +110,7 @@
           "url": "https://netcreat.substack.com/p/ionq-fec",
           "published_date": "2026-11-23",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -153,7 +132,7 @@
           "url": "https://netcreat.substack.com/p/as-ionq-grows-who-benefits-the-most",
           "published_date": "2026-11-22",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -175,7 +154,7 @@
           "url": "https://netcreat.substack.com/p/ampera-ionq-2500",
           "published_date": "2026-11-23",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -225,7 +204,7 @@
           "url": "https://netcreat.substack.com/p/nvidia",
           "published_date": "2026-11-19",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -457,7 +436,7 @@
           "url": "https://netcreat.substack.com/p/ionqs-share-dilution-and-valuation",
           "published_date": "2026-11-09",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -479,7 +458,7 @@
           "url": "https://netcreat.substack.com/p/is-ionqs-revenue-growth-outpacing",
           "published_date": "2026-11-07",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -501,7 +480,7 @@
           "url": "https://netcreat.substack.com/p/ionq-q3-2026",
           "published_date": "2026-11-06",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -523,7 +502,7 @@
           "url": "https://netcreat.substack.com/p/ionq-completes-its-acquisition-of",
           "published_date": "2026-11-06",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -559,7 +538,7 @@
           "url": "https://netcreat.substack.com/p/quantum-security-deep-dive-4-why",
           "published_date": "2026-11-06",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -581,7 +560,7 @@
           "url": "https://netcreat.substack.com/p/quantum-security-deep-dive-3-zero",
           "published_date": "2026-11-05",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -631,7 +610,7 @@
           "url": "https://netcreat.substack.com/p/quantum-security-deep-dive-2-sharing",
           "published_date": "2026-11-04",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -653,7 +632,7 @@
           "url": "https://netcreat.substack.com/p/quantum-security-deep-dive-1-rsa",
           "published_date": "2026-11-03",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -675,7 +654,7 @@
           "url": "https://netcreat.substack.com/p/will-quantum-computers-break-all",
           "published_date": "2026-11-02",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -697,7 +676,7 @@
           "url": "https://netcreat.substack.com/p/is-qspms-real-competitive-advantage",
           "published_date": "2026-11-02",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -719,7 +698,7 @@
           "url": "https://netcreat.substack.com/p/pqc-detection-could-existing-switches",
           "published_date": "2026-11-01",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -741,7 +720,7 @@
           "url": "https://netcreat.substack.com/p/is-ionq-paying-too-much-for-elisity",
           "published_date": "2026-11-01",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -763,7 +742,7 @@
           "url": "https://netcreat.substack.com/p/ionqs-skywater-sp90-inside-the-quantum",
           "published_date": "2026-11-01",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -785,7 +764,7 @@
           "url": "https://netcreat.substack.com/p/seven-core-microsegmentation-technologies",
           "published_date": "2026-10-30",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -807,7 +786,7 @@
           "url": "https://netcreat.substack.com/p/the-uks-quantum-leap-and-its-space",
           "published_date": "2026-10-29",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -857,7 +836,7 @@
           "url": "https://netcreat.substack.com/p/from-bb84-key-establishment-to-public",
           "published_date": "2026-11-04",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -893,7 +872,7 @@
           "url": "https://netcreat.substack.com/p/ionq-secures-75-million-in-follow",
           "published_date": "2026-10-29",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -915,7 +894,7 @@
           "url": "https://netcreat.substack.com/p/intel-is-acquiring-classiq-a-quantum",
           "published_date": "2026-10-27",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -937,7 +916,7 @@
           "url": "https://netcreat.substack.com/p/why-did-ionq-agree-to-pay-up-to-13",
           "published_date": "2026-10-27",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -959,7 +938,7 @@
           "url": "https://netcreat.substack.com/p/why-did-ionq-have-to-choose-skywater",
           "published_date": "2026-10-26",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1009,7 +988,7 @@
           "url": "https://netcreat.substack.com/p/what-if-a-quantum-computer-were-hacked",
           "published_date": "2026-10-26",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1045,7 +1024,7 @@
           "url": "https://netcreat.substack.com/p/what-does-quantinuums-10-reduction",
           "published_date": "2026-10-23",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1081,7 +1060,7 @@
           "url": "https://netcreat.substack.com/p/cisco-quantum-summit-2026-day-1-how",
           "published_date": "2026-10-23",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1103,7 +1082,7 @@
           "url": "https://netcreat.substack.com/p/cisco-quantum-summit-2026-day-2-panel",
           "published_date": "2026-10-18",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1125,7 +1104,7 @@
           "url": "https://netcreat.substack.com/p/cisco-quantum-summit-2026-day-2-psiquantum",
           "published_date": "2026-10-18",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1138,8 +1117,8 @@
         "url": "https://blog.naver.com/4-fire/224444553990?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-17-224444553990.md"
       },
-      "status": "check",
-      "status_label": "⚠️ Check",
+      "status": "published",
+      "status_label": "✅ Published",
       "relationship": "one_to_one",
       "substack": [
         {
@@ -1147,7 +1126,7 @@
           "url": "https://substack.com/home/post/p-220947419",
           "published_date": "2026-10-18",
           "part": null,
-          "public_state": "not_in_public_sitemap"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1174,8 +1153,8 @@
         "url": "https://blog.naver.com/4-fire/224443610974?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-16-224443610974.md"
       },
-      "status": "check",
-      "status_label": "⚠️ Check",
+      "status": "published",
+      "status_label": "✅ Published",
       "relationship": "one_to_one",
       "substack": [
         {
@@ -1183,7 +1162,7 @@
           "url": "https://substack.com/home/post/p-220641243",
           "published_date": "2026-10-16",
           "part": null,
-          "public_state": "not_in_public_sitemap"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1205,7 +1184,7 @@
           "url": "https://netcreat.substack.com/p/ionqs-three-equity-offerings-hcms",
           "published_date": "2026-10-15",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1227,7 +1206,7 @@
           "url": "https://netcreat.substack.com/p/why-is-ionq-raising-another-2-billion",
           "published_date": "2026-10-15",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1249,7 +1228,7 @@
           "url": "https://netcreat.substack.com/p/ionqs-distributed-ftqc-the-real-challenge",
           "published_date": "2026-10-15",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1285,7 +1264,7 @@
           "url": "https://netcreat.substack.com/p/is-ionqs-security-puzzle-complete",
           "published_date": "2026-10-14",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1321,7 +1300,7 @@
           "url": "https://netcreat.substack.com/p/elisity-technical-deep-dive-5-microsegmentation",
           "published_date": "2026-10-13",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1343,7 +1322,7 @@
           "url": "https://netcreat.substack.com/p/elisity-technical-deep-dive-4-zero",
           "published_date": "2026-10-13",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1365,7 +1344,7 @@
           "url": "https://netcreat.substack.com/p/elisity-technical-deep-dive-3-network-c2b",
           "published_date": "2026-10-13",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1387,7 +1366,7 @@
           "url": "https://netcreat.substack.com/p/elisity-technical-deep-dive-2-ccc",
           "published_date": "2026-10-13",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1409,7 +1388,7 @@
           "url": "https://netcreat.substack.com/p/elisity-technical-deep-dive-1-understanding",
           "published_date": "2026-10-13",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1431,7 +1410,7 @@
           "url": "https://netcreat.substack.com/p/why-did-ionq-bet-13-billion-on-elisity",
           "published_date": "2026-10-13",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1453,7 +1432,7 @@
           "url": "https://netcreat.substack.com/p/amds-82-billion-bet-fei-fei-li-world",
           "published_date": "2026-10-12",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1475,7 +1454,7 @@
           "url": "https://netcreat.substack.com/p/where-is-nvidia-spending-its-money",
           "published_date": "2026-10-12",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1497,7 +1476,7 @@
           "url": "https://netcreat.substack.com/p/beam-built-by-the-minds-behind-alphago",
           "published_date": "2026-10-11",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1519,7 +1498,7 @@
           "url": "https://netcreat.substack.com/p/the-white-houses-6-billion-science",
           "published_date": "2026-10-10",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1541,7 +1520,7 @@
           "url": "https://netcreat.substack.com/p/what-is-ionqs-next-big-hurdle",
           "published_date": "2026-10-09",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1563,7 +1542,7 @@
           "url": "https://netcreat.substack.com/p/how-interposers-are-reshaping-the",
           "published_date": "2026-10-09",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1576,8 +1555,8 @@
         "url": "https://blog.naver.com/4-fire/224435960562?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-10-09-224435960562.md"
       },
-      "status": "check",
-      "status_label": "⚠️ Check",
+      "status": "published",
+      "status_label": "✅ Published",
       "relationship": "one_to_one",
       "substack": [
         {
@@ -1585,7 +1564,7 @@
           "url": "https://substack.com/home/post/p-219518246",
           "published_date": "2026-10-09",
           "part": null,
-          "public_state": "not_in_public_sitemap"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1607,7 +1586,7 @@
           "url": "https://netcreat.substack.com/p/how-can-space-quantum-communications",
           "published_date": "2026-10-23",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1643,7 +1622,7 @@
           "url": "https://netcreat.substack.com/p/a-semiconductor-revolution-without",
           "published_date": "2026-10-08",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1665,7 +1644,7 @@
           "url": "https://netcreat.substack.com/p/marvell-investor-day-2026-from-custom",
           "published_date": "2026-10-08",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1687,7 +1666,7 @@
           "url": "https://netcreat.substack.com/p/darpa-qbi-stage-c-atom-computings",
           "published_date": "2026-10-08",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1709,7 +1688,7 @@
           "url": "https://netcreat.substack.com/p/ayar-labs-and-marvell-the-next-battle",
           "published_date": "2026-10-07",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1731,7 +1710,7 @@
           "url": "https://netcreat.substack.com/p/gfs-for-scale-skyt-for-flexibility",
           "published_date": "2026-10-07",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1753,7 +1732,7 @@
           "url": "https://netcreat.substack.com/p/which-semiconductor-fabs-can-america",
           "published_date": "2026-10-07",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1775,7 +1754,7 @@
           "url": "https://netcreat.substack.com/p/andurils-ngc2-contract-and-ionq",
           "published_date": "2026-10-06",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1797,7 +1776,7 @@
           "url": "https://netcreat.substack.com/p/why-globalfoundries-deserves-a-second",
           "published_date": "2026-10-07",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1819,7 +1798,7 @@
           "url": "https://netcreat.substack.com/p/why-ionq-uses-so-many-ancilla-qubits",
           "published_date": "2026-10-06",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1841,7 +1820,7 @@
           "url": "https://netcreat.substack.com/p/nsas-national-security-systems-transition",
           "published_date": "2026-10-04",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1863,7 +1842,7 @@
           "url": "https://netcreat.substack.com/p/why-does-ionq-use-bb5-bb7-and-gb8",
           "published_date": "2026-10-04",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1885,7 +1864,7 @@
           "url": "https://netcreat.substack.com/p/understanding-quantum-technologies-5fb",
           "published_date": "2026-10-03",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1907,7 +1886,7 @@
           "url": "https://netcreat.substack.com/p/understanding-quantum-technologies-e71",
           "published_date": "2026-10-03",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1929,7 +1908,7 @@
           "url": "https://netcreat.substack.com/p/understanding-quantum-technologies-445",
           "published_date": "2026-10-03",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1951,7 +1930,7 @@
           "url": "https://netcreat.substack.com/p/what-is-nvidia-really-trying-to-change",
           "published_date": "2026-10-02",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1973,7 +1952,7 @@
           "url": "https://netcreat.substack.com/p/designing-codes-for-800-logical-qubits",
           "published_date": "2026-10-01",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -1995,7 +1974,7 @@
           "url": "https://netcreat.substack.com/p/understanding-quantum-technologies-248",
           "published_date": "2026-10-02",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2017,7 +1996,7 @@
           "url": "https://netcreat.substack.com/p/nato-releases-its-quantum-roadmap",
           "published_date": "2026-10-05",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2039,7 +2018,7 @@
           "url": "https://netcreat.substack.com/p/understanding-quantum-technologies",
           "published_date": "2026-09-30",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2061,7 +2040,7 @@
           "url": "https://netcreat.substack.com/p/lite-cohr-glw-lpth-mrvl-avgo-and",
           "published_date": "2026-09-30",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2083,7 +2062,7 @@
           "url": "https://netcreat.substack.com/p/chinas-quantum-catch-up-its-time",
           "published_date": "2026-09-29",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2105,7 +2084,7 @@
           "url": "https://netcreat.substack.com/p/what-does-nexus-photonics-100-ghz",
           "published_date": "2026-09-28",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2127,7 +2106,7 @@
           "url": "https://netcreat.substack.com/p/logical-qubits-and-distance-in-qec",
           "published_date": "2026-10-05",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2149,7 +2128,7 @@
           "url": "https://netcreat.substack.com/p/are-30-logical-qubits-really-30-logical",
           "published_date": "2026-09-26",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2171,7 +2150,7 @@
           "url": "https://netcreat.substack.com/p/ionqs-bigger-picture",
           "published_date": "2026-09-25",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2221,7 +2200,7 @@
           "url": "https://netcreat.substack.com/p/ionq-nvidia-ornl-and-epb",
           "published_date": "2026-09-23",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2243,7 +2222,7 @@
           "url": "https://netcreat.substack.com/p/learn-deeply-share-freely-a-new-chapter",
           "published_date": "2026-09-23",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2335,7 +2314,7 @@
           "url": "https://netcreat.substack.com/p/ionq-and-sdts-strategic-partnership",
           "published_date": "2026-09-22",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2371,14 +2350,14 @@
           "url": "https://netcreat.substack.com/p/ionqs-million-qubit-scaling-strategy",
           "published_date": "2026-09-21",
           "part": 1,
-          "public_state": "public"
+          "public_state": "unverified"
         },
         {
           "title": "IonQ’s Million-Qubit Scaling Strategy - Part 2",
           "url": "https://netcreat.substack.com/p/ionqs-million-qubit-scaling-strategy-c08",
           "published_date": "2026-09-21",
           "part": 2,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2400,7 +2379,7 @@
           "url": "https://netcreat.substack.com/p/ionq-superion-10k-could-a-new-qec",
           "published_date": "2026-09-20",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2436,7 +2415,7 @@
           "url": "https://netcreat.substack.com/p/ionq-superion-256-vs-10k-how-active",
           "published_date": "2026-10-08",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2500,7 +2479,7 @@
           "url": "https://netcreat.substack.com/p/what-happens-if-we-put-walking-cat",
           "published_date": "2026-09-17",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2592,7 +2571,7 @@
           "url": "https://netcreat.substack.com/p/quantum-interconnect-exceeds-1-khz",
           "published_date": "2026-10-10",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2614,7 +2593,7 @@
           "url": "https://netcreat.substack.com/p/ionqs-real-256-strategy-part-2",
           "published_date": "2026-09-08",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2636,7 +2615,7 @@
           "url": "https://netcreat.substack.com/p/ionqs-real-256-strategy-part-1",
           "published_date": "2026-09-08",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2686,7 +2665,7 @@
           "url": "https://netcreat.substack.com/p/cheap-attack-expensive-defense-who",
           "published_date": "2026-09-07",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2708,7 +2687,7 @@
           "url": "https://netcreat.substack.com/p/the-ground-air-space-quantum-network",
           "published_date": "2026-09-09",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2730,7 +2709,7 @@
           "url": "https://netcreat.substack.com/p/how-many-quantum-computers-has-ionq",
           "published_date": "2026-09-09",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2780,7 +2759,7 @@
           "url": "https://netcreat.substack.com/p/the-challenges-of-400-million-km-92f",
           "published_date": "2026-09-03",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2816,7 +2795,7 @@
           "url": "https://netcreat.substack.com/p/the-challenges-of-400-million-km-6e6",
           "published_date": "2026-09-03",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2852,7 +2831,7 @@
           "url": "https://netcreat.substack.com/p/the-challenges-of-400-million-km",
           "published_date": "2026-09-02",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2916,7 +2895,7 @@
           "url": "https://netcreat.substack.com/p/understanding-real-time-decoding",
           "published_date": "2026-08-30",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -2938,7 +2917,7 @@
           "url": "https://netcreat.substack.com/p/q54-q70-q102-why-did-ionq-create",
           "published_date": "2026-08-30",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -3086,7 +3065,7 @@
           "url": "https://netcreat.substack.com/p/why-is-ionq-suddenly-focusing-on",
           "published_date": "2026-08-23",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -3276,7 +3255,7 @@
           "url": "https://netcreat.substack.com/p/the-puzzle-behind-a-one-line-mou",
           "published_date": "2026-10-06",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -3578,7 +3557,7 @@
           "url": "https://netcreat.substack.com/p/what-does-nexus-photonics-acquired",
           "published_date": "2026-08-06",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -3712,7 +3691,7 @@
           "url": "https://netcreat.substack.com/p/qed-cs-quantum-networking-roadmap",
           "published_date": "2026-07-30",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -3944,7 +3923,7 @@
           "url": "https://netcreat.substack.com/p/fast-logical-operations-in-quantum",
           "published_date": "2026-10-08",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -4008,7 +3987,7 @@
           "url": "https://netcreat.substack.com/p/dc-qnet-the-city-scale-quantum-network",
           "published_date": "2026-07-16",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -4030,7 +4009,7 @@
           "url": "https://netcreat.substack.com/p/from-lightsynq-to-skyloomcapella",
           "published_date": "2026-07-12",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -4052,7 +4031,7 @@
           "url": "https://netcreat.substack.com/p/the-first-two-nsf-x-labs-solicitations",
           "published_date": "2026-07-11",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -4074,7 +4053,7 @@
           "url": "https://netcreat.substack.com/p/the-real-meaning-of-nsf-project-triad",
           "published_date": "2026-07-11",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -4152,7 +4131,7 @@
           "url": "https://netcreat.substack.com/p/the-structure-of-the-officina-stellare",
           "published_date": "2026-07-03",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -4174,7 +4153,7 @@
           "url": "https://netcreat.substack.com/p/how-oct-is-changing-the-space-internet",
           "published_date": "2026-07-02",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -4196,7 +4175,7 @@
           "url": "https://netcreat.substack.com/p/aalyria-in-depth-investment-research",
           "published_date": "2026-07-02",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -4232,7 +4211,7 @@
           "url": "https://netcreat.substack.com/p/the-real-question-after-the-starlink",
           "published_date": "2026-07-01",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -4254,7 +4233,7 @@
           "url": "https://netcreat.substack.com/p/archer-materials-and-ionq",
           "published_date": "2026-07-01",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -4304,7 +4283,7 @@
           "url": "https://netcreat.substack.com/p/rocket-labs-iridium-acquisition-and",
           "published_date": "2026-07-01",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -4326,7 +4305,7 @@
           "url": "https://netcreat.substack.com/p/what-it-means-when-third-party-satellites",
           "published_date": "2026-06-30",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -4348,7 +4327,7 @@
           "url": "https://netcreat.substack.com/p/the-fy2027-department-of-war-budget",
           "published_date": "2026-07-01",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -4902,7 +4881,7 @@
           "url": "https://netcreat.substack.com/p/why-did-ionq-suddenly-start-talking",
           "published_date": "2026-11-02",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -5540,7 +5519,7 @@
           "url": "https://netcreat.substack.com/p/what-is-a-quantum-os-and-why-does",
           "published_date": "2026-10-27",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -5926,7 +5905,7 @@
           "url": "https://netcreat.substack.com/p/trapped-ion-computing-is-not-an-arrayit",
           "published_date": "2026-10-23",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -5976,7 +5955,7 @@
           "url": "https://netcreat.substack.com/p/the-uks-quantum-strategy-proqure",
           "published_date": "2026-10-08",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -6390,7 +6369,7 @@
           "url": "https://netcreat.substack.com/p/zero-trust-a-new-security-principle",
           "published_date": "2026-10-13",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -6916,7 +6895,7 @@
           "url": "https://netcreat.substack.com/p/ionq-acquires-time-and-sells-time",
           "published_date": "2026-07-30",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -8730,7 +8709,7 @@
           "url": "https://netcreat.substack.com/p/the-reality-of-synthetic-aperture",
           "published_date": "2026-10-24",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -9102,7 +9081,7 @@
           "url": "https://netcreat.substack.com/p/what-is-the-killer-app-in-quantum",
           "published_date": "2026-07-27",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -10916,7 +10895,7 @@
           "url": "https://netcreat.substack.com/p/approaches-to-scaling-qccd-control",
           "published_date": "2026-10-23",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -11358,7 +11337,7 @@
           "url": "https://netcreat.substack.com/p/oxford-ionics-qccd",
           "published_date": "2026-10-23",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -11632,7 +11611,7 @@
           "url": "https://netcreat.substack.com/p/oxford-ionics-design-philosophy-an",
           "published_date": "2026-10-23",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
@@ -12340,7 +12319,7 @@
           "url": "https://netcreat.substack.com/p/oxford-ionics-qpu-architecture-a",
           "published_date": "2026-10-23",
           "part": null,
-          "public_state": "public"
+          "public_state": "unverified"
         }
       ],
       "reason": null
