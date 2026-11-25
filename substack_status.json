@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T23:54:17+00:00",
+  "generated_at": "2026-11-25T08:35:58+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 815,
+    "total": 816,
     "published": 121,
-    "missing": 694,
+    "missing": 695,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-08-26",
-    "end": "2026-11-24",
-    "total": 156,
+    "start": "2026-08-27",
+    "end": "2026-11-25",
+    "total": 155,
     "published": 92,
-    "missing": 64,
+    "missing": 63,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-25",
+        "title": "IonQ 워런트의 진짜 위험과 주주의 몫 (2)",
+        "logNo": "224491244916",
+        "url": "https://blog.naver.com/4-fire/224491244916?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-25-224491244916.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-24",
@@ -60,7 +74,7 @@
     {
       "naver": {
         "published_date": "2026-11-23",
-        "title": "IonQ 워런트의 진짜 위험과 주주의 몫",
+        "title": "IonQ 워런트의 진짜 위험과 주주의 몫 (1)",
         "logNo": "224488652843",
         "url": "https://blog.naver.com/4-fire/224488652843?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-11-23-224488652843.md"

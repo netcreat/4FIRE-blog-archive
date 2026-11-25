@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 815,
+  "totalArchivedPosts": 816,
   "posts": [
+    {
+      "date": "2026-11-25",
+      "published": "2026-11-25T13:47:30+11:00",
+      "title": "IonQ 워런트의 진짜 위험과 주주의 몫 (2)",
+      "logNo": "224491244916",
+      "source": "https://blog.naver.com/4-fire/224491244916?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-25-224491244916.md",
+      "content_source": "naver_post",
+      "characters": 12663
+    },
     {
       "date": "2026-11-24",
       "published": "2026-11-24T20:40:07+11:00",
@@ -17,7 +27,7 @@
     {
       "date": "2026-11-23",
       "published": "2026-11-23T19:18:33+11:00",
-      "title": "IonQ 워런트의 진짜 위험과 주주의 몫",
+      "title": "IonQ 워런트의 진짜 위험과 주주의 몫 (1)",
       "logNo": "224488652843",
       "source": "https://blog.naver.com/4-fire/224488652843?fromRss=true&trackingCode=rss",
       "archive": "posts/2026/2026-11-23-224488652843.md",
