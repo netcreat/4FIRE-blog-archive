@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 819,
+  "totalArchivedPosts": 820,
   "posts": [
+    {
+      "date": "2026-11-27",
+      "published": "2026-11-27T22:00:28+11:00",
+      "title": "지금 SpaceX(SPCX)에 투자한다면?",
+      "logNo": "224494994126",
+      "source": "https://blog.naver.com/4-fire/224494994126?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-27-224494994126.md",
+      "content_source": "naver_post",
+      "characters": 13083
+    },
     {
       "date": "2026-11-27",
       "published": "2026-11-27T20:20:57+11:00",

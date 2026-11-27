@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-27T09:34:31+00:00_
+_Automatically generated: 2026-11-27T11:02:40+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 819 | 124 | 695 | 0 | 0 |
-| Recent 90 days (2026-08-29 → 2026-11-27) | 155 | 95 | 60 | 0 | 0 |
+| All | 820 | 124 | 696 | 0 | 0 |
+| Recent 90 days (2026-08-29 → 2026-11-27) | 156 | 95 | 61 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-27 | [지금 SpaceX(SPCX)에 투자한다면?](posts/2026/2026-11-27-224494994126.md) | ❌ Missing | — | `224494994126` |
 | 2026-11-27 | [IonQ는 왜 IDEMIA와 손잡았나?](posts/2026/2026-11-27-224494897401.md) | ✅ Published | [IonQ는 왜 IDEMIA와 손잡았나?](https://netcreat.substack.com/p/ionq-idemia) | `224494897401` |
 | 2026-11-27 | [AI가 암호를 먼저 해독한다면 양자컴퓨터의 가치는 사라질까?](posts/2026/2026-11-27-224494470959.md) | ✅ Published | [AI가 암호를 먼저 해독한다면 양자컴퓨터의 가치는 사라질까?](https://netcreat.substack.com/p/ai) | `224494470959` |
 | 2026-11-25 | [IonQ의 양자 중력계의 원리와 DARPA의 전략](posts/2026/2026-11-25-224491867477.md) | ✅ Published | [IonQ의 GRAVMAP — GPS가 사라져도 길을 찾는 양자 기술](https://netcreat.substack.com/p/ionq-gravmap-gps) | `224491867477` |
@@ -175,10 +176,11 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **695**
+Total missing: **696**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-27 | [지금 SpaceX(SPCX)에 투자한다면?](posts/2026/2026-11-27-224494994126.md) | ❌ Missing | — | `224494994126` |
 | 2026-11-25 | [IonQ 워런트의 진짜 위험과 주주의 몫 (2)](posts/2026/2026-11-25-224491244916.md) | ❌ Missing | — | `224491244916` |
 | 2026-11-24 | [IonQ가 노리는 또 다른 시장](posts/2026/2026-11-24-224490293977.md) | ❌ Missing | — | `224490293977` |
 | 2026-11-20 | [IONQ 주가는 왜 10월부터 계속 하락하는가?](posts/2026/2026-11-20-224484932877.md) | ❌ Missing | — | `224484932877` |
@@ -882,10 +884,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 819 Naver posts</summary>
+<summary>Show all 820 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-27 | [지금 SpaceX(SPCX)에 투자한다면?](posts/2026/2026-11-27-224494994126.md) | ❌ Missing | — | `224494994126` |
 | 2026-11-27 | [IonQ는 왜 IDEMIA와 손잡았나?](posts/2026/2026-11-27-224494897401.md) | ✅ Published | [IonQ는 왜 IDEMIA와 손잡았나?](https://netcreat.substack.com/p/ionq-idemia) | `224494897401` |
 | 2026-11-27 | [AI가 암호를 먼저 해독한다면 양자컴퓨터의 가치는 사라질까?](posts/2026/2026-11-27-224494470959.md) | ✅ Published | [AI가 암호를 먼저 해독한다면 양자컴퓨터의 가치는 사라질까?](https://netcreat.substack.com/p/ai) | `224494470959` |
 | 2026-11-25 | [IonQ의 양자 중력계의 원리와 DARPA의 전략](posts/2026/2026-11-25-224491867477.md) | ✅ Published | [IonQ의 GRAVMAP — GPS가 사라져도 길을 찾는 양자 기술](https://netcreat.substack.com/p/ionq-gravmap-gps) | `224491867477` |
