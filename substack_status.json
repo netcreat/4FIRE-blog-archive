@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T04:00:05+00:00",
+  "generated_at": "2026-11-27T07:37:52+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 818,
-    "published": 122,
-    "missing": 696,
+    "published": 123,
+    "missing": 695,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-08-29",
     "end": "2026-11-27",
     "total": 154,
-    "published": 93,
-    "missing": 61,
+    "published": 94,
+    "missing": 60,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224494470959?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-11-27-224494470959.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "AI가 암호를 먼저 해독한다면 양자컴퓨터의 가치는 사라질까?",
+          "url": "https://netcreat.substack.com/p/ai",
+          "published_date": "2026-11-27",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
