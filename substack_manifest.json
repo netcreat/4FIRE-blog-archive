@@ -1405,6 +1405,20 @@
           "format": "summary"
         }
       ]
+    },
+    "224494897401": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "IonQ는 왜 IDEMIA와 손잡았나?",
+          "english_title": "Why Did IonQ Partner with IDEMIA?",
+          "url": "https://netcreat.substack.com/p/ionq-idemia",
+          "published_date": "2026-11-27",
+          "language": "ko",
+          "format": "summary"
+        }
+      ]
     }
   }
 }
