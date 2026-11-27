@@ -1392,6 +1392,19 @@
           "format": "summary"
         }
       ]
+    },
+    "224494470959": {
+      "status": "published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "AI가 암호를 먼저 해독한다면 양자컴퓨터의 가치는 사라질까?",
+          "url": "https://netcreat.substack.com/p/ai",
+          "published_date": "2026-11-27",
+          "language": "ko",
+          "format": "summary"
+        }
+      ]
     }
   }
 }
