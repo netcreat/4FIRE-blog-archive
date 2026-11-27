@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T09:21:53+00:00",
+  "generated_at": "2026-11-27T09:34:31+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -25,8 +25,8 @@
   },
   "summary": {
     "total": 819,
-    "published": 123,
-    "missing": 696,
+    "published": 124,
+    "missing": 695,
     "skip": 0,
     "check": 0
   },
@@ -35,8 +35,8 @@
     "start": "2026-08-29",
     "end": "2026-11-27",
     "total": 155,
-    "published": 94,
-    "missing": 61,
+    "published": 95,
+    "missing": 60,
     "skip": 0,
     "check": 0
   },
@@ -51,10 +51,18 @@
         "url": "https://blog.naver.com/4-fire/224494897401?fromRss=true&trackingCode=rss",
         "github_archive": "posts/2026/2026-11-27-224494897401.md"
       },
-      "status": "missing",
-      "status_label": "❌ Missing",
-      "relationship": null,
-      "substack": [],
+      "status": "published",
+      "status_label": "✅ Published",
+      "relationship": "one_to_one",
+      "substack": [
+        {
+          "title": "IonQ는 왜 IDEMIA와 손잡았나?",
+          "url": "https://netcreat.substack.com/p/ionq-idemia",
+          "published_date": "2026-11-27",
+          "part": null,
+          "public_state": "unverified"
+        }
+      ],
       "reason": null
     },
     {
