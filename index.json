@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 818,
+  "totalArchivedPosts": 819,
   "posts": [
+    {
+      "date": "2026-11-27",
+      "published": "2026-11-27T20:20:57+11:00",
+      "title": "IonQ는 왜 IDEMIA와 손잡았나?",
+      "logNo": "224494897401",
+      "source": "https://blog.naver.com/4-fire/224494897401?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-27-224494897401.md",
+      "content_source": "naver_post",
+      "characters": 20445
+    },
     {
       "date": "2026-11-27",
       "published": "2026-11-27T14:57:18+11:00",

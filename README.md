@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-27T07:37:52+00:00_
+_Automatically generated: 2026-11-27T09:21:53+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 818 | 123 | 695 | 0 | 0 |
-| Recent 90 days (2026-08-29 → 2026-11-27) | 154 | 94 | 60 | 0 | 0 |
+| All | 819 | 123 | 696 | 0 | 0 |
+| Recent 90 days (2026-08-29 → 2026-11-27) | 155 | 94 | 61 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-27 | [IonQ는 왜 IDEMIA와 손잡았나?](posts/2026/2026-11-27-224494897401.md) | ❌ Missing | — | `224494897401` |
 | 2026-11-27 | [AI가 암호를 먼저 해독한다면 양자컴퓨터의 가치는 사라질까?](posts/2026/2026-11-27-224494470959.md) | ✅ Published | [AI가 암호를 먼저 해독한다면 양자컴퓨터의 가치는 사라질까?](https://netcreat.substack.com/p/ai) | `224494470959` |
 | 2026-11-25 | [IonQ의 양자 중력계의 원리와 DARPA의 전략](posts/2026/2026-11-25-224491867477.md) | ✅ Published | [IonQ의 GRAVMAP — GPS가 사라져도 길을 찾는 양자 기술](https://netcreat.substack.com/p/ionq-gravmap-gps) | `224491867477` |
 | 2026-11-25 | [IonQ 워런트의 진짜 위험과 주주의 몫 (2)](posts/2026/2026-11-25-224491244916.md) | ❌ Missing | — | `224491244916` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-11-07 | [IonQ의 매출 성장은 비용을 앞지르고 있는가?](posts/2026/2026-11-07-224468288302.md) | ✅ Published | [Is IonQ’s Revenue Growth Outpacing Its Costs?](https://netcreat.substack.com/p/is-ionqs-revenue-growth-outpacing) | `224468288302` |
 | 2026-11-06 | [IonQ 2026년 3분기 실적 분석](posts/2026/2026-11-06-224467136215.md) | ✅ Published | [IonQ Q3 2026: Deep Dive into Financials, Superion, SkyWater, Security and the Earnings Call](https://netcreat.substack.com/p/ionq-q3-2026) | `224467136215` |
 | 2026-11-05 | [IonQ, Elisity 인수완료와 그 의미 최최최종](posts/2026/2026-11-05-224466403070.md) | ✅ Published | [IonQ Completes Its Acquisition of Elisity: What It Really Means — The Definitive Analysis](https://netcreat.substack.com/p/ionq-completes-its-acquisition-of) | `224466403070` |
-| 2026-11-05 | [SpaceX, 미국 지상 5G망까지 구축한다](posts/2026/2026-11-05-224466086340.md) | ❌ Missing | — | `224466086340` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).

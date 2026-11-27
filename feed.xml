@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Fri, 27 Nov 2026 16:37:23 +0900</pubDate>
+            <pubDate>Fri, 27 Nov 2026 18:21:23 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[IonQ]]></category>
+                <title><![CDATA[IonQ는 왜 IDEMIA와 손잡았나?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224494897401?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224494897401</guid>
+                <description><![CDATA[✅ QKD·PQC·HSM에서 읽히는 양자보안 사업 전략 IonQ의 IDEMIA 상호운용성 검증, OPSWAT 기술 시연, Congruity360의 818만 달러 계약, HSM·PQC 가속기 인력 채용, Elisity 인수는 독립적인 뉴스처럼 보이지만 하나의 사업 전략으로 연결될 가능성이 있다. 그 전략의 핵심은 양자키분배(QKD) 장비만 판매하는 데 머물지 않고, 기업이 기존에 사용하는 HSM·키 관리·네트워크 보안·Zero Trust 체계와 결합하는 것이다. 다만 여기서 확인된 기술 성과, 실제 상용 계약, 채용을 통해 드러난 개발 의도, 아직 실현되지 않은 사업 가설을 반드시 구분해야 한다. 분석 기준일은 2026년 11월 27일이며, 본문은 공식 기업 발표·정부 자료·표준 문서를 우선.......]]></description>
+                
+                <pubDate>Fri, 27 Nov 2026 18:20:57 +0900</pubDate>
+                <tag><![CDATA[IonQ,IDEMIA,IST]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 
                 <pubDate>Tue, 27 Oct 2026 07:10:57 +0900</pubDate>
                 <tag><![CDATA[Intel,Classiq,IonQ]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[IonQ는 왜 Elisity에 최대 13억 달러를 지불 했을까?]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224454479969?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224454479969</guid>
-                
-                <description><![CDATA[✅ 왜???, Elisity였는지, 13억 달려였는지  SkyWater 인수와 같은 방법으로 경쟁사를 하나씩 비교해 보니 예상과 다른 결론이 나왔습니다 지난글에서 IonQ가 왜 SkyWater를 인수할 수밖에 없었는지를 분석했습니다. 이번에는 같은 방법으로 Elisity를 살펴봤습니다. 그런데 처음부터 의문이 생겼습니다. IonQ가 PQC(양자내성암호)와 QKD(양자키분배) 기술을 확보했다고 해서, 반드시 Zero Trust 기업을 인수해야 할 이유가 있을까요? 기존 보안업체와 기술 제휴를 맺으면 되는 것 아닐까요? 더욱이 Zero Trust와 마이크로세그멘테이션 시장에는 Illumio, Zero Networks, ORDR, ColorTokens 등 이미 기술력을 인정받은 기업이 많습니다. 그런....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMjZfMjEy/MDAxNzkzMDA3MjkyODA5.ZhDImMoeQSbm1eNeZSvNb2sJgXRDIeVJxDsmD1oDMrgg.6opqLku2duq2Oa8kzY4X5bob8JHIlcJfth5skP9pI4Ig.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Tue, 27 Oct 2026 07:10:00 +0900</pubDate>
-                <tag><![CDATA[IonQ,Elisity]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>
