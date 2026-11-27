@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 817,
+  "totalArchivedPosts": 818,
   "posts": [
+    {
+      "date": "2026-11-27",
+      "published": "2026-11-27T14:57:18+11:00",
+      "title": "AI가 암호를 먼저 해독한다면 양자컴퓨터의 가치는 사라질까?",
+      "logNo": "224494470959",
+      "source": "https://blog.naver.com/4-fire/224494470959?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-27-224494470959.md",
+      "content_source": "naver_post",
+      "characters": 14587
+    },
     {
       "date": "2026-11-25",
       "published": "2026-11-25T20:36:10+11:00",

@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-27T01:45:13+00:00_
+_Automatically generated: 2026-11-27T04:00:05+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 817 | 122 | 695 | 0 | 0 |
-| Recent 90 days (2026-08-27 → 2026-11-25) | 156 | 93 | 63 | 0 | 0 |
+| All | 818 | 122 | 696 | 0 | 0 |
+| Recent 90 days (2026-08-29 → 2026-11-27) | 154 | 93 | 61 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-27 | [AI가 암호를 먼저 해독한다면 양자컴퓨터의 가치는 사라질까?](posts/2026/2026-11-27-224494470959.md) | ❌ Missing | — | `224494470959` |
 | 2026-11-25 | [IonQ의 양자 중력계의 원리와 DARPA의 전략](posts/2026/2026-11-25-224491867477.md) | ✅ Published | [IonQ의 GRAVMAP — GPS가 사라져도 길을 찾는 양자 기술](https://netcreat.substack.com/p/ionq-gravmap-gps) | `224491867477` |
 | 2026-11-25 | [IonQ 워런트의 진짜 위험과 주주의 몫 (2)](posts/2026/2026-11-25-224491244916.md) | ❌ Missing | — | `224491244916` |
 | 2026-11-24 | [IonQ가 노리는 또 다른 시장](posts/2026/2026-11-24-224490293977.md) | ❌ Missing | — | `224490293977` |
@@ -170,16 +171,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-08-30 | [이온트랩 FTQC의 실시간 디코딩 이해하기 - T gate, Magic State, CM, Outcome Decoder까지](posts/2026/2026-08-30-224395258684.md) | ✅ Published | [Understanding Real-Time Decoding in Ion-Trap FTQC](https://netcreat.substack.com/p/understanding-real-time-decoding) | `224395258684` |
 | 2026-08-30 | [Q54, Q70, Q102 — IonQ는 왜 하나의 양자 오류정정 코드 대신 세 개를 만들었을까?](posts/2026/2026-08-30-224394947524.md) | ✅ Published | [Q54, Q70, Q102 — Why Did IonQ Create Three Quantum Error-Correction Codes Instead of One?](https://netcreat.substack.com/p/q54-q70-q102-why-did-ionq-create) | `224394947524` |
 | 2026-08-29 | [Arizona에서 Maryland로 이동한 미국 Quantum Internet의 중심축, 그리고 IonQ](posts/2026/2026-08-29-224394095339.md) | ❌ Missing | — | `224394095339` |
-| 2026-08-28 | [파도에 흔들리지 않는 투자법](posts/2026/2026-08-28-224392869865.md) | ❌ Missing | — | `224392869865` |
-| 2026-08-27 | [RRP는 바닥났고 TGA는 가득 찼다 — 미국 유동성은 어디로 가는가](posts/2026/2026-08-27-224392514969.md) | ❌ Missing | — | `224392514969` |
-| 2026-08-27 | [Real-time decoder for a MegaQuOp quantum computer using a single CPU 분석](posts/2026/2026-08-27-224392429894.md) | ❌ Missing | — | `224392429894` |
 
 ## Missing from Substack
 
-Total missing: **695**
+Total missing: **696**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-27 | [AI가 암호를 먼저 해독한다면 양자컴퓨터의 가치는 사라질까?](posts/2026/2026-11-27-224494470959.md) | ❌ Missing | — | `224494470959` |
 | 2026-11-25 | [IonQ 워런트의 진짜 위험과 주주의 몫 (2)](posts/2026/2026-11-25-224491244916.md) | ❌ Missing | — | `224491244916` |
 | 2026-11-24 | [IonQ가 노리는 또 다른 시장](posts/2026/2026-11-24-224490293977.md) | ❌ Missing | — | `224490293977` |
 | 2026-11-20 | [IONQ 주가는 왜 10월부터 계속 하락하는가?](posts/2026/2026-11-20-224484932877.md) | ❌ Missing | — | `224484932877` |
@@ -883,10 +882,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 817 Naver posts</summary>
+<summary>Show all 818 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-27 | [AI가 암호를 먼저 해독한다면 양자컴퓨터의 가치는 사라질까?](posts/2026/2026-11-27-224494470959.md) | ❌ Missing | — | `224494470959` |
 | 2026-11-25 | [IonQ의 양자 중력계의 원리와 DARPA의 전략](posts/2026/2026-11-25-224491867477.md) | ✅ Published | [IonQ의 GRAVMAP — GPS가 사라져도 길을 찾는 양자 기술](https://netcreat.substack.com/p/ionq-gravmap-gps) | `224491867477` |
 | 2026-11-25 | [IonQ 워런트의 진짜 위험과 주주의 몫 (2)](posts/2026/2026-11-25-224491244916.md) | ❌ Missing | — | `224491244916` |
 | 2026-11-24 | [IonQ가 노리는 또 다른 시장](posts/2026/2026-11-24-224490293977.md) | ❌ Missing | — | `224490293977` |

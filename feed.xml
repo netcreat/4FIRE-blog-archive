@@ -21,7 +21,21 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Fri, 27 Nov 2026 10:44:44 +0900</pubDate>
+            <pubDate>Fri, 27 Nov 2026 12:59:34 +0900</pubDate>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[Computing]]></category>
+                <title><![CDATA[AI가 암호를 먼저 해독한다면 양자컴퓨터의 가치는 사라질까?]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224494470959?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224494470959</guid>
+                
+                <description><![CDATA[✅ P, NP, BPP, BQP와 양자 우위 양자컴퓨터의 대표적인 가치 중 하나는 고전컴퓨터에서 현실적으로 해결하기 어려운 문제를 효율적으로 풀 수 있다는 것이다. 소인수분해와 쇼어 알고리즘이 대표적이다. 최근 AI가 수학적 난제를 해결하고 새로운 고전 알고리즘을 발견하면서, 양자컴퓨터가 등장하기 전에 고전컴퓨터가 먼저 암호를 해독할 가능성도 논의되고 있다. 그러나 고전컴퓨터가 문제를 풀 수 있다는 사실과 양자컴퓨터보다 빠르고 저렴하게 풀 수 있다는 사실은 전혀 다르다. 계산복잡도, 실제 성능, 상용화 시점을 구분해야 한다. ✅ 1. Scott Aaronson의 발언 — 무엇이 확인됐는가? 2026년 11월 24일 Scott Aaronson은 자신의 블로....... <img src="https://blogthumb.pstatic.net/MjAyNjExMjdfMjU2/MDAxNzk1NzUwNzMwMjIz.-1jDjEdgNVEPr-Ca7SrO6c99dPh6Ho73PJJAWUd1uk0g.xqzJlE2pmMKrz617v1Fpte4jvVavPyGOGtMACBsLTkgg.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Fri, 27 Nov 2026 12:57:18 +0900</pubDate>
+                <tag><![CDATA[P,NP,BQP,BPP]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
 
             <item>
                 <author>4-fire</author>
@@ -705,20 +719,6 @@
                 <description><![CDATA[✅ 왜???, Elisity였는지, 13억 달려였는지  SkyWater 인수와 같은 방법으로 경쟁사를 하나씩 비교해 보니 예상과 다른 결론이 나왔습니다 지난글에서 IonQ가 왜 SkyWater를 인수할 수밖에 없었는지를 분석했습니다. 이번에는 같은 방법으로 Elisity를 살펴봤습니다. 그런데 처음부터 의문이 생겼습니다. IonQ가 PQC(양자내성암호)와 QKD(양자키분배) 기술을 확보했다고 해서, 반드시 Zero Trust 기업을 인수해야 할 이유가 있을까요? 기존 보안업체와 기술 제휴를 맺으면 되는 것 아닐까요? 더욱이 Zero Trust와 마이크로세그멘테이션 시장에는 Illumio, Zero Networks, ORDR, ColorTokens 등 이미 기술력을 인정받은 기업이 많습니다. 그런....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMjZfMjEy/MDAxNzkzMDA3MjkyODA5.ZhDImMoeQSbm1eNeZSvNb2sJgXRDIeVJxDsmD1oDMrgg.6opqLku2duq2Oa8kzY4X5bob8JHIlcJfth5skP9pI4Ig.PNG/image.png?type=s3" />]]></description>
                 <pubDate>Tue, 27 Oct 2026 07:10:00 +0900</pubDate>
                 <tag><![CDATA[IonQ,Elisity]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[IonQ]]></category>
-                <title><![CDATA[왜 IonQ에는 하필, Skywater 여야만 했을까?]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224454437483?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224454437483</guid>
-                <description><![CDATA[✅ 전 세계 파운드리를 하나씩 제외하자 마지막에 남은 회사 2026년 1월 26일, IonQ는 미국의 반도체 파운드리 SkyWater Technology를 약 18억 달러에 인수한다고 발표했습니다. 당시 저는 한 가지 의문이 들었습니다. 반도체 칩이 필요하다면 파운드리에 제조를 맡기면 되는데, 왜 굳이 회사를 통째로 인수했을까요? 그리고 수많은 파운드리 중 왜 하필 SkyWater였을까요? 처음에는 단순히 QPU 제조시설을 확보하기 위한 수직계열화라고 생각했습니다. 하지만 그것만으로 18억 달러를 들여 특정 기업을 인수해야 했던 이유가 충분히 설명되지는 않습니다. 그래서 이번에는 SkyWater를 정답으로 정해놓지 않고, IonQ에 필요했을 조건을 하나씩 추.......]]></description>
-                
-                <pubDate>Mon, 26 Oct 2026 18:20:10 +0900</pubDate>
-                <tag><![CDATA[IonQ,Skywater,Advanced,Packaging]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T01:45:13+00:00",
+  "generated_at": "2026-11-27T04:00:05+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,25 +24,39 @@
     }
   },
   "summary": {
-    "total": 817,
+    "total": 818,
     "published": 122,
-    "missing": 695,
+    "missing": 696,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-08-27",
-    "end": "2026-11-25",
-    "total": 156,
+    "start": "2026-08-29",
+    "end": "2026-11-27",
+    "total": 154,
     "published": 93,
-    "missing": 63,
+    "missing": 61,
     "skip": 0,
     "check": 0
   },
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-27",
+        "title": "AI가 암호를 먼저 해독한다면 양자컴퓨터의 가치는 사라질까?",
+        "logNo": "224494470959",
+        "url": "https://blog.naver.com/4-fire/224494470959?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-27-224494470959.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-25",

@@ -2,7 +2,7 @@
 
 ## Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-27T01:45:13+00:00_
+_Automatically generated: 2026-11-27T04:00:05+00:00_
 
 Track Naver posts and their English Substack editions. **The table below is updated automatically** by the repository's existing sync workflow.
 
@@ -14,13 +14,14 @@ Track Naver posts and their English Substack editions. **The table below is upda
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 817 | 122 | 695 | 0 | 0 |
-| Recent 90 days (2026-08-27 → 2026-11-25) | 156 | 93 | 63 | 0 | 0 |
+| All | 818 | 122 | 696 | 0 | 0 |
+| Recent 90 days (2026-08-29 → 2026-11-27) | 154 | 93 | 61 | 0 | 0 |
 
 ## Latest 30 Naver posts
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-27 | [AI가 암호를 먼저 해독한다면 양자컴퓨터의 가치는 사라질까?](posts/2026/2026-11-27-224494470959.md) | ❌ Missing | — | `224494470959` |
 | 2026-11-25 | [IonQ의 양자 중력계의 원리와 DARPA의 전략](posts/2026/2026-11-25-224491867477.md) | ✅ Published | [IonQ의 GRAVMAP — GPS가 사라져도 길을 찾는 양자 기술](https://netcreat.substack.com/p/ionq-gravmap-gps) | `224491867477` |
 | 2026-11-25 | [IonQ 워런트의 진짜 위험과 주주의 몫 (2)](posts/2026/2026-11-25-224491244916.md) | ❌ Missing | — | `224491244916` |
 | 2026-11-24 | [IonQ가 노리는 또 다른 시장](posts/2026/2026-11-24-224490293977.md) | ❌ Missing | — | `224490293977` |
@@ -50,6 +51,5 @@ Track Naver posts and their English Substack editions. **The table below is upda
 | 2026-11-06 | [IonQ 2026년 3분기 실적 분석](posts/2026/2026-11-06-224467136215.md) | ✅ Published | [IonQ Q3 2026: Deep Dive into Financials, Superion, SkyWater, Security and the Earnings Call](https://netcreat.substack.com/p/ionq-q3-2026) | `224467136215` |
 | 2026-11-05 | [IonQ, Elisity 인수완료와 그 의미 최최최종](posts/2026/2026-11-05-224466403070.md) | ✅ Published | [IonQ Completes Its Acquisition of Elisity: What It Really Means — The Definitive Analysis](https://netcreat.substack.com/p/ionq-completes-its-acquisition-of) | `224466403070` |
 | 2026-11-05 | [SpaceX, 미국 지상 5G망까지 구축한다](posts/2026/2026-11-05-224466086340.md) | ❌ Missing | — | `224466086340` |
-| 2026-11-05 | [양자보안 심화 (4) — IonQ는 왜 QSPM·QKD·HSM·Elisity에 주목할까?](posts/2026/2026-11-05-224463889105.md) | ✅ Published | [Quantum Security Deep Dive (4) — Why Is IonQ Focusing on QSPM, QKD, HSMs, and Elisity?](https://netcreat.substack.com/p/quantum-security-deep-dive-4-why) | `224463889105` |
 
 Only the 30 latest entries are shown here. For the complete **Recent 90 days**, **Missing from Substack**, and **Full Naver archive** tables, [open SUBSTACK_STATUS.md](SUBSTACK_STATUS.md).
