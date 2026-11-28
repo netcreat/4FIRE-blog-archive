@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T23:28:14+00:00",
+  "generated_at": "2026-11-28T07:50:41+00:00",
   "sources": {
     "naver_index": "index.json",
     "substack_manifest": "substack_manifest.json",
@@ -24,16 +24,16 @@
     }
   },
   "summary": {
-    "total": 820,
+    "total": 821,
     "published": 124,
-    "missing": 696,
+    "missing": 697,
     "skip": 0,
     "check": 0
   },
   "recent_summary": {
     "days": 90,
-    "start": "2026-08-29",
-    "end": "2026-11-27",
+    "start": "2026-08-30",
+    "end": "2026-11-28",
     "total": 156,
     "published": 95,
     "missing": 61,
@@ -43,6 +43,20 @@
   "auto_matches": [],
   "unmatched_substack_posts": [],
   "posts": [
+    {
+      "naver": {
+        "published_date": "2026-11-28",
+        "title": "AI와 양자컴퓨팅이 발전할수록 강해지는 기업 – Synopsys(SNPS) 재분석",
+        "logNo": "224495834704",
+        "url": "https://blog.naver.com/4-fire/224495834704?fromRss=true&trackingCode=rss",
+        "github_archive": "posts/2026/2026-11-28-224495834704.md"
+      },
+      "status": "missing",
+      "status_label": "❌ Missing",
+      "relationship": null,
+      "substack": [],
+      "reason": null
+    },
     {
       "naver": {
         "published_date": "2026-11-27",

@@ -2,8 +2,18 @@
   "blog": "4FIRE",
   "blogId": "4-fire",
   "rss": "https://rss.blog.naver.com/4-fire.xml",
-  "totalArchivedPosts": 820,
+  "totalArchivedPosts": 821,
   "posts": [
+    {
+      "date": "2026-11-28",
+      "published": "2026-11-28T15:43:13+11:00",
+      "title": "AI와 양자컴퓨팅이 발전할수록 강해지는 기업 – Synopsys(SNPS) 재분석",
+      "logNo": "224495834704",
+      "source": "https://blog.naver.com/4-fire/224495834704?fromRss=true&trackingCode=rss",
+      "archive": "posts/2026/2026-11-28-224495834704.md",
+      "content_source": "naver_post",
+      "characters": 26956
+    },
     {
       "date": "2026-11-27",
       "published": "2026-11-27T22:00:28+11:00",

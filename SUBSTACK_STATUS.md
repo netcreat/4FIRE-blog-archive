@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-27T23:28:15+00:00_
+_Automatically generated: 2026-11-28T07:50:41+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 820 | 124 | 696 | 0 | 0 |
-| Recent 90 days (2026-08-29 → 2026-11-27) | 156 | 95 | 61 | 0 | 0 |
+| All | 821 | 124 | 697 | 0 | 0 |
+| Recent 90 days (2026-08-30 → 2026-11-28) | 156 | 95 | 61 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-28 | [AI와 양자컴퓨팅이 발전할수록 강해지는 기업 – Synopsys(SNPS) 재분석](posts/2026/2026-11-28-224495834704.md) | ❌ Missing | — | `224495834704` |
 | 2026-11-27 | [지금 SpaceX(SPCX)에 투자한다면?](posts/2026/2026-11-27-224494994126.md) | ❌ Missing | — | `224494994126` |
 | 2026-11-27 | [IonQ는 왜 IDEMIA와 손잡았나?](posts/2026/2026-11-27-224494897401.md) | ✅ Published | [IonQ는 왜 IDEMIA와 손잡았나?](https://netcreat.substack.com/p/ionq-idemia) | `224494897401` |
 | 2026-11-27 | [AI가 암호를 먼저 해독한다면 양자컴퓨터의 가치는 사라질까?](posts/2026/2026-11-27-224494470959.md) | ✅ Published | [AI가 암호를 먼저 해독한다면 양자컴퓨터의 가치는 사라질까?](https://netcreat.substack.com/p/ai) | `224494470959` |
@@ -172,14 +173,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 | 2026-09-01 | [IonQ가 만들려는 것은 더 이상 ‘한 대의 양자컴퓨터’가 아니다 - Mihir Bhaskar](posts/2026/2026-09-01-224397041821.md) | ❌ Missing | — | `224397041821` |
 | 2026-08-30 | [이온트랩 FTQC의 실시간 디코딩 이해하기 - T gate, Magic State, CM, Outcome Decoder까지](posts/2026/2026-08-30-224395258684.md) | ✅ Published | [Understanding Real-Time Decoding in Ion-Trap FTQC](https://netcreat.substack.com/p/understanding-real-time-decoding) | `224395258684` |
 | 2026-08-30 | [Q54, Q70, Q102 — IonQ는 왜 하나의 양자 오류정정 코드 대신 세 개를 만들었을까?](posts/2026/2026-08-30-224394947524.md) | ✅ Published | [Q54, Q70, Q102 — Why Did IonQ Create Three Quantum Error-Correction Codes Instead of One?](https://netcreat.substack.com/p/q54-q70-q102-why-did-ionq-create) | `224394947524` |
-| 2026-08-29 | [Arizona에서 Maryland로 이동한 미국 Quantum Internet의 중심축, 그리고 IonQ](posts/2026/2026-08-29-224394095339.md) | ❌ Missing | — | `224394095339` |
 
 ## Missing from Substack
 
-Total missing: **696**
+Total missing: **697**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-28 | [AI와 양자컴퓨팅이 발전할수록 강해지는 기업 – Synopsys(SNPS) 재분석](posts/2026/2026-11-28-224495834704.md) | ❌ Missing | — | `224495834704` |
 | 2026-11-27 | [지금 SpaceX(SPCX)에 투자한다면?](posts/2026/2026-11-27-224494994126.md) | ❌ Missing | — | `224494994126` |
 | 2026-11-25 | [IonQ 워런트의 진짜 위험과 주주의 몫 (2)](posts/2026/2026-11-25-224491244916.md) | ❌ Missing | — | `224491244916` |
 | 2026-11-24 | [IonQ가 노리는 또 다른 시장](posts/2026/2026-11-24-224490293977.md) | ❌ Missing | — | `224490293977` |
@@ -884,10 +885,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 820 Naver posts</summary>
+<summary>Show all 821 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-28 | [AI와 양자컴퓨팅이 발전할수록 강해지는 기업 – Synopsys(SNPS) 재분석](posts/2026/2026-11-28-224495834704.md) | ❌ Missing | — | `224495834704` |
 | 2026-11-27 | [지금 SpaceX(SPCX)에 투자한다면?](posts/2026/2026-11-27-224494994126.md) | ❌ Missing | — | `224494994126` |
 | 2026-11-27 | [IonQ는 왜 IDEMIA와 손잡았나?](posts/2026/2026-11-27-224494897401.md) | ✅ Published | [IonQ는 왜 IDEMIA와 손잡았나?](https://netcreat.substack.com/p/ionq-idemia) | `224494897401` |
 | 2026-11-27 | [AI가 암호를 먼저 해독한다면 양자컴퓨터의 가치는 사라질까?](posts/2026/2026-11-27-224494470959.md) | ✅ Published | [AI가 암호를 먼저 해독한다면 양자컴퓨터의 가치는 사라질까?](https://netcreat.substack.com/p/ai) | `224494470959` |
