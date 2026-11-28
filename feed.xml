@@ -21,11 +21,25 @@
             <description><![CDATA[배워서 남주나?]]></description>
             <language>ko</language>
             <generator>Naver Blog</generator>
-            <pubDate>Sat, 28 Nov 2026 16:50:10 +0900</pubDate>
+            <pubDate>Sun, 29 Nov 2026 02:33:21 +0900</pubDate>
 
             <item>
                 <author>4-fire</author>
-                <category><![CDATA[Portfolios]]></category>
+                <category><![CDATA[건강]]></category>
+                <title><![CDATA[근육통의 이해 #01 – 어깨 뒤쪽이 아프다면? 소원근(Teres Minor)의 이해]]></title>
+                <link><![CDATA[https://blog.naver.com/4-fire/224496160303?fromRss=true&trackingCode=rss]]></link>
+                <guid>https://blog.naver.com/4-fire/224496160303</guid>
+                
+                <description><![CDATA[✅ 들어가며 경제적 자유만큼 중요한 것이 건강이다. 아무리 많은 부를 축적하더라도 건강을 잃으면 그 자유를 온전히 누리기 어렵다. 필자는 직업 특성상 하루 대부분을 앉아서 일하고, 퇴근 후에도 관심 분야를 공부하느라 컴퓨터 앞에서 많은 시간을 보낸다. 틈틈이 스마트폰까지 들여다보는 생활을 반복하면서 근골격계 질환을 비롯한 여러 건강 문제를 경험해 왔다. 그럴 때마다 단순히 통증을 완화하는 데 그치지 않고, 왜 이런 문제가 발생했는지, 우리 몸은 어떤 구조로 이루어져 있는지, 어떻게 관리하고 개선할 수 있는지를 스스로 공부하는 습관을 들여왔다. 이번에 신설한 '건강의 과학(Science of Health)' 카테고리는 필....... <img src="https://blogthumb.pstatic.net/MjAyNjExMjhfMTg3/MDAxNzk1ODYxMTY4Nzk3.F2v2fczTbg7Ka-QnwQrWVe2Bb8XV1Wl6IBE1C6meVcwg.XE3U9QD7MjAaCbeu75VsnrpxBw27PePzp_FtBMCTr4Ag.PNG/image.png?type=s3" />]]></description>
+                <pubDate>Sat, 28 Nov 2026 19:47:00 +0900</pubDate>
+                <tag><![CDATA[건강의과학,근육통의이해,어깨통증,소원근,작은원근,TeresMinor,회전근개,RotatorCuff,근골격계,재활운동,인체해부학]]></tag>
+                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
+            </item>
+
+            <item>
+                <author>4-fire</author>
+                <category><![CDATA[포트폴리오]]></category>
                 <title><![CDATA[AI와 양자컴퓨팅이 발전할수록 강해지는 기업 – Synopsys(SNPS) 재분석]]></title>
                 <link><![CDATA[https://blog.naver.com/4-fire/224495834704?fromRss=true&trackingCode=rss]]></link>
                 <guid>https://blog.naver.com/4-fire/224495834704</guid>
@@ -39,13 +53,13 @@
 
             <item>
                 <author>4-fire</author>
-                <category><![CDATA[Golden Dome]]></category>
+                <category><![CDATA[스페이스]]></category>
                 <title><![CDATA[지금 SpaceX(SPCX)에 투자한다면?]]></title>
                 <link><![CDATA[https://blog.naver.com/4-fire/224494994126?fromRss=true&trackingCode=rss]]></link>
                 <guid>https://blog.naver.com/4-fire/224494994126</guid>
                 <description><![CDATA[✅ 성장 잠재력과 1.73조 달러의 리스크 분석 기준일: 2026년 11월 27일. 주가는 미국 현지 11월 25일 정규장 종가, 재무자료는 2026년 9월 말 기준이다. 금액은 별도 표시가 없으면 미국 달러다. SpaceX에 투자한다는 것은 이제 단순히 우주산업의 성장에 투자한다는 의미가 아니다. 스타링크의 글로벌 통신 사업, xAI의 인공지능 사업, 지상 및 우주 데이터센터, 차세대 발사체까지 하나의 기업에 투자하는 것이다. 2026년 xAI 합병과 Cursor 인수를 통해 기업의 성격이 크게 달라졌다. 최근 FCC의 최대 100만 기 우주 데이터센터 위성군 조건부 승인과 애리조나 6GW 지상 데이터센터 계획은 이러한 방향을 잘 보여준다. 하지만 위대한 기업과.......]]></description>
                 
-                <pubDate>Fri, 27 Nov 2026 20:00:28 +0900</pubDate>
+                <pubDate>Fri, 27 Nov 2026 20:00:27 +0900</pubDate>
                 <tag><![CDATA[SPCX,SpaceX]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -73,7 +87,7 @@
                 <guid>https://blog.naver.com/4-fire/224494470959</guid>
                 
                 <description><![CDATA[✅ P, NP, BPP, BQP와 양자 우위 양자컴퓨터의 대표적인 가치 중 하나는 고전컴퓨터에서 현실적으로 해결하기 어려운 문제를 효율적으로 풀 수 있다는 것이다. 소인수분해와 쇼어 알고리즘이 대표적이다. 최근 AI가 수학적 난제를 해결하고 새로운 고전 알고리즘을 발견하면서, 양자컴퓨터가 등장하기 전에 고전컴퓨터가 먼저 암호를 해독할 가능성도 논의되고 있다. 그러나 고전컴퓨터가 문제를 풀 수 있다는 사실과 양자컴퓨터보다 빠르고 저렴하게 풀 수 있다는 사실은 전혀 다르다. 계산복잡도, 실제 성능, 상용화 시점을 구분해야 한다. ✅ 1. Scott Aaronson의 발언 — 무엇이 확인됐는가? 2026년 11월 24일 Scott Aaronson은 자신의 블로....... <img src="https://blogthumb.pstatic.net/MjAyNjExMjdfMjU2/MDAxNzk1NzUwNzMwMjIz.-1jDjEdgNVEPr-Ca7SrO6c99dPh6Ho73PJJAWUd1uk0g.xqzJlE2pmMKrz617v1Fpte4jvVavPyGOGtMACBsLTkgg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Fri, 27 Nov 2026 12:57:18 +0900</pubDate>
+                <pubDate>Fri, 27 Nov 2026 12:57:17 +0900</pubDate>
                 <tag><![CDATA[P,NP,BQP,BPP]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -87,7 +101,7 @@
                 <guid>https://blog.naver.com/4-fire/224491867477</guid>
                 
                 <description><![CDATA[✅ GPS가 없어도 항법을 유지하는 양자 중력계 (GRAVMAP)의 원리와 DARPA의 전략 2026년 11월 24일, IonQ는 자회사 Vector Atomic이 DARPA의 GRAVMAP 사업에서 Phase II Option을 수주했다고 발표했다. [1] 이번 발표를 이해하려면 단순한 계약 규모보다 양자 중력계가 무엇을 측정하는지, 항공기에서 왜 구현하기 어려운지, GPS 재밍 시 어떤 역할을 수행하는지를 살펴봐야 한다. 핵심은 양자컴퓨터와 별개로 양자센싱 기술이 실제 제품과 국방 플랫폼으로 발전하고 있다는 점이다. ✅ 1. GRAVMAP 계약의 실체 GRAVMAP은 Gravimeter using Rubidium Atoms with Vibration-immunity for Maritime and Airborne Platforms의 약자다. 루비듐 원자를....... <img src="https://blogthumb.pstatic.net/MjAyNjExMjVfMjEw/MDAxNzk1NTk3NTA0OTY5.QnNlv2_AAuQietdThJPH_UdB4ICWfUQC26Q_KRuOoZwg.si1A35hfqqPvhN0zQjgRzLZ8NQJsNUxHP8M7Mm63UbIg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Wed, 25 Nov 2026 18:36:10 +0900</pubDate>
+                <pubDate>Wed, 25 Nov 2026 18:36:09 +0900</pubDate>
                 <tag><![CDATA[IonQ,GRAVMAP,VectorAtomic,PNT]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -115,7 +129,7 @@
                 <guid>https://blog.naver.com/4-fire/224490293977</guid>
                 
                 <description><![CDATA[✅ 양자보안, GPS 없는 정밀 시간, 그리고 미국 정부 조달 2026년 11월 23일 IonQ는 양자보안, GPS 단절 시 시간 유지, 연방정부 계약업체의 PQC 전환이라는 세 주제의 블로그를 공개했다. 세 글은 신규 수주 발표가 아니라 잠재 고객이 요구사항을 정의하도록 돕는 기술·정책 설명이다. 이미 다룬 기술은 기존 글로 연결하고, 이번 공개 자료에서 특히 주목할 부분과 사업적 함의를 분석한다. ✅ 1. PQC와 QKD — 경쟁 관계가 아니라 서로 다른 실패 모드 기존 RSA·ECC의 취약점, AES와 키 설정의 차이, HNDL은 이미 상세히 다뤘다. 양자보안 심화 (1) — RSA·ECC·PQC·AES / 양자보안 심화 (2) — AES 비밀키의 공유와 보호 이번 글의 핵심은 PQ....... <img src="https://blogthumb.pstatic.net/MjAyNjExMjRfNCAg/MDAxNzk1NTEzMTExMDYx.AQvbp37KGuwYxTb8HxTb8BFK2xMdRcAP8NHCjh3OJv0g.T1reswc40mgXvzxEwPE7sNvKvNih7QdtxFaA6zO9Mr4g.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Tue, 24 Nov 2026 18:40:07 +0900</pubDate>
+                <pubDate>Tue, 24 Nov 2026 18:40:06 +0900</pubDate>
                 <tag><![CDATA[IonQ,Blog,PQC,PNT]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -157,7 +171,7 @@
                 <guid>https://blog.naver.com/4-fire/224486354850</guid>
                 
                 <description><![CDATA[✅ IonQ의 2,500만 달러 투자부터 가스·폐열발전, 토륨 미임계 원자로와 경쟁사까지 분석 기준일: 2026년 11월 21일. SEC 공시와 지금까지 검토한 기술·사업·경쟁력 분석을 통합한 글이다. 분석 범위: Berto–AMPERA SPAC 합병, IonQ PIPE 투자, Harry You 및 Horizon Quantum 사례, PowerNOW·sPower·NuclearNEXT, 토륨 및 미임계의 물리, 가스·폐열발전 사업성, 원자로 경쟁기업, 기술·재무적 리스크. 검증 원칙: SEC 및 기업이 밝힌 목표치, 별도 실증된 성과, 계산상 가정과 개인적인 분석을 엄격하게 구분한다. 회사가 제시하는 LCOE(Levelized Cost of Energy - 균등화 발전원가)와 상용화 목표는 실제 달성 수치가 아니다. ✅ 1. IonQ와 AM....... <img src="https://blogthumb.pstatic.net/MjAyNjExMjFfMTA4/MDAxNzk1MjY0Mjc3ODIy.fo-F3aF1893aRiq4FoGKcRIu6xnkAfqSd-N7bcWKWnMg.fNSesmaHzJT6a9WF_Nqil7WdH49dM3JY1fPKQab_y0Ag.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Sat, 21 Nov 2026 21:44:13 +0900</pubDate>
+                <pubDate>Sat, 21 Nov 2026 21:44:12 +0900</pubDate>
                 <tag><![CDATA[IonQ,Ampera,Berto,SPAC,TACO,AMPR]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -171,7 +185,7 @@
                 <guid>https://blog.naver.com/4-fire/224484932877</guid>
                 
                 <description><![CDATA[✅ 증자·공매도·워런트·인수주식의 수급 분석 분석 기준: 2026년 9월 30일~11월 19일 미국 시장 종가, 11월 20일 현재 공개된 공시·공매도 자료. 판단은 확정 사실, 수급에 대한 추론, 아직 확인되지 않은 가설로 구분한다. 핵심 질문: 3분기 기관 보유량이 줄어든 가운데 10~11월 주가까지 지속적으로 하락했다. 이 하락은 기관의 추가 매도 때문일까, HCM의 Pre-funded 워런트 때문일까, 아니면 다른 이유가 겹쳤을까? 먼저 결론: 특정 기관의 비밀스러운 연속 매도를 확인한 것은 아니다. 현재 근거가 강한 설명은 업종 전체의 투자심리 악화 + 20억 달러 증자 + 공매도 잔고 확대 + Elisity 인수주식 공급 우려가 서로 겹쳤다는 것이다. ✅ 1....... <img src="https://blogthumb.pstatic.net/MjAyNjExMjBfMTY0/MDAxNzk1MTYwNzczNTMy.eJS91zKUngM6wO_mcEfWhUQLM2ldLlfI8_vTKMTZi7og.MP2JAYOWc5_FI4m3P7vUZ-JyaKBI2J_1RHLoTK--KlAg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Fri, 20 Nov 2026 16:45:39 +0900</pubDate>
+                <pubDate>Fri, 20 Nov 2026 16:45:38 +0900</pubDate>
                 <tag><![CDATA[IonQ]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -185,7 +199,7 @@
                 <guid>https://blog.naver.com/4-fire/224484434423</guid>
                 
                 <description><![CDATA[✅ 하락장 매수와 장기 보유의 조건 레버리지 ETF는 장기 보유하면 무조건 손해라는 주장이 있다. 하지만 과거 QLD·USD처럼 장기간 놀라운 수익률을 기록한 사례도 존재한다. 따라서 핵심 질문은 레버리지 ETF의 장기 보유가 가능한지가 아니라, 어떤 기초자산에, 어느 시점에, 얼마나 큰 비중으로 투자하느냐이다. 2026년 7월 5일 작성한 「레버리지 ETF 장기 보유의 진실: 2배가 3배보다 나을 때」에서는 QLD·USD와 3배 상품을 비교하며 2배가 3배보다 나은 장기 성과를 내는 구간을 살펴봤다. 이번 글에서는 그 논의를 반복하지 않고, 개별 종목 2배 레버리지인 IONX에 집중한다. 나 역시 이번 하락장에서 IONX를 매수했다. 이미 많이 떨어졌....... <img src="https://blogthumb.pstatic.net/MjAyNjExMjBfMjA4/MDAxNzk1MTMyOTg3NDc5.CeBjE9pUG1gbsQ9A0Lhw32S8C6V-l8Qe1mqe3DAq-VMg.xsSokY38WDMGLmq4S0Lr4wjaeTPmzp7R3TEQ1fUb8hMg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Fri, 20 Nov 2026 10:21:42 +0900</pubDate>
+                <pubDate>Fri, 20 Nov 2026 10:21:41 +0900</pubDate>
                 <tag><![CDATA[IonQ,IonX]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -199,7 +213,7 @@
                 <guid>https://blog.naver.com/4-fire/224484048655</guid>
                 
                 <description><![CDATA[✅ HRES·QRMI·QDMI 구조와 양자 슈퍼컴퓨팅의 실제 의미 2026년 11월 SC26에서 NVIDIA는 슈퍼컴퓨터의 대표적인 작업 스케줄러 Slurm에 양자처리장치(QPU)를 정식 공유 자원으로 통합하는 구조를 발표했다. 기술적 핵심은 Slurm 26.11의 HRES(Hierarchical Resources) 플러그인 인터페이스다. IonQ의 채드 사카크(Chad Sakac)는 이 소식에 “마법은 아니지만 필수적이다(Not magic but essential)”라며, 대규모 시스템에서는 오케스트레이션과 같은 기반 인프라가 중요하다고 평가했다. "I’m super excited about this. Not magic but essential. Experience is that fundamental plumbing (orchestration) is fundamental, particularly ....... <img src="https://blogthumb.pstatic.net/MjAyNjExMTlfMjc0/MDAxNzk1MDk2Nzk4NTI1.3TvKsZKxT1AdhjFFHzyO1bNzL2RkdIbgAzhXec5IAhgg.tEaprww4NilIQFVjEtrl7u7cyuUYCIJKRCbPYNV-zYUg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Fri, 20 Nov 2026 07:28:01 +0900</pubDate>
+                <pubDate>Fri, 20 Nov 2026 07:28:00 +0900</pubDate>
                 <tag><![CDATA[NVIDIA,Slurm,QPU,QRMI,QDMI]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -227,7 +241,7 @@
                 <guid>https://blog.naver.com/4-fire/224483612297</guid>
                 
                 <description><![CDATA[✅ QKD–PQC 연결과 Q-KMS의 진짜 경쟁력 2026년 11월 19일, SK브로드밴드는 부산–싱가포르 SJC2 해저케이블을 활용한 국제 양자보안 시험망 구축 계획을 발표했다. 국내와 싱가포르 현지에서는 QKD(양자키분배), 장거리 해저케이블에서는 PQC(양자내성암호)를 활용해 하나의 보안 네트워크로 연동하는 구상이다. 아이온큐(IonQ)가 NIA 및 SK브로드밴드와 함께 싱가포르를 방문해 기술 협의에 참여했다는 점이 눈에 띈다. 다만 SK브로드밴드의 사업 수행기관 선정과 아이온큐의 신규 장비 공급 계약 확정은 서로 다른 사실이다. 이번 사안을 기술적으로 이해하기 위한 핵심 질문은 두 가지다. 서로 다른 QKD·PQC 보안 구간을 어떻게 연결하는가....... <img src="https://blogthumb.pstatic.net/MjAyNjExMTlfMjg1/MDAxNzk1MDc0MTIwNTQ3.8dxVN3J63MYm0MKcp_wV8HjYFO-zuMb3Xxvw_S0mVx0g.QBkDgTJ4tRWynbZ10VpfMD0prJkFbX8x36UxqbB95kgg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Thu, 19 Nov 2026 16:54:37 +0900</pubDate>
+                <pubDate>Thu, 19 Nov 2026 16:54:36 +0900</pubDate>
                 <tag><![CDATA[IonQ,QKD,PQC,QKMS]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -241,7 +255,7 @@
                 <guid>https://blog.naver.com/4-fire/224483141600</guid>
                 
                 <description><![CDATA[✅ IonQ Federal Advisory Board — 8명의 이력을 파헤쳐 보니 NSA·DIA·DARPA·미 육군·Lockheed Martin·Leidos. 이들의 공통점은 무엇일까? 2026년 11월 17일 IonQ는 미국 연방정부 사업을 지원하는 Federal Advisory Board의 구성을 공식 발표했다. 8명의 자문위원 명단에는 전직 NSA 부국장, DIA 국장, DARPA 국장, 미 육군 4성 장군, 글로벌 방산기업의 최고경영진까지 포함되어 있다. 각 인물의 과거 경력을 자세히 조사하면 단순히 유명 인사를 영입한 것 이상의 의미가 드러난다. 이들은 기술을 연구하고, 국가안보 정책을 수립하고, 대규모 국방사업을 운영하고, 신기술을 실제 군사 시스템에 도입해 본 사람들이다. 이 글에서는 확인된 경....... <img src="https://blogthumb.pstatic.net/MjAyNjExMTlfMTIx/MDAxNzk1MDUzMTQzMzcw.jMVZU5lHbi5yzqVIrDgtWdlcdYXlo7zgS-7WAsg04yAg.Q2Rhp0cupamkxVtKRBFTPWYMmzTVaL8cMEix0ELnvxcg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Thu, 19 Nov 2026 10:58:54 +0900</pubDate>
+                <pubDate>Thu, 19 Nov 2026 10:58:53 +0900</pubDate>
                 <tag><![CDATA[IonQ,Federal,Advisory,Board]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -283,7 +297,7 @@
                 <guid>https://blog.naver.com/4-fire/224480855724</guid>
                 
                 <description><![CDATA[✅ 86계단 상승과 136계단 하락, 기관들은 실제로 얼마나 사고팔았나? 2026년 3분기 IonQ 기관투자자 자료에서 가장 눈에 띄는 수치는 기관 보유주식 -15.97%와 계산상 보유비율 55.47% → 43.43%다. 그러나 이 두 수치만으로 기관투자자들이 일제히 이탈했다고 결론 내릴 수는 없다. 이번 분석에서는 Q2·Q3 상위 200개 기관의 순위 이동, Nasdaq 기관별 보고자료의 실제 보유주식 증감, 그리고 신규 매수·재진입·Top 200 진입·목록 이탈을 각각 구분했다. 분석 기준: 2026년 11월 17일에 정리된 Nasdaq Q2·Q3 자료 및 자체 기관명 표준화 시트. 기관명 기반 비교 결과이며 기관별 CIK 전수 검증과는 다를 수 있다.  핵심 결론을 먼저 정리하....... <img src="https://blogthumb.pstatic.net/MjAyNjExMTdfMTA0/MDAxNzk0OTA2ODU1MjYx.Qo1_PrRABwXikfgzHtnno9QOmjGHnNabbOf55sHZZykg.x0ud-bi8dV7zLViHbtqEuThb2VV5T2D-Ov6YAY7QV8Yg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Tue, 17 Nov 2026 18:15:08 +0900</pubDate>
+                <pubDate>Tue, 17 Nov 2026 18:15:07 +0900</pubDate>
                 <tag><![CDATA[IonQ,13F]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -353,7 +367,7 @@
                 <guid>https://blog.naver.com/4-fire/224475723315</guid>
                 
                 <description><![CDATA[✅ 520큐비트, 1,040큐비트 연결 계획, Starling 로드맵과 경쟁 기술 비교 2026년 11월 11일, IBM은 Quantum Developer Conference에서 차세대 초전도 프로세서 Nighthawk r3를 발표했다. 2027년 520개 프로그래밍 가능 큐비트를 탑재한 칩 2개를 연결해 1,040큐비트 시스템을 구성한다는 목표다. [1][2] 이번 발표는 단순히 큐비트 수가 늘었다는 뉴스가 아니다. IBM은 기존의 120큐비트 칩 여러 개를 연결하는 전략에서 520큐비트 대형 칩 두 개를 연결하는 구조로 방향을 수정했다. 동시에 2029년까지 200개 논리 큐비트·1억 회 양자 연산을 목표로 하는 Starling 오류정정 시스템의 연구 진척도 공개했다. 다만 Nighthawk r3, 연결형 1,040큐....... <img src="https://blogthumb.pstatic.net/MjAyNjExMTNfMTAy/MDAxNzk0NTQzNjY4ODgz.t_WOHac0XxXdZrD7mW9nOOl_L7ojeZIzRvuoxiWK-nEg.RA9NTHtoNRsJDkb_MOlByawkDJowcwsoTE13XRbgNnsg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Fri, 13 Nov 2026 15:08:40 +0900</pubDate>
+                <pubDate>Fri, 13 Nov 2026 15:08:39 +0900</pubDate>
                 <tag><![CDATA[IBM,Nighthawk,r3]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -367,7 +381,7 @@
                 <guid>https://blog.naver.com/4-fire/224475720321</guid>
                 
                 <description><![CDATA[✅ IBM이 발표한 520큐비트, 그래서 무엇이 달라지는 걸까요? 2026년 11월 11일, IBM이 새로운 양자컴퓨터 칩을 발표했습니다. 지금은 120개의 큐비트로 계산하지만, 2027년에는 520개로 늘리겠다는 내용입니다. [1] 큐비트는 양자컴퓨터가 계산할 때 사용하는 기본 단위입니다. 일반 컴퓨터의 비트와 비슷한 역할을 하지만, 정보를 다루는 방식은 다릅니다. 앞으로는 520개짜리 칩 두 개를 연결해 총 1,040개 큐비트로 계산하는 것이 목표입니다. 현재 1,040개가 작동한다는 뜻은 아닙니다. 이번 글에서는 양자 기술을 처음 접한 분들도 이해할 수 있도록 핵심만 설명하겠습니다. 다른 회사와의 경쟁력 비교는 다음 글에서 다루겠습니다. ✅ 1. ....... <img src="https://blogthumb.pstatic.net/MjAyNjExMTNfMTM0/MDAxNzk0NTQ5ODg4MDUw.jUd6sMPOCjjdTwFmvBnqI5HK-7ln1YoQuLaJrW84p1Eg.D8qLWOY_j-JfcyTHxoNcuAWkCU9q1DebUe2W7af55jwg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Fri, 13 Nov 2026 15:06:40 +0900</pubDate>
+                <pubDate>Fri, 13 Nov 2026 15:06:39 +0900</pubDate>
                 <tag><![CDATA[IBM,Nighthawk,520]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -389,13 +403,13 @@
 
             <item>
                 <author>4-fire</author>
-                <category><![CDATA[Golden Dome]]></category>
+                <category><![CDATA[스페이스]]></category>
                 <title><![CDATA[Rocket Lab의 주식 희석과 기업가치 — 10개 차트로 다시 보는 성장의 의미]]></title>
                 <link><![CDATA[https://blog.naver.com/4-fire/224471814561?fromRss=true&trackingCode=rss]]></link>
                 <guid>https://blog.naver.com/4-fire/224471814561</guid>
                 
                 <description><![CDATA[✅ Rocket Lab의 주식 희석과 기업가치 — 10개 차트로 보는 성장과 주주의 몫 이번 글은 Rocket Lab의 2026년 3분기 실적을 단순히 나열하는 글이 아니다. IonQ의 주식 희석과 기업가치 — 10개 차트에서 사용한 같은 분석 틀로, Rocket Lab의 성장과 기존 주주에게 돌아가는 가치를 함께 살펴본다. 2026년 3분기 실적에 대한 분석은 Rocket Lab 2026년 3분기 실적 심층 분석 을 참고하자. 분석 질문은 세 가지다. 기업 매출이 늘어나는 속도가 보통주 수 증가를 앞지르는가? 손실 감소가 실제 현금 창출로 이어지는가? 그리고 시가총액에 반영된 미래 기대를 실적으로 얼마나 뒷받침하는가? 차트는 2023년 1분기부터 2026년 3분기까지의 분기 자....... <img src="https://blogthumb.pstatic.net/MjAyNjExMTBfMjA3/MDAxNzk0Mjk1Mzk5MDk2.mmOHu0FjCpA3ZF0lHmlruPHxltrRb-6j_v6SKBGl4RMg.TFTD8tQDENX0pzTL2yFoae595-Ygw2tDLRcngvdCRlAg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Tue, 10 Nov 2026 16:31:38 +0900</pubDate>
+                <pubDate>Tue, 10 Nov 2026 16:31:37 +0900</pubDate>
                 <tag><![CDATA[RocketLab,RKLB]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -403,7 +417,7 @@
 
             <item>
                 <author>4-fire</author>
-                <category><![CDATA[Golden Dome]]></category>
+                <category><![CDATA[스페이스]]></category>
                 <title><![CDATA[Rocket Lab 2026년 3분기 실적 심층 분석]]></title>
                 <link><![CDATA[https://blog.naver.com/4-fire/224471235967?fromRss=true&trackingCode=rss]]></link>
                 <guid>https://blog.naver.com/4-fire/224471235967</guid>
@@ -459,7 +473,7 @@
 
             <item>
                 <author>4-fire</author>
-                <category><![CDATA[Series]]></category>
+                <category><![CDATA[연재]]></category>
                 <title><![CDATA[양자보안 심화 (4) — IonQ는 왜 QSPM·QKD·HSM·Elisity에 주목할까?]]></title>
                 <link><![CDATA[https://blog.naver.com/4-fire/224463889105?fromRss=true&trackingCode=rss]]></link>
                 <guid>https://blog.naver.com/4-fire/224463889105</guid>
@@ -493,7 +507,7 @@
                 <guid>https://blog.naver.com/4-fire/224466086340</guid>
                 
                 <description><![CDATA[✅ Starlink·ASTS의 과거 분석을 다시 쓰다 2026년 11월 4일 SpaceX가 Qualcomm Dragonwing 플랫폼을 채택해 미국 전국 규모의 지상 5G 네트워크를 구축하겠다고 발표했다. 2027년부터 착수해 다년간 수만 개 기지국 사이트에 배치하는 계획이다. 이번 뉴스는 단순한 칩 구매나 위성 증설이 아니다. 우리가 기존에 Starlink Direct-to-Cell(D2C)을 분석할 때 사용한 ‘지상망의 음영지역을 보완하는 위성망’이라는 틀에 SpaceX가 직접 운영할 지상 접속망이 추가됐다는 뜻이다. 그렇다고 이미 미국 전체 기지국을 확보했거나 6G·AI-RAN 도입을 확정했다는 의미는 아니다. 공식 확정, 언론 보도, 기업 로드맵, 필자의 추론을 구분해 살펴본다. ✅....... <img src="https://blogthumb.pstatic.net/MjAyNjExMDVfOTYg/MDAxNzkzODYwNTQ4OTgx.G9kStWJ27htlCuAiuw4XeIJU8AWHDtXGZbphJbpUjccg.uZz2SRZwZ9udX9Pi7yMi3D3JbBKGtbSph0QIv1FrYuog.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Thu, 05 Nov 2026 15:58:44 +0900</pubDate>
+                <pubDate>Thu, 05 Nov 2026 15:58:43 +0900</pubDate>
                 <tag><![CDATA[SpaceX,SPCX,Qualcomm,QCOM,RAN,D2C]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -501,7 +515,7 @@
 
             <item>
                 <author>4-fire</author>
-                <category><![CDATA[Series]]></category>
+                <category><![CDATA[연재]]></category>
                 <title><![CDATA[양자보안 심화 (3) — Zero Trust와 마이크로세그멘테이션]]></title>
                 <link><![CDATA[https://blog.naver.com/4-fire/224463866066?fromRss=true&trackingCode=rss]]></link>
                 <guid>https://blog.naver.com/4-fire/224463866066</guid>
@@ -521,7 +535,7 @@
                 <guid>https://blog.naver.com/4-fire/224464875535</guid>
                 
                 <description><![CDATA[✅ Superion 256에서 10K까지 IonQ의 새로운 Superion QPU는 EQC(Electronic Qubit Control)로 양자 게이트를 전자적으로 구동한다. 그렇다면 레이저와 광도파로는 더 이상 필요하지 않을까? 그렇지 않다. 양자 게이트를 제어하는 것과 이온을 냉각·초기화·판독하고 광자를 전달하는 것은 서로 다른 문제다. EQC가 전자를 담당하더라도 후자의 광학 기능은 남는다. SkyWater는 SP90에서 493nm·650nm·1762nm 파장의 SiN 광도파로 손실을 공개했다. 특히 493nm의 1.56dB/cm라는 수치는 눈에 띈다. 다만 이 수치가 Superion 256의 실제 게이트 충실도 저하를 의미하지는 않는다. 이 글은 공식 발표, 특허, 학술 실험, 계산에 기반한 시나리오를 구분....... <img src="https://blogthumb.pstatic.net/MjAyNjExMDRfMjMx/MDAxNzkzNzc2OTU4NjEx.PLhH6L0jmAeWSzNt8zHjjHG7A0djDoRqWkh7OCgDRM0g.41wsBWV_qL4fS8hIJtW-voP691rC61Y8FfRkR5GTGrEg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Wed, 04 Nov 2026 16:46:12 +0900</pubDate>
+                <pubDate>Wed, 04 Nov 2026 16:46:11 +0900</pubDate>
                 <tag><![CDATA[IonQ,SP90,광도파로,손실률]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -535,7 +549,7 @@
                 <guid>https://blog.naver.com/4-fire/224464700618</guid>
                 
                 <description><![CDATA[✅ 영연방 정상회의, FormationQ, 그리고 양자 산업의 경제적 기회 작성 기준: 2026년 11월 4일. CHOGM 2026 및 Commonwealth Business Forum(CBF) 공식 자료, Cambridge·King’s Foundation·IonQ 발표, 미국 SEC 신고서를 토대로 분석한다. 이 글은 ① 공식 확인 사실 ② 합리적인 사업 시나리오 ③ 계약 및 매출 미확인 사항을 구분한다. 행사가 끝나더라도 즉시 IonQ 계약이 체결된 것으로 해석해서는 안 된다. ✅ 1. CHOGM과 CBF는 무슨 행사인가? CHOGM(Commonwealth Heads of Government Meeting)은 영연방 56개 회원국이 2년마다 개최하는 정부수반회의다. 2026년 11월 1~4일 앤티가 바부다 세인트존스에서 열렸다. CBF(Commonwealth Busi....... <img src="https://blogthumb.pstatic.net/MjAyNjExMDRfNjYg/MDAxNzkzNzcwNTU0NjI3.S2WKCnx1OM9rapqM9NuYa6pvjM05gsjywpIcQ9yFK_wg.nOcmsZ2jErzOwG5sB4LlFd7ritoK8xOKmrdUJmvefgsg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Wed, 04 Nov 2026 14:31:10 +0900</pubDate>
+                <pubDate>Wed, 04 Nov 2026 14:31:09 +0900</pubDate>
                 <tag><![CDATA[IonQ,CHOGM,FormationQ,CBF]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -543,7 +557,7 @@
 
             <item>
                 <author>4-fire</author>
-                <category><![CDATA[Series]]></category>
+                <category><![CDATA[연재]]></category>
                 <title><![CDATA[양자보안 심화 (2) — AES 비밀키의 공유와 보호: USB·QKD·OTP·Hybrid PQC, HNDL과 키 관리]]></title>
                 <link><![CDATA[https://blog.naver.com/4-fire/224463838699?fromRss=true&trackingCode=rss]]></link>
                 <guid>https://blog.naver.com/4-fire/224463838699</guid>
@@ -557,7 +571,7 @@
 
             <item>
                 <author>4-fire</author>
-                <category><![CDATA[Series]]></category>
+                <category><![CDATA[연재]]></category>
                 <title><![CDATA[양자보안 심화 (1) — RSA·ECC·PQC·AES: 전자서명, 키 설정, 데이터 암호화와 양자 내성]]></title>
                 <link><![CDATA[https://blog.naver.com/4-fire/224462489845?fromRss=true&trackingCode=rss]]></link>
                 <guid>https://blog.naver.com/4-fire/224462489845</guid>
@@ -577,7 +591,7 @@
                 <guid>https://blog.naver.com/4-fire/224462391443</guid>
                 
                 <description><![CDATA[✅ AES·PQC·QKD와 키 관리 이야기 양자컴퓨터가 강력해지면 우리가 사용하는 암호는 언젠가 모두 무용지물이 될까요? 미래의 공격에 대비해 만든 PQC까지 깨질 수 있다면, 보안을 강화하는 일이 끝없는 반복처럼 느껴질 수 있습니다. 하지만 이 질문에는 먼저 알아야 할 구분이 있습니다. 데이터를 암호화하는 기술과, 그 데이터를 열 수 있는 비밀키를 안전하게 공유하는 기술은 서로 다릅니다. 이번 글에서는 복잡한 수학을 잠시 내려놓고, 자물쇠·열쇠·건물 출입통제라는 일상적인 비유로 양자 시대의 보안을 살펴보겠습니다. ✅ 1. AES는 자물쇠, RSA·PQC는 열쇠를 공유하는 방법입니다 중요한 문서를 금고에 넣는다고 생각해 보겠습니다. 금....... <img src="https://blogthumb.pstatic.net/MjAyNjExMDJfODAg/MDAxNzkzNjAwNDExNzk4.gegQ8PY8jnIqU94aMPytAfsLD9OS03L6hKRti1Hu7f0g.FwBXob8384ybatSeMyqmpif-wr9vUmWFn7TJDR1Y-TIg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Mon, 02 Nov 2026 16:19:27 +0900</pubDate>
+                <pubDate>Mon, 02 Nov 2026 16:19:26 +0900</pubDate>
                 <tag><![CDATA[AES,PQC,QKD,RSA]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -591,7 +605,7 @@
                 <guid>https://blog.naver.com/4-fire/224461209664</guid>
                 
                 <description><![CDATA[✅ PQC 탐지, CBOM, DPI, ERSPAN, Elisity 컨테이너 심층 분석 핵심 질문: 양자내성암호(PQC) 전환이 필요한 기업 자산을 찾으려면 네트워크 패킷을 수집해야 한다. Palo Alto Networks와 Zscaler는 자사 플랫폼을 통과하는 트래픽을 볼 수 있고, Forescout는 별도의 센서와 패킷 수집을 활용한다. 그렇다면 IonQ가 인수하기로 발표한 Elisity는 기존 스위치와 Virtual Edge(VE), ERSPAN만으로 탐지의 음영지역을 줄이면서 새로운 물리 하드웨어를 최소화할 수 있을까? 이번 글의 분석 범위: PQC 탐지 원리, TLS·SSH·VPN에서 실제로 식별할 수 있는 정보, SPAN/RSPAN/ERSPAN, Forescout·Palo Alto·Zscaler의 관측 범위, Elisity의 VEN·VE 구조, C....... <img src="https://blogthumb.pstatic.net/MjAyNjExMDFfMTMy/MDAxNzkzNTEwMjU2NDI1.-j-vLUHWDSOuv963JKDwh7AUTnjNOb3ORfzoDnDZF4Mg.91ExVD9pNheNVMoPpVcZ5YUTRgnA9CDGl5_d5WGewSog.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Sun, 01 Nov 2026 16:32:20 +0900</pubDate>
+                <pubDate>Sun, 01 Nov 2026 16:32:19 +0900</pubDate>
                 <tag><![CDATA[IonQ,QSPM,PQC,CBOM]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -619,7 +633,7 @@
                 <guid>https://blog.naver.com/4-fire/224460878662</guid>
                 
                 <description><![CDATA[✅ IonQ의 Elisity 인수 $1.3B는 비싼가? Forescout 26년 역사·7대 기술·QSPM으로 재평가 사모펀드가 약 16억 달러에 인수한 기업과 IonQ가 최대 13억 달러에 인수하려는 기업을 비교한다. 2026년 10월 12일 IonQ는 마이크로세그멘테이션 전문기업 Elisity를 최대 13억 달러에 인수하겠다고 발표했다. 양자컴퓨터 기업이 네트워크 보안기업을 인수한다는 사실도 흥미롭지만, 더 중요한 질문은 가격이다. Elisity의 기본 인수대가 최대 13억 달러는 과연 비싼 금액인가? 이를 검증하기 위해 Zero Networks, Ordr, Illumio, Akamai Guardicore, Forescout 등을 비교했다. 그 과정에서 Forescout라는 기업이 특별히 눈에 들어왔다. Forescout는 오래....... <img src="https://blogthumb.pstatic.net/MjAyNjExMDFfMTMz/MDAxNzkzNDk1MDE2OTAz.7Pxp4iGObiVITYwXKw_MNXGVvrMFvbSNj4-kXyZ7pg4g.dIW0yKMyGU8wfuAtQIPUwvBUyaahjwvjH91y0L-di_wg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Sun, 01 Nov 2026 10:05:36 +0900</pubDate>
+                <pubDate>Sun, 01 Nov 2026 10:05:35 +0900</pubDate>
                 <tag><![CDATA[IonQ,QSPM,PQC,Elisity,Forescout]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -633,7 +647,7 @@
                 <guid>https://blog.naver.com/4-fire/224459237269</guid>
                 
                 <description><![CDATA[✅ 광학 소재부터 웨이퍼 출하, OnRamp, 광학 손실까지 2026년 10월 27일 SkyWater는 SP90의 내부 기술과 OnRamp 프로그램을 소개했다. 이 발표는 단일 광도파로가 아니라, 서로 다른 양자 광학 소재들을 제조 가능한 통합 플랫폼으로 연결하려는 전략을 보여준다. 이 내용은 이미 Cisco Quantum Summit에서 소개되었지만, SkyWater에서 공식적으로 소개되었다. 이 글은 SP90과 SC250의 역할, 여섯 기술 모듈, LN·PPLN·TFLN·BTO·Diamond의 차이, 비선형 광학 원리, SkyWater와 Xanadu의 손실 지표, 웨이퍼 출하 및 OnRamp의 상용화 의미를 차례로 검증한다. 공식 확인 사실, 물리학적 설명, 필자의 해석, 아직 공개되지 않은 사항을 구분했다. ✅....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMzBfMjI2/MDAxNzkzMzQ3MTkxNjUz.41qoDI3KIQoBVpQODgLkXzkC9B4Y6wQg1AZdx5qpiDwg.hEMdSKV-qRPh5pgkVOgqVreXAE1wpjKg16hVZKOgxpYg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Fri, 30 Oct 2026 17:04:28 +0900</pubDate>
+                <pubDate>Fri, 30 Oct 2026 17:04:27 +0900</pubDate>
                 <tag><![CDATA[IonQ,SkyWater,SP90,TFLN]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -647,7 +661,7 @@
                 <guid>https://blog.naver.com/4-fire/224458689317</guid>
                 
                 <description><![CDATA[✅ IonQ는 왜 Elisity를 선택했을까? 지금까지 Elisity를 여러 차례 분석하면서 Zero Trust, 에이전트리스(Agentless) 마이크로세그멘테이션, IdentityGraph, Dynamic Policy Engine(DPE), AI Insights, 네트워크 스위치 집행 방식까지 하나씩 살펴보았습니다. 하지만 분석이 깊어질수록 새로운 의문이 생겼습니다. 이 기능들이 정말 Elisity만의 강점이라면, 비슷한 기능을 가진 ORDR, Zero Networks, Akamai Guardicore, Illumio, Armis, Forescout는 무엇이 다른가?라는 질문입니다. IonQ는 2026년 10월 12일 Elisity를 최대 13억 달러에 인수하는 확정계약을 발표했습니다. 기본 대가 11억 5천만 달러와 최대 1억 5천만 달러의 성과연동 대가....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMzBfMjcz/MDAxNzkzMzE4NjI1MzM5.VJDsXt6VTP7jYpS5B_N_LXbw6zGqFdHNo_0Fw6QrQZQg.yau4xvpfMNIz4NRdbawnFTz0myb8mj1cT9kW0ZfMfOog.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Fri, 30 Oct 2026 09:26:28 +0900</pubDate>
+                <pubDate>Fri, 30 Oct 2026 09:26:27 +0900</pubDate>
                 <tag><![CDATA[IonQ,Elisity]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -669,13 +683,13 @@
 
             <item>
                 <author>4-fire</author>
-                <category><![CDATA[News]]></category>
+                <category><![CDATA[뉴스]]></category>
                 <title><![CDATA[영국 Quantum Leap과 우주 양자 로드맵]]></title>
                 <link><![CDATA[https://blog.naver.com/4-fire/224457341737?fromRss=true&trackingCode=rss]]></link>
                 <guid>https://blog.naver.com/4-fire/224457341737</guid>
                 
                 <description><![CDATA[✅ £20억의 진실, 기술의 확장, 그리고 지연된 ProQure 2026년 3월 17일 영국 정부는 최대 £2 billion(20억 파운드)의 Quantum Leap 투자 패키지를 발표했다. 양자컴퓨터 공공조달, 양자 네트워킹, 양자 센싱·항법을 산업화하기 위한 계획이었다. 그리고 2026년 10월 27일에는 Quantum Technology Roadmap for Space가 발표됐다. 이번에는 위성 QKD, 우주용 원자시계, 양자센서, 미래 양자 네트워크가 등장했다. 그렇다면 10월에 별도의 £20억 우주 예산이 추가된 것일까? 아니면 기존 예산의 사용처가 달라진 것일까? 동시에 10월 1일부터 시작했어야 할 ProQure의 선정 결과는 왜 아직 공개되지 않았을까? 이번 글은 앞서 작성한 글을 바탕으로....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMjlfMjQ5/MDAxNzkzMjE5Nzc2NDc4.n_b4aAoDz27QRWV_ztS683lMhb_QYsKoFidfT1Aa03wg.95zjZsnJ8NRhp6nBlbxWUGlLalEcKipb6SjPVADlLlcg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Thu, 29 Oct 2026 06:04:07 +0900</pubDate>
+                <pubDate>Thu, 29 Oct 2026 06:04:06 +0900</pubDate>
                 <tag><![CDATA[영국,Quantum,Technology,Roadmap,Space]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
@@ -683,7 +697,7 @@
 
             <item>
                 <author>4-fire</author>
-                <category><![CDATA[News]]></category>
+                <category><![CDATA[뉴스]]></category>
                 <title><![CDATA[NIST PQC 전환 지침 최종 확정]]></title>
                 <link><![CDATA[https://blog.naver.com/4-fire/224457006220?fromRss=true&trackingCode=rss]]></link>
                 <guid>https://blog.naver.com/4-fire/224457006220</guid>
@@ -703,22 +717,8 @@
                 <guid>https://blog.naver.com/4-fire/224456705898</guid>
                 
                 <description><![CDATA[✅ 키 확립에서 실제 데이터 암호화까지 암호화 시스템을 평가하려면 세 단계를 분리해야 한다. 첫째 비밀키를 어떻게 확립하는가, 둘째 통신 상대를 어떻게 인증하는가, 셋째 실제 데이터를 어떤 알고리즘으로 암호화하는가다. 이 보고서는 Alice가 최초 비트열 10110010을 준비해 양자상태로 전송하는 BB84의 전 과정을 재구성한 다음, Eve의 정보량·최종 키 추출·OTP·AES-256-GCM과 PQC의 ML-KEM·ML-DSA를 동일한 보안 체계에서 분석한다. BB84의 Sifting, 오류 정정, Privacy Amplification을 거쳐 완성되는 비밀키와 ML-KEM의 공유 비밀은 생성 원리가 다르지만, 둘 모두 최종적으로 암호화 엔진의 대칭 세션키 재료가 될 수 있다. 양자내성....... <img src="https://blogthumb.pstatic.net/MjAyNjEwMjhfMjU5/MDAxNzkzMTY4NTAyMDc5.HhPqNCC8_kT9arAXVUXyY9tp66K_AkdIAzmVd7JxFpcg.JZHxIVuoy6S88bma-khW2aOLgzxLXwbfYRJdxhTYVVwg.PNG/image.png?type=s3" />]]></description>
-                <pubDate>Wed, 28 Oct 2026 15:24:23 +0900</pubDate>
+                <pubDate>Wed, 28 Oct 2026 15:24:22 +0900</pubDate>
                 <tag><![CDATA[BB84,QKD,PQC,대칭,비대칭,키확립]]></tag>
-                <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
-                <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
-            </item>
-
-            <item>
-                <author>4-fire</author>
-                <category><![CDATA[Q-Networking]]></category>
-                <title><![CDATA[QKD는 어떻게 비밀키를 공유할까요?]]></title>
-                <link><![CDATA[https://blog.naver.com/4-fire/224455866257?fromRss=true&trackingCode=rss]]></link>
-                <guid>https://blog.naver.com/4-fire/224455866257</guid>
-                <description><![CDATA[QKD 동작 원리를 설명하는 글을 작성중에 IonQ에서 공군 연구소(AFRL)로 부터 추가 연구비를 할당받았다는 새로운 발표를 했습니다. 그 발표의 핵심 중 하나가 바로 우주 공간에서 원격 얽힘 구현을 위한 PAT 시스템 연구입니다. 기존에도 이미 OCT가 상용화 되어 있지만, 이는 classical channel을 위한 것일 뿐 quantum channel을 위한 OCT는 아직 상용화 전입니다. ✅ Alice와 Bob의 비밀 암호표 이야기 양자컴퓨터가 발전하면 기존 암호가 모두 위험해질까요? QKD는 그 문제를 어떻게 해결할까요? 어려운 수식 대신 Alice와 Bob이 서로 같은 비밀 암호표를 만드는 이야기로 알아보겠습니다. Alice는 비밀 편지를 보내는 사람, Bob은 받는 사.......]]></description>
-                
-                <pubDate>Tue, 27 Oct 2026 21:29:39 +0900</pubDate>
-                <tag><![CDATA[QKD,BB84,KMS]]></tag>
                 <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
                 <activity:object-type>http://activitystrea.ms/schema/1.0/blog-entry</activity:object-type>
             </item>

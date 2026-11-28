@@ -1,6 +1,6 @@
 # Naver ↔ Substack Publishing Status
 
-_Automatically generated: 2026-11-28T07:50:41+00:00_
+_Automatically generated: 2026-11-28T17:33:51+00:00_
 
 Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed mapping in `substack_manifest.json`, it is shown as **❌ Missing**.
 
@@ -10,13 +10,14 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 | Scope | Naver posts | Published | Missing | Skip | Check |
 |---|---:|---:|---:|---:|---:|
-| All | 821 | 124 | 697 | 0 | 0 |
-| Recent 90 days (2026-08-30 → 2026-11-28) | 156 | 95 | 61 | 0 | 0 |
+| All | 822 | 124 | 698 | 0 | 0 |
+| Recent 90 days (2026-08-30 → 2026-11-28) | 157 | 95 | 62 | 0 | 0 |
 
 ## Recent 90 days
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-28 | [근육통의 이해 #01 – 어깨 뒤쪽이 아프다면? 소원근(Teres Minor)의 이해](posts/2026/2026-11-28-224496160303.md) | ❌ Missing | — | `224496160303` |
 | 2026-11-28 | [AI와 양자컴퓨팅이 발전할수록 강해지는 기업 – Synopsys(SNPS) 재분석](posts/2026/2026-11-28-224495834704.md) | ❌ Missing | — | `224495834704` |
 | 2026-11-27 | [지금 SpaceX(SPCX)에 투자한다면?](posts/2026/2026-11-27-224494994126.md) | ❌ Missing | — | `224494994126` |
 | 2026-11-27 | [IonQ는 왜 IDEMIA와 손잡았나?](posts/2026/2026-11-27-224494897401.md) | ✅ Published | [IonQ는 왜 IDEMIA와 손잡았나?](https://netcreat.substack.com/p/ionq-idemia) | `224494897401` |
@@ -176,10 +177,11 @@ Naver `index.json` is the source of truth. If a Naver `logNo` has no confirmed m
 
 ## Missing from Substack
 
-Total missing: **697**
+Total missing: **698**
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-28 | [근육통의 이해 #01 – 어깨 뒤쪽이 아프다면? 소원근(Teres Minor)의 이해](posts/2026/2026-11-28-224496160303.md) | ❌ Missing | — | `224496160303` |
 | 2026-11-28 | [AI와 양자컴퓨팅이 발전할수록 강해지는 기업 – Synopsys(SNPS) 재분석](posts/2026/2026-11-28-224495834704.md) | ❌ Missing | — | `224495834704` |
 | 2026-11-27 | [지금 SpaceX(SPCX)에 투자한다면?](posts/2026/2026-11-27-224494994126.md) | ❌ Missing | — | `224494994126` |
 | 2026-11-25 | [IonQ 워런트의 진짜 위험과 주주의 몫 (2)](posts/2026/2026-11-25-224491244916.md) | ❌ Missing | — | `224491244916` |
@@ -885,10 +887,11 @@ _Not calculated because the public sitemap fetch failed._
 ## Full Naver archive
 
 <details>
-<summary>Show all 821 Naver posts</summary>
+<summary>Show all 822 Naver posts</summary>
 
 | Naver date | Naver post | Status | Substack | logNo |
 |---|---|---|---|---|
+| 2026-11-28 | [근육통의 이해 #01 – 어깨 뒤쪽이 아프다면? 소원근(Teres Minor)의 이해](posts/2026/2026-11-28-224496160303.md) | ❌ Missing | — | `224496160303` |
 | 2026-11-28 | [AI와 양자컴퓨팅이 발전할수록 강해지는 기업 – Synopsys(SNPS) 재분석](posts/2026/2026-11-28-224495834704.md) | ❌ Missing | — | `224495834704` |
 | 2026-11-27 | [지금 SpaceX(SPCX)에 투자한다면?](posts/2026/2026-11-27-224494994126.md) | ❌ Missing | — | `224494994126` |
 | 2026-11-27 | [IonQ는 왜 IDEMIA와 손잡았나?](posts/2026/2026-11-27-224494897401.md) | ✅ Published | [IonQ는 왜 IDEMIA와 손잡았나?](https://netcreat.substack.com/p/ionq-idemia) | `224494897401` |
